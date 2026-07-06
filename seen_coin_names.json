@@ -1,0 +1,170 @@
+{
+  "cake": {
+    "mint": "Dj9etekWPNdETE3vCsw6xavtoRp9ekuwmF9cRRy4pump",
+    "first_seen": "2026-07-06T05:42:09.901478+00:00"
+  },
+  "mib": {
+    "mint": "7W77HDHH8h1mZGYfRyuyQnz6ENMzT2jYGB7nty3ppump",
+    "first_seen": "2026-07-06T05:42:11.572493+00:00"
+  },
+  "cheddar": {
+    "mint": "2GbiS2qmGvsvBdhUABcSZ77hR2Dd3S12G3o6xkM4C6fc",
+    "first_seen": "2026-07-06T05:42:13.210531+00:00"
+  },
+  "larp": {
+    "mint": "2tnvcxPDQbaFgPfJLdnWT854JwmJJ6wHGp8YKWEopump",
+    "first_seen": "2026-07-06T05:42:14.962554+00:00"
+  },
+  "bullcycle": {
+    "mint": "8wMzNcmv3azzu94tmPwoBSrHZBS51Zgg7k88UJE6pump",
+    "first_seen": "2026-07-06T05:42:16.688115+00:00"
+  },
+  "wk": {
+    "mint": "RunQZiz528KfadcLgqhSDceK2HdoD4EY6UiW86epump",
+    "first_seen": "2026-07-06T05:42:18.950609+00:00"
+  },
+  "bullmerica250": {
+    "mint": "7vLT9GmU7iH4JT2NBDRTejm1StqZocfSDqCzfMvzpump",
+    "first_seen": "2026-07-06T05:42:27.064145+00:00"
+  },
+  "rnt": {
+    "mint": "2fUFhZyd47Mapv9wcfXh5gnQwFXtqcYu9xAN4THBpump",
+    "first_seen": "2026-07-06T05:42:27.065225+00:00"
+  },
+  "aifruits": {
+    "mint": "6Bp9LWtyVXcEATi5nuquX5p1hPGUg1cVoUuXGN9Epump",
+    "first_seen": "2026-07-06T05:42:27.077759+00:00"
+  },
+  "car": {
+    "mint": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+    "first_seen": "2026-07-06T05:42:27.080765+00:00"
+  },
+  "cpx": {
+    "mint": "bS532krUcXBMNqXURPtGqYA7dhEsenYe2z9QKkcEASY",
+    "first_seen": "2026-07-06T05:42:27.081770+00:00"
+  },
+  "djt": {
+    "mint": "HRw8mqK8N3ASKFKJGMJpy4FodwR3GKvCFKPDQNqUNuEP",
+    "first_seen": "2026-07-06T05:42:27.084762+00:00"
+  },
+  "qst": {
+    "mint": "AUuCEHQ7sm2i5GmaHrpE961voWcTY8U6mgrkhcV7pump",
+    "first_seen": "2026-07-06T05:42:27.090133+00:00"
+  },
+  "astroid": {
+    "mint": "8NwtzwGm4CV8Hm4fJXR69ac1MxDYuSaN3A9HVyikpump",
+    "first_seen": "2026-07-06T05:42:27.092149+00:00"
+  },
+  "disclosure": {
+    "mint": "FpBhnZLzHjgPrc69vkimPtHCwN4xoeX3RUhDa3Bpump",
+    "first_seen": "2026-07-06T05:42:27.094147+00:00"
+  },
+  "fitgirl": {
+    "mint": "EgrWay6HeQV7VeZ6CiKuLaMJDESZa1woKuznhyTEpump",
+    "first_seen": "2026-07-06T05:42:27.098598+00:00"
+  },
+  "dapang": {
+    "mint": "CpP36fvZmbcDUH9tQihQZTcvH2ApwRzHh2pPojyWpump",
+    "first_seen": "2026-07-06T05:42:31.540399+00:00"
+  },
+  "duck": {
+    "mint": "236ziZWiNPWeNk8aNB7abJpv4A6vHNP2XpxHH9VUpump",
+    "first_seen": "2026-07-06T05:42:31.630241+00:00"
+  },
+  "ansem": {
+    "mint": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+    "first_seen": "2026-07-06T05:42:31.659353+00:00"
+  },
+  "dora": {
+    "mint": "3yhsQKMeFDo3FN5vxRZnEvvr9cN67aU9qwrMrpURgHVU",
+    "first_seen": "2026-07-06T05:42:31.698341+00:00"
+  },
+  "levi": {
+    "mint": "6baGyq4HLbUn93MQUGFqBktpXP8BRjpoxSsAap4ppump",
+    "first_seen": "2026-07-06T05:42:31.716301+00:00"
+  },
+  "manlet": {
+    "mint": "DdPrHYqM8Ueovnk9kAnAgoGhswkuaTqmxcoZzU3Zpump",
+    "first_seen": "2026-07-06T05:42:31.856740+00:00"
+  },
+  "bittopia": {
+    "mint": "FeL5uT3MVSR1wATsHN35baeTK1xgkY1ZiXdSUbRUHt2w",
+    "first_seen": "2026-07-06T05:42:31.857742+00:00"
+  },
+  "curb": {
+    "mint": "6UGNg119LV6YjSCQ5K6Z6jsLLLetpMJ1vPdhiU8qpump",
+    "first_seen": "2026-07-06T05:42:31.870262+00:00"
+  },
+  "ray": {
+    "mint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "first_seen": "2026-07-06T05:42:31.873264+00:00"
+  },
+  "dog": {
+    "mint": "9gAVAtdnsrniW3GCwsvDeRPf5eJDjtT9S5bu1j7tpump",
+    "first_seen": "2026-07-06T05:42:35.459325+00:00"
+  },
+  "bullish": {
+    "mint": "556jmshmtxDKs3iDzZzs1CCavf7VsoEVGZPqWhvBpump",
+    "first_seen": "2026-07-06T05:42:35.686340+00:00"
+  },
+  "catwif": {
+    "mint": "5pYB12kEhfhSFXJjZ7JtyqDpt6uUqhsF6iu6Ee9spump",
+    "first_seen": "2026-07-06T05:42:35.947974+00:00"
+  },
+  "0x": {
+    "mint": "CMx1EUTXhnUKYF5xYMCSkDmJfvRSD7a4iwayW1DVpump",
+    "first_seen": "2026-07-06T05:42:35.970630+00:00"
+  },
+  "babyansem": {
+    "mint": "DLvuaz18bKnh1hEaCZsZ5NgJi7wYFm5RvgZVA2M5pump",
+    "first_seen": "2026-07-06T05:42:36.080839+00:00"
+  },
+  "frog": {
+    "mint": "5XFYxNg16y2KmEZLARWCCktuiA5QGD8ihJXu5xHapump",
+    "first_seen": "2026-07-06T05:42:36.095855+00:00"
+  },
+  "bullbank": {
+    "mint": "BKTxYxj3ugjzsP5WTFh1suKHEfUn31nPb6gkpGhnpump",
+    "first_seen": "2026-07-06T05:42:36.135491+00:00"
+  },
+  "three": {
+    "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump",
+    "first_seen": "2026-07-06T05:42:36.142494+00:00"
+  },
+  "murad": {
+    "mint": "GbpARMvdpDpavgLJXzTSgWAcSta2FeEYfjAZZ91upump",
+    "first_seen": "2026-07-06T05:42:36.418016+00:00"
+  },
+  "acm": {
+    "mint": "4PRz3EwhbjrrX6YksMDuUzrXT51pr7CQtXNCravhpump",
+    "first_seen": "2026-07-06T05:42:38.900552+00:00"
+  },
+  "mensa": {
+    "mint": "CFPkPq1eYPR8GLzEo59wUbbMioX4bshaTQiSGzTSpump",
+    "first_seen": "2026-07-06T05:42:39.225204+00:00"
+  },
+  "zero": {
+    "mint": "EmcxFTNVDqyLHp11NvwvLZ4D7LKGbG9i7B8RF7dwpump",
+    "first_seen": "2026-07-06T05:42:40.019764+00:00"
+  },
+  "toly": {
+    "mint": "CvqxZzFZqDKSpD1bNSkwQ6j9stSCBVgQ9GT4tLdKpump",
+    "first_seen": "2026-07-06T05:42:40.221262+00:00"
+  },
+  "bullworld": {
+    "mint": "ChJqQSFK1JUPCaoGrtKM1Nm5k29ZdbHQ8kiVNuhppump",
+    "first_seen": "2026-07-06T05:42:40.537450+00:00"
+  },
+  "kins": {
+    "mint": "Tqj8yFmagrg7oorpQkVGYR52r96RFTamvWfth9bpump",
+    "first_seen": "2026-07-06T05:42:40.540465+00:00"
+  },
+  "troll": {
+    "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+    "first_seen": "2026-07-06T05:42:40.546620+00:00"
+  },
+  "world": {
+    "mint": "FMqh9mqR6drPZqqW6wPqLHxX4rqNDWGhYLaMfoaJpump",
+    "first_seen": "2026-07-06T05:42:40.574667+00:00"
+  }
+}

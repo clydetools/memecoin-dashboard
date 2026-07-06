@@ -49,11 +49,13 @@ from concurrent.futures import ThreadPoolExecutor
 
 from pumpfun_feed import PumpFunWatcher
 from trending_movers import get_trending_pools, get_trending_by_timeframe
-from dex_data import get_best_pair, format_pair_summary
+from dex_data import get_best_pair, format_pair_summary, social_presence
 from rugcheck import assess_rug_risk
 from chart_patterns import analyze_chart_shape, volume_liquidity_ratio_flag
 import watchlist as watchlist_store
 import accuracy_log
+import spam_filter
+import holder_history
 from memecoin_alerts import find_new_launch_alerts, find_mover_alerts, deliver_memecoin_alerts, format_memecoin_alert
 from config import (
     MEMECOIN_SCAN_WINDOW_SECONDS,
@@ -78,6 +80,14 @@ def build_full_assessment(launch_summary, source="unspecified"):
     mint = launch_summary["mint"]
     flags = list(launch_summary.get("flags", []))
 
+    copycat = spam_filter.check_and_register(launch_summary.get("symbol"), mint)
+    is_copycat = copycat is not None
+    if is_copycat:
+        flags.append(
+            f"Copycat spam: symbol already used by an earlier token ({copycat['original_mint']}, "
+            f"first seen {copycat['first_seen']}) — likely riding the original's name"
+        )
+
     pair = get_best_pair(mint)
     # DexScreener tracks pump.fun's bonding curve itself as a pair
     # (dexId "pumpfun") with $0 real liquidity — that's not a graduated
@@ -93,7 +103,16 @@ def build_full_assessment(launch_summary, source="unspecified"):
         if vl_flag:
             flags.append(vl_flag)
 
-    hard_fail = rug.get("high_risk", False) or any(
+        social = social_presence(pair)
+        if migrated and not social["has_socials"]:
+            flags.append("No website/social links found — common low-effort/spam signal")
+
+    if migrated and rug.get("top10_holder_pct") is not None:
+        trend = holder_history.record_and_get_trend(mint, rug["top10_holder_pct"])
+        if trend:
+            flags.append(trend)
+
+    hard_fail = rug.get("high_risk", False) or is_copycat or any(
         "insider bundle" in f.lower() or "dev bought" in f.lower()
         for f in launch_summary.get("flags", [])
     )
@@ -120,6 +139,11 @@ def build_full_assessment(launch_summary, source="unspecified"):
         "sells_h1": (txns.get("h1") or {}).get("sells"),
         "rug_available": rug.get("available"),
         "rug_score": rug.get("score"),
+        "lp_unlock_date": rug.get("lp_unlock_date"),
+        "creator_token_count": rug.get("creator_token_count", 0),
+        "insider_network_count": rug.get("insider_network_count", 0),
+        "has_socials": social_presence(pair)["has_socials"] if pair else None,
+        "is_copycat": is_copycat,
         "flags": flags,
         "high_risk": hard_fail,
     }
@@ -171,7 +195,7 @@ def format_assessment_compact(a, tf_change_pct=None, tf_volume_usd=None):
     top_flag = a["flags"][0] if a["flags"] else "no flags"
     return (
         f"[{verdict:5}] {a['symbol']:12} {change_str:>8}  vol {vol_str:>12}  "
-        f"— {top_flag}"
+        f"— {top_flag}  ({a['mint']})"
     )
 
 

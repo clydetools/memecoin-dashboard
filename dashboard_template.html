@@ -134,6 +134,11 @@
   td { padding: 0.6rem 0.9rem; vertical-align: top; }
   td.coin { font-family: var(--mono); font-weight: 600; white-space: nowrap; }
   td.coin .name { display: block; font-family: var(--sans); font-weight: 400; font-size: 0.74rem; color: var(--text-faint); }
+  td.coin .mint-link {
+    display: block; font-family: var(--mono); font-weight: 400; font-size: 0.68rem;
+    color: var(--accent-dim); text-decoration: none; margin-top: 0.15rem;
+  }
+  td.coin .mint-link:hover { color: var(--accent); text-decoration: underline; }
   .pill { display: inline-flex; align-items: center; font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.05em; padding: 0.18rem 0.5rem; border-radius: 999px; font-weight: 600; }
   .pill.WATCH { background: var(--watch-bg); color: var(--watch-fg); }
   .pill.RISK { background: var(--risk-bg); color: var(--risk-fg); }
@@ -217,6 +222,12 @@
     return (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   }
 
+  function mintLink(mint) {
+    if (!mint) return "";
+    const short = mint.length > 10 ? mint.slice(0, 4) + "…" + mint.slice(-4) : mint;
+    return `<a class="mint-link" href="https://solscan.io/token/${encodeURIComponent(mint)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(mint)}">${escapeHtml(short)}</a>`;
+  }
+
   function rowMatches(row) {
     if (state.verdict !== "ALL" && row.verdict !== state.verdict) return false;
     if (state.query) {
@@ -297,7 +308,7 @@
                 ? `<tr class="empty-row"><td colspan="4">No new launches matched the filter (or none seen this run)</td></tr>`
                 : rows.map(r => `
                   <tr>
-                    <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span></td>
+                    <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span>${mintLink(r.mint)}</td>
                     <td><span class="pill ${r.verdict}">${r.verdict}</span></td>
                     <td><span class="pill status">${r.migrated ? "migrated" : "bonding curve"}</span></td>
                     <td class="flag">${escapeHtml(r.top_flag)}<span class="fc">${r.flag_count > 1 ? '+' + (r.flag_count - 1) + ' more' : ''}</span></td>
@@ -360,7 +371,7 @@
                 ? `<tr class="empty-row"><td colspan="5">No coins match the current filter</td></tr>`
                 : rows.map(r => `
                   <tr>
-                    <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span></td>
+                    <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span>${mintLink(r.mint)}</td>
                     <td><span class="pill ${r.verdict}">${r.verdict}</span></td>
                     <td class="change ${r.change_pct > 0 ? 'pos' : r.change_pct < 0 ? 'neg' : ''}">${fmtChange(r.change_pct)}</td>
                     <td class="volume">${fmtVolume(r.volume_usd)}</td>

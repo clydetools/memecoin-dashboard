@@ -127,6 +127,24 @@ MEMECOIN_ALERT_COOLDOWN_MINUTES = 60
 # Where memecoin alert cooldown state is persisted between runs.
 MEMECOIN_ALERT_STATE_FILE = "memecoin_alert_state.json"
 
+# Warn if an LP unlock date is within this many days (once unlocked, the
+# liquidity can be pulled — a lock expiring soon is a forward-looking risk).
+MEMECOIN_LP_UNLOCK_WARNING_DAYS = 14
+
+# --- Holder concentration trend tracking ---
+# Persists a small time series of top10_holder_pct per mint so we can
+# say whether concentration is rising (worse) or falling (more organic
+# distribution) over time, not just its current value.
+MEMECOIN_HOLDER_HISTORY_FILE = "holder_history.json"
+MEMECOIN_HOLDER_HISTORY_MAX_SNAPSHOTS = 20  # per mint, oldest dropped first
+MEMECOIN_HOLDER_TREND_MIN_PCT_DELTA = 5.0   # ignore noise smaller than this
+
+# --- Spam / copycat filter ---
+# Tracks every symbol seen before with its original mint address, so a
+# later coin reusing an already-seen symbol on a DIFFERENT mint (riding
+# a trending name) gets flagged as a likely copycat.
+MEMECOIN_NAME_REGISTRY_FILE = "seen_coin_names.json"
+
 # --- Accuracy tracking ---
 # Logs every rug-filter verdict with a price snapshot, so you can check
 # back later whether "worth watching" coins actually pumped, or whether

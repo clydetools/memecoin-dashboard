@@ -31,6 +31,21 @@ def get_best_pair(mint):
     return max(pairs, key=lambda p: (p.get("liquidity") or {}).get("usd", 0) or 0)
 
 
+def social_presence(pair):
+    """
+    Returns {"has_socials": bool, "websites": int, "socials": int} from
+    DexScreener's "info" field (populated for migrated tokens with a
+    filled-out pump.fun profile). No socials/website at all is a common
+    low-effort/spam signal.
+    """
+    if not pair:
+        return {"has_socials": False, "websites": 0, "socials": 0}
+    info = pair.get("info") or {}
+    websites = len(info.get("websites") or [])
+    socials = len(info.get("socials") or [])
+    return {"has_socials": (websites + socials) > 0, "websites": websites, "socials": socials}
+
+
 def format_pair_summary(pair):
     if not pair:
         return "No DEX pair found (likely still pre-migration on pump.fun's bonding curve)."

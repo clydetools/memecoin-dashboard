@@ -7,6 +7,7 @@ Free public API, no key required for report lookups.
 """
 
 import sys
+from datetime import datetime, timezone
 import requests
 
 from config import (
@@ -14,6 +15,7 @@ from config import (
     MEMECOIN_MIN_LP_LOCKED_PCT,
     MEMECOIN_MAX_TOP10_HOLDER_PCT,
     MEMECOIN_DEV_HOLDING_PCT_THRESHOLD,
+    MEMECOIN_LP_UNLOCK_WARNING_DAYS,
 )
 
 
@@ -41,6 +43,47 @@ def _top_holder_pct(report, n=10):
     holders = report.get("topHolders") or []
     non_insider = [h for h in holders if not h.get("insider")]
     return sum(h.get("pct", 0) for h in non_insider[:n])
+
+
+def _lp_unlock_status(report):
+    """
+    Looks at the highest-liquidity market's lock info. Returns a dict:
+      {"locked_pct": float, "unlock_date": iso str or None,
+       "unlocks_soon": bool}
+    unlock_date is None when unlockDate is 0 (RugCheck's convention for
+    "not applicable" — either nothing is locked, or it's locked with no
+    expiration, e.g. burned LP tokens).
+    """
+    markets = report.get("markets") or []
+    if not markets:
+        return {"locked_pct": 0.0, "unlock_date": None, "unlocks_soon": False}
+
+    best = max(markets, key=lambda m: (m.get("lp", {}).get("lpLockedPct", 0) or 0))
+    lp = best.get("lp") or {}
+    locked_pct = lp.get("lpLockedPct", 0) or 0
+    unlock_ts = lp.get("unlockDate") or 0
+
+    unlock_date = None
+    unlocks_soon = False
+    if unlock_ts > 0:
+        dt = datetime.fromtimestamp(unlock_ts, tz=timezone.utc)
+        unlock_date = dt.isoformat()
+        days_until = (dt - datetime.now(timezone.utc)).total_seconds() / 86400
+        unlocks_soon = 0 <= days_until <= MEMECOIN_LP_UNLOCK_WARNING_DAYS
+
+    return {"locked_pct": locked_pct, "unlock_date": unlock_date, "unlocks_soon": unlocks_soon}
+
+
+def _insider_network_info(report):
+    networks = report.get("insiderNetworks") or []
+    if not networks:
+        return {"count": 0, "largest_size": 0}
+    return {"count": len(networks), "largest_size": max(n.get("size", 0) for n in networks)}
+
+
+def _creator_token_count(report):
+    tokens = report.get("creatorTokens")
+    return len(tokens) if tokens else 0
 
 
 def assess_rug_risk(mint, migrated=True):
@@ -73,7 +116,11 @@ def assess_rug_risk(mint, migrated=True):
             "flags": ["Not yet indexed by RugCheck — too new to assess, treat as unknown risk"],
             "score": None,
             "lp_locked_pct": None,
+            "lp_unlock_date": None,
             "top10_holder_pct": None,
+            "creator_balance_pct": None,
+            "creator_token_count": 0,
+            "insider_network_count": 0,
             "mint_authority_active": None,
             "freeze_authority_active": None,
             "high_risk": False,
@@ -112,13 +159,30 @@ def assess_rug_risk(mint, migrated=True):
                 f"(threshold {MEMECOIN_DEV_HOLDING_PCT_THRESHOLD}%) — easy dump risk"
             )
 
+    lp_unlock = _lp_unlock_status(report)
+    if migrated and lp_unlock["unlocks_soon"]:
+        flags.append(
+            f"LP unlocks soon ({lp_unlock['unlock_date']}) — liquidity can be pulled once it does"
+        )
+
+    insider_net = _insider_network_info(report)
+    if insider_net["count"] > 0:
+        flags.append(
+            f"Insider wallet network detected: {insider_net['count']} cluster(s), "
+            f"largest {insider_net['largest_size']} linked wallets — coordinated, not organic"
+        )
+
+    creator_token_count = _creator_token_count(report)
+    if creator_token_count > 0:
+        flags.append(f"Creator has deployed {creator_token_count} other token(s) before")
+
     for risk in report.get("risks") or []:
         name = risk.get("name")
         if name and name not in " ".join(flags):
             flags.append(f"RugCheck flag: {name} (score {risk.get('score')})")
 
-    high_risk = mint_authority_active or freeze_authority_active or (
-        migrated and lp_locked_pct < MEMECOIN_MIN_LP_LOCKED_PCT
+    high_risk = mint_authority_active or freeze_authority_active or insider_net["count"] > 0 or (
+        migrated and (lp_locked_pct < MEMECOIN_MIN_LP_LOCKED_PCT or lp_unlock["unlocks_soon"])
     )
 
     return {
@@ -127,8 +191,11 @@ def assess_rug_risk(mint, migrated=True):
         "flags": flags,
         "score": report.get("score"),
         "lp_locked_pct": lp_locked_pct,
+        "lp_unlock_date": lp_unlock["unlock_date"],
         "top10_holder_pct": top10_pct,
         "creator_balance_pct": creator_balance_pct,
+        "creator_token_count": creator_token_count,
+        "insider_network_count": insider_net["count"],
         "mint_authority_active": mint_authority_active,
         "freeze_authority_active": freeze_authority_active,
         "high_risk": high_risk,
