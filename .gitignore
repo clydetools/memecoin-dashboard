@@ -2,6 +2,8 @@
 __pycache__/
 *.pyc
 memecoin_alert_state.json
+trigger_workflow.bat
+trigger_workflow.log
 
 # wrangler files
 .wrangler
