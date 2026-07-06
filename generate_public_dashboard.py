@@ -184,8 +184,12 @@ async def main():
     output = template.replace(MARKER, json.dumps(snapshot, ensure_ascii=False))
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(output)
+    # index.html is the actual page Cloudflare/GitHub Pages serve at the
+    # site root — keep it identical to dashboard.html on every run.
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(output)
 
-    print(f"Wrote {OUTPUT_FILE}: {len(new_launches)} new launches, "
+    print(f"Wrote {OUTPUT_FILE} + index.html: {len(new_launches)} new launches, "
           f"{sum(len(v) for v in movers.values())} mover rows, "
           f"{accuracy['total_checked']} accuracy re-checks.")
 
