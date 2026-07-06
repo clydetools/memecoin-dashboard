@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 memecoin_alert_state.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
