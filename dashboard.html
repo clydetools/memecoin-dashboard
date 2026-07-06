@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Memecoin Watch — Live Dashboard</title>
+<style>
+  :root {
+    --bg: #10121a;
+    --surface: #181b26;
+    --surface-2: #1f2330;
+    --border: #2b2f40;
+    --text: #e9e7e0;
+    --text-dim: #8b8fa0;
+    --text-faint: #5c6070;
+    --accent: #d3a153;
+    --accent-dim: #9c7a44;
+    --gain: #5ad1a0;
+    --loss: #f2645f;
+    --watch-bg: rgba(90, 209, 160, 0.12);
+    --watch-fg: #6fe0b3;
+    --risk-bg: rgba(242, 100, 95, 0.14);
+    --risk-fg: #f5847f;
+    --mono: ui-monospace, "Cascadia Code", "Consolas", "SF Mono", monospace;
+    --sans: -apple-system, "Segoe UI", system-ui, sans-serif;
+  }
+
+  :root[data-theme="light"] {
+    --bg: #f6f4ee; --surface: #ffffff; --surface-2: #f0ede4; --border: #ddd7c8;
+    --text: #201e19; --text-dim: #6b6659; --text-faint: #98937f;
+    --accent: #a97a34; --accent-dim: #c99a54;
+    --gain: #1f8f66; --loss: #c23b36;
+    --watch-bg: rgba(31, 143, 102, 0.1); --watch-fg: #17724f;
+    --risk-bg: rgba(194, 59, 54, 0.1); --risk-fg: #a92e2a;
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #f6f4ee; --surface: #ffffff; --surface-2: #f0ede4; --border: #ddd7c8;
+      --text: #201e19; --text-dim: #6b6659; --text-faint: #98937f;
+      --accent: #a97a34; --accent-dim: #c99a54;
+      --gain: #1f8f66; --loss: #c23b36;
+      --watch-bg: rgba(31, 143, 102, 0.1); --watch-fg: #17724f;
+      --risk-bg: rgba(194, 59, 54, 0.1); --risk-fg: #a92e2a;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--bg); color: var(--text); font-family: var(--sans);
+    margin: 0; padding: 2rem 1.25rem 4rem; min-height: 100vh;
+  }
+
+  .page { max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; gap: 2rem; }
+
+  header.top { display: flex; flex-direction: column; gap: 1rem; }
+  .title-row { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem 1rem; }
+  h1 { font-size: 1.6rem; font-weight: 650; letter-spacing: -0.01em; margin: 0; text-wrap: balance; }
+  h1 .accent { color: var(--accent); }
+  .meta { font-family: var(--mono); font-size: 0.78rem; color: var(--text-faint); }
+  .subtitle { color: var(--text-dim); font-size: 0.92rem; max-width: 68ch; line-height: 1.5; }
+
+  .controls { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: center; }
+  #search {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text);
+    border-radius: 7px; padding: 0.5rem 0.75rem; font-family: var(--sans); font-size: 0.85rem;
+    flex: 1 1 220px; min-width: 160px;
+  }
+  #search:focus { outline: 2px solid var(--accent-dim); outline-offset: 1px; }
+  .chip-filter { display: flex; gap: 0.4rem; }
+  .chip-btn {
+    font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.03em; text-transform: uppercase;
+    background: var(--surface); border: 1px solid var(--border); color: var(--text-dim);
+    padding: 0.42rem 0.7rem; border-radius: 999px; cursor: pointer;
+  }
+  .chip-btn:focus-visible { outline: 2px solid var(--accent-dim); outline-offset: 2px; }
+  .chip-btn[data-active="true"][data-kind="WATCH"] { background: var(--watch-bg); color: var(--watch-fg); border-color: transparent; }
+  .chip-btn[data-active="true"][data-kind="RISK"] { background: var(--risk-bg); color: var(--risk-fg); border-color: transparent; }
+  .chip-btn[data-active="true"][data-kind="ALL"] { background: var(--surface-2); color: var(--text); border-color: var(--accent-dim); }
+
+  .section-label {
+    font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; font-weight: 650;
+    color: var(--accent); margin: 0 0 0.75rem;
+  }
+
+  /* --- Market pulse strip --- */
+  .pulse-strip {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1px;
+    background: var(--border); border: 1px solid var(--border); border-radius: 10px; overflow: hidden;
+  }
+  .pulse-cell { background: var(--surface); padding: 0.9rem 1.1rem; }
+  .pulse-cell .label { font-family: var(--mono); font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-faint); }
+  .pulse-cell .value { font-family: var(--mono); font-size: 1.15rem; font-weight: 650; font-variant-numeric: tabular-nums; margin-top: 0.2rem; }
+  .pulse-cell .value.pos { color: var(--gain); }
+  .pulse-cell .value.neg { color: var(--loss); }
+
+  .pulse-lists { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 0.9rem; }
+  .pulse-list { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 0.8rem 1rem; }
+  .pulse-list h3 { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-faint); margin: 0 0 0.5rem; font-weight: 600; }
+  .pulse-row { display: flex; justify-content: space-between; font-family: var(--mono); font-size: 0.82rem; padding: 0.2rem 0; }
+  .pulse-row .sym { font-weight: 600; }
+
+  /* --- Stat cards (accuracy) --- */
+  .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; }
+  .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 1rem 1.1rem; }
+  .stat-card h3 { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-dim); margin: 0 0 0.7rem; font-weight: 650; }
+  .stat-row { display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem; padding: 0.25rem 0; }
+  .stat-row .dot { display: inline-block; width: 0.55em; height: 0.55em; border-radius: 50%; margin-right: 0.5em; }
+  .dot.pumped { background: var(--gain); }
+  .dot.rugged { background: var(--loss); }
+  .dot.flat { background: var(--text-faint); }
+  .stat-row .n { font-family: var(--mono); font-weight: 650; font-variant-numeric: tabular-nums; }
+  .stat-footnote { font-family: var(--mono); font-size: 0.7rem; color: var(--text-faint); margin-top: 0.6rem; }
+
+  /* --- Panels / tables (shared with movers + new launches) --- */
+  section.panel { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  .panel-head { display: flex; align-items: baseline; justify-content: space-between; padding: 0.85rem 1rem; border-bottom: 1px solid var(--border); background: var(--surface-2); }
+  .panel-head h2 { font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 650; margin: 0; color: var(--text); }
+  .panel-head .count { font-family: var(--mono); font-size: 0.75rem; color: var(--text-faint); }
+  .table-scroll { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  thead th {
+    text-align: left; font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--text-faint); font-weight: 500; padding: 0.55rem 0.9rem; border-bottom: 1px solid var(--border);
+    cursor: pointer; white-space: nowrap; user-select: none;
+  }
+  thead th:hover { color: var(--text-dim); }
+  thead th.sorted { color: var(--accent); }
+  thead th .arrow { display: inline-block; width: 0.8em; opacity: 0.7; }
+  tbody tr { border-bottom: 1px solid var(--border); }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover { background: var(--surface-2); }
+  td { padding: 0.6rem 0.9rem; vertical-align: top; }
+  td.coin { font-family: var(--mono); font-weight: 600; white-space: nowrap; }
+  td.coin .name { display: block; font-family: var(--sans); font-weight: 400; font-size: 0.74rem; color: var(--text-faint); }
+  .pill { display: inline-flex; align-items: center; font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.05em; padding: 0.18rem 0.5rem; border-radius: 999px; font-weight: 600; }
+  .pill.WATCH { background: var(--watch-bg); color: var(--watch-fg); }
+  .pill.RISK { background: var(--risk-bg); color: var(--risk-fg); }
+  .pill.status { background: var(--surface-2); color: var(--text-dim); }
+  td.change { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; font-weight: 600; }
+  td.change.pos { color: var(--gain); }
+  td.change.neg { color: var(--loss); }
+  td.change .arrow-glyph { display: inline-block; margin-right: 0.15em; }
+  td.volume { font-family: var(--mono); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; color: var(--text-dim); }
+  td.flag { color: var(--text-dim); font-size: 0.8rem; max-width: 340px; line-height: 1.4; }
+  td.flag .fc { font-family: var(--mono); font-size: 0.68rem; color: var(--text-faint); margin-left: 0.4em; }
+  .empty-row td { text-align: center; color: var(--text-faint); padding: 1.4rem; font-size: 0.85rem; }
+
+  footer { color: var(--text-faint); font-size: 0.74rem; font-family: var(--mono); text-align: center; padding-top: 0.5rem; }
+
+  @media (max-width: 560px) {
+    td.flag { display: none; }
+    thead th:last-child { display: none; }
+    .pulse-lists { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="top">
+    <div class="title-row">
+      <h1><span class="accent">MEMECOIN</span> WATCH</h1>
+      <span class="meta" id="snapshot-time"></span>
+    </div>
+    <p class="subtitle">
+      Live snapshot: new pump.fun launches, currently-trending movers by timeframe, and general market pulse —
+      all run through the rug filter (mint/freeze authority, LP lock, holder concentration, chart-pattern and
+      volume/liquidity checks). Regenerated automatically on a schedule.
+    </p>
+    <div class="controls">
+      <input id="search" type="text" placeholder="Filter by symbol or name…" autocomplete="off">
+      <div class="chip-filter" id="verdict-filter">
+        <button class="chip-btn" data-kind="ALL" data-active="true">All</button>
+        <button class="chip-btn" data-kind="WATCH" data-active="false">Watch</button>
+        <button class="chip-btn" data-kind="RISK" data-active="false">Risk</button>
+      </div>
+    </div>
+  </header>
+
+  <section id="market-pulse-section"></section>
+  <section id="new-launches-section"></section>
+  <main id="movers-panels"></main>
+  <section id="accuracy-section"></section>
+
+  <footer>read-only analysis — never places trades</footer>
+</div>
+
+<script>
+  const DATA = {"generated_at": "2026-07-06T02:01:40.876797+00:00", "market_pulse": {"total_mcap": 2284532258281.237, "mcap_change_24h": 1.0064202240415476, "btc_dominance": 55.777877228678854, "gainers_24h": [{"symbol": "LIT", "change_pct": 15.66778, "price": 2.54}, {"symbol": "UB", "change_pct": 11.99566, "price": 0.107353}, {"symbol": "PUMP", "change_pct": 7.84152, "price": 0.00165041}, {"symbol": "CAKE", "change_pct": 6.31178, "price": 1.46}, {"symbol": "XTZ", "change_pct": 6.16348, "price": 0.252488}], "losers_24h": [{"symbol": "TRUMP", "change_pct": -6.6692, "price": 1.69}, {"symbol": "币安人生", "change_pct": -3.55928, "price": 0.732384}, {"symbol": "PENDLE", "change_pct": -2.72397, "price": 1.41}, {"symbol": "AERO", "change_pct": -2.67071, "price": 0.567288}, {"symbol": "GRASS", "change_pct": -2.65594, "price": 0.504153}]}, "new_launches": [{"mint": "7FYTn3LAgmwW9xjj4rSQoW5sT3UfENPCcogvJCYzpump", "symbol": "PINKBULL", "name": "Blackpink Bull", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}, {"mint": "584HKbPGHQTGZXn6xLUMLaeVc9KJUMy9DRRNESqUpump", "symbol": "$KJN", "name": "King Jun Nonce", "verdict": "WATCH", "migrated": false, "top_flag": "RugCheck flag: Creator history of rugged tokens (score 7200)", "flag_count": 1}, {"mint": "CgM9EbBq6dsuSHzzjMzBahcgjst1XrY15cq12Md1NUyu", "symbol": "JUDE", "name": "HEY JUDE", "verdict": "RISK", "migrated": false, "top_flag": "Dev bought 14.3% of the bonding curve's virtual reserve at launch (threshold 8.0%)", "flag_count": 1}, {"mint": "FnGNjsBs4HxqKUsqEqHqJfLSE6q8EMmLxgfhYdAepump", "symbol": "QUAY", "name": "Quay Markets", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}, {"mint": "BcUuymAn1NNbqpF8wWdV672dF9eeHEuJjMftrAAqpump", "symbol": "MAYHEM", "name": "Hopes And Dreams", "verdict": "WATCH", "migrated": false, "top_flag": "RugCheck flag: Single holder ownership (score 4973)", "flag_count": 1}, {"mint": "7YjiWxSNZgpQFDrJyG9zK9a1eezDFSPWLhhp4C6eWvKz", "symbol": "HES#10?", "name": "hes #10?", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}, {"mint": "FBmvX1wnvWeeobLAthzVsL5BzTsBMWWXc1mJH4yZSNWQ", "symbol": "HES#10?", "name": "hes #10?", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}, {"mint": "S85jtgaWP2HtKDPXbVfWpyLfn8RjsLLDP7XmLTRpump", "symbol": "YTSEM", "name": "The White Bull", "verdict": "WATCH", "migrated": false, "top_flag": "RugCheck flag: Single holder ownership (score 4944)", "flag_count": 1}, {"mint": "Attuikqg25Tmf9m6oRDtLpWiThPUD8eU6XTupsSaTiLT", "symbol": "JUDE", "name": "HEY JUDE", "verdict": "RISK", "migrated": false, "top_flag": "Dev bought 14.3% of the bonding curve's virtual reserve at launch (threshold 8.0%)", "flag_count": 1}, {"mint": "EHA7cCLi8H1GBiQb9qjMifX1yRsPnAtcPhmtEbbr3KfS", "symbol": "WTF", "name": "SAID ANSEM 500k+ TIMES", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}, {"mint": "9MW8hWzXYUJxb3QxcvkAn6cECiQYFsStHDeFwFWgpump", "symbol": "SAWIT", "name": "Sawit ", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}, {"mint": "GAHvdFxF1KQSdMv5QikJR8Mbc8ywsSVh4eEADEXQDk5M", "symbol": "WTF", "name": "SAID ANSEM 500k+ TIMES", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}, {"mint": "2JPoRgRvDeNt8LF9G3NgWaPHn7fjjD1ZBEWLCyK2pump", "symbol": "CABULL", "name": "Bull Inside Cabinet", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}, {"mint": "2nZ4rGe95iAxYtuzUSBtpZ1vZiXgEWD6dLyU8cgepump", "symbol": "WORLDCUP", "name": "World Cup", "verdict": "WATCH", "migrated": false, "top_flag": "RugCheck flag: Single holder ownership (score 5067)", "flag_count": 2}, {"mint": "BZWdrDDktpuMRhiJLFds16S6x211EcFj1ZUYQDu7pump", "symbol": "LOS", "name": "lospollostv", "verdict": "WATCH", "migrated": false, "top_flag": "RugCheck flag: Single holder ownership (score 4999)", "flag_count": 1}, {"mint": "3AKP7cf5aoUL9BajHCX833hxBgMQ4X5jzGG4zbz17RrC", "symbol": "WTF", "name": "SAID ANSEM 500k+ TIMES", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}, {"mint": "7hvE2jP1Vj4b2bvdbrM4QSnt8NaeGSswyCZ8idtDpump", "symbol": "STAYCOOL", "name": "STAY COOL", "verdict": "WATCH", "migrated": false, "top_flag": "RugCheck flag: Creator history of rugged tokens (score 120000)", "flag_count": 2}, {"mint": "CDuBCoEVNQyiqnDPfSFxM4VfgRVf4xUwPcExFRy1nxsU", "symbol": "FALCON", "name": "Falcon", "verdict": "RISK", "migrated": false, "top_flag": "Dev bought 24.8% of the bonding curve's virtual reserve at launch (threshold 8.0%)", "flag_count": 1}, {"mint": "HATZkwSdotWBzyFUKk3AAqAontkM5pRL9TqChZ1Vpump", "symbol": "GMC", "name": "Gold Money Coin", "verdict": "WATCH", "migrated": false, "top_flag": "No flags detected", "flag_count": 0}], "movers": {"5m": [{"mint": "7vLT9GmU7iH4JT2NBDRTejm1StqZocfSDqCzfMvzpump", "symbol": "Bullmerica250", "name": "Bullmerica250", "verdict": "RISK", "change_pct": 0.0, "volume_usd": 0.0, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 8, "migrated": true}, {"mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv", "symbol": "PENGU", "name": "PENGU", "verdict": "WATCH", "change_pct": -0.257, "volume_usd": 2287.8642856439, "top_flag": "Top 10 non-insider holders control 52.1% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "B6MtubZSVPqekiNBmPjFPWRnP1ee4BwCHkmWbsMRpump", "symbol": "公牛", "name": "公牛", "verdict": "WATCH", "change_pct": -8.689, "volume_usd": 19740.8106157621, "top_flag": "Bleed-after-pump: +406% on 24h now reversing -36% on 1h — looks like distribution, not a dip-buy", "flag_count": 2, "migrated": true}, {"mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "symbol": "three", "name": "three", "verdict": "WATCH", "change_pct": 0.744, "volume_usd": 582.2735692593, "top_flag": "Top 10 non-insider holders control 58.2% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "DdPrHYqM8Ueovnk9kAnAgoGhswkuaTqmxcoZzU3Zpump", "symbol": "manlet", "name": "manlet", "verdict": "WATCH", "change_pct": -2.697, "volume_usd": 4043.6510125217, "top_flag": "Top 10 non-insider holders control 93.8% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump", "symbol": "ANSEM", "name": "ANSEM", "verdict": "WATCH", "change_pct": 0.171, "volume_usd": 7509.8049223864, "top_flag": "Top 10 non-insider holders control 81.4% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "617BQ86GAUdAmGreHaER8Dab3nwzBd1qCGK9M4Lbpump", "symbol": "Motion", "name": "Motion", "verdict": "WATCH", "change_pct": -9.425, "volume_usd": 23699.490479381, "top_flag": "Top 10 non-insider holders control 71.6% (threshold 40.0%) — dump risk", "flag_count": 3, "migrated": true}, {"mint": "CggN6XvXJHjyHYUsyorktr6Q8vaipW2yvP8Wu6ZEbW4v", "symbol": "OUSD", "name": "OUSD", "verdict": "RISK", "change_pct": -2.036, "volume_usd": 1026546.7346148, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 5, "migrated": true}, {"mint": "HxHEDFzgywe8AJ6Sahy46DSPJ3dqfc6DyQapB65CjDXE", "symbol": "NOS", "name": "NOS", "verdict": "RISK", "change_pct": 0.691, "volume_usd": 773746.45263232, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 6, "migrated": true}, {"mint": "9X63jLoZQyYunay5CvdAoPo8ugkXA6VR8JhjntC92qQn", "symbol": "WorldCup", "name": "WorldCup", "verdict": "RISK", "change_pct": 6.829, "volume_usd": 459536.341159152, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 5, "migrated": true}, {"mint": "9QwhffR5j8FBDppTBAufGajP1Ut1T6jhSDoisWn4XSxn", "symbol": "VAR", "name": "VAR", "verdict": "RISK", "change_pct": 0.629, "volume_usd": 1921268.00565715, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 4, "migrated": true}, {"mint": "DTVbWNPvX4J124s76nxGP7kCLny8GqdN3hL15BGHqxZz", "symbol": "ANTH", "name": "ANTH", "verdict": "RISK", "change_pct": 3.419, "volume_usd": 964112.858029274, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 3, "migrated": true}, {"mint": "6PBabFPdCbV6ZqA5vWWxCTCMj5CeG1exRaU7r6xgbMiN", "symbol": "CRX", "name": "CRX", "verdict": "RISK", "change_pct": 4.606, "volume_usd": 1498898.65742484, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 8, "migrated": true}, {"mint": "CFPkPq1eYPR8GLzEo59wUbbMioX4bshaTQiSGzTSpump", "symbol": "MENSA", "name": "MENSA", "verdict": "WATCH", "change_pct": -1.659, "volume_usd": 12844.8524739839, "top_flag": "Top 10 non-insider holders control 83.9% (threshold 40.0%) — dump risk", "flag_count": 4, "migrated": true}, {"mint": "J44JSLPKi3ZVuvKRA3eRt9QYkcQBsQKxTHfHcq7iW5pR", "symbol": "Bepe", "name": "Bepe", "verdict": "RISK", "change_pct": 3.018, "volume_usd": 491586.151344182, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 4, "migrated": true}], "1h": [{"mint": "7vLT9GmU7iH4JT2NBDRTejm1StqZocfSDqCzfMvzpump", "symbol": "Bullmerica250", "name": "Bullmerica250", "verdict": "RISK", "change_pct": -0.524, "volume_usd": 14.4782566325, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 8, "migrated": true}, {"mint": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump", "symbol": "ANSEM", "name": "ANSEM", "verdict": "WATCH", "change_pct": -0.012, "volume_usd": 483205.207698187, "top_flag": "Top 10 non-insider holders control 81.4% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "DdPrHYqM8Ueovnk9kAnAgoGhswkuaTqmxcoZzU3Zpump", "symbol": "manlet", "name": "manlet", "verdict": "WATCH", "change_pct": 1.313, "volume_usd": 90181.0428268416, "top_flag": "Top 10 non-insider holders control 93.8% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "6PBabFPdCbV6ZqA5vWWxCTCMj5CeG1exRaU7r6xgbMiN", "symbol": "CRX", "name": "CRX", "verdict": "RISK", "change_pct": 39.914, "volume_usd": 14942107.1464376, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 8, "migrated": true}, {"mint": "6baGyq4HLbUn93MQUGFqBktpXP8BRjpoxSsAap4ppump", "symbol": "LEVI", "name": "LEVI", "verdict": "WATCH", "change_pct": 375.054, "volume_usd": 491735.23816014, "top_flag": "Top 10 non-insider holders control 88.0% (threshold 40.0%) — dump risk", "flag_count": 6, "migrated": true}, {"mint": "8oQEW25mcVzeWvcjkGup9ob3KafVMNdzAi8XXmmWpump", "symbol": "Fro", "name": "Fro", "verdict": "WATCH", "change_pct": 85.91, "volume_usd": 79756.4931478124, "top_flag": "Top 10 non-insider holders control 133.1% (threshold 40.0%) — dump risk", "flag_count": 4, "migrated": true}, {"mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "symbol": "three", "name": "three", "verdict": "WATCH", "change_pct": 0.113, "volume_usd": 3870.1273482365, "top_flag": "Top 10 non-insider holders control 58.2% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump", "symbol": "MANIFEST", "name": "MANIFEST", "verdict": "WATCH", "change_pct": 0.627, "volume_usd": 55652.8357758141, "top_flag": "Top 10 non-insider holders control 65.0% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "CMx1EUTXhnUKYF5xYMCSkDmJfvRSD7a4iwayW1DVpump", "symbol": "0x", "name": "0x", "verdict": "WATCH", "change_pct": 8.189, "volume_usd": 61223.7375360959, "top_flag": "Top 10 non-insider holders control 53.2% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "B6MtubZSVPqekiNBmPjFPWRnP1ee4BwCHkmWbsMRpump", "symbol": "公牛", "name": "公牛", "verdict": "WATCH", "change_pct": -34.74, "volume_usd": 198394.100299286, "top_flag": "Bleed-after-pump: +406% on 24h now reversing -36% on 1h — looks like distribution, not a dip-buy", "flag_count": 2, "migrated": true}, {"mint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R", "symbol": "RAY", "name": "RAY", "verdict": "WATCH", "change_pct": -0.665, "volume_usd": 148854.30266776, "top_flag": "Top 10 non-insider holders control 79.1% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "EmcxFTNVDqyLHp11NvwvLZ4D7LKGbG9i7B8RF7dwpump", "symbol": "ZERO", "name": "ZERO", "verdict": "WATCH", "change_pct": -5.887, "volume_usd": 22728.300870619, "top_flag": "Top 10 non-insider holders control 58.9% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "GbpARMvdpDpavgLJXzTSgWAcSta2FeEYfjAZZ91upump", "symbol": "MURAD", "name": "MURAD", "verdict": "WATCH", "change_pct": -25.068, "volume_usd": 57291.4343735457, "top_flag": "Top 10 non-insider holders control 89.7% (threshold 40.0%) — dump risk", "flag_count": 6, "migrated": true}, {"mint": "BcHEaaTCvycPwwsJ9yQTXdHP9X2gCLkznDbZ8VySpump", "symbol": "Jotchua", "name": "Jotchua", "verdict": "WATCH", "change_pct": -6.452, "volume_usd": 90553.7629550904, "top_flag": "Top 10 non-insider holders control 44.4% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "5UQNY2hk4fgaDYL8Cq2SgVZ97q7Uvb95aAuSG18dpump", "symbol": "ANIMEBULL", "name": "ANIMEBULL", "verdict": "WATCH", "change_pct": -39.319, "volume_usd": 244335.066346117, "top_flag": "Bleed-after-pump: +722% on 24h now reversing -25% on 1h — looks like distribution, not a dip-buy", "flag_count": 2, "migrated": true}], "6h": [{"mint": "7vLT9GmU7iH4JT2NBDRTejm1StqZocfSDqCzfMvzpump", "symbol": "Bullmerica250", "name": "Bullmerica250", "verdict": "RISK", "change_pct": -37.03, "volume_usd": 1132.6160800798, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 8, "migrated": true}, {"mint": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump", "symbol": "ANSEM", "name": "ANSEM", "verdict": "WATCH", "change_pct": 6.92, "volume_usd": 4954806.84469874, "top_flag": "Top 10 non-insider holders control 81.4% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "B6MtubZSVPqekiNBmPjFPWRnP1ee4BwCHkmWbsMRpump", "symbol": "公牛", "name": "公牛", "verdict": "WATCH", "change_pct": 29.325, "volume_usd": 1624631.97347005, "top_flag": "Bleed-after-pump: +406% on 24h now reversing -36% on 1h — looks like distribution, not a dip-buy", "flag_count": 2, "migrated": true}, {"mint": "DdPrHYqM8Ueovnk9kAnAgoGhswkuaTqmxcoZzU3Zpump", "symbol": "manlet", "name": "manlet", "verdict": "WATCH", "change_pct": -8.921, "volume_usd": 1115044.8834546, "top_flag": "Top 10 non-insider holders control 93.8% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "CMx1EUTXhnUKYF5xYMCSkDmJfvRSD7a4iwayW1DVpump", "symbol": "0x", "name": "0x", "verdict": "WATCH", "change_pct": -19.973, "volume_usd": 517338.299278541, "top_flag": "Top 10 non-insider holders control 53.2% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "EmcxFTNVDqyLHp11NvwvLZ4D7LKGbG9i7B8RF7dwpump", "symbol": "ZERO", "name": "ZERO", "verdict": "WATCH", "change_pct": -16.652, "volume_usd": 503647.86189732, "top_flag": "Top 10 non-insider holders control 58.9% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "GbpARMvdpDpavgLJXzTSgWAcSta2FeEYfjAZZ91upump", "symbol": "MURAD", "name": "MURAD", "verdict": "WATCH", "change_pct": 194.485, "volume_usd": 329022.456019801, "top_flag": "Top 10 non-insider holders control 89.7% (threshold 40.0%) — dump risk", "flag_count": 6, "migrated": true}, {"mint": "AzELrQhUrMfmhXRtqctGcgDE4NTyoQWWuX7cGmCRpump", "symbol": "POPSEM", "name": "POPSEM", "verdict": "WATCH", "change_pct": -79.384, "volume_usd": 770719.221293533, "top_flag": "Top 10 non-insider holders control 145.8% (threshold 40.0%) — dump risk", "flag_count": 4, "migrated": true}, {"mint": "CFPkPq1eYPR8GLzEo59wUbbMioX4bshaTQiSGzTSpump", "symbol": "MENSA", "name": "MENSA", "verdict": "WATCH", "change_pct": 55.681, "volume_usd": 1405927.31383981, "top_flag": "Top 10 non-insider holders control 83.9% (threshold 40.0%) — dump risk", "flag_count": 4, "migrated": true}, {"mint": "hrmvPdczhB6UxQ6bjhZTk6XN72ezJ1mSgiNKeYzTnor", "symbol": "NOR", "name": "NOR", "verdict": "WATCH", "change_pct": -96.711, "volume_usd": 166045.597281483, "top_flag": "Top 10 non-insider holders control 124.4% (threshold 40.0%) — dump risk", "flag_count": 3, "migrated": true}, {"mint": "2jz9E5JrEbxLg1RhU68aaSikDvpQurCEZz9BBF9rpump", "symbol": "PATTYICE", "name": "PATTYICE", "verdict": "WATCH", "change_pct": 40.244, "volume_usd": 264358.712743408, "top_flag": "Top 10 non-insider holders control 62.8% (threshold 40.0%) — dump risk", "flag_count": 4, "migrated": true}, {"mint": "BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump", "symbol": "MANIFEST", "name": "MANIFEST", "verdict": "WATCH", "change_pct": -2.632, "volume_usd": 353420.542490024, "top_flag": "Top 10 non-insider holders control 65.0% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "FMqh9mqR6drPZqqW6wPqLHxX4rqNDWGhYLaMfoaJpump", "symbol": "world", "name": "world", "verdict": "WATCH", "change_pct": -4.713, "volume_usd": 166128.89515191, "top_flag": "Top 10 non-insider holders control 50.1% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "symbol": "three", "name": "three", "verdict": "WATCH", "change_pct": -18.994, "volume_usd": 89448.5166847057, "top_flag": "Top 10 non-insider holders control 58.2% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "HJvNERycZQP6uL5qFEgr7AJLACtR2M38uhej6vSYpump", "symbol": "Silas", "name": "Silas", "verdict": "WATCH", "change_pct": 52.669, "volume_usd": 1665200.04801891, "top_flag": "Top 10 non-insider holders control 54.6% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}], "24h": [{"mint": "7vLT9GmU7iH4JT2NBDRTejm1StqZocfSDqCzfMvzpump", "symbol": "Bullmerica250", "name": "Bullmerica250", "verdict": "RISK", "change_pct": -99.839, "volume_usd": 2451636.94983031, "top_flag": "Only 0.0% of LP locked (threshold 50.0%) — liquidity can be pulled", "flag_count": 8, "migrated": true}, {"mint": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump", "symbol": "ANSEM", "name": "ANSEM", "verdict": "WATCH", "change_pct": 0.658, "volume_usd": 24513917.9072768, "top_flag": "Top 10 non-insider holders control 81.4% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "DdPrHYqM8Ueovnk9kAnAgoGhswkuaTqmxcoZzU3Zpump", "symbol": "manlet", "name": "manlet", "verdict": "WATCH", "change_pct": -18.935, "volume_usd": 7199821.44675692, "top_flag": "Top 10 non-insider holders control 93.8% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "CMx1EUTXhnUKYF5xYMCSkDmJfvRSD7a4iwayW1DVpump", "symbol": "0x", "name": "0x", "verdict": "WATCH", "change_pct": 637.339, "volume_usd": 3654646.89009412, "top_flag": "Top 10 non-insider holders control 53.2% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "CvqxZzFZqDKSpD1bNSkwQ6j9stSCBVgQ9GT4tLdKpump", "symbol": "TOLY", "name": "TOLY", "verdict": "WATCH", "change_pct": -5.008, "volume_usd": 3934753.04808039, "top_flag": "Top 10 non-insider holders control 80.4% (threshold 40.0%) — dump risk", "flag_count": 4, "migrated": true}, {"mint": "ChJqQSFK1JUPCaoGrtKM1Nm5k29ZdbHQ8kiVNuhppump", "symbol": "BullWorld", "name": "BullWorld", "verdict": "WATCH", "change_pct": -1.102, "volume_usd": 1589447.69374359, "top_flag": "Top 10 non-insider holders control 69.0% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "EmcxFTNVDqyLHp11NvwvLZ4D7LKGbG9i7B8RF7dwpump", "symbol": "ZERO", "name": "ZERO", "verdict": "WATCH", "change_pct": 51.559, "volume_usd": 2287948.44034702, "top_flag": "Top 10 non-insider holders control 58.9% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "B6MtubZSVPqekiNBmPjFPWRnP1ee4BwCHkmWbsMRpump", "symbol": "公牛", "name": "公牛", "verdict": "WATCH", "change_pct": 279.232, "volume_usd": 3193700.78263421, "top_flag": "Bleed-after-pump: +406% on 24h now reversing -36% on 1h — looks like distribution, not a dip-buy", "flag_count": 2, "migrated": true}, {"mint": "FMqh9mqR6drPZqqW6wPqLHxX4rqNDWGhYLaMfoaJpump", "symbol": "world", "name": "world", "verdict": "WATCH", "change_pct": 23.828, "volume_usd": 1109978.10327409, "top_flag": "Top 10 non-insider holders control 50.1% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "BcHEaaTCvycPwwsJ9yQTXdHP9X2gCLkznDbZ8VySpump", "symbol": "Jotchua", "name": "Jotchua", "verdict": "WATCH", "change_pct": -23.289, "volume_usd": 2454953.97077454, "top_flag": "Top 10 non-insider holders control 44.4% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "Bm5hU3iYP9syzZHte1Ubv5GjSkMjFsCqaVyWcBdpump", "symbol": "sultan", "name": "sultan", "verdict": "WATCH", "change_pct": -67.362, "volume_usd": 448732.708520005, "top_flag": "Top 10 non-insider holders control 71.2% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "4PRz3EwhbjrrX6YksMDuUzrXT51pr7CQtXNCravhpump", "symbol": "ACM", "name": "ACM", "verdict": "WATCH", "change_pct": 3717.993, "volume_usd": 4305515.55385923, "top_flag": "Top 10 non-insider holders control 134.9% (threshold 40.0%) — dump risk", "flag_count": 5, "migrated": true}, {"mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "symbol": "three", "name": "three", "verdict": "WATCH", "change_pct": 1.649, "volume_usd": 547108.08801497, "top_flag": "Top 10 non-insider holders control 58.2% (threshold 40.0%) — dump risk", "flag_count": 1, "migrated": true}, {"mint": "Tqj8yFmagrg7oorpQkVGYR52r96RFTamvWfth9bpump", "symbol": "KINS", "name": "KINS", "verdict": "WATCH", "change_pct": -10.18, "volume_usd": 832873.968764264, "top_flag": "Top 10 non-insider holders control 40.3% (threshold 40.0%) — dump risk", "flag_count": 2, "migrated": true}, {"mint": "D6sA8hKpreRfWEqLRo2fyx5UpmcHeEmGsQ1UndLWpump", "symbol": "COBRA", "name": "COBRA", "verdict": "WATCH", "change_pct": -12.252, "volume_usd": 3122990.02704842, "top_flag": "Top 10 non-insider holders control 79.4% (threshold 40.0%) — dump risk", "flag_count": 4, "migrated": true}]}, "accuracy": {"total_checked": 0, "total_logged": 41, "summary": {"worth_watching": {"pumped": 0, "rugged": 0, "flat": 0}, "filtered_out": {"pumped": 0, "rugged": 0, "flat": 0}}}};
+
+  const TF_LABELS = { "5m": "5 Minutes", "1h": "1 Hour", "6h": "6 Hours", "24h": "24 Hours" };
+  const state = { verdict: "ALL", query: "", sort: {} };
+
+  function fmtChange(v) {
+    if (v === null || v === undefined) return '<span class="arrow-glyph">•</span>n/a';
+    const arrow = v > 0 ? "▲" : v < 0 ? "▼" : "•";
+    return `<span class="arrow-glyph">${arrow}</span>${v > 0 ? "+" : ""}${v.toFixed(1)}%`;
+  }
+
+  function fmtVolume(v) {
+    if (v === null || v === undefined) return "n/a";
+    if (v >= 1e6) return "$" + (v / 1e6).toFixed(2) + "M";
+    if (v >= 1e3) return "$" + (v / 1e3).toFixed(1) + "K";
+    return "$" + v.toFixed(0);
+  }
+
+  function fmtBigUsd(v) {
+    if (v === null || v === undefined) return "n/a";
+    if (v >= 1e12) return "$" + (v / 1e12).toFixed(2) + "T";
+    if (v >= 1e9) return "$" + (v / 1e9).toFixed(2) + "B";
+    if (v >= 1e6) return "$" + (v / 1e6).toFixed(1) + "M";
+    return "$" + v.toFixed(0);
+  }
+
+  function escapeHtml(s) {
+    return (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  }
+
+  function rowMatches(row) {
+    if (state.verdict !== "ALL" && row.verdict !== state.verdict) return false;
+    if (state.query) {
+      const q = state.query.toLowerCase();
+      if (!row.symbol.toLowerCase().includes(q) && !row.name.toLowerCase().includes(q)) return false;
+    }
+    return true;
+  }
+
+  function sortRows(rows, key2) {
+    const s = state.sort[key2];
+    if (!s) return rows;
+    const dir = s.dir === "asc" ? 1 : -1;
+    return [...rows].sort((a, b) => {
+      let av = a[s.key], bv = b[s.key];
+      if (av === null || av === undefined) av = dir === 1 ? Infinity : -Infinity;
+      if (bv === null || bv === undefined) bv = dir === 1 ? Infinity : -Infinity;
+      if (typeof av === "string") { av = av.toLowerCase(); bv = bv.toLowerCase(); }
+      if (av < bv) return -1 * dir;
+      if (av > bv) return 1 * dir;
+      return 0;
+    });
+  }
+
+  // --- Market pulse ---
+  function renderMarketPulse() {
+    const mp = DATA.market_pulse;
+    const el = document.getElementById("market-pulse-section");
+    if (!mp) { el.innerHTML = ""; return; }
+
+    const mcapChangeClass = mp.mcap_change_24h > 0 ? "pos" : mp.mcap_change_24h < 0 ? "neg" : "";
+    const gainersHtml = (mp.gainers_24h || []).map(c =>
+      `<div class="pulse-row"><span class="sym">${escapeHtml(c.symbol)}</span><span class="pos">+${c.change_pct.toFixed(1)}%</span></div>`
+    ).join("") || '<div class="pulse-row">—</div>';
+    const losersHtml = (mp.losers_24h || []).map(c =>
+      `<div class="pulse-row"><span class="sym">${escapeHtml(c.symbol)}</span><span class="neg">${c.change_pct.toFixed(1)}%</span></div>`
+    ).join("") || '<div class="pulse-row">—</div>';
+
+    el.innerHTML = `
+      <div class="section-label">General Market Pulse</div>
+      <div class="pulse-strip">
+        <div class="pulse-cell"><div class="label">Total Mcap</div><div class="value">${fmtBigUsd(mp.total_mcap)}</div></div>
+        <div class="pulse-cell"><div class="label">24h Change</div><div class="value ${mcapChangeClass}">${mp.mcap_change_24h != null ? (mp.mcap_change_24h > 0 ? '+' : '') + mp.mcap_change_24h.toFixed(2) + '%' : 'n/a'}</div></div>
+        <div class="pulse-cell"><div class="label">BTC Dominance</div><div class="value">${mp.btc_dominance != null ? mp.btc_dominance.toFixed(1) + '%' : 'n/a'}</div></div>
+      </div>
+      <div class="pulse-lists">
+        <div class="pulse-list"><h3>Top Gainers (24h)</h3>${gainersHtml}</div>
+        <div class="pulse-list"><h3>Top Losers (24h)</h3>${losersHtml}</div>
+      </div>
+    `;
+  }
+
+  // --- New launches ---
+  function renderNewLaunches() {
+    const rows = sortRows((DATA.new_launches || []).filter(rowMatches), "new_launches");
+    const all = DATA.new_launches || [];
+    const el = document.getElementById("new-launches-section");
+
+    el.innerHTML = `
+      <div class="section-label">New Pump.fun Launches (last scan)</div>
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Fresh Launches</h2>
+          <span class="count">${rows.length} / ${all.length}</span>
+        </div>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th data-key2="new_launches" data-key="symbol">Coin</th>
+                <th data-key2="new_launches" data-key="verdict">Verdict</th>
+                <th>Status</th>
+                <th>Top Flag</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${rows.length === 0
+                ? `<tr class="empty-row"><td colspan="4">No new launches matched the filter (or none seen this run)</td></tr>`
+                : rows.map(r => `
+                  <tr>
+                    <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span></td>
+                    <td><span class="pill ${r.verdict}">${r.verdict}</span></td>
+                    <td><span class="pill status">${r.migrated ? "migrated" : "bonding curve"}</span></td>
+                    <td class="flag">${escapeHtml(r.top_flag)}<span class="fc">${r.flag_count > 1 ? '+' + (r.flag_count - 1) + ' more' : ''}</span></td>
+                  </tr>
+                `).join("")}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    `;
+
+    el.querySelectorAll("thead th[data-key]").forEach(th => {
+      th.addEventListener("click", () => {
+        const key2 = th.getAttribute("data-key2");
+        const key = th.getAttribute("data-key");
+        const current = state.sort[key2];
+        state.sort[key2] = (current && current.key === key)
+          ? { key, dir: current.dir === "asc" ? "desc" : "asc" }
+          : { key, dir: "desc" };
+        renderAll();
+      });
+    });
+  }
+
+  // --- Movers by timeframe ---
+  function renderMovers() {
+    const container = document.getElementById("movers-panels");
+    container.innerHTML = '<div class="section-label">Trending Movers</div>';
+
+    for (const tf of ["5m", "1h", "6h", "24h"]) {
+      const allRows = (DATA.movers && DATA.movers[tf]) || [];
+      const rows = sortRows(allRows.filter(rowMatches), tf);
+
+      const section = document.createElement("section");
+      section.className = "panel";
+      section.style.marginBottom = "1rem";
+
+      const sortState = state.sort[tf];
+      const arrowFor = (key) => sortState && sortState.key === key ? (sortState.dir === "asc" ? "↑" : "↓") : "";
+      const sortedClass = (key) => sortState && sortState.key === key ? "sorted" : "";
+
+      section.innerHTML = `
+        <div class="panel-head">
+          <h2>${TF_LABELS[tf]} Trending</h2>
+          <span class="count">${rows.length} / ${allRows.length}</span>
+        </div>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th data-key2="${tf}" data-key="symbol" class="${sortedClass('symbol')}">Coin <span class="arrow">${arrowFor('symbol')}</span></th>
+                <th data-key2="${tf}" data-key="verdict" class="${sortedClass('verdict')}">Verdict <span class="arrow">${arrowFor('verdict')}</span></th>
+                <th data-key2="${tf}" data-key="change_pct" class="${sortedClass('change_pct')}">Change <span class="arrow">${arrowFor('change_pct')}</span></th>
+                <th data-key2="${tf}" data-key="volume_usd" class="${sortedClass('volume_usd')}" style="text-align:right">Volume <span class="arrow">${arrowFor('volume_usd')}</span></th>
+                <th>Top Flag</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${rows.length === 0
+                ? `<tr class="empty-row"><td colspan="5">No coins match the current filter</td></tr>`
+                : rows.map(r => `
+                  <tr>
+                    <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span></td>
+                    <td><span class="pill ${r.verdict}">${r.verdict}</span></td>
+                    <td class="change ${r.change_pct > 0 ? 'pos' : r.change_pct < 0 ? 'neg' : ''}">${fmtChange(r.change_pct)}</td>
+                    <td class="volume">${fmtVolume(r.volume_usd)}</td>
+                    <td class="flag">${escapeHtml(r.top_flag)}<span class="fc">${r.flag_count > 1 ? '+' + (r.flag_count - 1) + ' more' : ''}</span></td>
+                  </tr>
+                `).join("")}
+            </tbody>
+          </table>
+        </div>
+      `;
+      container.appendChild(section);
+    }
+
+    container.querySelectorAll("thead th[data-key]").forEach(th => {
+      th.addEventListener("click", () => {
+        const key2 = th.getAttribute("data-key2");
+        const key = th.getAttribute("data-key");
+        const current = state.sort[key2];
+        state.sort[key2] = (current && current.key === key)
+          ? { key, dir: current.dir === "asc" ? "desc" : "asc" }
+          : { key, dir: "desc" };
+        renderAll();
+      });
+    });
+  }
+
+  // --- Accuracy stats ---
+  function renderAccuracy() {
+    const acc = DATA.accuracy;
+    const el = document.getElementById("accuracy-section");
+    if (!acc) { el.innerHTML = ""; return; }
+
+    const card = (title, s) => `
+      <div class="stat-card">
+        <h3>${title}</h3>
+        <div class="stat-row"><span><span class="dot pumped"></span>Pumped (50%+)</span><span class="n">${s.pumped}</span></div>
+        <div class="stat-row"><span><span class="dot rugged"></span>Rugged / crashed</span><span class="n">${s.rugged}</span></div>
+        <div class="stat-row"><span><span class="dot flat"></span>Flat / other</span><span class="n">${s.flat}</span></div>
+      </div>
+    `;
+
+    el.innerHTML = `
+      <div class="section-label">Rug-Filter Accuracy (rolling)</div>
+      <div class="stat-grid">
+        ${card("Worth Watching — did these pump?", acc.summary.worth_watching || { pumped: 0, rugged: 0, flat: 0 })}
+        ${card("Filtered Out — rug, or a missed winner?", acc.summary.filtered_out || { pumped: 0, rugged: 0, flat: 0 })}
+      </div>
+      <div class="stat-footnote">${acc.total_checked} coins re-checked this run · ${acc.total_logged} total verdicts logged all-time</div>
+    `;
+  }
+
+  function renderAll() {
+    renderMarketPulse();
+    renderNewLaunches();
+    renderMovers();
+    renderAccuracy();
+  }
+
+  document.getElementById("snapshot-time").textContent =
+    "generated " + new Date(DATA.generated_at || Date.now()).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+
+  document.getElementById("search").addEventListener("input", (e) => {
+    state.query = e.target.value.trim();
+    renderAll();
+  });
+
+  document.getElementById("verdict-filter").addEventListener("click", (e) => {
+    const btn = e.target.closest(".chip-btn");
+    if (!btn) return;
+    state.verdict = btn.getAttribute("data-kind");
+    document.querySelectorAll(".chip-btn").forEach(b => b.setAttribute("data-active", b === btn ? "true" : "false"));
+    renderAll();
+  });
+
+  renderAll();
+</script>
+</body>
+</html>

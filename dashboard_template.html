@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Memecoin Watch — Live Dashboard</title>
+<style>
+  :root {
+    --bg: #10121a;
+    --surface: #181b26;
+    --surface-2: #1f2330;
+    --border: #2b2f40;
+    --text: #e9e7e0;
+    --text-dim: #8b8fa0;
+    --text-faint: #5c6070;
+    --accent: #d3a153;
+    --accent-dim: #9c7a44;
+    --gain: #5ad1a0;
+    --loss: #f2645f;
+    --watch-bg: rgba(90, 209, 160, 0.12);
+    --watch-fg: #6fe0b3;
+    --risk-bg: rgba(242, 100, 95, 0.14);
+    --risk-fg: #f5847f;
+    --mono: ui-monospace, "Cascadia Code", "Consolas", "SF Mono", monospace;
+    --sans: -apple-system, "Segoe UI", system-ui, sans-serif;
+  }
+
+  :root[data-theme="light"] {
+    --bg: #f6f4ee; --surface: #ffffff; --surface-2: #f0ede4; --border: #ddd7c8;
+    --text: #201e19; --text-dim: #6b6659; --text-faint: #98937f;
+    --accent: #a97a34; --accent-dim: #c99a54;
+    --gain: #1f8f66; --loss: #c23b36;
+    --watch-bg: rgba(31, 143, 102, 0.1); --watch-fg: #17724f;
+    --risk-bg: rgba(194, 59, 54, 0.1); --risk-fg: #a92e2a;
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #f6f4ee; --surface: #ffffff; --surface-2: #f0ede4; --border: #ddd7c8;
+      --text: #201e19; --text-dim: #6b6659; --text-faint: #98937f;
+      --accent: #a97a34; --accent-dim: #c99a54;
+      --gain: #1f8f66; --loss: #c23b36;
+      --watch-bg: rgba(31, 143, 102, 0.1); --watch-fg: #17724f;
+      --risk-bg: rgba(194, 59, 54, 0.1); --risk-fg: #a92e2a;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--bg); color: var(--text); font-family: var(--sans);
+    margin: 0; padding: 2rem 1.25rem 4rem; min-height: 100vh;
+  }
+
+  .page { max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; gap: 2rem; }
+
+  header.top { display: flex; flex-direction: column; gap: 1rem; }
+  .title-row { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem 1rem; }
+  h1 { font-size: 1.6rem; font-weight: 650; letter-spacing: -0.01em; margin: 0; text-wrap: balance; }
+  h1 .accent { color: var(--accent); }
+  .meta { font-family: var(--mono); font-size: 0.78rem; color: var(--text-faint); }
+  .subtitle { color: var(--text-dim); font-size: 0.92rem; max-width: 68ch; line-height: 1.5; }
+
+  .controls { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: center; }
+  #search {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text);
+    border-radius: 7px; padding: 0.5rem 0.75rem; font-family: var(--sans); font-size: 0.85rem;
+    flex: 1 1 220px; min-width: 160px;
+  }
+  #search:focus { outline: 2px solid var(--accent-dim); outline-offset: 1px; }
+  .chip-filter { display: flex; gap: 0.4rem; }
+  .chip-btn {
+    font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.03em; text-transform: uppercase;
+    background: var(--surface); border: 1px solid var(--border); color: var(--text-dim);
+    padding: 0.42rem 0.7rem; border-radius: 999px; cursor: pointer;
+  }
+  .chip-btn:focus-visible { outline: 2px solid var(--accent-dim); outline-offset: 2px; }
+  .chip-btn[data-active="true"][data-kind="WATCH"] { background: var(--watch-bg); color: var(--watch-fg); border-color: transparent; }
+  .chip-btn[data-active="true"][data-kind="RISK"] { background: var(--risk-bg); color: var(--risk-fg); border-color: transparent; }
+  .chip-btn[data-active="true"][data-kind="ALL"] { background: var(--surface-2); color: var(--text); border-color: var(--accent-dim); }
+
+  .section-label {
+    font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; font-weight: 650;
+    color: var(--accent); margin: 0 0 0.75rem;
+  }
+
+  /* --- Market pulse strip --- */
+  .pulse-strip {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1px;
+    background: var(--border); border: 1px solid var(--border); border-radius: 10px; overflow: hidden;
+  }
+  .pulse-cell { background: var(--surface); padding: 0.9rem 1.1rem; }
+  .pulse-cell .label { font-family: var(--mono); font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-faint); }
+  .pulse-cell .value { font-family: var(--mono); font-size: 1.15rem; font-weight: 650; font-variant-numeric: tabular-nums; margin-top: 0.2rem; }
+  .pulse-cell .value.pos { color: var(--gain); }
+  .pulse-cell .value.neg { color: var(--loss); }
+
+  .pulse-lists { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 0.9rem; }
+  .pulse-list { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 0.8rem 1rem; }
+  .pulse-list h3 { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-faint); margin: 0 0 0.5rem; font-weight: 600; }
+  .pulse-row { display: flex; justify-content: space-between; font-family: var(--mono); font-size: 0.82rem; padding: 0.2rem 0; }
+  .pulse-row .sym { font-weight: 600; }
+
+  /* --- Stat cards (accuracy) --- */
+  .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; }
+  .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 1rem 1.1rem; }
+  .stat-card h3 { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-dim); margin: 0 0 0.7rem; font-weight: 650; }
+  .stat-row { display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem; padding: 0.25rem 0; }
+  .stat-row .dot { display: inline-block; width: 0.55em; height: 0.55em; border-radius: 50%; margin-right: 0.5em; }
+  .dot.pumped { background: var(--gain); }
+  .dot.rugged { background: var(--loss); }
+  .dot.flat { background: var(--text-faint); }
+  .stat-row .n { font-family: var(--mono); font-weight: 650; font-variant-numeric: tabular-nums; }
+  .stat-footnote { font-family: var(--mono); font-size: 0.7rem; color: var(--text-faint); margin-top: 0.6rem; }
+
+  /* --- Panels / tables (shared with movers + new launches) --- */
+  section.panel { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  .panel-head { display: flex; align-items: baseline; justify-content: space-between; padding: 0.85rem 1rem; border-bottom: 1px solid var(--border); background: var(--surface-2); }
+  .panel-head h2 { font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 650; margin: 0; color: var(--text); }
+  .panel-head .count { font-family: var(--mono); font-size: 0.75rem; color: var(--text-faint); }
+  .table-scroll { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  thead th {
+    text-align: left; font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--text-faint); font-weight: 500; padding: 0.55rem 0.9rem; border-bottom: 1px solid var(--border);
+    cursor: pointer; white-space: nowrap; user-select: none;
+  }
+  thead th:hover { color: var(--text-dim); }
+  thead th.sorted { color: var(--accent); }
+  thead th .arrow { display: inline-block; width: 0.8em; opacity: 0.7; }
+  tbody tr { border-bottom: 1px solid var(--border); }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover { background: var(--surface-2); }
+  td { padding: 0.6rem 0.9rem; vertical-align: top; }
+  td.coin { font-family: var(--mono); font-weight: 600; white-space: nowrap; }
+  td.coin .name { display: block; font-family: var(--sans); font-weight: 400; font-size: 0.74rem; color: var(--text-faint); }
+  .pill { display: inline-flex; align-items: center; font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.05em; padding: 0.18rem 0.5rem; border-radius: 999px; font-weight: 600; }
+  .pill.WATCH { background: var(--watch-bg); color: var(--watch-fg); }
+  .pill.RISK { background: var(--risk-bg); color: var(--risk-fg); }
+  .pill.status { background: var(--surface-2); color: var(--text-dim); }
+  td.change { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; font-weight: 600; }
+  td.change.pos { color: var(--gain); }
+  td.change.neg { color: var(--loss); }
+  td.change .arrow-glyph { display: inline-block; margin-right: 0.15em; }
+  td.volume { font-family: var(--mono); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; color: var(--text-dim); }
+  td.flag { color: var(--text-dim); font-size: 0.8rem; max-width: 340px; line-height: 1.4; }
+  td.flag .fc { font-family: var(--mono); font-size: 0.68rem; color: var(--text-faint); margin-left: 0.4em; }
+  .empty-row td { text-align: center; color: var(--text-faint); padding: 1.4rem; font-size: 0.85rem; }
+
+  footer { color: var(--text-faint); font-size: 0.74rem; font-family: var(--mono); text-align: center; padding-top: 0.5rem; }
+
+  @media (max-width: 560px) {
+    td.flag { display: none; }
+    thead th:last-child { display: none; }
+    .pulse-lists { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="top">
+    <div class="title-row">
+      <h1><span class="accent">MEMECOIN</span> WATCH</h1>
+      <span class="meta" id="snapshot-time"></span>
+    </div>
+    <p class="subtitle">
+      Live snapshot: new pump.fun launches, currently-trending movers by timeframe, and general market pulse —
+      all run through the rug filter (mint/freeze authority, LP lock, holder concentration, chart-pattern and
+      volume/liquidity checks). Regenerated automatically on a schedule.
+    </p>
+    <div class="controls">
+      <input id="search" type="text" placeholder="Filter by symbol or name…" autocomplete="off">
+      <div class="chip-filter" id="verdict-filter">
+        <button class="chip-btn" data-kind="ALL" data-active="true">All</button>
+        <button class="chip-btn" data-kind="WATCH" data-active="false">Watch</button>
+        <button class="chip-btn" data-kind="RISK" data-active="false">Risk</button>
+      </div>
+    </div>
+  </header>
+
+  <section id="market-pulse-section"></section>
+  <section id="new-launches-section"></section>
+  <main id="movers-panels"></main>
+  <section id="accuracy-section"></section>
+
+  <footer>read-only analysis — never places trades</footer>
+</div>
+
+<script>
+  const DATA = /*__MEMECOIN_DASHBOARD_DATA__*/{};
+
+  const TF_LABELS = { "5m": "5 Minutes", "1h": "1 Hour", "6h": "6 Hours", "24h": "24 Hours" };
+  const state = { verdict: "ALL", query: "", sort: {} };
+
+  function fmtChange(v) {
+    if (v === null || v === undefined) return '<span class="arrow-glyph">•</span>n/a';
+    const arrow = v > 0 ? "▲" : v < 0 ? "▼" : "•";
+    return `<span class="arrow-glyph">${arrow}</span>${v > 0 ? "+" : ""}${v.toFixed(1)}%`;
+  }
+
+  function fmtVolume(v) {
+    if (v === null || v === undefined) return "n/a";
+    if (v >= 1e6) return "$" + (v / 1e6).toFixed(2) + "M";
+    if (v >= 1e3) return "$" + (v / 1e3).toFixed(1) + "K";
+    return "$" + v.toFixed(0);
+  }
+
+  function fmtBigUsd(v) {
+    if (v === null || v === undefined) return "n/a";
+    if (v >= 1e12) return "$" + (v / 1e12).toFixed(2) + "T";
+    if (v >= 1e9) return "$" + (v / 1e9).toFixed(2) + "B";
+    if (v >= 1e6) return "$" + (v / 1e6).toFixed(1) + "M";
+    return "$" + v.toFixed(0);
+  }
+
+  function escapeHtml(s) {
+    return (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  }
+
+  function rowMatches(row) {
+    if (state.verdict !== "ALL" && row.verdict !== state.verdict) return false;
+    if (state.query) {
+      const q = state.query.toLowerCase();
+      if (!row.symbol.toLowerCase().includes(q) && !row.name.toLowerCase().includes(q)) return false;
+    }
+    return true;
+  }
+
+  function sortRows(rows, key2) {
+    const s = state.sort[key2];
+    if (!s) return rows;
+    const dir = s.dir === "asc" ? 1 : -1;
+    return [...rows].sort((a, b) => {
+      let av = a[s.key], bv = b[s.key];
+      if (av === null || av === undefined) av = dir === 1 ? Infinity : -Infinity;
+      if (bv === null || bv === undefined) bv = dir === 1 ? Infinity : -Infinity;
+      if (typeof av === "string") { av = av.toLowerCase(); bv = bv.toLowerCase(); }
+      if (av < bv) return -1 * dir;
+      if (av > bv) return 1 * dir;
+      return 0;
+    });
+  }
+
+  // --- Market pulse ---
+  function renderMarketPulse() {
+    const mp = DATA.market_pulse;
+    const el = document.getElementById("market-pulse-section");
+    if (!mp) { el.innerHTML = ""; return; }
+
+    const mcapChangeClass = mp.mcap_change_24h > 0 ? "pos" : mp.mcap_change_24h < 0 ? "neg" : "";
+    const gainersHtml = (mp.gainers_24h || []).map(c =>
+      `<div class="pulse-row"><span class="sym">${escapeHtml(c.symbol)}</span><span class="pos">+${c.change_pct.toFixed(1)}%</span></div>`
+    ).join("") || '<div class="pulse-row">—</div>';
+    const losersHtml = (mp.losers_24h || []).map(c =>
+      `<div class="pulse-row"><span class="sym">${escapeHtml(c.symbol)}</span><span class="neg">${c.change_pct.toFixed(1)}%</span></div>`
+    ).join("") || '<div class="pulse-row">—</div>';
+
+    el.innerHTML = `
+      <div class="section-label">General Market Pulse</div>
+      <div class="pulse-strip">
+        <div class="pulse-cell"><div class="label">Total Mcap</div><div class="value">${fmtBigUsd(mp.total_mcap)}</div></div>
+        <div class="pulse-cell"><div class="label">24h Change</div><div class="value ${mcapChangeClass}">${mp.mcap_change_24h != null ? (mp.mcap_change_24h > 0 ? '+' : '') + mp.mcap_change_24h.toFixed(2) + '%' : 'n/a'}</div></div>
+        <div class="pulse-cell"><div class="label">BTC Dominance</div><div class="value">${mp.btc_dominance != null ? mp.btc_dominance.toFixed(1) + '%' : 'n/a'}</div></div>
+      </div>
+      <div class="pulse-lists">
+        <div class="pulse-list"><h3>Top Gainers (24h)</h3>${gainersHtml}</div>
+        <div class="pulse-list"><h3>Top Losers (24h)</h3>${losersHtml}</div>
+      </div>
+    `;
+  }
+
+  // --- New launches ---
+  function renderNewLaunches() {
+    const rows = sortRows((DATA.new_launches || []).filter(rowMatches), "new_launches");
+    const all = DATA.new_launches || [];
+    const el = document.getElementById("new-launches-section");
+
+    el.innerHTML = `
+      <div class="section-label">New Pump.fun Launches (last scan)</div>
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Fresh Launches</h2>
+          <span class="count">${rows.length} / ${all.length}</span>
+        </div>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th data-key2="new_launches" data-key="symbol">Coin</th>
+                <th data-key2="new_launches" data-key="verdict">Verdict</th>
+                <th>Status</th>
+                <th>Top Flag</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${rows.length === 0
+                ? `<tr class="empty-row"><td colspan="4">No new launches matched the filter (or none seen this run)</td></tr>`
+                : rows.map(r => `
+                  <tr>
+                    <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span></td>
+                    <td><span class="pill ${r.verdict}">${r.verdict}</span></td>
+                    <td><span class="pill status">${r.migrated ? "migrated" : "bonding curve"}</span></td>
+                    <td class="flag">${escapeHtml(r.top_flag)}<span class="fc">${r.flag_count > 1 ? '+' + (r.flag_count - 1) + ' more' : ''}</span></td>
+                  </tr>
+                `).join("")}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    `;
+
+    el.querySelectorAll("thead th[data-key]").forEach(th => {
+      th.addEventListener("click", () => {
+        const key2 = th.getAttribute("data-key2");
+        const key = th.getAttribute("data-key");
+        const current = state.sort[key2];
+        state.sort[key2] = (current && current.key === key)
+          ? { key, dir: current.dir === "asc" ? "desc" : "asc" }
+          : { key, dir: "desc" };
+        renderAll();
+      });
+    });
+  }
+
+  // --- Movers by timeframe ---
+  function renderMovers() {
+    const container = document.getElementById("movers-panels");
+    container.innerHTML = '<div class="section-label">Trending Movers</div>';
+
+    for (const tf of ["5m", "1h", "6h", "24h"]) {
+      const allRows = (DATA.movers && DATA.movers[tf]) || [];
+      const rows = sortRows(allRows.filter(rowMatches), tf);
+
+      const section = document.createElement("section");
+      section.className = "panel";
+      section.style.marginBottom = "1rem";
+
+      const sortState = state.sort[tf];
+      const arrowFor = (key) => sortState && sortState.key === key ? (sortState.dir === "asc" ? "↑" : "↓") : "";
+      const sortedClass = (key) => sortState && sortState.key === key ? "sorted" : "";
+
+      section.innerHTML = `
+        <div class="panel-head">
+          <h2>${TF_LABELS[tf]} Trending</h2>
+          <span class="count">${rows.length} / ${allRows.length}</span>
+        </div>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th data-key2="${tf}" data-key="symbol" class="${sortedClass('symbol')}">Coin <span class="arrow">${arrowFor('symbol')}</span></th>
+                <th data-key2="${tf}" data-key="verdict" class="${sortedClass('verdict')}">Verdict <span class="arrow">${arrowFor('verdict')}</span></th>
+                <th data-key2="${tf}" data-key="change_pct" class="${sortedClass('change_pct')}">Change <span class="arrow">${arrowFor('change_pct')}</span></th>
+                <th data-key2="${tf}" data-key="volume_usd" class="${sortedClass('volume_usd')}" style="text-align:right">Volume <span class="arrow">${arrowFor('volume_usd')}</span></th>
+                <th>Top Flag</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${rows.length === 0
+                ? `<tr class="empty-row"><td colspan="5">No coins match the current filter</td></tr>`
+                : rows.map(r => `
+                  <tr>
+                    <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span></td>
+                    <td><span class="pill ${r.verdict}">${r.verdict}</span></td>
+                    <td class="change ${r.change_pct > 0 ? 'pos' : r.change_pct < 0 ? 'neg' : ''}">${fmtChange(r.change_pct)}</td>
+                    <td class="volume">${fmtVolume(r.volume_usd)}</td>
+                    <td class="flag">${escapeHtml(r.top_flag)}<span class="fc">${r.flag_count > 1 ? '+' + (r.flag_count - 1) + ' more' : ''}</span></td>
+                  </tr>
+                `).join("")}
+            </tbody>
+          </table>
+        </div>
+      `;
+      container.appendChild(section);
+    }
+
+    container.querySelectorAll("thead th[data-key]").forEach(th => {
+      th.addEventListener("click", () => {
+        const key2 = th.getAttribute("data-key2");
+        const key = th.getAttribute("data-key");
+        const current = state.sort[key2];
+        state.sort[key2] = (current && current.key === key)
+          ? { key, dir: current.dir === "asc" ? "desc" : "asc" }
+          : { key, dir: "desc" };
+        renderAll();
+      });
+    });
+  }
+
+  // --- Accuracy stats ---
+  function renderAccuracy() {
+    const acc = DATA.accuracy;
+    const el = document.getElementById("accuracy-section");
+    if (!acc) { el.innerHTML = ""; return; }
+
+    const card = (title, s) => `
+      <div class="stat-card">
+        <h3>${title}</h3>
+        <div class="stat-row"><span><span class="dot pumped"></span>Pumped (50%+)</span><span class="n">${s.pumped}</span></div>
+        <div class="stat-row"><span><span class="dot rugged"></span>Rugged / crashed</span><span class="n">${s.rugged}</span></div>
+        <div class="stat-row"><span><span class="dot flat"></span>Flat / other</span><span class="n">${s.flat}</span></div>
+      </div>
+    `;
+
+    el.innerHTML = `
+      <div class="section-label">Rug-Filter Accuracy (rolling)</div>
+      <div class="stat-grid">
+        ${card("Worth Watching — did these pump?", acc.summary.worth_watching || { pumped: 0, rugged: 0, flat: 0 })}
+        ${card("Filtered Out — rug, or a missed winner?", acc.summary.filtered_out || { pumped: 0, rugged: 0, flat: 0 })}
+      </div>
+      <div class="stat-footnote">${acc.total_checked} coins re-checked this run · ${acc.total_logged} total verdicts logged all-time</div>
+    `;
+  }
+
+  function renderAll() {
+    renderMarketPulse();
+    renderNewLaunches();
+    renderMovers();
+    renderAccuracy();
+  }
+
+  document.getElementById("snapshot-time").textContent =
+    "generated " + new Date(DATA.generated_at || Date.now()).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+
+  document.getElementById("search").addEventListener("input", (e) => {
+    state.query = e.target.value.trim();
+    renderAll();
+  });
+
+  document.getElementById("verdict-filter").addEventListener("click", (e) => {
+    const btn = e.target.closest(".chip-btn");
+    if (!btn) return;
+    state.verdict = btn.getAttribute("data-kind");
+    document.querySelectorAll(".chip-btn").forEach(b => b.setAttribute("data-active", b === btn ? "true" : "false"));
+    renderAll();
+  });
+
+  renderAll();
+</script>
+</body>
+</html>
