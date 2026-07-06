@@ -330,5 +330,49 @@
   "daddy": {
     "mint": "4Cnk9EPnW5ixfLZatCPJjDB1PUtcRpVVgTQukm9epump",
     "first_seen": "2026-07-06T07:30:03.427093+00:00"
+  },
+  "greencat": {
+    "mint": "EVWHwPCiS6RyCP9JrEKYEmFvyMAMgATSj1r5z1C8pump",
+    "first_seen": "2026-07-06T07:33:36.976749+00:00"
+  },
+  "wb2": {
+    "mint": "2guibVTSN6tPG2cqWpETbqTUTbhB6nkkSWgo6ysGpump",
+    "first_seen": "2026-07-06T07:33:37.506555+00:00"
+  },
+  "eye": {
+    "mint": "2t4pP887sXr6cds7zcWCebd4YzteeLv85FLM4N9Ppump",
+    "first_seen": "2026-07-06T07:33:38.014826+00:00"
+  },
+  "retbull": {
+    "mint": "6w4fRyR5hZqeg9Sw5yvnCqgAwvy4JujQPJisb2Zepump",
+    "first_seen": "2026-07-06T07:33:38.522557+00:00"
+  },
+  "telc": {
+    "mint": "HDGyLoFemgYa6W8WLFAnpCSCFfhWCLVKqMpTdBLepump",
+    "first_seen": "2026-07-06T07:33:39.018183+00:00"
+  },
+  "key": {
+    "mint": "GDwA24ktFKVh27zmPuq7HTFgjExWrHuxPRmAxQQGpump",
+    "first_seen": "2026-07-06T07:33:39.519125+00:00"
+  },
+  "paws": {
+    "mint": "93ttwQwW3rCLma7tMPbTBNgDFVJMPyjwSSdwNvCepump",
+    "first_seen": "2026-07-06T07:33:40.509416+00:00"
+  },
+  "hodl": {
+    "mint": "7prjKJyFKkmpageVT8SkgnnqG8JjzL3e3hd8xFZjggin",
+    "first_seen": "2026-07-06T07:33:41.003236+00:00"
+  },
+  "hachi": {
+    "mint": "x95HN3DWvbfCBtTjGm587z8suK3ec6cwQwgZNLbWKyp",
+    "first_seen": "2026-07-06T07:33:45.727208+00:00"
+  },
+  "tupid": {
+    "mint": "3G8zFxHAnuWXiiC9MobE9EUUqV6m6MjL51YnN6tGpump",
+    "first_seen": "2026-07-06T07:33:45.729196+00:00"
+  },
+  "act": {
+    "mint": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+    "first_seen": "2026-07-06T07:33:46.301296+00:00"
   }
 }
