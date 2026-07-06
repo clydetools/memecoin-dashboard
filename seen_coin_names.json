@@ -166,5 +166,73 @@
   "world": {
     "mint": "FMqh9mqR6drPZqqW6wPqLHxX4rqNDWGhYLaMfoaJpump",
     "first_seen": "2026-07-06T05:42:40.574667+00:00"
+  },
+  "winning": {
+    "mint": "6YKm2P5BeGSLMUzymyRHhQzYMXF2mSECCj82nmJfpump",
+    "first_seen": "2026-07-06T05:48:05.056830+00:00"
+  },
+  "bullseye": {
+    "mint": "Gghpt6R3s7N9SjPwKt7VjHieD8fkV9WqWN6Jq7Wdpump",
+    "first_seen": "2026-07-06T05:48:05.502361+00:00"
+  },
+  "ben": {
+    "mint": "6kkF3qSsNfNHr92Qd42KCPY6qEw7CfPKZXtYayNLpump",
+    "first_seen": "2026-07-06T05:48:06.199725+00:00"
+  },
+  "mnm": {
+    "mint": "9tdrbwAAo6AzsQuhfpPGXZGpfmAXsUzJw7eNRFeqpump",
+    "first_seen": "2026-07-06T05:48:07.179605+00:00"
+  },
+  "larpdog": {
+    "mint": "C1ZC1xC4Q2kextY63d4KsxXZBEF2nDMSr5cc9UHEpump",
+    "first_seen": "2026-07-06T05:48:07.525071+00:00"
+  },
+  "tendies": {
+    "mint": "9wZSaS5T4sc6k5SwRFcsheNrEP9cC1nGdBpSbJEWpump",
+    "first_seen": "2026-07-06T05:48:07.873052+00:00"
+  },
+  "alon": {
+    "mint": "2oipiYMYLxr1ZdTKZYnkqrU1u6Zv3boWXwvkaf3Apump",
+    "first_seen": "2026-07-06T05:48:08.205055+00:00"
+  },
+  "bullion": {
+    "mint": "FqPYgKGmGaygDDRLDfj591X54DvcdttVDZL5gQ5upump",
+    "first_seen": "2026-07-06T05:48:11.464774+00:00"
+  },
+  "lospollos": {
+    "mint": "CYzRNbTGrKdZVweAMH7zi9zBXPdwzjEPwdJMXaSCpump",
+    "first_seen": "2026-07-06T05:48:11.817448+00:00"
+  },
+  "son": {
+    "mint": "E65qNMLdfeyvdu44zZ6eTeb2wvrD9VuLszddBSezpump",
+    "first_seen": "2026-07-06T05:48:16.247294+00:00"
+  },
+  "tate": {
+    "mint": "CuGJf6cfDfMh4UxVgNJ5KFQ6v8Wv3qrqop6cFKsGpump",
+    "first_seen": "2026-07-06T05:48:16.250056+00:00"
+  },
+  "animebull": {
+    "mint": "5UQNY2hk4fgaDYL8Cq2SgVZ97q7Uvb95aAuSG18dpump",
+    "first_seen": "2026-07-06T05:48:16.251250+00:00"
+  },
+  "rtm": {
+    "mint": "3d1qHSAkQhoN7kN1C6tvpAArCkXWxwYdBng6taXCDM6u",
+    "first_seen": "2026-07-06T05:48:16.252823+00:00"
+  },
+  "joby": {
+    "mint": "4SnKwnz6DyagftnFqdxsvWvehrcbEDhxmmXNQk2Jpump",
+    "first_seen": "2026-07-06T05:48:16.256554+00:00"
+  },
+  "frogbull": {
+    "mint": "BDbNwA95183CdqUhx2P6R3fWXbefubVbx2wNnCp6pump",
+    "first_seen": "2026-07-06T05:48:16.258721+00:00"
+  },
+  "seman": {
+    "mint": "48oT2QgpyPFUiJYXbvZTS1tVDp98R9uYAJX5ojNrpump",
+    "first_seen": "2026-07-06T05:48:16.707388+00:00"
+  },
+  "clive": {
+    "mint": "HEU5mPDm5jCyn4AjQKjvWuvttACKvitgpAdwfmu2DoiA",
+    "first_seen": "2026-07-06T05:48:16.768369+00:00"
   }
 }
