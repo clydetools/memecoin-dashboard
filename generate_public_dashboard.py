@@ -72,6 +72,7 @@ async def gather_new_launches():
             "migrated": a["migrated"],
             "top_flag": a["flags"][0] if a["flags"] else "No flags detected",
             "flag_count": len(a["flags"]),
+            "all_flags": a["flags"],
         })
     return rows
 
@@ -101,6 +102,7 @@ def gather_movers_by_timeframe():
                 "volume_usd": p.get("volume_usd"),
                 "top_flag": a["flags"][0] if a["flags"] else "No flags detected",
                 "flag_count": len(a["flags"]),
+                "all_flags": a["flags"],
                 "migrated": a["migrated"],
             })
         out[d] = rows

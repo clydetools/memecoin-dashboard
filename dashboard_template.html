@@ -149,7 +149,13 @@
   td.change .arrow-glyph { display: inline-block; margin-right: 0.15em; }
   td.volume { font-family: var(--mono); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; color: var(--text-dim); }
   td.flag { color: var(--text-dim); font-size: 0.8rem; max-width: 340px; line-height: 1.4; }
-  td.flag .fc { font-family: var(--mono); font-size: 0.68rem; color: var(--text-faint); margin-left: 0.4em; }
+  td.flag .fc-toggle {
+    display: inline-block; font-family: var(--mono); font-size: 0.68rem; color: var(--accent-dim);
+    margin-left: 0.4em; cursor: pointer; text-decoration: underline; text-underline-offset: 2px;
+  }
+  td.flag .fc-toggle:hover { color: var(--accent); }
+  td.flag ul.flag-list { margin: 0 0 0.3rem; padding-left: 1.1rem; }
+  td.flag ul.flag-list li { margin-bottom: 0.2rem; }
   .empty-row td { text-align: center; color: var(--text-faint); padding: 1.4rem; font-size: 0.85rem; }
 
   footer { color: var(--text-faint); font-size: 0.74rem; font-family: var(--mono); text-align: center; padding-top: 0.5rem; }
@@ -195,7 +201,7 @@
   const DATA = /*__MEMECOIN_DASHBOARD_DATA__*/{};
 
   const TF_LABELS = { "5m": "5 Minutes", "1h": "1 Hour", "6h": "6 Hours", "24h": "24 Hours" };
-  const state = { verdict: "ALL", query: "", sort: {} };
+  const state = { verdict: "ALL", query: "", sort: {}, expanded: new Set() };
 
   function fmtChange(v) {
     if (v === null || v === undefined) return '<span class="arrow-glyph">•</span>n/a';
@@ -220,6 +226,29 @@
 
   function escapeHtml(s) {
     return (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  }
+
+  function renderFlagCell(r) {
+    const flags = r.all_flags && r.all_flags.length ? r.all_flags : [r.top_flag];
+    if (state.expanded.has(r.mint)) {
+      const items = flags.map(f => `<li>${escapeHtml(f)}</li>`).join("");
+      return `<ul class="flag-list">${items}</ul><span class="fc-toggle" data-mint="${escapeHtml(r.mint)}">show less</span>`;
+    }
+    const more = r.flag_count > 1
+      ? `<span class="fc-toggle" data-mint="${escapeHtml(r.mint)}">+${r.flag_count - 1} more</span>`
+      : "";
+    return `${escapeHtml(r.top_flag)}${more}`;
+  }
+
+  function bindFlagToggles(container) {
+    container.querySelectorAll(".fc-toggle").forEach(el => {
+      el.addEventListener("click", () => {
+        const mint = el.getAttribute("data-mint");
+        if (state.expanded.has(mint)) state.expanded.delete(mint);
+        else state.expanded.add(mint);
+        renderAll();
+      });
+    });
   }
 
   function mintLink(mint) {
@@ -311,7 +340,7 @@
                     <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span>${mintLink(r.mint)}</td>
                     <td><span class="pill ${r.verdict}">${r.verdict}</span></td>
                     <td><span class="pill status">${r.migrated ? "migrated" : "bonding curve"}</span></td>
-                    <td class="flag">${escapeHtml(r.top_flag)}<span class="fc">${r.flag_count > 1 ? '+' + (r.flag_count - 1) + ' more' : ''}</span></td>
+                    <td class="flag">${renderFlagCell(r)}</td>
                   </tr>
                 `).join("")}
             </tbody>
@@ -331,6 +360,7 @@
         renderAll();
       });
     });
+    bindFlagToggles(el);
   }
 
   // --- Movers by timeframe ---
@@ -375,7 +405,7 @@
                     <td><span class="pill ${r.verdict}">${r.verdict}</span></td>
                     <td class="change ${r.change_pct > 0 ? 'pos' : r.change_pct < 0 ? 'neg' : ''}">${fmtChange(r.change_pct)}</td>
                     <td class="volume">${fmtVolume(r.volume_usd)}</td>
-                    <td class="flag">${escapeHtml(r.top_flag)}<span class="fc">${r.flag_count > 1 ? '+' + (r.flag_count - 1) + ' more' : ''}</span></td>
+                    <td class="flag">${renderFlagCell(r)}</td>
                   </tr>
                 `).join("")}
             </tbody>
@@ -396,6 +426,7 @@
         renderAll();
       });
     });
+    bindFlagToggles(container);
   }
 
   // --- Accuracy stats ---
