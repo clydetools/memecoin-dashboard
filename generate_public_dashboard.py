@@ -64,6 +64,12 @@ async def gather_new_launches():
     assessments = [build_full_assessment(l, source="public_dashboard_new") for l in launches]
     rows = []
     for a in assessments:
+        # Copycats (symbol already used by an earlier mint) are dropped
+        # entirely from "just launched" rather than shown flagged — the
+        # section is meant to surface genuinely new coins, not clutter
+        # from every clone riding a trending name.
+        if a.get("is_copycat"):
+            continue
         rows.append({
             "mint": a["mint"],
             "symbol": a["symbol"],
@@ -99,7 +105,7 @@ def gather_movers_by_timeframe():
                 "name": a["name"],
                 "verdict": "RISK" if a["high_risk"] else "WATCH",
                 "change_pct": p.get("price_change_pct"),
-                "volume_usd": p.get("volume_usd"),
+                "market_cap": a.get("market_cap"),
                 "top_flag": a["flags"][0] if a["flags"] else "No flags detected",
                 "flag_count": len(a["flags"]),
                 "all_flags": a["flags"],

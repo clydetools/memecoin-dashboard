@@ -392,7 +392,7 @@
                 <th data-key2="${tf}" data-key="symbol" class="${sortedClass('symbol')}">Coin <span class="arrow">${arrowFor('symbol')}</span></th>
                 <th data-key2="${tf}" data-key="verdict" class="${sortedClass('verdict')}">Verdict <span class="arrow">${arrowFor('verdict')}</span></th>
                 <th data-key2="${tf}" data-key="change_pct" class="${sortedClass('change_pct')}">Change <span class="arrow">${arrowFor('change_pct')}</span></th>
-                <th data-key2="${tf}" data-key="volume_usd" class="${sortedClass('volume_usd')}" style="text-align:right">Volume <span class="arrow">${arrowFor('volume_usd')}</span></th>
+                <th data-key2="${tf}" data-key="market_cap" class="${sortedClass('market_cap')}" style="text-align:right">Market Cap <span class="arrow">${arrowFor('market_cap')}</span></th>
                 <th>Top Flag</th>
               </tr>
             </thead>
@@ -404,7 +404,7 @@
                     <td class="coin">${escapeHtml(r.symbol)}<span class="name">${escapeHtml(r.name)}</span>${mintLink(r.mint)}</td>
                     <td><span class="pill ${r.verdict}">${r.verdict}</span></td>
                     <td class="change ${r.change_pct > 0 ? 'pos' : r.change_pct < 0 ? 'neg' : ''}">${fmtChange(r.change_pct)}</td>
-                    <td class="volume">${fmtVolume(r.volume_usd)}</td>
+                    <td class="volume">${fmtBigUsd(r.market_cap)}</td>
                     <td class="flag">${renderFlagCell(r)}</td>
                   </tr>
                 `).join("")}

@@ -134,6 +134,7 @@ def build_full_assessment(launch_summary, source="unspecified"):
         "has_dex_data": pair is not None,
         "dex_summary": format_pair_summary(pair) if pair else None,
         "price_usd": price_usd,
+        "market_cap": (pair.get("marketCap") if pair else None),
         "price_change_pct": {tf: price_change.get(tf) for tf in ("m5", "h1", "h6", "h24")},
         "buys_h1": (txns.get("h1") or {}).get("buys"),
         "sells_h1": (txns.get("h1") or {}).get("sells"),

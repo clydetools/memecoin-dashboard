@@ -210,5 +210,69 @@
   "ansemd": {
     "mint": "5vE1yh9QGEgNhMGABZhQU93CXYaKzSEKr95AgU8Dpump",
     "first_seen": "2026-07-06T05:56:35.504931+00:00"
+  },
+  "goldcard": {
+    "mint": "V7DYvHtLg3FwDvK1uZziHRhFk6MyhjeuaKGUrhypump",
+    "first_seen": "2026-07-06T06:15:33.949648+00:00"
+  },
+  "quit": {
+    "mint": "6SG2ndq6hciN15HRH5SgGnHNsHRkCu77RKAbcEDapump",
+    "first_seen": "2026-07-06T06:15:35.656324+00:00"
+  },
+  "pepop": {
+    "mint": "96Srr9XCTtAHxC9TRmji1BS6o7RHeNdjy7wUXYNcpump",
+    "first_seen": "2026-07-06T06:15:37.389370+00:00"
+  },
+  "grouch": {
+    "mint": "6CpGK4zxzfwc8STPb4C83ziz95Cwegf3VxHMZsQnZdF9",
+    "first_seen": "2026-07-06T06:15:38.999139+00:00"
+  },
+  "neyd": {
+    "mint": "FP641iAdzpPbP7Chq3844yMZhhsXqVeQeW17HL21pump",
+    "first_seen": "2026-07-06T06:15:40.604754+00:00"
+  },
+  "joby": {
+    "mint": "4SnKwnz6DyagftnFqdxsvWvehrcbEDhxmmXNQk2Jpump",
+    "first_seen": "2026-07-06T06:15:48.839127+00:00"
+  },
+  "lot": {
+    "mint": "ByMzTYShp2mnswUBW2du1tgCUTDVw8DTheJH7jc5pump",
+    "first_seen": "2026-07-06T06:15:48.845079+00:00"
+  },
+  "pengu": {
+    "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "first_seen": "2026-07-06T06:15:48.852085+00:00"
+  },
+  "rtm": {
+    "mint": "EkhmDzrmsYVKr6Vdkvjj7VcDcwg1FXqx63dYJXbrQwqH",
+    "first_seen": "2026-07-06T06:15:48.855027+00:00"
+  },
+  "7rwdxbuxwmy2xchwrwpp4xyo2sargurrx4tgk6sjejxw": {
+    "mint": "7RWDxBuXWmy2xChWrwpp4XYo2sArGURrX4TGK6sJejXw",
+    "first_seen": "2026-07-06T06:15:48.858040+00:00"
+  },
+  "worldcup": {
+    "mint": "HGqVKavZT8gNewdyUsmZniaPXQuay14euxY8s4wXzPNH",
+    "first_seen": "2026-07-06T06:15:53.085029+00:00"
+  },
+  "nado": {
+    "mint": "5jycPAWLGHqV1NWWGneVhg2uMtt2jP2Wn641XMtd1oBy",
+    "first_seen": "2026-07-06T06:15:53.090036+00:00"
+  },
+  "normie": {
+    "mint": "J7PyDLuXjvMZbDgo21MG4XGLypRgHgiWz1snUAixxY1X",
+    "first_seen": "2026-07-06T06:15:53.129958+00:00"
+  },
+  "s": {
+    "mint": "FWbdv9yNdmTwbo3ZHnsTNEvFDGmwYpkwDCyBvaxfpump",
+    "first_seen": "2026-07-06T06:15:53.286856+00:00"
+  },
+  "cards": {
+    "mint": "CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp",
+    "first_seen": "2026-07-06T06:15:57.592836+00:00"
+  },
+  "animebull": {
+    "mint": "5UQNY2hk4fgaDYL8Cq2SgVZ97q7Uvb95aAuSG18dpump",
+    "first_seen": "2026-07-06T06:15:57.595835+00:00"
   }
 }
