@@ -1870,5 +1870,89 @@
   "chance": {
     "mint": "JCKwsT8UAbygnFkZ7u3amDUM7BXRtwUhCsHQv2khpump",
     "first_seen": "2026-07-07T19:40:22.687941+00:00"
+  },
+  "scan": {
+    "mint": "GqEa3rrqKCHuqAWU8aQaYwZJ4VHt9of2NP32Tmdwpump",
+    "first_seen": "2026-07-07T19:50:00.452650+00:00"
+  },
+  "100x": {
+    "mint": "BmMaqQyKysb2QHWiJw21xuGXNUFFuT49nGjFd5YEtxY9",
+    "first_seen": "2026-07-07T19:50:01.277261+00:00"
+  },
+  "fwogsem": {
+    "mint": "6Nqbt3oRTGrPZ1Vtvn5k2bgLfw61emtoBYjdyS28pump",
+    "first_seen": "2026-07-07T19:50:01.673325+00:00"
+  },
+  "valueless": {
+    "mint": "CC2B2UCTiJVCUJ6uvrbp1w2gwjFqbbvFTr2C5zYApump",
+    "first_seen": "2026-07-07T19:50:02.095749+00:00"
+  },
+  "adcoin": {
+    "mint": "CJpBzcMhKWzGXZH6fHUEGkxHa3zTP4vVUXrApJwXpump",
+    "first_seen": "2026-07-07T19:50:02.544618+00:00"
+  },
+  "bf": {
+    "mint": "23FPCY6PceX1KmKwmihxwmftwcUWjpCRMHYGZ8nKpump",
+    "first_seen": "2026-07-07T19:50:02.968316+00:00"
+  },
+  "need": {
+    "mint": "EYV18YxtdHvEkAiCPJUP6EHjprVeb8FBjGbekaRNpump",
+    "first_seen": "2026-07-07T19:50:03.350228+00:00"
+  },
+  "ansemkid": {
+    "mint": "hmHpLAkrUYW8qWrDCytiv1NsdWLMvXZDeqxs9kVpump",
+    "first_seen": "2026-07-07T19:50:03.740306+00:00"
+  },
+  "onboard": {
+    "mint": "FamCD5STF8AtUjA4o2GWa87wdiVL8oEdf2F8Nnrspump",
+    "first_seen": "2026-07-07T19:50:05.341733+00:00"
+  },
+  "b4": {
+    "mint": "58aWTv21TiVW7oZ5C1NcTqG8mL35oERw3VeAVSEnpump",
+    "first_seen": "2026-07-07T19:50:10.514191+00:00"
+  },
+  "moonthat": {
+    "mint": "5JJp1azd7ZgN7ersEEZxpaiFisQNwtyPZ8xrRKYHpump",
+    "first_seen": "2026-07-07T19:50:13.421628+00:00"
+  },
+  "clone": {
+    "mint": "H88Bo2o5Fdy93yZ9Q86b55dY3Y4gbs97f1xy4ybstVSL",
+    "first_seen": "2026-07-07T19:50:14.696873+00:00"
+  },
+  "805k": {
+    "mint": "4qm38bbF4MoDYuTDptzbSrrb5gvpSx9VjawMqtqVkm4t",
+    "first_seen": "2026-07-07T19:50:15.077143+00:00"
+  },
+  "sortetyr": {
+    "mint": "iL12WFhLoybi8ocN81ATzTi3WQzphjv1GH1hbJ5pump",
+    "first_seen": "2026-07-07T19:50:15.450552+00:00"
+  },
+  "adog": {
+    "mint": "4RAsA8LTP6bBNeQG8N4Pn1jtgzxTyMnZnKC82byupump",
+    "first_seen": "2026-07-07T19:50:15.881942+00:00"
+  },
+  "c4c": {
+    "mint": "6wJMj699GXTivKMroFAp9yEMzAjdnA98F855FAmApump",
+    "first_seen": "2026-07-07T19:50:16.669221+00:00"
+  },
+  "africanbull": {
+    "mint": "zDuWD5oFNKxpNWaHAhns9H98RE2SvCstUFbFcKrLUbY",
+    "first_seen": "2026-07-07T19:50:20.991116+00:00"
+  },
+  "ghost": {
+    "mint": "BBKPiLM9KjdJW7oQSKt99RVWcZdhF6sEHRKnwqeBGHST",
+    "first_seen": "2026-07-07T19:50:20.995633+00:00"
+  },
+  "tsunami": {
+    "mint": "7AuZpVnXtYZBYqp2oZ7DjA7BZLwbgWJDUk2SYpHppump",
+    "first_seen": "2026-07-07T19:50:21.005643+00:00"
+  },
+  "rex": {
+    "mint": "CmQJNJ185pjzQoebPbcqZu1kTykHxJbn4gER1Af7pump",
+    "first_seen": "2026-07-07T19:50:21.015071+00:00"
+  },
+  "usduc": {
+    "mint": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+    "first_seen": "2026-07-07T19:50:21.588059+00:00"
   }
 }
