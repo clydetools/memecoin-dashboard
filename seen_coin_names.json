@@ -2918,5 +2918,41 @@
   "crime": {
     "mint": "CzLt1JVFFstrTrcEEpGgqZz6RToSATzGERBwBCFjpump",
     "first_seen": "2026-07-07T23:00:03.711664+00:00"
+  },
+  "hedge": {
+    "mint": "E1YkXrWgrod9BrQd1dbuYP56cysWHEi9ecWaLjR7pump",
+    "first_seen": "2026-07-07T23:09:54.858385+00:00"
+  },
+  "xcat": {
+    "mint": "2kKqAYPnYaXmPfg96rUbdF1qpHKtVAGaBwEwktAnpump",
+    "first_seen": "2026-07-07T23:09:55.919341+00:00"
+  },
+  "treytardspt2": {
+    "mint": "2txHrN5Ras1i5brWykhL17wWCCBbHp4vMK74J3fBpump",
+    "first_seen": "2026-07-07T23:09:56.390634+00:00"
+  },
+  "hof": {
+    "mint": "47jkNuzUk1WVqf1GKnQWdGN7jkGM7xWxNePgSTERpump",
+    "first_seen": "2026-07-07T23:09:56.892943+00:00"
+  },
+  "dgs": {
+    "mint": "9tGsf3mFKPEQHiRmjoThybehFPp2WR9Q3M1Gw9twpump",
+    "first_seen": "2026-07-07T23:09:57.361413+00:00"
+  },
+  "muscular": {
+    "mint": "81n2FYe2PV9bbwExkqtRrG7BWC4iGerPfy39bDshpump",
+    "first_seen": "2026-07-07T23:09:57.896064+00:00"
+  },
+  "cuptable": {
+    "mint": "HuWgaYoHYEXRCtTxjWJ7ZeE9LtEiojxB3FhXk5A9pump",
+    "first_seen": "2026-07-07T23:09:58.339544+00:00"
+  },
+  "robin": {
+    "mint": "Lzq7KanE1wFcEgdBSibouR1d4bPKDXxNBCcbDBXbYsf",
+    "first_seen": "2026-07-07T23:09:59.744717+00:00"
+  },
+  "valor": {
+    "mint": "EqukVT1edM6v4VQVGjSZjvBPow3h9kQPscMuATBDJYqQ",
+    "first_seen": "2026-07-07T23:10:05.052854+00:00"
   }
 }
