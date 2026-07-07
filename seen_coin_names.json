@@ -718,5 +718,21 @@
   "alon": {
     "mint": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
     "first_seen": "2026-07-07T04:31:32.872482+00:00"
+  },
+  "turing": {
+    "mint": "9uqaNWZpttoYetuHrAhyxipqxgYTpTr9AQiv8k16pump",
+    "first_seen": "2026-07-07T04:39:57.920358+00:00"
+  },
+  "revenge": {
+    "mint": "HBKmnamsDdyjpYEPpuWt6y7PheNvhUAnmFCYQr8epump",
+    "first_seen": "2026-07-07T04:40:03.686493+00:00"
+  },
+  "96tsz8nczut2chy73huub6qryfs2h4rrr987cw92qkhc": {
+    "mint": "96TSZ8nCzut2ChY73HuuB6QRyfS2H4RRR987Cw92qkHC",
+    "first_seen": "2026-07-07T04:40:04.328315+00:00"
+  },
+  "testpack": {
+    "mint": "5bZEJTjh7gy16P4jUVkD1ALPdvVNMUG73VW4AyLHpump",
+    "first_seen": "2026-07-07T04:40:04.943796+00:00"
   }
 }
