@@ -1390,5 +1390,53 @@
   "myrk": {
     "mint": "ALidLUeSeFfc36381PZAXfAcbbAy3LyfczcPVRpkmyrk",
     "first_seen": "2026-07-07T18:10:16.221499+00:00"
+  },
+  "clawde": {
+    "mint": "7QtNMritQnJxccC8WmpUmogao5bbGxjM2ssVLdeFpump",
+    "first_seen": "2026-07-07T18:19:56.298305+00:00"
+  },
+  "roi": {
+    "mint": "E8z1HMaYaoFHNZBhmdFYFpSn1XVrsBoNyZwVAVay8be1",
+    "first_seen": "2026-07-07T18:19:56.879336+00:00"
+  },
+  "puck": {
+    "mint": "8SzcbKwKzKq8HFiCRErx2FzxL5WtQLyEtgdobTxZpump",
+    "first_seen": "2026-07-07T18:19:57.401308+00:00"
+  },
+  "wizard": {
+    "mint": "4qfKRapS9rEECm5YrQW31b9HZqarjeDNaSqdSCSEzpMu",
+    "first_seen": "2026-07-07T18:19:58.839730+00:00"
+  },
+  "bullion": {
+    "mint": "AvQCkVUMciMC1prZoSaAeootCneQWSbFrFdJq8Ezpump",
+    "first_seen": "2026-07-07T18:19:59.356785+00:00"
+  },
+  "burnie": {
+    "mint": "CGEDT9QZDvvH5GmVkWJH2BXiMJqMJySC9ihWyr7Spump",
+    "first_seen": "2026-07-07T18:20:04.704497+00:00"
+  },
+  "buttcoin": {
+    "mint": "Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump",
+    "first_seen": "2026-07-07T18:20:04.713079+00:00"
+  },
+  "tape": {
+    "mint": "7QXDpKoeEe9hJjiYTw6NmaAyyqX1KyBfvVXq3F24pump",
+    "first_seen": "2026-07-07T18:20:04.728120+00:00"
+  },
+  "xmr": {
+    "mint": "3bqi4G9JUKmYWbFhLTKmevWtVX35qs6ENUPjLuzNpSDz",
+    "first_seen": "2026-07-07T18:20:04.737462+00:00"
+  },
+  "gme": {
+    "mint": "8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB",
+    "first_seen": "2026-07-07T18:20:05.274021+00:00"
+  },
+  "pub": {
+    "mint": "HEpnawcnjTBKk1Vi5krT3S6C9waMJjp5g2rhJ2hYpump",
+    "first_seen": "2026-07-07T18:20:05.314762+00:00"
+  },
+  "hobbes": {
+    "mint": "6n7Janary9fqzxKaJVrhL9TG2F61VbAtwUMu1YZscaQS",
+    "first_seen": "2026-07-07T18:20:05.491889+00:00"
   }
 }
