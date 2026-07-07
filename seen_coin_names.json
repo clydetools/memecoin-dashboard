@@ -1954,5 +1954,57 @@
   "usduc": {
     "mint": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
     "first_seen": "2026-07-07T19:50:21.588059+00:00"
+  },
+  "mtc": {
+    "mint": "Ad5jdZSvGUPUkS5bLti6pRarPgT5WFH46utzg5ngpump",
+    "first_seen": "2026-07-07T19:59:53.183502+00:00"
+  },
+  "black": {
+    "mint": "jBRmLzhurKVr32U39FLBcBPycxi7GycDtWaCLMHpump",
+    "first_seen": "2026-07-07T19:59:53.519535+00:00"
+  },
+  "airdrop": {
+    "mint": "5PxmbtUSN23itpwTT1RUakEtMr4cTyzy769MQS6Apump",
+    "first_seen": "2026-07-07T19:59:55.284062+00:00"
+  },
+  "zeus": {
+    "mint": "BJy3hQGbap5D8TDWCQqVqi1id7CtpvE1c8XvLGuQpump",
+    "first_seen": "2026-07-07T19:59:55.617980+00:00"
+  },
+  "missclickrape": {
+    "mint": "7DmpKnZ87jXiJgqvyBUwia6RHsSEHh7ENE1GwU7NSN5C",
+    "first_seen": "2026-07-07T19:59:55.962557+00:00"
+  },
+  "speculate": {
+    "mint": "B138TK2FKBnM82oSaDu3a73nSJ7sXH6rAYUVjodpump",
+    "first_seen": "2026-07-07T19:59:57.279589+00:00"
+  },
+  "suiii": {
+    "mint": "AjBqNtua4RdJF6ryt5gbkQzxJeYbhJfESLmrxqvqpump",
+    "first_seen": "2026-07-07T19:59:58.685306+00:00"
+  },
+  "sagegirlx5": {
+    "mint": "5DCoZLVLxvTs5JGLVYhNRZwc3EWxrqZPqVYXLBoNpump",
+    "first_seen": "2026-07-07T19:59:59.014347+00:00"
+  },
+  "fantimeesi": {
+    "mint": "9iJGfXQ22tALT39aptD3ZWo3JdjUUutuXTvffFdBpump",
+    "first_seen": "2026-07-07T19:59:59.356774+00:00"
+  },
+  "buttberry": {
+    "mint": "jUSNuzEAEuNZSABr8i53DzFUGb6prGdXctwDXHzpump",
+    "first_seen": "2026-07-07T20:00:02.009064+00:00"
+  },
+  "apu": {
+    "mint": "24Kko3VWwMKtkB9CVct2ZAZgJzb2R2iNrYxCpTYFpump",
+    "first_seen": "2026-07-07T20:00:06.323095+00:00"
+  },
+  "deepfall": {
+    "mint": "14JqME3s2Xj17KMR1Gus8focJpjBoYTHwD1Be1z6pump",
+    "first_seen": "2026-07-07T20:00:06.835933+00:00"
+  },
+  "wsb": {
+    "mint": "8N1xPzwZtuRQSdRMnbjAjdd2tK9V8nF7Wrw8gGeLpump",
+    "first_seen": "2026-07-07T20:00:07.201376+00:00"
   }
 }
