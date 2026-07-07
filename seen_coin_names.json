@@ -2790,5 +2790,41 @@
   "sam": {
     "mint": "8GvK9okEY24NWm2tVxGUuhcrWuNL1NUZuyrSASmkpump",
     "first_seen": "2026-07-07T22:30:02.848925+00:00"
+  },
+  "picotheotar": {
+    "mint": "Bcpamzk8SeDkrfLSzGHenBa6kjVmKiMVzume4SvTpump",
+    "first_seen": "2026-07-07T22:39:13.027967+00:00"
+  },
+  "mmasem": {
+    "mint": "61FYn3AAWjisJBV4mQt9UQBbYRHDXpcH4WhfFrfwpump",
+    "first_seen": "2026-07-07T22:39:13.673350+00:00"
+  },
+  "it": {
+    "mint": "3iXEVbG2QoAFQWUAs8b3u44cUQqx6ZcWRKAs7cNNpump",
+    "first_seen": "2026-07-07T22:39:14.014515+00:00"
+  },
+  "tpc": {
+    "mint": "CgRGiZNvoxka6qUb8t28Exo3YzB9LvWj57vbPS6cpump",
+    "first_seen": "2026-07-07T22:39:14.726125+00:00"
+  },
+  "petrify": {
+    "mint": "8qFK5oFfF17B3XMg86G3Vsk13cSU2r7Qydu5zfGFpump",
+    "first_seen": "2026-07-07T22:39:17.975474+00:00"
+  },
+  "clarity": {
+    "mint": "9aKP9M3T4Fwy4Vv78A1gwVfFrRpHejrjKnZP18LRpump",
+    "first_seen": "2026-07-07T22:39:24.149148+00:00"
+  },
+  "lol": {
+    "mint": "3zq4U9wrBPVVQ1RQo8xki7GY9tB1AinZuAXBhdVSpump",
+    "first_seen": "2026-07-07T22:39:26.129652+00:00"
+  },
+  "bastille": {
+    "mint": "HBoU8UNB9ZJ3juVxBhKVt4eaoc8Kv88iu2HT61bepump",
+    "first_seen": "2026-07-07T22:39:30.510016+00:00"
+  },
+  "clippy": {
+    "mint": "GKjAe1bQXXLoEitJYSuyw6qt97tTVoKkGEgWPEo6pump",
+    "first_seen": "2026-07-07T22:39:30.516840+00:00"
   }
 }
