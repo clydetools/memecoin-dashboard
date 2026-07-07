@@ -762,5 +762,17 @@
   "bullshark": {
     "mint": "6ZCF3Fy2wwr5dRFZsbpwxYDuE2Mo3saQ6KncmM6epump",
     "first_seen": "2026-07-07T04:50:02.462378+00:00"
+  },
+  "otome": {
+    "mint": "GogptSPdhsQeMZRfEL87TZAjy6VBon2188cN997cpump",
+    "first_seen": "2026-07-07T04:59:55.036518+00:00"
+  },
+  "solana": {
+    "mint": "8scTMjh4vRTehqR6As1etrw1KfRuYUxtEN4wQEwfpump",
+    "first_seen": "2026-07-07T04:59:55.584126+00:00"
+  },
+  "tac": {
+    "mint": "HSNd1kqcd9HCS499RvtG3MqrKdkcWZiPNfXk1gHdpump",
+    "first_seen": "2026-07-07T05:00:00.120256+00:00"
   }
 }
