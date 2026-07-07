@@ -1438,5 +1438,37 @@
   "hobbes": {
     "mint": "6n7Janary9fqzxKaJVrhL9TG2F61VbAtwUMu1YZscaQS",
     "first_seen": "2026-07-07T18:20:05.491889+00:00"
+  },
+  "realpls": {
+    "mint": "AFbtZtwq8y2tMrurkgbmfNRYabpcbMVbYzMUUb5vpump",
+    "first_seen": "2026-07-07T18:25:38.168520+00:00"
+  },
+  "tards": {
+    "mint": "AtTLgcpkCUkdYeAgeYujPn1ycTixdPyJXPbRK3Z4pump",
+    "first_seen": "2026-07-07T18:25:38.757419+00:00"
+  },
+  "slo": {
+    "mint": "Gz8PpbgpDB4Qbarp8XLPcu3V4Fv8fzf88fLhK6B3pump",
+    "first_seen": "2026-07-07T18:25:40.051769+00:00"
+  },
+  "float": {
+    "mint": "2UpGTSWD9gq4fbi2h35HDUCFZi89hztvHD4eUGTqpump",
+    "first_seen": "2026-07-07T18:25:40.559809+00:00"
+  },
+  "deflock": {
+    "mint": "5azgfUdXksBRSyEzdPY6tU5DdMHhFg9NQCYAGbB6jrpx",
+    "first_seen": "2026-07-07T18:25:43.755950+00:00"
+  },
+  "memecoin": {
+    "mint": "73HNqo5xCDbXstDin4tidyPaRo4sqjkNP4mxsSRq9uPs",
+    "first_seen": "2026-07-07T18:25:44.258337+00:00"
+  },
+  "cbi6900": {
+    "mint": "Hzb3sPBdAYu9f9W9UPgWBMdBDKj7HRLtdW6QShywkQPa",
+    "first_seen": "2026-07-07T18:25:45.556248+00:00"
+  },
+  "toro": {
+    "mint": "9gTRmohVeP2DMKuSbyJwGzGrPF2MP7ggJgWinGx6pump",
+    "first_seen": "2026-07-07T18:25:46.710761+00:00"
   }
 }
