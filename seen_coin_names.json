@@ -734,5 +734,33 @@
   "testpack": {
     "mint": "5bZEJTjh7gy16P4jUVkD1ALPdvVNMUG73VW4AyLHpump",
     "first_seen": "2026-07-07T04:40:04.943796+00:00"
+  },
+  "0xniggerdy": {
+    "mint": "KPUyD4sFrjTYXBhDmSocfyQjS4bfQkjYx4ktX5M6jja",
+    "first_seen": "2026-07-07T04:49:54.534675+00:00"
+  },
+  "gjob": {
+    "mint": "vzVkfmY6QkT9L8vJqbzSZfB5jnX44YJqWUtVnsmpump",
+    "first_seen": "2026-07-07T04:49:55.088017+00:00"
+  },
+  "gator": {
+    "mint": "BTrHiju5Rmm88TEjcExbU5xV75F9QgHLZEtemTwJpump",
+    "first_seen": "2026-07-07T04:49:55.620075+00:00"
+  },
+  "mochi": {
+    "mint": "EgYvXLmiJhzM9zPEaa958m4sQsr2fiZJFjKMS2xepump",
+    "first_seen": "2026-07-07T04:49:56.161877+00:00"
+  },
+  "bull": {
+    "mint": "3TYgKwkE2Y3rxdw9osLRSpxpXmSC1C1oo19W9KHspump",
+    "first_seen": "2026-07-07T04:50:02.456612+00:00"
+  },
+  "david": {
+    "mint": "HULaBKR1eK3SA18FpfEav8Z2t7TJ1qEC775YHTLNpump",
+    "first_seen": "2026-07-07T04:50:02.459402+00:00"
+  },
+  "bullshark": {
+    "mint": "6ZCF3Fy2wwr5dRFZsbpwxYDuE2Mo3saQ6KncmM6epump",
+    "first_seen": "2026-07-07T04:50:02.462378+00:00"
   }
 }
