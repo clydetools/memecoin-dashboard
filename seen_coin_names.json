@@ -2266,5 +2266,97 @@
   "xalgorix": {
     "mint": "5hEn1uvHEfwyAjJgMZg4n6b8FkFsfxZnWgeySKZZpump",
     "first_seen": "2026-07-07T20:40:14.338529+00:00"
+  },
+  "rich": {
+    "mint": "3ZRNbSzeduUhSuFxu2hG3XxBeGUqj2wbp1L5iHrxpump",
+    "first_seen": "2026-07-07T20:49:57.577379+00:00"
+  },
+  "bobat": {
+    "mint": "Dr5PxTSLCcTQj6nnA2ZQG5q6zMJZrfBFTTvpWocEpump",
+    "first_seen": "2026-07-07T20:49:59.866125+00:00"
+  },
+  "debt": {
+    "mint": "5h1fj1jarjyHt7YjDSwBBv8TbHfUmGEifqK26Asfpump",
+    "first_seen": "2026-07-07T20:50:01.057551+00:00"
+  },
+  "upsey": {
+    "mint": "6zVU4rKoFZQyUnNigkiZ53ZPCwYQonPkaumhaxPpump",
+    "first_seen": "2026-07-07T20:50:01.465250+00:00"
+  },
+  "x100": {
+    "mint": "2WBpt99hKSnvYggm1RPdvbG8dLPXz5777s3be9mFpump",
+    "first_seen": "2026-07-07T20:50:01.871834+00:00"
+  },
+  "1sol": {
+    "mint": "FdvopGWJuwdP9ffSon3nn6FTpaoULQoaPNqQoRLqpump",
+    "first_seen": "2026-07-07T20:50:02.289553+00:00"
+  },
+  "bgoat": {
+    "mint": "2ZQn8SXE9caYwj86K9LGcBv7TPcytwbeNUg2JcV1pump",
+    "first_seen": "2026-07-07T20:50:10.951800+00:00"
+  },
+  "realtiger": {
+    "mint": "EwfSAvQyAqxHWvbEHXh1aSzWCjbivHDUKNkS16c9pump",
+    "first_seen": "2026-07-07T20:50:11.317748+00:00"
+  },
+  "bleh": {
+    "mint": "nXoDS8kQhLPjBYuZqLRRrMkpBx3qQKMxCXoaVZrpump",
+    "first_seen": "2026-07-07T20:50:11.723057+00:00"
+  },
+  "max": {
+    "mint": "2gmxecRJdn2sPJxvCRrsdkXSNjxbm4rB4XuTdSRz3cEN",
+    "first_seen": "2026-07-07T20:50:12.144440+00:00"
+  },
+  "brtmbull": {
+    "mint": "4wiDBZb9rm5Pv8xFxL3bxRWUfq7q2x3fEEG6y7mtpump",
+    "first_seen": "2026-07-07T20:50:12.558303+00:00"
+  },
+  "mintsignal": {
+    "mint": "HrzuNQxXrcD6tvYdrmTAzCo4Xz8D79TDV9uyEfq2pump",
+    "first_seen": "2026-07-07T20:50:13.354495+00:00"
+  },
+  "handsem": {
+    "mint": "2tCLmMoyBPnzQcs3CuUN6GcbuUiQFh9Zh7FoDoch5ZZh",
+    "first_seen": "2026-07-07T20:50:13.708854+00:00"
+  },
+  "triplep": {
+    "mint": "6YqXSZjGGtAJrJxwAn5RkrPu4bzYNm43e7DSTBN5pump",
+    "first_seen": "2026-07-07T20:50:14.120666+00:00"
+  },
+  "aitorn": {
+    "mint": "FtPUUJS8xKXnRufaeF29tJCNDA7KSXxGJNiS6Gaxpump",
+    "first_seen": "2026-07-07T20:50:14.527295+00:00"
+  },
+  "bullbits": {
+    "mint": "H12enr2z8ybni7FscJoaSAFyrrfnxvZk8nZ43cjLpump",
+    "first_seen": "2026-07-07T20:50:18.913039+00:00"
+  },
+  "wen": {
+    "mint": "66pQgfLHEfbHSBgYSZSrKEdJHHaGiYbgCtNbz48Apump",
+    "first_seen": "2026-07-07T20:50:18.916730+00:00"
+  },
+  "labubu": {
+    "mint": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+    "first_seen": "2026-07-07T20:50:18.927073+00:00"
+  },
+  "obsd": {
+    "mint": "5PuQRfBYybRqpJzT83vCyKngAQJyNziaQ7oC4Swxq4N1",
+    "first_seen": "2026-07-07T20:50:18.933626+00:00"
+  },
+  "tcg": {
+    "mint": "DLGRpmkMGr7J4KD1xR5x2XjaGeQH64PLFQkyxNNSpump",
+    "first_seen": "2026-07-07T20:50:18.941975+00:00"
+  },
+  "dusd": {
+    "mint": "B8RHrVBxSjBGKqAbn1tXo6CWjvt5jFkkqjbCZtuDpump",
+    "first_seen": "2026-07-07T20:50:19.297956+00:00"
+  },
+  "vozinha": {
+    "mint": "cRkFbKRPiDSF7Cm2AjAmbbHuQWN3jesX1xdGZGRpump",
+    "first_seen": "2026-07-07T20:50:19.449457+00:00"
+  },
+  "point": {
+    "mint": "86CQ5gYV7tJSD2EEAyGtPhes2Z9iit5jhiEtYEr8pump",
+    "first_seen": "2026-07-07T20:50:19.460863+00:00"
   }
 }
