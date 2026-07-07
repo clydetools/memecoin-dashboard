@@ -2954,5 +2954,81 @@
   "valor": {
     "mint": "EqukVT1edM6v4VQVGjSZjvBPow3h9kQPscMuATBDJYqQ",
     "first_seen": "2026-07-07T23:10:05.052854+00:00"
+  },
+  "mandibleus": {
+    "mint": "DwNkiewxR57Py9tHRVMcmnWZZrKcJsC8gxWXB2rDpump",
+    "first_seen": "2026-07-07T23:19:55.589819+00:00"
+  },
+  "tauros": {
+    "mint": "53XiugqgFYYQ9qr8HaReivFkSRYdPtixfej3f7Ubpump",
+    "first_seen": "2026-07-07T23:19:57.212543+00:00"
+  },
+  "ansembull": {
+    "mint": "BYY81RFvsWECtDvzm8SP7UbNLXb9c6YjXjsYFMcjpump",
+    "first_seen": "2026-07-07T23:19:57.910626+00:00"
+  },
+  "clm6e4": {
+    "mint": "EeSHr4kz6kym2yRSG6i4rE657jDiukrWrH2FLPm8pump",
+    "first_seen": "2026-07-07T23:19:58.238823+00:00"
+  },
+  "fallguy": {
+    "mint": "BMy3m4we5NNYDuusbfb8PcmCwYpN4rAcv9jzD3WXpump",
+    "first_seen": "2026-07-07T23:19:59.017894+00:00"
+  },
+  "zygomidus": {
+    "mint": "Gm1nETYJU8a7uYbGgTZo5smZprxmU7z9HrXxeGy3VqPt",
+    "first_seen": "2026-07-07T23:20:01.434446+00:00"
+  },
+  "bkbull": {
+    "mint": "DV6AijwTAgSMSvkDrkDvGEDgZXwGrh6bdjZQhBdQpump",
+    "first_seen": "2026-07-07T23:20:01.756793+00:00"
+  },
+  "anseminat": {
+    "mint": "4MYuQGixZviCGfnj2AzhRrgzqzTKMQonoyWXz7MKpump",
+    "first_seen": "2026-07-07T23:20:02.070337+00:00"
+  },
+  "5degens": {
+    "mint": "5EgbG7BqNVce9aWAqvZMQX7WsGvwVZWVo9WeYM92pump",
+    "first_seen": "2026-07-07T23:20:02.380273+00:00"
+  },
+  "gal": {
+    "mint": "J7hpaTDEovTp1xj2VYHHQarCAygWEL9Uu7UK28wCpump",
+    "first_seen": "2026-07-07T23:20:02.724002+00:00"
+  },
+  "calc": {
+    "mint": "FtUKC9Jgt2pkpjBSCmPXXWhkGaG9DmU3E2bbrAf5pump",
+    "first_seen": "2026-07-07T23:20:04.191082+00:00"
+  },
+  "babushka": {
+    "mint": "ByvFJfWUS41YsPTf6Qw8xqJhfdqwEpc6VhjA9RdyAWvU",
+    "first_seen": "2026-07-07T23:20:04.875826+00:00"
+  },
+  "pumpty": {
+    "mint": "8T2TXCKsCkAiFELnh2hcoHypaHSgkyANByA7Emyupump",
+    "first_seen": "2026-07-07T23:20:05.546560+00:00"
+  },
+  "mushu": {
+    "mint": "HeGC3ExeEvBzu7QHWyGcd7JKGvzWp1tHkKQwQNnQpump",
+    "first_seen": "2026-07-07T23:20:06.207196+00:00"
+  },
+  "trok": {
+    "mint": "48MQr7dczZJ9Xy9yPYYhsrbG4gikGW4UJQuJ81jhpump",
+    "first_seen": "2026-07-07T23:20:06.549990+00:00"
+  },
+  "aqx": {
+    "mint": "nLBu4xQo9C1pzchKzBxw1Kdso4TXPH7sU5Htrbtpump",
+    "first_seen": "2026-07-07T23:20:06.859090+00:00"
+  },
+  "sloth": {
+    "mint": "6HwQD5mhB3aTWTyazVss863ono7H6z19DyqasYmspump",
+    "first_seen": "2026-07-07T23:20:07.217544+00:00"
+  },
+  "mmz": {
+    "mint": "Ge9L1oHHDhdqEP5tDRnmNznwhcSzw86p8bF2FVsD9kcb",
+    "first_seen": "2026-07-07T23:20:07.852117+00:00"
+  },
+  "shikoku": {
+    "mint": "5Jng6jkLKU1o8BNrCzTEMXMFvPjNJZTpdWR3Hq4RHJb6",
+    "first_seen": "2026-07-07T23:20:17.148135+00:00"
   }
 }
