@@ -1090,5 +1090,33 @@
   "codex": {
     "mint": "Dbi5WwoxgbAdFTwmAMeGPbdzo9bLTxrfbQH97VdwQgiC",
     "first_seen": "2026-07-07T17:20:31.871838+00:00"
+  },
+  "star": {
+    "mint": "UxjQR2tceoSqv5sukQtBoBjHAzqAckgc6ppNSV6pump",
+    "first_seen": "2026-07-07T17:29:53.127037+00:00"
+  },
+  "cag": {
+    "mint": "9TYQa8EBe8Te6s5kJUK65h6JgUHCf1hnuGSNXebcpump",
+    "first_seen": "2026-07-07T17:29:54.300725+00:00"
+  },
+  "ebonics": {
+    "mint": "JB3LtH3tdFoQbVn4g35aCLzqsWvdK4XbF4CVgVyipump",
+    "first_seen": "2026-07-07T17:29:54.737297+00:00"
+  },
+  "ansemverse": {
+    "mint": "FU1rQ4QjY4wh3UUWPc5ouyiUHiRDrYeUwaYqVSuGZ8C3",
+    "first_seen": "2026-07-07T17:29:55.555241+00:00"
+  },
+  "var": {
+    "mint": "mTzuyWxLdchrnB8zAj69nih4TQa13QVq46ZvSUHpump",
+    "first_seen": "2026-07-07T17:29:55.981120+00:00"
+  },
+  "goon": {
+    "mint": "5sTUgEVTcRvPNK6CFpHBgVfDm6Vb7yKhb9ovMbvUpump",
+    "first_seen": "2026-07-07T17:30:00.264900+00:00"
+  },
+  "pumpville": {
+    "mint": "72FkeF1cpBMtbordhTVNVbBGdaN5DfHcchstHwPWpump",
+    "first_seen": "2026-07-07T17:30:00.940609+00:00"
   }
 }
