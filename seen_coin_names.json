@@ -2062,5 +2062,69 @@
   "obama": {
     "mint": "CaEzCo7emJMETCayeWCbZCXdH6KAuFqZR1b1Fyg9pump",
     "first_seen": "2026-07-07T20:10:34.451211+00:00"
+  },
+  "gordsem": {
+    "mint": "HXwdKV7GAdqLfL5EVSjbdKLbZck1Hthx3GECH9nRpump",
+    "first_seen": "2026-07-07T20:19:53.565331+00:00"
+  },
+  "gang": {
+    "mint": "8HNifj1PNpPYPoShdrsJhgLmcR4nxLeXx8URCtLnpump",
+    "first_seen": "2026-07-07T20:19:53.911926+00:00"
+  },
+  "zapalloro": {
+    "mint": "H3VJtULG2p8HzPnABeNguzN3MsAskiSBHKK5qP69q7JR",
+    "first_seen": "2026-07-07T20:19:56.691109+00:00"
+  },
+  "snoopy": {
+    "mint": "BcFAjov4tA8sxWxNb8GF5xwHoEm2Md3oQVsTZW8Gpump",
+    "first_seen": "2026-07-07T20:19:58.209182+00:00"
+  },
+  "tansem": {
+    "mint": "DCshwZormvAaUDU1KhzLgNsdHb9eYrskQgKW4UEepump",
+    "first_seen": "2026-07-07T20:20:00.190490+00:00"
+  },
+  "ditto": {
+    "mint": "7g2Ct5eMvTNDHhgyxBKkZUeWdcMnvvRDuujS2yWQmbPp",
+    "first_seen": "2026-07-07T20:20:01.353146+00:00"
+  },
+  "starecat": {
+    "mint": "8oXgyVqZKXFLgaEQP4Q5d2hUbpu8HvYAfDe4m5vVpump",
+    "first_seen": "2026-07-07T20:20:01.718950+00:00"
+  },
+  "poke": {
+    "mint": "9iijbVDkJfZdKrxSRzNcCA1cRy5kvHy3PJFHD3mipump",
+    "first_seen": "2026-07-07T20:20:03.788034+00:00"
+  },
+  "citycash": {
+    "mint": "3bhYviKrkJwfsAT26cHFtnajhEz6uG1gS3fja8wXpump",
+    "first_seen": "2026-07-07T20:20:04.855139+00:00"
+  },
+  "solscots": {
+    "mint": "ALpz2ZZp2ttS4BDGAvgiLgrxqnAcZaShiCNpFNCCpump",
+    "first_seen": "2026-07-07T20:20:05.190253+00:00"
+  },
+  "gugu": {
+    "mint": "5RF9s68MaPJGpRx8A2CGS562YFnxcusawJcaUwn7pump",
+    "first_seen": "2026-07-07T20:20:05.509850+00:00"
+  },
+  "trending": {
+    "mint": "B99HP7cvkKpEi1KuJ8eKdq1uyez3CS61uiKA7dbL15wh",
+    "first_seen": "2026-07-07T20:20:06.186492+00:00"
+  },
+  "best": {
+    "mint": "DoubJA79p6TDtY1ki7QUwzp1veN6EoJ3kXESN3AoYdTB",
+    "first_seen": "2026-07-07T20:20:06.896144+00:00"
+  },
+  "elonsdog": {
+    "mint": "5GQxdky9J9eiSJKZxKGpFHGBD3BmczeQGoyHYaPnpump",
+    "first_seen": "2026-07-07T20:20:07.246608+00:00"
+  },
+  "cheems": {
+    "mint": "3ZV9cZhUkSJXDNy5tiYj13x6hxqfQmxKUYmeNrCsbonk",
+    "first_seen": "2026-07-07T20:20:11.499814+00:00"
+  },
+  "114514": {
+    "mint": "AGdGTQa8iRnSx4fQJehWo4Xwbh1bzTazs55R6Jwupump",
+    "first_seen": "2026-07-07T20:20:11.992790+00:00"
   }
 }
