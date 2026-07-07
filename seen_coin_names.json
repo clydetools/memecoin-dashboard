@@ -2790,5 +2790,45 @@
   "sam": {
     "mint": "8GvK9okEY24NWm2tVxGUuhcrWuNL1NUZuyrSASmkpump",
     "first_seen": "2026-07-07T22:30:02.848925+00:00"
+  },
+  "orangie": {
+    "mint": "DtkLh4ggfjpAgmcw5JSPAhGzxu8NWyJ1ZuQnGjJDpump",
+    "first_seen": "2026-07-07T22:39:55.648798+00:00"
+  },
+  "hpc": {
+    "mint": "4WsCBPHHieNX8tKJYuuqn2NCTuCqFeC91JD6xMMfpump",
+    "first_seen": "2026-07-07T22:40:05.297602+00:00"
+  },
+  "killswitc": {
+    "mint": "8WGppmQL414beRCuzuwnHSu6BMnysi9deVFmAZTNpump",
+    "first_seen": "2026-07-07T22:40:19.629427+00:00"
+  },
+  "clarity": {
+    "mint": "6tVAkojPCvJP8xeGugAd1X44EPz6iKKxFCA2fhjd4ULa",
+    "first_seen": "2026-07-07T22:40:32.123567+00:00"
+  },
+  "fu": {
+    "mint": "HGKMkevqvk6xMVbkb6ywPfaRXmSsMqyfGaMf9KrXpump",
+    "first_seen": "2026-07-07T22:40:34.722887+00:00"
+  },
+  "tetrinica": {
+    "mint": "CNmBQDyFXRRaNfayG7rBNeniLgVDwbUpmxkq1Svhpump",
+    "first_seen": "2026-07-07T22:40:39.528291+00:00"
+  },
+  "bigz": {
+    "mint": "HWvYSnRk8m3kZu3g2hNfW6WgeB5PaZaaFJtPcxadpump",
+    "first_seen": "2026-07-07T22:40:40.020624+00:00"
+  },
+  "moon": {
+    "mint": "B7eF6HEJ3twMXmmo4jTgL6T7qetMcfL6Zps2rZEMpump",
+    "first_seen": "2026-07-07T22:40:43.254772+00:00"
+  },
+  "bastille": {
+    "mint": "HBoU8UNB9ZJ3juVxBhKVt4eaoc8Kv88iu2HT61bepump",
+    "first_seen": "2026-07-07T22:40:51.066503+00:00"
+  },
+  "clippy": {
+    "mint": "GKjAe1bQXXLoEitJYSuyw6qt97tTVoKkGEgWPEo6pump",
+    "first_seen": "2026-07-07T22:40:51.075268+00:00"
   }
 }
