@@ -1790,5 +1790,85 @@
   "apex": {
     "mint": "9fsyTh9vtb4LerCSvRjqHnBoK8RpMygZfwiGnzXNpump",
     "first_seen": "2026-07-07T19:29:58.176986+00:00"
+  },
+  "pfrog": {
+    "mint": "CJbYrmisG7tvWPyQzPbCsQyAnL6MThrxPedrV8EMpump",
+    "first_seen": "2026-07-07T19:39:54.298243+00:00"
+  },
+  "have": {
+    "mint": "J9WDgcjbgXkYuXPxTtenMj55bxaDTr2m2CsiQXPwpump",
+    "first_seen": "2026-07-07T19:39:57.843375+00:00"
+  },
+  "hodldog": {
+    "mint": "BsQ52xTcN5HYQekisjRtGeyg6XgL9kbjeAVkj73fkB1e",
+    "first_seen": "2026-07-07T19:39:58.242791+00:00"
+  },
+  "rays": {
+    "mint": "4CnUrRt2dhdF3zgS7cEgiDgAXRTP4TcgoH6Xz4yKpump",
+    "first_seen": "2026-07-07T19:40:03.203898+00:00"
+  },
+  "bw": {
+    "mint": "GoMQZVKUXKX4ajFJmfTGJso5GTtkev7smrbC4dmhpump",
+    "first_seen": "2026-07-07T19:40:04.673249+00:00"
+  },
+  "valhalla": {
+    "mint": "GWksdxt1JZUH61VMeSMSJYmEGbE9ETivG5x5tPuBpump",
+    "first_seen": "2026-07-07T19:40:05.048659+00:00"
+  },
+  "turbosend": {
+    "mint": "598BJALGDFBc5nWAnnpzkE2HhsCd7gHxmYBURnaKpump",
+    "first_seen": "2026-07-07T19:40:11.546261+00:00"
+  },
+  "slingshot": {
+    "mint": "aHnGdSQgpsTcKRSbssw1CMMP3BU3kGj8GM4F7Ympump",
+    "first_seen": "2026-07-07T19:40:12.291960+00:00"
+  },
+  "cupsina": {
+    "mint": "7HHarAwhGoVwfuJFwjC5E465hyJSWnF5MJKWyrM4pump",
+    "first_seen": "2026-07-07T19:40:13.082004+00:00"
+  },
+  "train": {
+    "mint": "8D57ZQoguqVoLoQ7vhzUZ3vGYKJB7bg9ejEVaNB2ojBA",
+    "first_seen": "2026-07-07T19:40:13.452313+00:00"
+  },
+  "zamsen": {
+    "mint": "2cTAaffnECpcht4ocwmr7YkKHDhDHSc8MsQz1bfLpump",
+    "first_seen": "2026-07-07T19:40:13.827770+00:00"
+  },
+  "cupbank": {
+    "mint": "HTFLMWwzvWLpRpPuPnxbB3dvr5RbCWbqjuYAP12Jpump",
+    "first_seen": "2026-07-07T19:40:14.202188+00:00"
+  },
+  "launch": {
+    "mint": "CmEZx3JKu3zfKe7ohNduEEKkCVEETsRv3UzuYmJ6pump",
+    "first_seen": "2026-07-07T19:40:14.568265+00:00"
+  },
+  "angus": {
+    "mint": "9nX8gJ4nwrqTjBQgp8qrAyjTXFf1cKRVFTpiiy59pump",
+    "first_seen": "2026-07-07T19:40:17.634445+00:00"
+  },
+  "panic": {
+    "mint": "4cDfG7rHZnEgBchrPX6sPkCnJHsKF3uyWa8HcswBiory",
+    "first_seen": "2026-07-07T19:40:22.151995+00:00"
+  },
+  "pump": {
+    "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "first_seen": "2026-07-07T19:40:22.160574+00:00"
+  },
+  "zbcn": {
+    "mint": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
+    "first_seen": "2026-07-07T19:40:22.180121+00:00"
+  },
+  "catsem": {
+    "mint": "J8KpADnKp6XWH5jLoPLfLCEQ9AiBg92WKB9nLurbpump",
+    "first_seen": "2026-07-07T19:40:22.569251+00:00"
+  },
+  "nuggets": {
+    "mint": "NUGye8S6CV82ZNrauf5YfXL2xJxvSvfiMAvy2U1sAVk",
+    "first_seen": "2026-07-07T19:40:22.636262+00:00"
+  },
+  "chance": {
+    "mint": "JCKwsT8UAbygnFkZ7u3amDUM7BXRtwUhCsHQv2khpump",
+    "first_seen": "2026-07-07T19:40:22.687941+00:00"
   }
 }
