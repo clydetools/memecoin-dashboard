@@ -1582,5 +1582,53 @@
   "wyac": {
     "mint": "BEgBsVSKJSxreiCE1XmWWq8arnwit7xDqQXSWYgay9xP",
     "first_seen": "2026-07-07T18:40:03.453388+00:00"
+  },
+  "infewntino": {
+    "mint": "83sTYFMkar5ZDkj7ZiGptF7zygz6wiZAmzTWitr6Y31",
+    "first_seen": "2026-07-07T18:49:59.163570+00:00"
+  },
+  "inflation": {
+    "mint": "GbYExvWdWX5tSc1zA6mvEnJyo14qFsQRNy7aTi2ipump",
+    "first_seen": "2026-07-07T18:49:59.838909+00:00"
+  },
+  "cz": {
+    "mint": "EHXzTiRXbXYRG5rGSQbRaH61Bz46ye33xtXo3YxQaQsD",
+    "first_seen": "2026-07-07T18:50:01.797284+00:00"
+  },
+  "cup": {
+    "mint": "924E4F9WionGXGgQCxhjQWyX9SxM37sCAYWwTeKUjCBL",
+    "first_seen": "2026-07-07T18:50:06.708552+00:00"
+  },
+  "wbtc": {
+    "mint": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+    "first_seen": "2026-07-07T18:50:06.714447+00:00"
+  },
+  "sgl": {
+    "mint": "5c4HyD2rSShqnTsf5z3SaoD2H3GE452u2CUuYjviBAGS",
+    "first_seen": "2026-07-07T18:50:06.717155+00:00"
+  },
+  "cupsetta": {
+    "mint": "uoRcxDqtcW4GhPsoAZhTYx6kigvCC5NbMiKiWxiAPdQ",
+    "first_seen": "2026-07-07T18:50:06.719902+00:00"
+  },
+  "rkc": {
+    "mint": "7HgfXftRBBqsYtAEYcqjGLQrNJLL6Tww9ek4rE3Apump",
+    "first_seen": "2026-07-07T18:50:06.722473+00:00"
+  },
+  "chillhouse": {
+    "mint": "GkyPYa7NnCFbduLknCfBfP7p8564X1VZhwZYJ6CZpump",
+    "first_seen": "2026-07-07T18:50:06.725002+00:00"
+  },
+  "negrito": {
+    "mint": "A2R6WLJV67K6TVCHNWbEULcWzYobHYPdwe5beC2Rpump",
+    "first_seen": "2026-07-07T18:50:07.505441+00:00"
+  },
+  "punch": {
+    "mint": "NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump",
+    "first_seen": "2026-07-07T18:50:07.549080+00:00"
+  },
+  "karts": {
+    "mint": "HWQjsHJxQM9BxZd49mxtSs41m5y8Ub12WxuCYDk3pump",
+    "first_seen": "2026-07-07T18:50:07.568463+00:00"
   }
 }
