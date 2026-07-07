@@ -1254,5 +1254,57 @@
   "wynn": {
     "mint": "CvXyWJRq3ZxqifMzAuyUomDvJ8PF8NitXx8HxRLGpump",
     "first_seen": "2026-07-07T17:50:01.556853+00:00"
+  },
+  "goku": {
+    "mint": "EYN6tkb5KMXy3dqJ1bPHLdQLqdvw8TEcbr2XieLZpump",
+    "first_seen": "2026-07-07T17:59:52.815951+00:00"
+  },
+  "pauly": {
+    "mint": "5LJxGLGbHNL8jV9evqfjt6kwLqL6tkqHPdLhehBppump",
+    "first_seen": "2026-07-07T17:59:53.188362+00:00"
+  },
+  "arg": {
+    "mint": "7dngY8pqmEmL8669A2kexUQFkHLANfTgihtoBp4Qpump",
+    "first_seen": "2026-07-07T17:59:53.516516+00:00"
+  },
+  "romero": {
+    "mint": "6xmmRxNcMb3rXPRbESLQ3x45paZi4M3phSZqfXhbpump",
+    "first_seen": "2026-07-07T17:59:53.825387+00:00"
+  },
+  "gigasem": {
+    "mint": "2ZhXgQDYDefFSRBY2w7nZMQTh61ivHqQDewo9LPdpump",
+    "first_seen": "2026-07-07T17:59:54.158469+00:00"
+  },
+  "rigged": {
+    "mint": "4fYGzY5GYi8oUoLfRPbhSSu7XhSqp7zLb6ctyMW2o4Za",
+    "first_seen": "2026-07-07T17:59:54.802145+00:00"
+  },
+  "ucwc": {
+    "mint": "DMkRCFyfzfGR7zrp4Wp9EmVKuahocMKAb2SRyPwRpump",
+    "first_seen": "2026-07-07T17:59:55.113884+00:00"
+  },
+  "europoor": {
+    "mint": "7X57hgYotCubDm6WfWoeXKbxh9sPZGqegeD1tt8Tpump",
+    "first_seen": "2026-07-07T17:59:55.437435+00:00"
+  },
+  "workers": {
+    "mint": "6Fn4Uk1jbapPTLUkte11hHuyoo954924SdfaKuELpump",
+    "first_seen": "2026-07-07T17:59:57.405853+00:00"
+  },
+  "sped": {
+    "mint": "Cx457WuMpGjhrkavu2monvu11uFDxSnpmQtZYiMTpump",
+    "first_seen": "2026-07-07T17:59:58.759240+00:00"
+  },
+  "argentina": {
+    "mint": "8vR5VdBAGAWVjvycijB4yLTRmJ3N8RaUS6m3jgAnpump",
+    "first_seen": "2026-07-07T18:00:04.181150+00:00"
+  },
+  "pudgybull": {
+    "mint": "6SXTLNED1iLnprf4XPzDxUDtcVSDz57rfp1UCAjepump",
+    "first_seen": "2026-07-07T18:00:04.188293+00:00"
+  },
+  "nc": {
+    "mint": "B89Hd5Juz7JP2dxCZXFJWk4tMTcbw7feDhuWGb3kq5qE",
+    "first_seen": "2026-07-07T18:00:04.200655+00:00"
   }
 }
