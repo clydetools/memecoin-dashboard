@@ -1194,5 +1194,65 @@
   "ext": {
     "mint": "yBa9LppNwDPeNhJCtvEidh6HcufaepWsq1xkXhoU4JE",
     "first_seen": "2026-07-07T17:40:24.143550+00:00"
+  },
+  "sol": {
+    "mint": "629bxg2nfMEnYKt1sJ1tW1xpGMjn8CdaVYq9WGPhpump",
+    "first_seen": "2026-07-07T17:49:53.472684+00:00"
+  },
+  "trumpbull": {
+    "mint": "783o1GVNmzo7vioYA6rTdeXyrkt3noMjFC81oZZZpump",
+    "first_seen": "2026-07-07T17:49:53.827739+00:00"
+  },
+  "messi": {
+    "mint": "39hZLGjd4u35gVm9qRkvy36PYuCya4FFtPFTorFDtWhn",
+    "first_seen": "2026-07-07T17:49:54.178969+00:00"
+  },
+  "draw": {
+    "mint": "BH8j84HpMjV699S6P2VauxVyJpQiAM93pfjYZnqEpump",
+    "first_seen": "2026-07-07T17:49:54.808609+00:00"
+  },
+  "vargentina": {
+    "mint": "FvejEt78bBRuK75zkTydSgABAnCs14VTc6NrTMT1pump",
+    "first_seen": "2026-07-07T17:49:55.124511+00:00"
+  },
+  "reta": {
+    "mint": "4Gvc3ez4sCTVwxkfCQa8h5aCbRziAkE6V6QvCyGYpump",
+    "first_seen": "2026-07-07T17:49:55.444928+00:00"
+  },
+  "tangomessi": {
+    "mint": "J76kP9BzRk6v2jMVYbF72AbNh1zbGfn8rsQXC9Gwpump",
+    "first_seen": "2026-07-07T17:49:55.764659+00:00"
+  },
+  "tkalshi": {
+    "mint": "TKLSidmLVt3cqGaaodG8tyRzoANfQwoh67AccjmubeZ",
+    "first_seen": "2026-07-07T17:50:01.029291+00:00"
+  },
+  "idle": {
+    "mint": "BjcRmwm8e25RgjkyaFE56fc7bxRgGPw96JUkXRJFEroT",
+    "first_seen": "2026-07-07T17:50:01.033703+00:00"
+  },
+  "usx": {
+    "mint": "6FrrzDk5mQARGc1TDYoyVnSyRdds1t4PbtohCD6p3tgG",
+    "first_seen": "2026-07-07T17:50:01.039909+00:00"
+  },
+  "jupusd": {
+    "mint": "JuprjznTrTSp2UFa3ZBUFgwdAmtZCq4MQCwysN55USD",
+    "first_seen": "2026-07-07T17:50:01.057051+00:00"
+  },
+  "borg": {
+    "mint": "3dQTr7ror2QPKQ3GbBCokJUmjErGg8kTJzdnYjNfvi3Z",
+    "first_seen": "2026-07-07T17:50:01.059635+00:00"
+  },
+  "dbr": {
+    "mint": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+    "first_seen": "2026-07-07T17:50:01.488167+00:00"
+  },
+  "popcat": {
+    "mint": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+    "first_seen": "2026-07-07T17:50:01.507033+00:00"
+  },
+  "wynn": {
+    "mint": "CvXyWJRq3ZxqifMzAuyUomDvJ8PF8NitXx8HxRLGpump",
+    "first_seen": "2026-07-07T17:50:01.556853+00:00"
   }
 }
