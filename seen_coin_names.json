@@ -2630,5 +2630,29 @@
   "ee8bzflgwn99ekibmpkhgvvvpqcogxxc2hddzfiekmem": {
     "mint": "EE8bZfLgwN99ekiBMpkHgvVvpqCoGXxc2hDDZFieKmEM",
     "first_seen": "2026-07-07T21:40:07.831469+00:00"
+  },
+  "scroll": {
+    "mint": "9xzHPQ2BdaajCAPCpDtTYE2qU8j2sA5z33DrJmdo7LHQ",
+    "first_seen": "2026-07-07T21:49:56.319091+00:00"
+  },
+  "trends": {
+    "mint": "9MX8Qe1HDifQaHxNGVtUEMBNmvn6PRcV7m3Fn1DCpump",
+    "first_seen": "2026-07-07T21:49:58.528687+00:00"
+  },
+  "sadbull": {
+    "mint": "EjMxvdUU8Yb9WdECFwswFRwPfjrYaYpyuVWrNiAcpump",
+    "first_seen": "2026-07-07T21:49:59.046490+00:00"
+  },
+  "toll": {
+    "mint": "5hfYAxADSdX26LRCrxe79czhdGaYTMJyKuKyN95gpump",
+    "first_seen": "2026-07-07T21:50:02.124259+00:00"
+  },
+  "mafianuts": {
+    "mint": "9q4BT3e73WKXM1vKyn6bifRRMCcNyVC9xjac9mawpump",
+    "first_seen": "2026-07-07T21:50:02.610098+00:00"
+  },
+  "gta6": {
+    "mint": "GgNuWfNSh8CPqNDFMHp8KH1gsYx85ggeEAQWyMvfpump",
+    "first_seen": "2026-07-07T21:50:04.523097+00:00"
   }
 }
