@@ -5022,5 +5022,21 @@
   "tspacex": {
     "mint": "TSPXcLV76s6V2zDiZQ18kBfcbnjaE2ZzNT3ga2Pd99v",
     "first_seen": "2026-07-08T09:50:02.546978+00:00"
+  },
+  "witch": {
+    "mint": "7yA41bvX2MpUBnRSSN6EafPE8TgJprotepnyWmvTpump",
+    "first_seen": "2026-07-08T09:59:56.025252+00:00"
+  },
+  "salami": {
+    "mint": "HqytNbgJ2FLczruCLKXQPSMsgzUmPfpQWEYtuTfnpump",
+    "first_seen": "2026-07-08T09:59:57.176766+00:00"
+  },
+  "architect": {
+    "mint": "EPkMtKSEQ3bnE8B3deXAAH1JhdwwTTyEbt1PtJJypump",
+    "first_seen": "2026-07-08T09:59:58.230861+00:00"
+  },
+  "berries": {
+    "mint": "AKUYQxitb6GqqJnoSbwgzJJphRW5emgn2ykEiPpKpump",
+    "first_seen": "2026-07-08T10:00:03.313308+00:00"
   }
 }
