@@ -3582,5 +3582,33 @@
   "spettro": {
     "mint": "C3fawupKrXdn3X7KPTmmnkwzJQ9qycMNag55ZzQ8pump",
     "first_seen": "2026-07-08T01:30:04.169319+00:00"
+  },
+  "sillycat": {
+    "mint": "BiAX35uLceqGsHMWnAdRev9yCvdmNctvysuo1FxQpump",
+    "first_seen": "2026-07-08T01:39:53.454306+00:00"
+  },
+  "pumpfunhq": {
+    "mint": "4SpiQ14YtAVd4rBkszub895ptqbCU48tw5nBCvqupump",
+    "first_seen": "2026-07-08T01:39:54.412091+00:00"
+  },
+  "anbull": {
+    "mint": "7J2uFj7ZP3L61SwFt6yPn9SAdmGAUTp22LemucDjpump",
+    "first_seen": "2026-07-08T01:39:55.128887+00:00"
+  },
+  "pebbles": {
+    "mint": "3wZfAp4Xva3cNZiJv8LWvHFx1EUXtmd6aw9dfgPKpump",
+    "first_seen": "2026-07-08T01:39:55.473792+00:00"
+  },
+  "kiva": {
+    "mint": "BNfmgUZ3TknGGioua8i4CWxHXjHkqEna6qv9t8SEpump",
+    "first_seen": "2026-07-08T01:39:55.813022+00:00"
+  },
+  "delusional": {
+    "mint": "6KmwvVo8gDUVAnoAftMuyUTojfx6xtgm2xkHp2ixpump",
+    "first_seen": "2026-07-08T01:40:01.098725+00:00"
+  },
+  "barron": {
+    "mint": "39ryWapEuDgoVSaJW2W9q6Ep5qXtQ2N3AMtGhEi3EYEh",
+    "first_seen": "2026-07-08T01:40:01.612080+00:00"
   }
 }
