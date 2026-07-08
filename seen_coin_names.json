@@ -3490,5 +3490,41 @@
   "ansemai": {
     "mint": "8g7eLsLDVUhjRrCpTeUjUBf3U6uFKMiQVC5jGmNw6A2G",
     "first_seen": "2026-07-08T01:00:03.468278+00:00"
+  },
+  "bulldozer": {
+    "mint": "4oSjoQiCyp3odQuuk3MsLcpWAYMk3VGm6FrCD4topump",
+    "first_seen": "2026-07-08T01:09:53.106107+00:00"
+  },
+  "psyduck": {
+    "mint": "2M6mL1WAkLjUiVf2y1qShgZ4kmhyuKGBcm2bcc9tpump",
+    "first_seen": "2026-07-08T01:09:55.419891+00:00"
+  },
+  "vroom": {
+    "mint": "UGSeG7DFH4xfAKwqGHpZbJxwQFRWreQwpFwz3GiV4ZH",
+    "first_seen": "2026-07-08T01:09:57.557357+00:00"
+  },
+  "twc": {
+    "mint": "BunYWowf17B1rVRofYurrk22P6p2PK2kKqjpxcFBpump",
+    "first_seen": "2026-07-08T01:09:58.696124+00:00"
+  },
+  "bbice": {
+    "mint": "ABEPemfNxXkzQPYV6u398GcjU3yB3kfrsEEsUfATpump",
+    "first_seen": "2026-07-08T01:10:00.758050+00:00"
+  },
+  "cucksem": {
+    "mint": "DswfaGApKWq1GhUjTTt6kMjAqi4ac4eAv5RvQPMjpump",
+    "first_seen": "2026-07-08T01:10:01.491424+00:00"
+  },
+  "catfish": {
+    "mint": "3Q1Lu5TGWPvoA95HwTu7uPkjNLXj498moxfko2Pkpump",
+    "first_seen": "2026-07-08T01:10:06.129153+00:00"
+  },
+  "schizo": {
+    "mint": "8sWKTMrh9bWUrvykK4H3jzEzGbEqvJNpS2f7joYKpump",
+    "first_seen": "2026-07-08T01:10:06.140644+00:00"
+  },
+  "infopunks": {
+    "mint": "5rXSxYoRxASFrALkhHX2PG4D96J8L24c7DB3qEzRpump",
+    "first_seen": "2026-07-08T01:10:06.629083+00:00"
   }
 }
