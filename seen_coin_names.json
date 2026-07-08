@@ -4954,5 +4954,13 @@
   "2": {
     "mint": "4oC24ZpFgkLE9xttDYuDmQRqE62BRwhjCqVgNvLVpump",
     "first_seen": "2026-07-08T09:19:56.106584+00:00"
+  },
+  "katzis": {
+    "mint": "2QwaoyZz4qgvYspRYuthLawSnZvqZXoRvCGXwLkPpump",
+    "first_seen": "2026-07-08T09:29:57.035899+00:00"
+  },
+  "swing": {
+    "mint": "3BZnL3bShskPbknNEuQuMr3Mv9oudb6H5R3SQawvpump",
+    "first_seen": "2026-07-08T09:29:57.558304+00:00"
   }
 }
