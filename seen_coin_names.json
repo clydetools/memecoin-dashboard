@@ -5574,5 +5574,45 @@
   "jtvo": {
     "mint": "9VY2rDbtsBmTsBxoRF8hWSEUKGqnoQoe9V6W3JnjNgfm",
     "first_seen": "2026-07-08T13:10:04.447109+00:00"
+  },
+  "supply": {
+    "mint": "3wjD7FVdD2Wd4qqhJSvyJ1c5Coj8HJci2g4XWivFpump",
+    "first_seen": "2026-07-08T13:19:57.350021+00:00"
+  },
+  "twof": {
+    "mint": "4thdnhRryNioFKdFdmtg7YH9q1F332p2taPUQzWapump",
+    "first_seen": "2026-07-08T13:19:59.027998+00:00"
+  },
+  "geeg": {
+    "mint": "8VEM1Yc4JPFqVwsTcoBKiqAmsUD7xEzCLuDZWXccZGPN",
+    "first_seen": "2026-07-08T13:19:59.383661+00:00"
+  },
+  "snek": {
+    "mint": "6iFBRXwYGXxJwKDH92qk5jE8BC58eazqBjRAooR3vvkp",
+    "first_seen": "2026-07-08T13:20:01.884160+00:00"
+  },
+  "fub": {
+    "mint": "GwotzHgtAUVryURiN3aeCPA2kN35cpQ3CRpVsX95pump",
+    "first_seen": "2026-07-08T13:20:02.242691+00:00"
+  },
+  "patriot": {
+    "mint": "BUWZRUXKKCQuN1tdr9MdGpodv9tXrv46cWXdKNR6pump",
+    "first_seen": "2026-07-08T13:20:02.595254+00:00"
+  },
+  "fartboy": {
+    "mint": "y1AZt42vceCmStjW4zetK3VoNarC1VxJ5iDjpiupump",
+    "first_seen": "2026-07-08T13:20:06.998409+00:00"
+  },
+  "agr": {
+    "mint": "5NUHtG49aGZL5kEC9phNKsgw28BmkDWGWfeQGMTRpump",
+    "first_seen": "2026-07-08T13:20:07.443237+00:00"
+  },
+  "gnk": {
+    "mint": "AE36ntk1pza8rzKTsQ8QAmJHqL8adkBvzgzXvEM4mTFU",
+    "first_seen": "2026-07-08T13:20:07.502755+00:00"
+  },
+  "lada": {
+    "mint": "25JUPL6ksapY1iCLWkFcSaXaA6Ar3W7JDCdPjeSApump",
+    "first_seen": "2026-07-08T13:20:07.543876+00:00"
   }
 }
