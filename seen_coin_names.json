@@ -7758,5 +7758,13 @@
   "screwworm": {
     "mint": "APuHvJfKUckaxZug1QGE4mPELEMV5s8JyCMcBT2fpump",
     "first_seen": "2026-07-08T23:30:18.854743+00:00"
+  },
+  "cashgrab": {
+    "mint": "DAEKEhU1ixwxk4YPhtMjSYkETRgzZeU4ixVk4uvepump",
+    "first_seen": "2026-07-08T23:39:56.480037+00:00"
+  },
+  "cmt": {
+    "mint": "3Sq9MfX1md1THUpJmX2T5AugJmLq1WtRwWGZHAnyyvSD",
+    "first_seen": "2026-07-08T23:40:01.751361+00:00"
   }
 }
