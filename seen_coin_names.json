@@ -4582,5 +4582,17 @@
   "rif": {
     "mint": "G7zeUXZzTUa8iXeUcW5J8oK9zoK4WY75fzmwFMe5pump",
     "first_seen": "2026-07-08T07:10:07.140109+00:00"
+  },
+  "nikita": {
+    "mint": "6apnrkgenkUnyHRchdd5MeJcBrwTHf27HavDCBZwpump",
+    "first_seen": "2026-07-08T07:19:55.831744+00:00"
+  },
+  "arc": {
+    "mint": "9ZiUdQV85hoCsWvVPyZUdW53GS6TgVq6oiF6Sybhpump",
+    "first_seen": "2026-07-08T07:19:56.503307+00:00"
+  },
+  "cursmjd27o1afjxbrabptyupg1zavkumv8cs1dwep4dh": {
+    "mint": "CuRSmJd27o1afjXBRABPtYuPG1zAVkumv8cs1DWep4DH",
+    "first_seen": "2026-07-08T07:20:02.407943+00:00"
   }
 }
