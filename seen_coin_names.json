@@ -5386,5 +5386,49 @@
   "rsgp": {
     "mint": "2H4TS59fB9RTmHcD6thFuJEv5QfoR1bq5T3mAKFksGH8",
     "first_seen": "2026-07-08T12:00:03.708029+00:00"
+  },
+  "penny": {
+    "mint": "AgT4mWo7ZHFsYqvmdF8USBqQ9DZtYdegQLH5ymf6pump",
+    "first_seen": "2026-07-08T12:09:56.926594+00:00"
+  },
+  "flip": {
+    "mint": "4cSDoG68VHmheRhyMZyLD3Zz4iUA7JUU7ETBrNGypump",
+    "first_seen": "2026-07-08T12:09:58.019305+00:00"
+  },
+  "strb": {
+    "mint": "8kfyLS9nN8TyL2ojzHkcRiDnBrJSLrQeuLHn3Tzopump",
+    "first_seen": "2026-07-08T12:09:58.542917+00:00"
+  },
+  "hoodtard": {
+    "mint": "BNTa3Xe9fbWibmya9TMskz9BJ118U65SpFNbbKjVpump",
+    "first_seen": "2026-07-08T12:09:59.088475+00:00"
+  },
+  "fortress": {
+    "mint": "3nwUrpqduQEd52MMDnrMCPKXB4GNCg1uqG9sJKYzpump",
+    "first_seen": "2026-07-08T12:10:00.194339+00:00"
+  },
+  "btr": {
+    "mint": "GLtLukCjNRJq9t8RUoAcBB3WJZjC6FYbV6f1YQmwpump",
+    "first_seen": "2026-07-08T12:10:00.729539+00:00"
+  },
+  "catcoin": {
+    "mint": "5gTPspC2ricuGWiYQ4Ghausg8fsq7uCrGgSVACatcoin",
+    "first_seen": "2026-07-08T12:10:05.312166+00:00"
+  },
+  "shib": {
+    "mint": "F6qoefQq4iCBLoNZ34RjEqHjHkD8vtmoRSdw9Nd55J1k",
+    "first_seen": "2026-07-08T12:10:05.330372+00:00"
+  },
+  "colima": {
+    "mint": "95ysUPj5ug8vKdU9hFo5FvLhJTRoYha83VK1fGrSpump",
+    "first_seen": "2026-07-08T12:10:05.342756+00:00"
+  },
+  "191512": {
+    "mint": "FNQMRiT1MxCQQxNLqR8ZyDXdqqKo1eJxdiCNTUZEpump",
+    "first_seen": "2026-07-08T12:10:05.372165+00:00"
+  },
+  "omyra": {
+    "mint": "FGRL5WRxyDPGAgRN9tZyAyqJn9ZfpLLFgGRRtmatpump",
+    "first_seen": "2026-07-08T12:10:06.008643+00:00"
   }
 }
