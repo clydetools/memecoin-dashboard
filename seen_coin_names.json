@@ -5966,5 +5966,41 @@
   "mads": {
     "mint": "2o3YEwKpgQoP9uxVwyf5y4uXQdAc7f4mhEv9URgTpump",
     "first_seen": "2026-07-08T15:00:02.441128+00:00"
+  },
+  "nasdanq": {
+    "mint": "FRyixACxeBfaheLRwdMELKnGCkuMnE78xeo4gZn9R3Aa",
+    "first_seen": "2026-07-08T15:09:55.299757+00:00"
+  },
+  "bbc": {
+    "mint": "CGTTjJr1MNvfwxX1PQk1dnWgwT4GqbHAULLrgH9vpump",
+    "first_seen": "2026-07-08T15:09:55.900306+00:00"
+  },
+  "doctor": {
+    "mint": "DjH5VzVc5vYrkhL8Qd7ju9Y74EkSi7k1M93t4k6vAAeD",
+    "first_seen": "2026-07-08T15:09:59.261794+00:00"
+  },
+  "not": {
+    "mint": "ESK8yo5U8NRXvEj6UiMubFAtvGUbzsYcHqxmRXbypump",
+    "first_seen": "2026-07-08T15:09:59.766837+00:00"
+  },
+  "crocs": {
+    "mint": "GjK3h5W5G4sZivASCUKHZR5jfyDu5pEE46PEv6Ukpump",
+    "first_seen": "2026-07-08T15:10:00.973242+00:00"
+  },
+  "katty": {
+    "mint": "BE9EZe6oLFPdu4X5MEL58U2KHKHtaWFDTf4XMaFSpump",
+    "first_seen": "2026-07-08T15:10:01.477135+00:00"
+  },
+  "pumpcat": {
+    "mint": "5PxS2jWpdSZoPAZhb1xTomh4YLxHCKLiTQkRA3cdpump",
+    "first_seen": "2026-07-08T15:10:02.993044+00:00"
+  },
+  "fur": {
+    "mint": "C4RbuSYi6vAGFNBhjX9ZFSU3QXibiAbEh8LorXVxpump",
+    "first_seen": "2026-07-08T15:10:03.514128+00:00"
+  },
+  "fomo": {
+    "mint": "BDdzUjksj1J4bSnMveQ5tV9Up8A9c6YS1tHrxNw3pump",
+    "first_seen": "2026-07-08T15:10:08.975590+00:00"
   }
 }
