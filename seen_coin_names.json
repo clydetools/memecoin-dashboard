@@ -6634,5 +6634,45 @@
   "asteroid": {
     "mint": "2UPNvo9seF68bYedZkdDLGbpsL2ydcX7iXxt6fHbf1bQ",
     "first_seen": "2026-07-08T18:11:04.549990+00:00"
+  },
+  "goodfire": {
+    "mint": "2N9VZYNjp5ZevZFjSBh7XmYAftrGcm4MmgjRtr29YyCU",
+    "first_seen": "2026-07-08T18:19:56.549028+00:00"
+  },
+  "gates": {
+    "mint": "DVPozwrnWvvXEMiVoWFQBnbqRC6jvMPMTf9djfbhpump",
+    "first_seen": "2026-07-08T18:19:58.734965+00:00"
+  },
+  "blackish": {
+    "mint": "FSnEjYehvwcnTVLCE6HqihjEwbn4hPxznKdakwedpump",
+    "first_seen": "2026-07-08T18:19:59.570607+00:00"
+  },
+  "doom": {
+    "mint": "GrfQpGE7M3e5zVswnaxNx8ydRZVuNjk5TPzKBdqvpump",
+    "first_seen": "2026-07-08T18:19:59.920286+00:00"
+  },
+  "betrayal": {
+    "mint": "8Fnueey4Qj7XfbMRfCRP3qyLNdFkJBxooxhNp1Ynpump",
+    "first_seen": "2026-07-08T18:20:00.261849+00:00"
+  },
+  "clkn": {
+    "mint": "DW6DF2mjtyx67vcNmMhFm9XdxAwREurorghZcS3CBAGS",
+    "first_seen": "2026-07-08T18:20:08.792401+00:00"
+  },
+  "hanta": {
+    "mint": "2tXpgu2DLTsPUf9zFmuZmA4xrYxXKBTpVq9wAM7hzs9y",
+    "first_seen": "2026-07-08T18:20:08.802198+00:00"
+  },
+  "elien": {
+    "mint": "5o61DgZrDGbCp5EBeyzLidUFXNVTtbfUGP3nY3s7pump",
+    "first_seen": "2026-07-08T18:20:08.819168+00:00"
+  },
+  "gta6coin": {
+    "mint": "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump",
+    "first_seen": "2026-07-08T18:20:09.248543+00:00"
+  },
+  "dino": {
+    "mint": "BBWF8FJ5gT8qsvyuXE7eEiqLC6KmRvUGJnsF2cf97es7",
+    "first_seen": "2026-07-08T18:20:09.317965+00:00"
   }
 }
