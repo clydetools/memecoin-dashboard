@@ -4378,5 +4378,49 @@
   "ncm": {
     "mint": "9AgmjFkN5YjxaxvvGiQefgFtGu9hGLcduRryJmpmpump",
     "first_seen": "2026-07-08T06:00:04.871358+00:00"
+  },
+  "dreamware": {
+    "mint": "6TwXfty2F91TcRW63qhrae6jEss29UJ1Jhp5EdaFpump",
+    "first_seen": "2026-07-08T06:09:55.766363+00:00"
+  },
+  "rh": {
+    "mint": "HgtZ1mLYgSetBBDeTCU8GjuUoHMDnBrvZsM1V4qbpump",
+    "first_seen": "2026-07-08T06:09:57.046750+00:00"
+  },
+  "reds": {
+    "mint": "GymaKwS8Kdz6Vkt7eLRZYMXYkiXn1FLCmxaoFooopump",
+    "first_seen": "2026-07-08T06:09:58.658853+00:00"
+  },
+  "helmets": {
+    "mint": "3P7d7sUhN6W2EN8KraDGt6YfJMsGbEbsAJjyP4Ripump",
+    "first_seen": "2026-07-08T06:10:01.298713+00:00"
+  },
+  "kincomp": {
+    "mint": "JB3W9F6t7DVmbf3HjZP9jd8Qk2EMciwJVmpfwbCPn4GH",
+    "first_seen": "2026-07-08T06:10:03.127615+00:00"
+  },
+  "tomi": {
+    "mint": "9MZEDh7F4FBco3c9bb8Hhe2k8w2S9juhZxPKAb2SExMd",
+    "first_seen": "2026-07-08T06:10:07.637483+00:00"
+  },
+  "clickbait": {
+    "mint": "5ZnpQn4mPNNEekq7HYWo9sFTmzGesfhVLz2jk9e4pump",
+    "first_seen": "2026-07-08T06:10:07.650531+00:00"
+  },
+  "uap": {
+    "mint": "3jG3vjwbEuQCR3YkJKtLmH41jqHx9n36BBW1Kznkpump",
+    "first_seen": "2026-07-08T06:10:07.680164+00:00"
+  },
+  "cinema": {
+    "mint": "FL4eKdJrVZ1dVu1RoekeQRnuPxavzD4oCcR5HTcspump",
+    "first_seen": "2026-07-08T06:10:08.249849+00:00"
+  },
+  "kerry": {
+    "mint": "955YdRFMbQFC6mtdmWB22RxJmo5sfY4rGxW83A6Xpump",
+    "first_seen": "2026-07-08T06:10:08.415546+00:00"
+  },
+  "penguin": {
+    "mint": "8Jx8AAHj86wbQgUTjGuj6GTTL5Ps3cqxKRTvpaJApump",
+    "first_seen": "2026-07-08T06:10:08.837871+00:00"
   }
 }
