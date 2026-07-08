@@ -3410,5 +3410,49 @@
   "creature": {
     "mint": "AhMdPdXWCau3REHNRYGxxRPytUYbfejWHHU48E3Qpump",
     "first_seen": "2026-07-08T00:40:04.459999+00:00"
+  },
+  "quarter": {
+    "mint": "DeEeuGk7Wi6MN3q13XhBWScu5sQmcXz5PPiLMD8spump",
+    "first_seen": "2026-07-08T00:49:56.697449+00:00"
+  },
+  "mbd": {
+    "mint": "HUAMQbUFuawNiDCs4mPhobg1ikba34oKorLoDDgBpump",
+    "first_seen": "2026-07-08T00:49:58.543504+00:00"
+  },
+  "greenfn": {
+    "mint": "6a1fDLDkUY9tggxZrnK18remp3bkJ5KvBYBa9693pump",
+    "first_seen": "2026-07-08T00:49:59.051808+00:00"
+  },
+  "mayo": {
+    "mint": "B5BPVt7uZyycC2fKTUM4KYoFsK9WBuX6UhpvqPVbG5YT",
+    "first_seen": "2026-07-08T00:50:07.717734+00:00"
+  },
+  "stkr": {
+    "mint": "3DFnwGLJUfxc4eMxDgQwW6oWaeKBrJ1iwA26YjTfpump",
+    "first_seen": "2026-07-08T00:50:07.723857+00:00"
+  },
+  "goblin": {
+    "mint": "3KHMZhpthXuiCcgfTv7vVu9PpEz64KAEURFwi6Lopump",
+    "first_seen": "2026-07-08T00:50:07.736441+00:00"
+  },
+  "yeet": {
+    "mint": "5qLt7Mvg9Qj8yGXmqx7mGWAPC2mLCJssfQcx43aBpump",
+    "first_seen": "2026-07-08T00:50:08.310671+00:00"
+  },
+  "testibull": {
+    "mint": "C6kWVdLGAE3Eb8Xc6VRZbs9ZvouHhBMYbhd4BVagD4Da",
+    "first_seen": "2026-07-08T00:50:08.319538+00:00"
+  },
+  "elchef": {
+    "mint": "3VkUe5T9uAuU6EqmEMqQcuTRqEcqU86NAfwbFZKxpump",
+    "first_seen": "2026-07-08T00:50:08.332757+00:00"
+  },
+  "psol": {
+    "mint": "pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL",
+    "first_seen": "2026-07-08T00:50:08.381977+00:00"
+  },
+  "banks": {
+    "mint": "Dc6GW8TmGquTsLBwtrYgGMwGMY3HckT79iVCn8jmpump",
+    "first_seen": "2026-07-08T00:50:08.557774+00:00"
   }
 }
