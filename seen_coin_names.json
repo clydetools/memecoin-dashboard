@@ -4082,5 +4082,49 @@
   "wagmi": {
     "mint": "3PXzT19kcJYSD669A31xMVbWWhuuj8hjCponX1LApump",
     "first_seen": "2026-07-08T03:59:56.930101+00:00"
+  },
+  "mcup": {
+    "mint": "E9CNSxtFM243LKxthipNBZpMedDY4wajjaXSs4tSpump",
+    "first_seen": "2026-07-08T04:09:55.984468+00:00"
+  },
+  "smudge": {
+    "mint": "C5V8AqMvpHLY1vi13Z5gZE8grw1BsLq8ekdS1Fikpump",
+    "first_seen": "2026-07-08T04:09:56.619333+00:00"
+  },
+  "usa": {
+    "mint": "DqTGHJTHLQMbVQj94kndQ3mM1sHNWoiqBnag4jRjpump",
+    "first_seen": "2026-07-08T04:09:57.444874+00:00"
+  },
+  "rubinhood": {
+    "mint": "HnTEDURj53AuE7EfrouDUMgeBFcWH2xV665B2hcZ1cAu",
+    "first_seen": "2026-07-08T04:09:57.978933+00:00"
+  },
+  "hoodrat": {
+    "mint": "Br1QWwDjCeXS3xR13oRXMvusnrrPpFnhZXyvTjPLpump",
+    "first_seen": "2026-07-08T04:09:58.500906+00:00"
+  },
+  "think": {
+    "mint": "AnxprgTTgpd19c6tjGE3h4e9kM45BCR2t38eAMLvpump",
+    "first_seen": "2026-07-08T04:09:59.033114+00:00"
+  },
+  "bp": {
+    "mint": "AvBbSgYAJzUfw3nhyet8qRBHsaQHzN5NUmZhBpnmeRQF",
+    "first_seen": "2026-07-08T04:09:59.538477+00:00"
+  },
+  "png": {
+    "mint": "4Q4H1SdSfBhTsNUVvqG2EMSvJd6sCaui65iTva9Bpump",
+    "first_seen": "2026-07-08T04:10:00.083967+00:00"
+  },
+  "tuffcat": {
+    "mint": "DNQ6KoKjvbZUryc4kJunYnvYnPHbA6sdhQ2gDrbDpump",
+    "first_seen": "2026-07-08T04:10:05.767667+00:00"
+  },
+  "vled": {
+    "mint": "E3WNwQ6e2TeQEd6b3yj5vkAMrXym5NUpcjJAE9icpump",
+    "first_seen": "2026-07-08T04:10:05.774439+00:00"
+  },
+  "awc": {
+    "mint": "7e8NVxuu2j4TyuAXN26mMj6KP1wGgVp7G7n3zy53pump",
+    "first_seen": "2026-07-08T04:10:05.788932+00:00"
   }
 }
