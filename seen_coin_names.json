@@ -5218,5 +5218,17 @@
   "plakoro": {
     "mint": "817TC4ut67iRqDA9wAifpf7BD8c4zAeakQCWy7Bwpump",
     "first_seen": "2026-07-08T10:50:06.912322+00:00"
+  },
+  "katrate": {
+    "mint": "48y8MssmaZBCVmsVXrG5mcZRFzqi6f2pj8sSgKy2pump",
+    "first_seen": "2026-07-08T10:59:56.704589+00:00"
+  },
+  "karate": {
+    "mint": "3WiGqbPmTZK6g8JH9Qg31Kz3zrVP5HzYkWBiJse3pump",
+    "first_seen": "2026-07-08T10:59:57.099790+00:00"
+  },
+  "markett": {
+    "mint": "DKgK1NEPQMMMn48eVgrGdqSJQinrfNy1HX4nHnGpzxWY",
+    "first_seen": "2026-07-08T11:00:04.273067+00:00"
   }
 }
