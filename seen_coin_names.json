@@ -4322,5 +4322,29 @@
   "cuppup": {
     "mint": "7pkV7xCh5JN8Pj27bFMVsi55fxNtbrycY8v9rooQpump",
     "first_seen": "2026-07-08T05:40:10.445931+00:00"
+  },
+  "stocks": {
+    "mint": "47oyP5QJFTuqkc74yVMPsuDhgdVzLfQicARxmAvYpump",
+    "first_seen": "2026-07-08T05:49:55.645206+00:00"
+  },
+  "dodge": {
+    "mint": "8HoJCEsi2CppbHadNiKTNqz8LnLtMLJppAL1PDzbpump",
+    "first_seen": "2026-07-08T05:49:56.018445+00:00"
+  },
+  "halai": {
+    "mint": "2JL1SJDARYBrX9QxEXN6UUbDyCN6FsDgWExKMt2Epump",
+    "first_seen": "2026-07-08T05:49:57.006472+00:00"
+  },
+  "crining": {
+    "mint": "PiavzbGLYsDtdTfyArhCVjENC6HzNuPmtgEV1PDpump",
+    "first_seen": "2026-07-08T05:49:59.374235+00:00"
+  },
+  "niggabull": {
+    "mint": "51XvesRKuHBLJDrsvDvJo6uf7WXTVnyygRueAHfHpump",
+    "first_seen": "2026-07-08T05:49:59.717281+00:00"
+  },
+  "sc": {
+    "mint": "6D7NaB2xsLd7cauWu1wKk6KBsJohJmP2qZH9GEfVi5Ui",
+    "first_seen": "2026-07-08T05:50:04.011945+00:00"
   }
 }
