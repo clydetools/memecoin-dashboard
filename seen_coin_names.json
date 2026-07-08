@@ -6842,5 +6842,25 @@
   "bch": {
     "mint": "BCHdTuqPuG2UNrqnncrNeGBzy2XKqw9VszpSR18wppnq",
     "first_seen": "2026-07-08T19:10:09.504257+00:00"
+  },
+  "cwater": {
+    "mint": "29ZDg2dfyqPRA7mYx5DF3Q8QTo4QeyvRXHJxyruZpump",
+    "first_seen": "2026-07-08T19:19:52.884756+00:00"
+  },
+  "nds": {
+    "mint": "B14X4PewpGHnteBi1NkLeYfMTdBkDZ2YCe8ZikzXxYGx",
+    "first_seen": "2026-07-08T19:19:53.245921+00:00"
+  },
+  "lebron23": {
+    "mint": "AfMttACKWApDvoFrabb25KyoNEchTTZv51S3M7cepump",
+    "first_seen": "2026-07-08T19:19:55.489136+00:00"
+  },
+  "tekk": {
+    "mint": "Cs9HijXGuss6SGfjSpMwS2XNxQEdRR2xLvXarfsJpump",
+    "first_seen": "2026-07-08T19:19:55.815094+00:00"
+  },
+  "forever": {
+    "mint": "FNQoboFAZ1zTG4m3Jqtd9wf7vXBFyrGAGyQMJ3X6pump",
+    "first_seen": "2026-07-08T19:19:56.809238+00:00"
   }
 }
