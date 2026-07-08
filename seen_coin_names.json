@@ -5706,5 +5706,37 @@
   "crclx": {
     "mint": "XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1",
     "first_seen": "2026-07-08T13:50:02.372785+00:00"
+  },
+  "analyst": {
+    "mint": "Av4qTbZpfmyySZXBEQrRZW6wPBmZiWYEvXC7Jk7cwn2L",
+    "first_seen": "2026-07-08T14:00:03.957143+00:00"
+  },
+  "roger": {
+    "mint": "CysX2LnCoHss9Qo4xzQacMjq62s8UUjKgPYLDYXz99aG",
+    "first_seen": "2026-07-08T14:00:04.567888+00:00"
+  },
+  "spky": {
+    "mint": "B1eq9rERpPMatvE8ZDyn79CUnHSoYgBUsw56Wxfupump",
+    "first_seen": "2026-07-08T14:00:05.605667+00:00"
+  },
+  "argentine": {
+    "mint": "H3uhcSDFfznpZtDG1nJJYb8hmFmVBQdZnhVR6s4npump",
+    "first_seen": "2026-07-08T14:00:07.776743+00:00"
+  },
+  "afa": {
+    "mint": "22mkhb7W3uFH12V9q3mfwUb5k9MNZEZS9cm8Mn86pump",
+    "first_seen": "2026-07-08T14:00:08.338784+00:00"
+  },
+  "tepe": {
+    "mint": "J55K2cLficFk6JX66ZFH6gfk8Zqd32XD5NrFuaRMpump",
+    "first_seen": "2026-07-08T14:00:16.787674+00:00"
+  },
+  "cdof": {
+    "mint": "4phJF5QAHYnw8XXfjBc2vydDi8utffKcWxSUXicgpump",
+    "first_seen": "2026-07-08T14:00:16.795921+00:00"
+  },
+  "trollina": {
+    "mint": "FDepTZ8kAR3cXQgy9LqomuWToHKPVuNDoRQ2bepppump",
+    "first_seen": "2026-07-08T14:00:17.428877+00:00"
   }
 }
