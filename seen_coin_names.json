@@ -4594,5 +4594,37 @@
   "cursmjd27o1afjxbrabptyupg1zavkumv8cs1dwep4dh": {
     "mint": "CuRSmJd27o1afjXBRABPtYuPG1zAVkumv8cs1DWep4DH",
     "first_seen": "2026-07-08T07:20:02.407943+00:00"
+  },
+  "savannah": {
+    "mint": "2CskiZkwEu1Yjhwg2MqYnLJEvz7Xzi8eszwiDtSYpump",
+    "first_seen": "2026-07-08T07:30:00.899150+00:00"
+  },
+  "imowacat": {
+    "mint": "H8YdNKiGEovvUNcGttamjju63XP5HGzdoQARSRufpump",
+    "first_seen": "2026-07-08T07:30:02.058922+00:00"
+  },
+  "seal": {
+    "mint": "FQrjiz4MpJaHSMyT12mKxdrUGgMAJMsukdFPUMhwpump",
+    "first_seen": "2026-07-08T07:30:03.152802+00:00"
+  },
+  "juggernaut": {
+    "mint": "6VLygAoxXKoYhhD8TKjMtqhrc1rkboZT5Yr4MT7kpump",
+    "first_seen": "2026-07-08T07:30:04.236791+00:00"
+  },
+  "hold": {
+    "mint": "7DELsENiASJaTzkP8vyMFZ2TPy4Vrj1VpKrSk5MRpump",
+    "first_seen": "2026-07-08T07:30:04.745840+00:00"
+  },
+  "redbull": {
+    "mint": "2XSzxEa62C3f7g9sWoUaSBDajVZa12DjUjZCuaNspump",
+    "first_seen": "2026-07-08T07:30:08.827469+00:00"
+  },
+  "stats33": {
+    "mint": "DHonTKBgRrCSRWJbbTcNERTgDqqnozU8Dm8T5pe5pump",
+    "first_seen": "2026-07-08T07:30:09.351430+00:00"
+  },
+  "bex": {
+    "mint": "HTRNwbCXrnA3z5mLvEj8hTMjWzK5EPjFtaR31pNzpump",
+    "first_seen": "2026-07-08T07:30:10.020701+00:00"
   }
 }
