@@ -6754,5 +6754,53 @@
   "chungus": {
     "mint": "EMuNS94pVJUKVk1uHCp52K4wPyP8wsF7bDnGP6e1iQ92",
     "first_seen": "2026-07-08T18:40:03.628642+00:00"
+  },
+  "440": {
+    "mint": "H5EQig62gUhnfeD2tHNMqV4ZG2D1r7m4G3qSydJMpump",
+    "first_seen": "2026-07-08T18:49:54.536484+00:00"
+  },
+  "johnpork": {
+    "mint": "BDVfcBsnk6S7VmWad7d371oBQeHutm8wnFXk4mAppump",
+    "first_seen": "2026-07-08T18:49:58.111698+00:00"
+  },
+  "ban": {
+    "mint": "9HuwTMMFepVnGG184kEbjFmK6Tj1RzZACwsB6rabpump",
+    "first_seen": "2026-07-08T18:49:58.650184+00:00"
+  },
+  "shibsey": {
+    "mint": "2brjFaySYTxgswZ4rjvejJsL6kfHMctGAGnBH245qSyn",
+    "first_seen": "2026-07-08T18:49:59.099123+00:00"
+  },
+  "catgee": {
+    "mint": "Hi7tnAX2LBrY7wHbs9syxoAKfXVzG3QKLaTrRuQrpump",
+    "first_seen": "2026-07-08T18:50:01.480927+00:00"
+  },
+  "jump": {
+    "mint": "CUAv23tCnfofdbUoM888ZfGUbjLvsipYkRbFJXyTpump",
+    "first_seen": "2026-07-08T18:50:02.187410+00:00"
+  },
+  "4max": {
+    "mint": "3UCfEBF9PkTp52wDZursRx4Qzix7JMgSQqhAArYTpump",
+    "first_seen": "2026-07-08T18:50:03.099211+00:00"
+  },
+  "ransem": {
+    "mint": "7ajv8U7ddFmW3ryy8LVPXTfjPmksXXmjuLzKePPTpump",
+    "first_seen": "2026-07-08T18:50:03.608473+00:00"
+  },
+  "north": {
+    "mint": "FyMW1beZ7yzqucdQbBzSMvRNHFrqHbA4APKc8Ncxpump",
+    "first_seen": "2026-07-08T18:50:04.107245+00:00"
+  },
+  "dont": {
+    "mint": "FbmmdcCYHL7WETG89xtWmNFMzQAaQ8Zs9NXVbimibonk",
+    "first_seen": "2026-07-08T18:50:08.884258+00:00"
+  },
+  "slx": {
+    "mint": "SLXdx4BUt2v9uJQNzWqSfzTJ9UKLUDsvxHFMEEdrfgq",
+    "first_seen": "2026-07-08T18:50:08.898879+00:00"
+  },
+  "gold": {
+    "mint": "H1PevUqmTe8WU9An9JCxt2LMR4WvesNjMF5R7GZ7qpRE",
+    "first_seen": "2026-07-08T18:50:09.467924+00:00"
   }
 }
