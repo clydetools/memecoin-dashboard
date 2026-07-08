@@ -3834,5 +3834,45 @@
   "cashcow": {
     "mint": "GZfxbuApGLfRwsuiE8NVygRsGDHvTwcP5Tn7tMPoQeVd",
     "first_seen": "2026-07-08T02:40:02.220858+00:00"
+  },
+  "scamrisk": {
+    "mint": "ALuqBtKsRP3Wu415fihPbd37YdPjAp1NcomEUQfZpump",
+    "first_seen": "2026-07-08T02:49:57.300070+00:00"
+  },
+  "cnut": {
+    "mint": "7JRGxg152vF1icBzQSYEuXV2ChfMd1dQJMCFrrfgpump",
+    "first_seen": "2026-07-08T02:49:57.830502+00:00"
+  },
+  "catmelon": {
+    "mint": "7WqAsu8VC3xJCniDaQmvHVnEzJ3qxFtXcvHrMafhpump",
+    "first_seen": "2026-07-08T02:49:59.589003+00:00"
+  },
+  "jup": {
+    "mint": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "first_seen": "2026-07-08T02:50:04.004155+00:00"
+  },
+  "buttman": {
+    "mint": "HoWX82C2LGnWCh7SVvi5c4G1F65cD68eboXpoEb7pump",
+    "first_seen": "2026-07-08T02:50:04.013156+00:00"
+  },
+  "met": {
+    "mint": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+    "first_seen": "2026-07-08T02:50:04.020800+00:00"
+  },
+  "zolana": {
+    "mint": "Ez6gPDiNK7VtGe5o9vnhDHJq9QPHvEYmSo8teu8mpump",
+    "first_seen": "2026-07-08T02:50:04.039331+00:00"
+  },
+  "layoff": {
+    "mint": "9voQQTTdfbqfXwc9rZAdJEeXXjUWjHnB4wkShMT8pump",
+    "first_seen": "2026-07-08T02:50:04.463935+00:00"
+  },
+  "afk": {
+    "mint": "kMKX8hBaj3BTRBbeYix9c16EieBP5dih8DTSSwCpump",
+    "first_seen": "2026-07-08T02:50:04.481456+00:00"
+  },
+  "keycat": {
+    "mint": "2mui5PhYAm8xJbKyyG7Q98igP831Cp7iFHDPmgLwkWj1",
+    "first_seen": "2026-07-08T02:50:04.579595+00:00"
   }
 }
