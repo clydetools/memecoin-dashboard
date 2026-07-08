@@ -5274,5 +5274,21 @@
   "joker": {
     "mint": "wdCYcSndFuikJSFQmgJbuyu7XYUUvDeQGSwKTLppump",
     "first_seen": "2026-07-08T11:20:07.333529+00:00"
+  },
+  "boba": {
+    "mint": "CNgrNPZhZM71t6rZx1fDCKbXKL7f1SLq4ZY7LUydnLij",
+    "first_seen": "2026-07-08T11:29:59.181449+00:00"
+  },
+  "chnk": {
+    "mint": "4b3LMQ7ifZUZQNMbXjjyRZSNK3J6SWqShhHhXaS6YaLR",
+    "first_seen": "2026-07-08T11:30:00.226225+00:00"
+  },
+  "sop": {
+    "mint": "CjudqsLGuFF7JrXzJfDY7yBmpimj3aaw9ZMSUbFYpump",
+    "first_seen": "2026-07-08T11:30:01.758163+00:00"
+  },
+  "pmup": {
+    "mint": "9zvbRSuD62ng1vYZQGX9icq5T4fDm2fNsS1MQeHdpump",
+    "first_seen": "2026-07-08T11:30:06.244214+00:00"
   }
 }
