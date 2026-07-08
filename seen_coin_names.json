@@ -3734,5 +3734,49 @@
   "lunc": {
     "mint": "FqCSrz5qBLWj8gizt9UBaVmiGEya5aGgXzahrChxcJEM",
     "first_seen": "2026-07-08T02:10:07.376880+00:00"
+  },
+  "cupsi": {
+    "mint": "DgbcJNE5o5mno8zEhwGhQD77GiB2CzEm65eoRDWppump",
+    "first_seen": "2026-07-08T02:19:51.983622+00:00"
+  },
+  "cealis": {
+    "mint": "7cMh11G8qeDcjv64tQvN4S11k6CtGdg6ewcAZU3Upump",
+    "first_seen": "2026-07-08T02:19:52.315082+00:00"
+  },
+  "horn": {
+    "mint": "9Zcqru3CTYXwpDyj4MHeFZpuafbQ6ju1wLxZ85J6pump",
+    "first_seen": "2026-07-08T02:19:54.195261+00:00"
+  },
+  "us": {
+    "mint": "D2khB6mpx9WVaVghs7XMrnW1iPanmJWz4gQnSgL1pump",
+    "first_seen": "2026-07-08T02:19:54.517929+00:00"
+  },
+  "eyuan": {
+    "mint": "72xrx6bu8bck37q4pc7PKnmbMZhDRHTSmCh9Svrnpump",
+    "first_seen": "2026-07-08T02:19:54.858082+00:00"
+  },
+  "quack": {
+    "mint": "CWDwUn1fBKYSuoCB32QshZ2opzbtLYCeCPAiPEtHpump",
+    "first_seen": "2026-07-08T02:19:55.181113+00:00"
+  },
+  "cavelo": {
+    "mint": "CVEev7va6AmNAaecUp3Se214zsMrwybth23HkBpAPU5Y",
+    "first_seen": "2026-07-08T02:19:55.851987+00:00"
+  },
+  "creditcat": {
+    "mint": "71ARgpnzesGVN3xCfNzZabx3Hu2FVYp9JAeYbWw6pump",
+    "first_seen": "2026-07-08T02:19:56.164328+00:00"
+  },
+  "whitcat": {
+    "mint": "35EQTSCJQMYDiPNvJYxWgEH6orLQaYiUAbMx2qiopump",
+    "first_seen": "2026-07-08T02:20:11.420127+00:00"
+  },
+  "nrx": {
+    "mint": "3UVaxi5XsvMkzCVAgBq99jZzWVU65fydN3rZF3nLpump",
+    "first_seen": "2026-07-08T02:20:15.258559+00:00"
+  },
+  "yep": {
+    "mint": "ERPtViqckt1zqpS2abUx67CgLcP54CkhBPYz3yRUpump",
+    "first_seen": "2026-07-08T02:20:19.989112+00:00"
   }
 }
