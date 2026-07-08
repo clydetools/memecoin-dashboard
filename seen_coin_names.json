@@ -7458,5 +7458,25 @@
   "orca": {
     "mint": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
     "first_seen": "2026-07-08T22:00:03.906753+00:00"
+  },
+  "sp500": {
+    "mint": "6i69W5JsjZHeDyZKXmKtAMmwjWkNgzQw2yRVokGDpump",
+    "first_seen": "2026-07-08T22:09:53.090386+00:00"
+  },
+  "motion": {
+    "mint": "BEkN1F2dYbGv2uNoFjB536RwEJm7vPe4iyCZEDstpump",
+    "first_seen": "2026-07-08T22:09:54.134222+00:00"
+  },
+  "zychu": {
+    "mint": "CjdTvvHFuQRF2oNsUwziswHStR5anhCMKNLveDFupump",
+    "first_seen": "2026-07-08T22:09:54.465177+00:00"
+  },
+  "stupidcoinog": {
+    "mint": "HUiZqafCBhfTmYqjVDPcbBEHSiEHkmKgeTzEkxkXkd9c",
+    "first_seen": "2026-07-08T22:09:56.102119+00:00"
+  },
+  "vant": {
+    "mint": "VANT7vBTHvURyZBbCjQy6Ak45t4gjXVF1vrBLr9TAGL",
+    "first_seen": "2026-07-08T22:10:03.220944+00:00"
   }
 }
