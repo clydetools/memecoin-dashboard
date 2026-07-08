@@ -4230,5 +4230,37 @@
   "bullshit": {
     "mint": "X7fRjHNjv2rivSgnw8SUPy8sxo87zWeuyv1141fpump",
     "first_seen": "2026-07-08T04:59:55.884008+00:00"
+  },
+  "tv": {
+    "mint": "5Gwi9XdPuH2qHJisiKVLR9TzhEjSZMkbz73DneQPpump",
+    "first_seen": "2026-07-08T05:09:54.336720+00:00"
+  },
+  "elonsem": {
+    "mint": "B54zi7anAdEJp8w4SoouJbJGVuo33MKtMpofxPNFpump",
+    "first_seen": "2026-07-08T05:09:54.696606+00:00"
+  },
+  "pop": {
+    "mint": "BvWsHsUD52xk4tyVAghfexvxKTCEFggDgFrbwo4Spump",
+    "first_seen": "2026-07-08T05:09:55.544136+00:00"
+  },
+  "cats": {
+    "mint": "ASZbm9MbinejFas2CtwkYD3RSSFMdK8TYAnUafd4pump",
+    "first_seen": "2026-07-08T05:09:56.462755+00:00"
+  },
+  "cumsey": {
+    "mint": "6gEGb8WgxKxG7oVd8q5BLE4j4ucFTyL6s8w3UgQNpump",
+    "first_seen": "2026-07-08T05:09:57.038178+00:00"
+  },
+  "coincafe": {
+    "mint": "FVK5dAHoXfpXG6H1Vtdk3m4v6uNY25TKtQcLYbzUpump",
+    "first_seen": "2026-07-08T05:09:57.415085+00:00"
+  },
+  "dubcat": {
+    "mint": "7woCERDM7WV4XaBLfdGwvHBX3EJHQqp8XjArrgSFKkpL",
+    "first_seen": "2026-07-08T05:10:01.790439+00:00"
+  },
+  "yeti": {
+    "mint": "FuyeX8cpctBwQVDFYgKxYh1JgiXCkK9g4RBVCXm4pump",
+    "first_seen": "2026-07-08T05:10:01.798291+00:00"
   }
 }
