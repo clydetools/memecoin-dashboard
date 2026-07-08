@@ -4674,5 +4674,25 @@
   "gptsol": {
     "mint": "DDB9XNftgCD4DpomHrCAXpg6tbXe6GNQrfHD7FHwpump",
     "first_seen": "2026-07-08T07:43:48.918460+00:00"
+  },
+  "kadser": {
+    "mint": "8bPRjpvtJwk6Lzu4kRDeWfNPTXxQM8o4hueqrHrhpump",
+    "first_seen": "2026-07-08T07:49:55.629211+00:00"
+  },
+  "housd": {
+    "mint": "5hbsLxdMqAWndrEQmQPoFhXtzisea7FaSWde3nq5pump",
+    "first_seen": "2026-07-08T07:49:55.970463+00:00"
+  },
+  "lastfuck": {
+    "mint": "DbY5fFiG2XjLdN2cjydotrTmdgyhfPR6rkNKHuoEpump",
+    "first_seen": "2026-07-08T07:49:56.287546+00:00"
+  },
+  "tmb": {
+    "mint": "8DcGCDS2FZ2iSYEcQfgW6tvGn3y5fqHpfiZBgHJApump",
+    "first_seen": "2026-07-08T07:49:57.130827+00:00"
+  },
+  "ongodbruh": {
+    "mint": "A2tCaDcqbwuT2aXKGQyWT2stdhkmaDUEx5RdGgVKpump",
+    "first_seen": "2026-07-08T07:49:57.795778+00:00"
   }
 }
