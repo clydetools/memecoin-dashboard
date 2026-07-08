@@ -5934,5 +5934,37 @@
   "tradition": {
     "mint": "J7WvzoZ2z2ek87MnkRAarmKw7rB4i7DAZRj4gjMaJ3Zg",
     "first_seen": "2026-07-08T14:50:00.395332+00:00"
+  },
+  "pumphood": {
+    "mint": "34FfDYvVt6GUtpT9y4E7iHsJryVCJAGJTuXB2FJRpump",
+    "first_seen": "2026-07-08T14:59:53.473046+00:00"
+  },
+  "explorer": {
+    "mint": "Gh6kZb5P3Hk5ydYb1tzqf92GY5pfUZ95N6jyBizKpump",
+    "first_seen": "2026-07-08T14:59:54.326700+00:00"
+  },
+  "bgold": {
+    "mint": "HiGx4UyNA5WCwiEAQKtqexF7PEob1yAn2RhpVPhCpump",
+    "first_seen": "2026-07-08T14:59:54.727593+00:00"
+  },
+  "ansey": {
+    "mint": "2PMWYNuH4ZVeDxtp7E2vnuBa9ETGELhPQSvBpvv8pump",
+    "first_seen": "2026-07-08T14:59:55.586914+00:00"
+  },
+  "stilltok": {
+    "mint": "8GySVkPNnPY55kKQ8YYjHSLdkubTtwWLeysQZfbhpump",
+    "first_seen": "2026-07-08T14:59:56.009849+00:00"
+  },
+  "hoodfun": {
+    "mint": "GZFnjsrU6fZbL9RPgy9M1xrQk9k2hB5CJ3UxCH2rpump",
+    "first_seen": "2026-07-08T14:59:56.448687+00:00"
+  },
+  "octo": {
+    "mint": "9DKwnj1pLZLqqdMZTQrtCAcnE3rVUkJoj1ZuFMV1pump",
+    "first_seen": "2026-07-08T14:59:57.286453+00:00"
+  },
+  "mads": {
+    "mint": "2o3YEwKpgQoP9uxVwyf5y4uXQdAc7f4mhEv9URgTpump",
+    "first_seen": "2026-07-08T15:00:02.441128+00:00"
   }
 }
