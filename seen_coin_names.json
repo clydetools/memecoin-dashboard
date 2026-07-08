@@ -6570,5 +6570,41 @@
   "riv": {
     "mint": "2bpT3ksMdwdZ6DuHyq3FDUr7HDwvZ5DRZoT1fUPALJaH",
     "first_seen": "2026-07-08T17:50:08.752072+00:00"
+  },
+  "trear": {
+    "mint": "ETjSZVUvuYu6UoKfoswwMqRpUdEE2mtkJ2nLyRnPpump",
+    "first_seen": "2026-07-08T17:59:54.731580+00:00"
+  },
+  "curious": {
+    "mint": "BD2RoPtdARSprnnkUwTtTuapVzhe1mtMsrDevyiopump",
+    "first_seen": "2026-07-08T17:59:55.839353+00:00"
+  },
+  "colossus": {
+    "mint": "3ioKmhmW3s3hwp1hLSmd7e5AXNeUTAvFsGqw4RHUpump",
+    "first_seen": "2026-07-08T17:59:56.565048+00:00"
+  },
+  "enrich": {
+    "mint": "77RjAvkZ2x77cm7s5y4iejDf55aQfMnc7gaiK5ukpump",
+    "first_seen": "2026-07-08T17:59:57.051220+00:00"
+  },
+  "daodyssey": {
+    "mint": "5tPRBV2U9BFwtadH2SLo3nY26VPGxKbQYkNBC253pump",
+    "first_seen": "2026-07-08T17:59:57.426894+00:00"
+  },
+  "finfluencers": {
+    "mint": "CsoE37fsAxEnyLdbWmwbduQR3BrEhQtAZ5sSoWfxpump",
+    "first_seen": "2026-07-08T17:59:57.881808+00:00"
+  },
+  "mementum": {
+    "mint": "4Bfixvb6S3jwTmnQgRKqTi1f5QVWowUX2xMPBu3opump",
+    "first_seen": "2026-07-08T17:59:58.683446+00:00"
+  },
+  "gdp": {
+    "mint": "DBTspvGBnEfhHNNo4S474HeEhmSvk344ZVmyeuYSpump",
+    "first_seen": "2026-07-08T17:59:59.038719+00:00"
+  },
+  "gb": {
+    "mint": "7NcMKMrXPBVCWPcs9SSqnF6ZGy5neAtzTZpFqZqLquaP",
+    "first_seen": "2026-07-08T18:00:04.631990+00:00"
   }
 }
