@@ -7682,5 +7682,29 @@
   "solstone": {
     "mint": "GErvV2zCbvimESGcZCc4mAikrD8UYUMJiuFJb1nwpump",
     "first_seen": "2026-07-08T22:59:57.652327+00:00"
+  },
+  "bs": {
+    "mint": "FBLNm7YTukJSobrCTtRCRYcv7bHd4uwgH6CjME7Xpump",
+    "first_seen": "2026-07-08T23:09:58.903833+00:00"
+  },
+  "cashiacat": {
+    "mint": "94e1YHFk9v9uJ8LimUu51G3DtNEy1HPo28GmLH1dpump",
+    "first_seen": "2026-07-08T23:09:59.472880+00:00"
+  },
+  "fitty": {
+    "mint": "8EiWUefrKVikxj1o99NwZf2jQH95vrBwcDcu7hiUpump",
+    "first_seen": "2026-07-08T23:10:00.045783+00:00"
+  },
+  "leandro": {
+    "mint": "97FSs1LB1pRwkHnJHXvGWTDKGfXnHRTTNtWLPiypump",
+    "first_seen": "2026-07-08T23:10:00.601918+00:00"
+  },
+  "maryj": {
+    "mint": "MARYJkS2kHxmVkQp8baNUL7d3R1pddLr65GgsArJAYY",
+    "first_seen": "2026-07-08T23:10:06.189215+00:00"
+  },
+  "predict": {
+    "mint": "Hnsg4XGAwjgXqFMM3JbGWS6di2JTxXza3Le3uMAkkKeH",
+    "first_seen": "2026-07-08T23:10:06.898893+00:00"
   }
 }
