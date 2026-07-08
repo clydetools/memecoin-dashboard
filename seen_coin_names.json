@@ -4346,5 +4346,37 @@
   "sc": {
     "mint": "6D7NaB2xsLd7cauWu1wKk6KBsJohJmP2qZH9GEfVi5Ui",
     "first_seen": "2026-07-08T05:50:04.011945+00:00"
+  },
+  "speed67": {
+    "mint": "D3ZNRVzKKfeaEQQ8kASdRMfQ9rhSdoQXVcxJdg8jpump",
+    "first_seen": "2026-07-08T05:59:55.051978+00:00"
+  },
+  "cj": {
+    "mint": "2yFBLZquzoA2FF9Wmz9iLG1rXoCPeyBVAYTBGBpwpump",
+    "first_seen": "2026-07-08T05:59:56.599406+00:00"
+  },
+  "netanyahu": {
+    "mint": "2P1CsD74yJvCW54LYT6RVuRtD1vXiLX1Kt6WvZMXpump",
+    "first_seen": "2026-07-08T05:59:57.109130+00:00"
+  },
+  "richie": {
+    "mint": "KZuTBq3Sr9ubPg9ozoMy7kX8Ri7iKugdiAbvQ5Ppump",
+    "first_seen": "2026-07-08T05:59:58.199974+00:00"
+  },
+  "mc": {
+    "mint": "2LgTiUFnGnvW11JeuogrFZSNavgKhFHCbvZp1Rsxpump",
+    "first_seen": "2026-07-08T05:59:58.859336+00:00"
+  },
+  "slap": {
+    "mint": "CXiXgoL7a31MjBvmEyoqWUAzbrTH2nG4A91TnhEApump",
+    "first_seen": "2026-07-08T05:59:59.367548+00:00"
+  },
+  "anselon": {
+    "mint": "Cc53A3M1e7HGeVYaNA6zVB5sSp3U3oCpqTgPTaXhpump",
+    "first_seen": "2026-07-08T06:00:00.366520+00:00"
+  },
+  "ncm": {
+    "mint": "9AgmjFkN5YjxaxvvGiQefgFtGu9hGLcduRryJmpmpump",
+    "first_seen": "2026-07-08T06:00:04.871358+00:00"
   }
 }
