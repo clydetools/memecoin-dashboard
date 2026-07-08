@@ -7706,5 +7706,33 @@
   "predict": {
     "mint": "Hnsg4XGAwjgXqFMM3JbGWS6di2JTxXza3Le3uMAkkKeH",
     "first_seen": "2026-07-08T23:10:06.898893+00:00"
+  },
+  "drake": {
+    "mint": "BEw5RiMmNyfDyGeVcD3PHNnZ7AA636Cs4jUGtXV5pump",
+    "first_seen": "2026-07-08T23:19:53.534246+00:00"
+  },
+  "tender": {
+    "mint": "3xaYgcEyFwgvfzKx3cpwzvyyKFk23TFaGsyYwYVApump",
+    "first_seen": "2026-07-08T23:19:53.897516+00:00"
+  },
+  "dickstick": {
+    "mint": "AYLkuppdBBB5g9h1TSE46gbPxRqoEKrtV81s8hEnpump",
+    "first_seen": "2026-07-08T23:19:54.644063+00:00"
+  },
+  "miu": {
+    "mint": "7LNFZcNigZay5U9e2sq6n2Z4iM8BC2Dd53L14pwvpump",
+    "first_seen": "2026-07-08T23:20:00.355610+00:00"
+  },
+  "farm": {
+    "mint": "yMJPZbnhoHib3ib8n8PfiVcp9yauk1vnaGKLx7epump",
+    "first_seen": "2026-07-08T23:20:00.379056+00:00"
+  },
+  "samo": {
+    "mint": "ApLJtDFLscoocY1Qjt3c3bRmxjw3F9hii4JVUbH63E14",
+    "first_seen": "2026-07-08T23:20:00.418002+00:00"
+  },
+  "gokhshtein": {
+    "mint": "9ZkArkhhDMe19ToEUWnUiM75XWJxcTSF2vmKHM2Spump",
+    "first_seen": "2026-07-08T23:20:00.892863+00:00"
   }
 }
