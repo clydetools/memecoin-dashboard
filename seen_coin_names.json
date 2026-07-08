@@ -4182,5 +4182,33 @@
   "sardesai": {
     "mint": "tjk2TkBFi8KS2ZvSnM9BxwzQFEWxJHFSCxRJWMDpump",
     "first_seen": "2026-07-08T04:29:59.252125+00:00"
+  },
+  "middle67": {
+    "mint": "Hpcm8iSVWYZ4WKgGa9q4MFPasaVeAaDebgYJL18Jpump",
+    "first_seen": "2026-07-08T04:39:55.688857+00:00"
+  },
+  "nexus": {
+    "mint": "92qAzcxpPPf2F3CQ6tH6Cf2sYDc6rh2HYDUQniQfpump",
+    "first_seen": "2026-07-08T04:39:56.479565+00:00"
+  },
+  "ganja": {
+    "mint": "5ziA1pv8YHMTCTkv2WRHoSYrM3N49UP98GsEWYnxpump",
+    "first_seen": "2026-07-08T04:39:57.479084+00:00"
+  },
+  "toot": {
+    "mint": "C7w2Sc7FH8sHw45ZGbGusdzNJUvVGhfiXhNNA6dcpump",
+    "first_seen": "2026-07-08T04:39:59.825937+00:00"
+  },
+  "diddy": {
+    "mint": "5QQRKwnJsoy5MHbYvUe1zgtNUGhesQ5SErQvnAZgpump",
+    "first_seen": "2026-07-08T04:40:04.557676+00:00"
+  },
+  "vibeshift": {
+    "mint": "Hxxn5yVPP3wEUF8mJJR88cTCJeAT82kKE1aYTTaDpump",
+    "first_seen": "2026-07-08T04:40:04.577700+00:00"
+  },
+  "finnbags": {
+    "mint": "xc5gN35tmTiCB5mEWJjwUTNc9dCzbxp5SH2ewV4BAGS",
+    "first_seen": "2026-07-08T04:40:05.131161+00:00"
   }
 }
