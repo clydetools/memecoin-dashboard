@@ -3906,5 +3906,49 @@
   "kitty": {
     "mint": "4N4DnNo3qpPks9aQCkcWkzoir8tnvT6diS4TnnZibonk",
     "first_seen": "2026-07-08T03:10:02.364681+00:00"
+  },
+  "minicoin": {
+    "mint": "DK5ELs9qpV6sbabMjEt6N5jk6nhHGGGzsxunALF8pump",
+    "first_seen": "2026-07-08T03:19:54.265229+00:00"
+  },
+  "xgf7b": {
+    "mint": "AM24UpDBteabM5CYBWJpWqtH5qc6cyvYZLe7FpJWpump",
+    "first_seen": "2026-07-08T03:19:54.841004+00:00"
+  },
+  "gg": {
+    "mint": "GeocxpyndnkJVR7j5nHReMHB64SDaGaArCPccsGFpump",
+    "first_seen": "2026-07-08T03:19:55.876647+00:00"
+  },
+  "sewey": {
+    "mint": "8C39YceBz3kf3rdzoxiRMNFKUrRYHtPdMkpDjEMApump",
+    "first_seen": "2026-07-08T03:19:56.956232+00:00"
+  },
+  "redditor": {
+    "mint": "8ycL9fHqXLXENjTS5Fbv4UCkaGoKy7BwxKNjLprWpump",
+    "first_seen": "2026-07-08T03:19:57.708045+00:00"
+  },
+  "fox": {
+    "mint": "9ihvPEytJwEZSMozmhY2nxTe84KJAg9KuqUGaTsepump",
+    "first_seen": "2026-07-08T03:20:00.023734+00:00"
+  },
+  "hland": {
+    "mint": "GvXNejC1T5D6eAu3hRMX22B7265Z7eb3zDSDCqWApump",
+    "first_seen": "2026-07-08T03:20:00.508654+00:00"
+  },
+  "dih": {
+    "mint": "1FRKf2aFkLfDWNLReLMA3mMQ5LtP7qPMb3jU8H6pump",
+    "first_seen": "2026-07-08T03:20:01.076204+00:00"
+  },
+  "squire": {
+    "mint": "EN2nnxrg8uUi6x2sJkzNPd2eT6rB9rdSoQNNaENA4RZA",
+    "first_seen": "2026-07-08T03:20:05.767364+00:00"
+  },
+  "kobx": {
+    "mint": "48iJcUv9jsiZ7cCisyVFLPFLMoNBKg3L43bRvktXpump",
+    "first_seen": "2026-07-08T03:20:05.781821+00:00"
+  },
+  "tolywifhat": {
+    "mint": "E2ueKQ3EDTTmCkUA17j3KeTb2u6VT91xiyECdKRzpump",
+    "first_seen": "2026-07-08T03:20:06.428153+00:00"
   }
 }
