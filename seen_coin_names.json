@@ -3950,5 +3950,61 @@
   "tolywifhat": {
     "mint": "E2ueKQ3EDTTmCkUA17j3KeTb2u6VT91xiyECdKRzpump",
     "first_seen": "2026-07-08T03:20:06.428153+00:00"
+  },
+  "gaza": {
+    "mint": "3C4RRRRfUq4TjzJNaEEs2SsgiuVxXf4K4zARGxzgpump",
+    "first_seen": "2026-07-08T03:29:54.128735+00:00"
+  },
+  "skidcoin": {
+    "mint": "CGS4frnoR5q8Anoafghiy5fuvsyddzXK73yJSU6cpump",
+    "first_seen": "2026-07-08T03:29:54.722328+00:00"
+  },
+  "babychief": {
+    "mint": "5j2bAtLjV5MHFC14oC4akeYsgxZQLmVcE6qsotHApump",
+    "first_seen": "2026-07-08T03:29:55.228806+00:00"
+  },
+  "aigf": {
+    "mint": "AbiU3czaCMuocsVJS99p2pcLyjarEp2Ut4JXc29epump",
+    "first_seen": "2026-07-08T03:29:55.782961+00:00"
+  },
+  "puh": {
+    "mint": "Ed6iUYzYbhzvuPxPK2HUcrRYxdXCCX4k5mkygGbtpump",
+    "first_seen": "2026-07-08T03:29:56.302497+00:00"
+  },
+  "xfgwd": {
+    "mint": "DCmrMdxiWUGTnjyoM5SJJoPCqwCWVyFA8JkMzPCFpump",
+    "first_seen": "2026-07-08T03:29:57.609724+00:00"
+  },
+  "babspe": {
+    "mint": "9FVckXeBTpLbtwai93URzA79APFNNoco9afPeF8spump",
+    "first_seen": "2026-07-08T03:29:58.212614+00:00"
+  },
+  "scat": {
+    "mint": "FhcgmrkWeNc9hwdKXxBShY8euQDWetyn93oWBLdeP5bH",
+    "first_seen": "2026-07-08T03:29:58.729826+00:00"
+  },
+  "oldshit": {
+    "mint": "4q2UXvHh9bMKtn3EoMUFHVkvtG1ML9dKpceLsAWwpump",
+    "first_seen": "2026-07-08T03:29:59.771825+00:00"
+  },
+  "peppas": {
+    "mint": "EaWKktM1LkKH5E8Fz6ttxeYH4nrKnae33YZiGxDXpump",
+    "first_seen": "2026-07-08T03:30:00.386123+00:00"
+  },
+  "spacexxxx": {
+    "mint": "vNQ6i9qJbXuWvKKteXEwzCNL3w14yMA3VGHTHLDpump",
+    "first_seen": "2026-07-08T03:30:00.944043+00:00"
+  },
+  "hoodcoin": {
+    "mint": "9fWkGUhJYMK2z2hAEmR3VSNgTkFwC2GZXNiZKgG5pump",
+    "first_seen": "2026-07-08T03:30:01.966700+00:00"
+  },
+  "ss": {
+    "mint": "6hn1wS5gneifwUWoGb99jg8fpaadDJ1QGQqSjKLcYnHz",
+    "first_seen": "2026-07-08T03:30:02.459452+00:00"
+  },
+  "iran": {
+    "mint": "4BbhjbQHRwar7tuqktUN17YjqYVvGCHDzG4P6M2Fvbj5",
+    "first_seen": "2026-07-08T03:30:08.278476+00:00"
   }
 }
