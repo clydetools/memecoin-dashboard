@@ -3370,5 +3370,45 @@
   "sadcat": {
     "mint": "66SjiqBcPPSrEHBViv7QaMiJ7eaXH1L7zE65VCW264YQ",
     "first_seen": "2026-07-08T00:30:07.555737+00:00"
+  },
+  "grokme": {
+    "mint": "2SHYXCJ7CF2HUQHnWiWTX6Umv8QoNXi8tGoqpWB1pump",
+    "first_seen": "2026-07-08T00:39:56.632143+00:00"
+  },
+  "pan": {
+    "mint": "CNSBi3QWyzg76og1wuxejo3Egufu2492bQ7Yu6nYpump",
+    "first_seen": "2026-07-08T00:39:57.353796+00:00"
+  },
+  "dark": {
+    "mint": "EBsnc7ZmKGJxRwhqoJbdy3Gqc84yqGAXsHXy3mmvpump",
+    "first_seen": "2026-07-08T00:39:57.696600+00:00"
+  },
+  "poker": {
+    "mint": "7zFqQa5VG9NPTXLKR6SVpx2vRRLfraUUzWcuawoxpump",
+    "first_seen": "2026-07-08T00:39:58.178457+00:00"
+  },
+  "mogclav": {
+    "mint": "4Xc5mLvgPdseKpaJwguTPPW3VA9kVHw65LG7gyMBpump",
+    "first_seen": "2026-07-08T00:39:58.885922+00:00"
+  },
+  "cashdog": {
+    "mint": "7D3fHjbdDXgrBxuFUB3kCjnnrFDwyw3ivuqBektEyPuC",
+    "first_seen": "2026-07-08T00:40:00.177598+00:00"
+  },
+  "cupseywif": {
+    "mint": "ANBtdSbHQqgrhppi9W9GS66zLbFwAQ9x6PL4kZ7Mpump",
+    "first_seen": "2026-07-08T00:40:01.903839+00:00"
+  },
+  "farady": {
+    "mint": "9TGqagAMPQCRj7zA2Zk2cii4oiZX43oim8BrWhRHXVmg",
+    "first_seen": "2026-07-08T00:40:02.279868+00:00"
+  },
+  "bagmaxx": {
+    "mint": "DC5wWweYbBw3UZeH4kajUbiHsQK47mxaarjDsn8qZk2m",
+    "first_seen": "2026-07-08T00:40:02.963144+00:00"
+  },
+  "creature": {
+    "mint": "AhMdPdXWCau3REHNRYGxxRPytUYbfejWHHU48E3Qpump",
+    "first_seen": "2026-07-08T00:40:04.459999+00:00"
   }
 }
