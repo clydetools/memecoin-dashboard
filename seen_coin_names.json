@@ -4422,5 +4422,45 @@
   "penguin": {
     "mint": "8Jx8AAHj86wbQgUTjGuj6GTTL5Ps3cqxKRTvpaJApump",
     "first_seen": "2026-07-08T06:10:08.837871+00:00"
+  },
+  "evermeado": {
+    "mint": "65M3FH8xea2pa8a18QpDkTG3EgsUqGJM6u2aCskPpump",
+    "first_seen": "2026-07-08T06:19:57.854988+00:00"
+  },
+  "repe": {
+    "mint": "9j8Q6g2qo4y6DEzQDNfM8EfnzWVDdFJMSRk43Ukupump",
+    "first_seen": "2026-07-08T06:19:58.883307+00:00"
+  },
+  "terry": {
+    "mint": "2nAVsmNVmJFUv2htyAD9nuGUescZ3vjrYDF1oanJpump",
+    "first_seen": "2026-07-08T06:19:59.407232+00:00"
+  },
+  "bullleon": {
+    "mint": "CiN5FqN9PoSn1QGrgLjrVutWA3pZenmsVkGPzQdkpump",
+    "first_seen": "2026-07-08T06:19:59.930681+00:00"
+  },
+  "blp": {
+    "mint": "FTxb3VrWGEqknei9zt42x9vkK3ZvVyJK3tHoZf65pump",
+    "first_seen": "2026-07-08T06:20:00.438037+00:00"
+  },
+  "hdylamc": {
+    "mint": "C61Pei8U782CeEUY5dmK8tLFMdq2qfuBvNdoALQ5pump",
+    "first_seen": "2026-07-08T06:20:01.033154+00:00"
+  },
+  "dawkins": {
+    "mint": "CSRPzPp6j5fWsaHxRDw2UwS26VbEq9F7WxthuVvBpump",
+    "first_seen": "2026-07-08T06:20:03.085738+00:00"
+  },
+  "fruitai": {
+    "mint": "7bUU4JwBR4gsh27e1rTJfZohLAMJjRJN8ZDqfhuQpump",
+    "first_seen": "2026-07-08T06:20:03.656589+00:00"
+  },
+  "arx": {
+    "mint": "ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs",
+    "first_seen": "2026-07-08T06:20:08.800322+00:00"
+  },
+  "breadsey": {
+    "mint": "6inBGxRgTaLvKEQ6VpaBCzH6GTT2A4CddUXxR92xpump",
+    "first_seen": "2026-07-08T06:20:09.480223+00:00"
   }
 }
