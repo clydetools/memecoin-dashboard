@@ -3874,5 +3874,25 @@
   "keycat": {
     "mint": "2mui5PhYAm8xJbKyyG7Q98igP831Cp7iFHDPmgLwkWj1",
     "first_seen": "2026-07-08T02:50:04.579595+00:00"
+  },
+  "qcat": {
+    "mint": "BnqgDUx2NFD7hPxs1Aqf4Ljw62iKZN2STt2iiQSopump",
+    "first_seen": "2026-07-08T02:59:56.895095+00:00"
+  },
+  "longcat": {
+    "mint": "9v4FcedaCunBUchvnKevWkMUcApv3JGgHNMc1hhi8Tq2",
+    "first_seen": "2026-07-08T02:59:57.530004+00:00"
+  },
+  "japan": {
+    "mint": "GBqaeJQaV4uE4zFiN4i8CGNW7fyFgoQGdijYtgfZpump",
+    "first_seen": "2026-07-08T02:59:58.095242+00:00"
+  },
+  "cow": {
+    "mint": "E212AdoGo7hmiLoYSGSdWPn5sNRSqjnCoayXhBNcpump",
+    "first_seen": "2026-07-08T02:59:59.216712+00:00"
+  },
+  "teneo": {
+    "mint": "EDeqYMMMQdD4DS2d4AvUbQizVytus5oqU9VtVDxmGPC1",
+    "first_seen": "2026-07-08T03:00:04.627106+00:00"
   }
 }
