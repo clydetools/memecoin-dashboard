@@ -7398,5 +7398,49 @@
   "fahhhh": {
     "mint": "5gsDMgG3p1xZR7qvbS88EjNSDesBdJjYH7PGemUgpump",
     "first_seen": "2026-07-08T21:50:11.668150+00:00"
+  },
+  "fatdog": {
+    "mint": "GJQEV2i43yVsG56CvrqUosTSabtszLPVhqEjgE25pump",
+    "first_seen": "2026-07-08T21:55:22.665682+00:00"
+  },
+  "peng": {
+    "mint": "DF8PQe95KnwtzKJnshJAUfijMjagP2gzjmaFCZGvpump",
+    "first_seen": "2026-07-08T21:55:24.068630+00:00"
+  },
+  "thai": {
+    "mint": "3MqtpacxqXMUc7Cg8NSURqDgN4rerqX2W7k1sSvTpump",
+    "first_seen": "2026-07-08T21:55:24.397999+00:00"
+  },
+  "thc": {
+    "mint": "CaZ4bSWDqUSNcnAhkjsihs47XkR64hDEH5dDZhdvpump",
+    "first_seen": "2026-07-08T21:55:24.727387+00:00"
+  },
+  "degen": {
+    "mint": "43iFN9hq1n59Jn9vREbHAcpHm2G1FEmEu3Yg2WRmpump",
+    "first_seen": "2026-07-08T21:55:25.101998+00:00"
+  },
+  "bbb": {
+    "mint": "YB5Tpr1uYfmFNHb3HWDQw4gUV6kz1Cx2sDpo5KRpump",
+    "first_seen": "2026-07-08T21:55:25.750103+00:00"
+  },
+  "goal": {
+    "mint": "LGRaqLffdXc58FV1TVthxQbEepmHSVLQQZLL4h2pump",
+    "first_seen": "2026-07-08T21:55:26.089967+00:00"
+  },
+  "goofy": {
+    "mint": "AbSkcX9De1vPjgdcXJrdHJigmENYwijZHK6djD4ipump",
+    "first_seen": "2026-07-08T21:55:26.773320+00:00"
+  },
+  "stupid": {
+    "mint": "8dm89xrAGYFLZyaFADxa44PEX2PGxQ7geNLquoeNQzzE",
+    "first_seen": "2026-07-08T21:55:27.113382+00:00"
+  },
+  "jspace": {
+    "mint": "7eeh3GhM2onqZdnBPzKwfdqcKxmYEtxEHwYFT8ZRpump",
+    "first_seen": "2026-07-08T21:55:31.463315+00:00"
+  },
+  "pophood": {
+    "mint": "Gkd8NnXnNyjST5XuvJhrHLK3X6N3rBRsX1NeWDyXpump",
+    "first_seen": "2026-07-08T21:55:31.970663+00:00"
   }
 }
