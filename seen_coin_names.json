@@ -3610,5 +3610,53 @@
   "barron": {
     "mint": "39ryWapEuDgoVSaJW2W9q6Ep5qXtQ2N3AMtGhEi3EYEh",
     "first_seen": "2026-07-08T01:40:01.612080+00:00"
+  },
+  "spamd": {
+    "mint": "5VEfASG42qajuRVFzLeSkHsnzYALMHjMeoJLT4oJpump",
+    "first_seen": "2026-07-08T01:49:54.596561+00:00"
+  },
+  "joel": {
+    "mint": "CkJyqnkDhbtc91GrwYdHhwTjDuFbPXkcrvbzRk3BVCQd",
+    "first_seen": "2026-07-08T01:49:56.020924+00:00"
+  },
+  "wtf": {
+    "mint": "HoyDBzLWVJXjLBfRHoBvPhGiuunfV5L5NELzaXi9snSB",
+    "first_seen": "2026-07-08T01:49:56.409090+00:00"
+  },
+  "rug": {
+    "mint": "JB1L8GemPnyLe5bYAep4u4umLnyqH22JVinpskUJ2eRL",
+    "first_seen": "2026-07-08T01:49:56.816246+00:00"
+  },
+  "rugwif": {
+    "mint": "9XDw8SL8bAvVTGavTbdj8VTvw1yJZGM1i78WedAapump",
+    "first_seen": "2026-07-08T01:49:59.913612+00:00"
+  },
+  "tmai": {
+    "mint": "APayv8oiiWdyBqWU7rRRUfewyJYBJRitEPVbcZ4xpump",
+    "first_seen": "2026-07-08T01:50:01.939075+00:00"
+  },
+  "zazu": {
+    "mint": "AviKHWoXAHcpRnCX3cH38fHtjjn11aL9Pqjid3sZpump",
+    "first_seen": "2026-07-08T01:50:08.308649+00:00"
+  },
+  "syrupusdc": {
+    "mint": "AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj",
+    "first_seen": "2026-07-08T01:50:08.324889+00:00"
+  },
+  "usdg": {
+    "mint": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+    "first_seen": "2026-07-08T01:50:08.337584+00:00"
+  },
+  "pnut": {
+    "mint": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+    "first_seen": "2026-07-08T01:50:08.356237+00:00"
+  },
+  "zec": {
+    "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+    "first_seen": "2026-07-08T01:50:08.869196+00:00"
+  },
+  "pyusd": {
+    "mint": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+    "first_seen": "2026-07-08T01:50:08.919435+00:00"
   }
 }
