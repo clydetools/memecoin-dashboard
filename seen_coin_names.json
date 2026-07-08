@@ -3814,5 +3814,25 @@
   "twhale": {
     "mint": "34C8MSjZLc9vJqXD3bejZYCQxeToWa3Ep7zBPBpWpump",
     "first_seen": "2026-07-08T02:30:02.510486+00:00"
+  },
+  "rpg": {
+    "mint": "GwaModKvqYtUauRs8nq3Mwefn9xWCqdhvrnEwVBGpump",
+    "first_seen": "2026-07-08T02:39:55.785814+00:00"
+  },
+  "fcklol": {
+    "mint": "GLaD4kgc5xvdBadfKAb1m7HgtfVwvXSv9aMNhdQHpump",
+    "first_seen": "2026-07-08T02:39:56.135652+00:00"
+  },
+  "hakimi": {
+    "mint": "GFrbDFQGacyK2syN5suzWWDwgUXdtEzMoR2mpuQQpump",
+    "first_seen": "2026-07-08T02:39:56.790647+00:00"
+  },
+  "wcoin": {
+    "mint": "D7zE2UFfbry3n6taWE7qpE3Msupwjjny8hK5CPCgpump",
+    "first_seen": "2026-07-08T02:39:57.121747+00:00"
+  },
+  "cashcow": {
+    "mint": "GZfxbuApGLfRwsuiE8NVygRsGDHvTwcP5Tn7tMPoQeVd",
+    "first_seen": "2026-07-08T02:40:02.220858+00:00"
   }
 }
