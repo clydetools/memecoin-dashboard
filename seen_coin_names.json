@@ -4222,5 +4222,13 @@
   "dahg": {
     "mint": "Ba8nPsbPuTDZ9e9TyfnfkSNPt2NTA7PHiy6F9BnFpump",
     "first_seen": "2026-07-08T04:49:54.053231+00:00"
+  },
+  "believe": {
+    "mint": "8onZSV5LczH7FbgE3uYUDcFMMHTDBfDCXTh8A2Agpump",
+    "first_seen": "2026-07-08T04:59:53.849566+00:00"
+  },
+  "bullshit": {
+    "mint": "X7fRjHNjv2rivSgnw8SUPy8sxo87zWeuyv1141fpump",
+    "first_seen": "2026-07-08T04:59:55.884008+00:00"
   }
 }
