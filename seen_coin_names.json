@@ -5866,5 +5866,45 @@
   "trenchin": {
     "mint": "ExvtVfny3MZeuRvCPwGwH1GfVTDHGvH5KY1VUXdSpump",
     "first_seen": "2026-07-08T14:30:01.186926+00:00"
+  },
+  "chbull": {
+    "mint": "BCGhvAoGtKrTEsDwxuxVfTumtR6nvBB7iKBTh3Tipump",
+    "first_seen": "2026-07-08T14:40:28.354209+00:00"
+  },
+  "lizzi": {
+    "mint": "HA6ibPFAXauNwaVGkfpvkwjdC7kCaUXkENEfVc9rpump",
+    "first_seen": "2026-07-08T14:40:28.903388+00:00"
+  },
+  "dachrex": {
+    "mint": "2UGJGtKXgdnd7aKJxoQiavPUjJxKqsyXvudWeBXCpump",
+    "first_seen": "2026-07-08T14:40:29.469832+00:00"
+  },
+  "time": {
+    "mint": "Hi9ieQ2UGGHwSgViC8W4aKpSxQdg7LksD3fVVZTMpump",
+    "first_seen": "2026-07-08T14:40:33.437118+00:00"
+  },
+  "snowbull": {
+    "mint": "J1rwohuzUf744gHP8hxmzZ6VqSJ2CCmPjdDmgkatpump",
+    "first_seen": "2026-07-08T14:40:33.955528+00:00"
+  },
+  "cshrt": {
+    "mint": "D7jPUn2h5GBCJ4NgwRZ3xyAsqXq1xiEXvLgxGx3Cpump",
+    "first_seen": "2026-07-08T14:40:34.508243+00:00"
+  },
+  "cefeqwoufd": {
+    "mint": "HonaBu6pMRo55Z7QSbp2kmfokkU2zUujbuPC1A9Zpump",
+    "first_seen": "2026-07-08T14:40:35.123289+00:00"
+  },
+  "ttb": {
+    "mint": "EwJ73qDnL2xy9PvSXs8jTghiUAZC718v646jVQSgpump",
+    "first_seen": "2026-07-08T14:40:35.682856+00:00"
+  },
+  "catboy": {
+    "mint": "3UCdpV5mTb4TmJSCyPkaAsuUFvaF4ofc2uXCEj3Jpump",
+    "first_seen": "2026-07-08T14:40:40.548493+00:00"
+  },
+  "ebola": {
+    "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+    "first_seen": "2026-07-08T14:40:41.278894+00:00"
   }
 }
