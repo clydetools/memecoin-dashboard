@@ -5490,5 +5490,37 @@
   "mona": {
     "mint": "FynLit7vDr6K1wEfa4JfXnYfSYXmYNdKWrYbnhH8Z2QG",
     "first_seen": "2026-07-08T12:30:02.356061+00:00"
+  },
+  "rbull": {
+    "mint": "26phXyQgJGKQTM5DqQ33NzXZS9gJ5Wm2UJQetr13H7rm",
+    "first_seen": "2026-07-08T12:39:54.372964+00:00"
+  },
+  "paincat": {
+    "mint": "CmTzgemov9JjSMV71TRAhrWX3Yrkziru6rtQkTE3pump",
+    "first_seen": "2026-07-08T12:39:55.672017+00:00"
+  },
+  "momy": {
+    "mint": "DPPKaqib1pqA6UUAmAkX7LUdTL5xwe3u4NmP6eivpump",
+    "first_seen": "2026-07-08T12:39:56.062755+00:00"
+  },
+  "crap": {
+    "mint": "9RUpF282Sb6USNh8FLVN8goCBrgsdQaPSXs643k2pump",
+    "first_seen": "2026-07-08T12:39:56.500922+00:00"
+  },
+  "jdf2": {
+    "mint": "7nTDguMzAPQ3gRGMJRSyLryBRf7Vw8wJmivyDxAtpump",
+    "first_seen": "2026-07-08T12:39:56.933476+00:00"
+  },
+  "robindog": {
+    "mint": "2rmjqUaBNLLpmWdHBTphyjhnLhxdCN2Z4uwSBhksD5do",
+    "first_seen": "2026-07-08T12:39:57.359291+00:00"
+  },
+  "alxcocks": {
+    "mint": "5DPVeNpPeZgbupVnJj1vzKEjVodmwnAnLRPnEQttpump",
+    "first_seen": "2026-07-08T12:39:57.781824+00:00"
+  },
+  "boxdawg": {
+    "mint": "BfxZDEEQ7BjcK535Cqgx8otJmGNHiSJEKLtMiodepump",
+    "first_seen": "2026-07-08T12:39:58.160037+00:00"
   }
 }
