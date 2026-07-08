@@ -7130,5 +7130,29 @@
   "bullduc": {
     "mint": "EZ94MWfZ5E17WhVvykN6VEmoRVRERAini38dFXUspump",
     "first_seen": "2026-07-08T20:20:05.039166+00:00"
+  },
+  "shipley": {
+    "mint": "GqibpBQDKJ4a4P2cvKqXKzo5YpbLqKgxTUNm1vpLpump",
+    "first_seen": "2026-07-08T20:29:55.957991+00:00"
+  },
+  "brainrot": {
+    "mint": "EufKaWUSenCFaeLqHo4YBvfJ758QFMjtF51j18tzUkJT",
+    "first_seen": "2026-07-08T20:29:56.463794+00:00"
+  },
+  "ttsa": {
+    "mint": "JAbjb3iXGpZheh8B21obpQTNnp7uRQcGFsuUHrPUpump",
+    "first_seen": "2026-07-08T20:29:57.056599+00:00"
+  },
+  "frontroar": {
+    "mint": "BfZMH2vHgHfSnpwWg41zVUGyNPwMQVnSCr67XiREpump",
+    "first_seen": "2026-07-08T20:29:57.569381+00:00"
+  },
+  "tripleh": {
+    "mint": "JAnpzLUD4gQuaEMBnUDMPh5uGrXFhHwpxgNK1Zn2pump",
+    "first_seen": "2026-07-08T20:29:59.157686+00:00"
+  },
+  "sleepycoin": {
+    "mint": "2PLxeByZoHrj7yg8wnMW2iWspFtwU14BqCqJJvgApump",
+    "first_seen": "2026-07-08T20:30:00.271275+00:00"
   }
 }
