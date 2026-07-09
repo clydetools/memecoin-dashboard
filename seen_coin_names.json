@@ -7850,5 +7850,45 @@
   "alpacas": {
     "mint": "AE7gr74vQqdYhMEGQCdZRZjHn5TovkCJbWwirgDkpump",
     "first_seen": "2026-07-09T00:20:03.309271+00:00"
+  },
+  "cpump": {
+    "mint": "GYAFHXsLvSJfS1Maa8QeiLR6RGQoEJJJCQx3dsDxpump",
+    "first_seen": "2026-07-09T00:29:55.068549+00:00"
+  },
+  "nocease": {
+    "mint": "AJk6bUTyHSN9QC3hMiH3bNnmNnXUzVePStEZEJS2pump",
+    "first_seen": "2026-07-09T00:29:55.410579+00:00"
+  },
+  "swamp": {
+    "mint": "8CfdBquAnzT5fq39aMYzWzvCdvZVGMwTeFgU3oEMpump",
+    "first_seen": "2026-07-09T00:29:56.373660+00:00"
+  },
+  "sub": {
+    "mint": "49R2AZV34RfTkD9LpvKBJQszGfAtVwQFDrMG5BGapump",
+    "first_seen": "2026-07-09T00:29:56.688969+00:00"
+  },
+  "zimzalabim": {
+    "mint": "CN38MFTdFpZTdtQheLejeHfr9Gjaz1UPibgzbkRwpump",
+    "first_seen": "2026-07-09T00:29:57.030804+00:00"
+  },
+  "dtrump": {
+    "mint": "5aautVyEeh1ozRFqPFktEH3JdUc3jwMmnhcGtmLFpump",
+    "first_seen": "2026-07-09T00:29:57.722514+00:00"
+  },
+  "lion": {
+    "mint": "AgKw2d67cyM6LFRgfxc6ArHJJdsFWp7SK3rEMzgFpump",
+    "first_seen": "2026-07-09T00:29:58.047259+00:00"
+  },
+  "hoodsey": {
+    "mint": "HFc9PUv3L8g9MADff8bs4dJZumaAmytAA1Ho5kkz4D55",
+    "first_seen": "2026-07-09T00:30:03.228263+00:00"
+  },
+  "huhcat": {
+    "mint": "GZBA2dN9NWaCPy53YJWBQBbH1eMyWAzCHBAeHiEQBkDr",
+    "first_seen": "2026-07-09T00:30:03.255480+00:00"
+  },
+  "ransom": {
+    "mint": "Abus9JYgJYLziNQvSrn8qxVARtKEJ28YpGmMgv5FvnhU",
+    "first_seen": "2026-07-09T00:30:03.290997+00:00"
   }
 }
