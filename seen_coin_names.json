@@ -7794,5 +7794,37 @@
   "cocktail": {
     "mint": "Ckq968mScTUsmMi8pHyumijMTsdWmSvQmtruBgXgasz8",
     "first_seen": "2026-07-09T00:00:08.106404+00:00"
+  },
+  "cozy": {
+    "mint": "E267RcYDpPuS3qhFVy1xCaJwRsGwE6PDYpPCuTPnpump",
+    "first_seen": "2026-07-09T00:09:59.147514+00:00"
+  },
+  "trend": {
+    "mint": "Jt1qncfSNc2ZYaSJcGTwjeBeG2mqaSpcX2YrVpHpump",
+    "first_seen": "2026-07-09T00:10:00.760520+00:00"
+  },
+  "euphoria": {
+    "mint": "FYEa7VAfacjVAASpiubjGXeZvgHsmDa84Cv64kvbpump",
+    "first_seen": "2026-07-09T00:10:01.713513+00:00"
+  },
+  "readit": {
+    "mint": "71XBSBmCbC7gTnjmWucdRYpALY1irbDiC1pU1cBfSxSA",
+    "first_seen": "2026-07-09T00:10:02.752827+00:00"
+  },
+  "crowy": {
+    "mint": "DYbbq1wHNyUqzt671F3s8yWgyrXUbzftxatZprtrpump",
+    "first_seen": "2026-07-09T00:10:04.285190+00:00"
+  },
+  "dustdog": {
+    "mint": "AG4wrqen7yHyZxBd1u5bcKEuihzSKxcr5swufC5apump",
+    "first_seen": "2026-07-09T00:10:06.693321+00:00"
+  },
+  "triplef": {
+    "mint": "DK2ETj8fMzEaMGkVD5xj96mE9i2ptjLHpeCntESKpump",
+    "first_seen": "2026-07-09T00:10:07.703398+00:00"
+  },
+  "dogstages": {
+    "mint": "3HqJhuAAQyaeWJtzV418RMoFT73efc7vRPbHroUQboCc",
+    "first_seen": "2026-07-09T00:10:17.029336+00:00"
   }
 }
