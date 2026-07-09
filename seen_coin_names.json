@@ -8070,5 +8070,45 @@
   "bro": {
     "mint": "ArEvdUzDBrxd6WZZZyV7zMemwij65M6JfAFF9PuPpump",
     "first_seen": "2026-07-09T21:54:16.057234+00:00"
+  },
+  "zeu": {
+    "mint": "CWpxBuWKdQtMnUxVvEXeWZ8jJLmhw3L9Bi2GXvfwpump",
+    "first_seen": "2026-07-09T22:47:21.515616+00:00"
+  },
+  "cashmeow": {
+    "mint": "9PJB2PrbEnCiuXyGLCmUEc8qPpAy8HPFGDaEARs7pump",
+    "first_seen": "2026-07-09T22:47:23.280533+00:00"
+  },
+  "prxn": {
+    "mint": "7Dmu4nQcDysNKsZAgMVmVGfj77vdLVqfiHAFCnWDfb9a",
+    "first_seen": "2026-07-09T22:47:26.050282+00:00"
+  },
+  "blyat": {
+    "mint": "99CvhkGD7PdzB3X2t7dJ5ToUrBfjAtn2ydSy5mzxpump",
+    "first_seen": "2026-07-09T22:47:28.244882+00:00"
+  },
+  "freetards": {
+    "mint": "5rZDVeARX4q7giV1mXKXqwcPqeyNMb7iZ9kEfEY2pump",
+    "first_seen": "2026-07-09T22:47:28.766965+00:00"
+  },
+  "ricomaps": {
+    "mint": "6tf2X4GbYdM59hAMNa5kgyja2C9CjwUVqr9YLvJ1pump",
+    "first_seen": "2026-07-09T22:47:33.361921+00:00"
+  },
+  "ginnan": {
+    "mint": "GMuQjK3KLzdyZTn7fLS99vxD8YGfXeHhLzzb7Dcepump",
+    "first_seen": "2026-07-09T22:47:33.382652+00:00"
+  },
+  "daemon": {
+    "mint": "4vpf4qNtNVkvz2dm5qL2mT6jBXH9gDY8qH2QsHN5pump",
+    "first_seen": "2026-07-09T22:47:34.131413+00:00"
+  },
+  "zinc": {
+    "mint": "zinc155BS4mSPk8GXQj4R5hkVDQXcW253pTYq5SGyfi",
+    "first_seen": "2026-07-09T22:47:34.203165+00:00"
+  },
+  "arrow": {
+    "mint": "G6cHLEwYHyZJXBhKpSWMU6RUtcq9HM9UTn2cTEdKpump",
+    "first_seen": "2026-07-09T22:47:34.373280+00:00"
   }
 }
