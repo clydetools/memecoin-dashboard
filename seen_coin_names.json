@@ -9258,5 +9258,37 @@
   "billy": {
     "mint": "8EzagXspppz7uurbQGQ33R3dwqJL5y8e8Q3txxRNpump",
     "first_seen": "2026-07-10T09:00:09.184438+00:00"
+  },
+  "lupazalupa": {
+    "mint": "iDitNuGZAEowFGTpyAorqDLa4DznmKHAUbVk148pump",
+    "first_seen": "2026-07-10T09:09:58.581390+00:00"
+  },
+  "zalupa": {
+    "mint": "7dJEb3JYJUmiNryDzTspV64uhEdwWQrYTm64wfeGpump",
+    "first_seen": "2026-07-10T09:09:59.629187+00:00"
+  },
+  "prophecy": {
+    "mint": "4fH9vcc45PEwLoutQoekgkb5Yk1GGRuqPQbRpGaEpump",
+    "first_seen": "2026-07-10T09:10:00.719582+00:00"
+  },
+  "ctv": {
+    "mint": "C2CqrQ8dJpk3bnKhUPaVxmSaBJANjLG3PWmoSr5gZjXs",
+    "first_seen": "2026-07-10T09:10:01.262347+00:00"
+  },
+  "lupa": {
+    "mint": "2RZejUyf6P3DzrN1522BqaGmsFYcct89g3CmptwZpump",
+    "first_seen": "2026-07-10T09:10:02.845648+00:00"
+  },
+  "jellybean": {
+    "mint": "412zDygnwP9DzitnQVgRKUFFTDmrYScFch6P2k39pump",
+    "first_seen": "2026-07-10T09:10:09.037539+00:00"
+  },
+  "tuna": {
+    "mint": "GfLD9EQn7A1UjopYVJ8aUUjHQhX14dwFf8oBWKW8pump",
+    "first_seen": "2026-07-10T09:10:09.081934+00:00"
+  },
+  "obx": {
+    "mint": "ttgtaonT9ncgPqgsgJxmLe4Ls1VuVaqJyDyvJJfpump",
+    "first_seen": "2026-07-10T09:10:09.131498+00:00"
   }
 }
