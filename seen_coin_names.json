@@ -9974,5 +9974,57 @@
   "hunter": {
     "mint": "9KmbsNy4QKfEF4uWnPxLBLHu4N1i13TzHK8a3KBn4VK2",
     "first_seen": "2026-07-10T14:10:03.384153+00:00"
+  },
+  "trash": {
+    "mint": "BFBEprNDqU5MppBqFWKBzjLHyDV6ouRqGm6RpJkwpump",
+    "first_seen": "2026-07-10T14:19:54.825008+00:00"
+  },
+  "nig6900": {
+    "mint": "BzAbsEGGdEDeWCJ71493BUoE2Je68WmewRTz8oKSpump",
+    "first_seen": "2026-07-10T14:20:02.031310+00:00"
+  },
+  "smole": {
+    "mint": "De2FATF5DCwGXVC4m4miQZSEgNFepvzUHqS4pUv9pump",
+    "first_seen": "2026-07-10T14:20:02.519935+00:00"
+  },
+  "finance": {
+    "mint": "7rjeYVqFf5xovc5vKm34DSTNjbSbC9PcKRg58UfXpump",
+    "first_seen": "2026-07-10T14:20:04.137714+00:00"
+  },
+  "ansemoto": {
+    "mint": "B33Hwhmd9em1pRyTDC6nmxqryJkAcAAQ3PobU8Wepump",
+    "first_seen": "2026-07-10T14:20:08.776828+00:00"
+  },
+  "wisdom": {
+    "mint": "9ANUHRCZqhDb1jq6z6feGFuy46x8iH7GFonYsqfipump",
+    "first_seen": "2026-07-10T14:20:09.243944+00:00"
+  },
+  "cod": {
+    "mint": "37v1BLJQDQDjLj3xwykdBFngJEg8hi8Bp7QNMYRTpump",
+    "first_seen": "2026-07-10T14:20:13.220098+00:00"
+  },
+  "nigga": {
+    "mint": "3ih5Ckb2tsiT5Jdgrmwb3SzNvHRtnMmA89RYGb7dpump",
+    "first_seen": "2026-07-10T14:20:13.644865+00:00"
+  },
+  "niggacoin": {
+    "mint": "AkgFRJVVmsC29gZtNgeEUFrg25F6gCLQZhTs7zWEpump",
+    "first_seen": "2026-07-10T14:20:15.203948+00:00"
+  },
+  "claude": {
+    "mint": "BFivGWbY67DWWG8cGTL9vsAnjM8APBCSVUgsqpqVpump",
+    "first_seen": "2026-07-10T14:20:15.631767+00:00"
+  },
+  "kryptonite": {
+    "mint": "ExkiBzrL1LZ3RPyRM3UvDqLmu8xdr58nXAqRYZ8ypump",
+    "first_seen": "2026-07-10T14:20:19.989404+00:00"
+  },
+  "fable": {
+    "mint": "HMSPnngim78o9t2KVfGBEg79NGS1s3c1AyRFu8z3pump",
+    "first_seen": "2026-07-10T14:20:20.529524+00:00"
+  },
+  "usoh": {
+    "mint": "DPfkpzdx1f6wtyVNfrcLZp9Zi2eWt1ycvDF6iWoeH3fP",
+    "first_seen": "2026-07-10T14:20:20.561528+00:00"
   }
 }
