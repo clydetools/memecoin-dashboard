@@ -8402,5 +8402,21 @@
   "retail": {
     "mint": "9JiEKqjYfwrxN9A6bKM1xBsiuJTGBR89uMGB7QnFpump",
     "first_seen": "2026-07-10T01:50:03.317742+00:00"
+  },
+  "soon": {
+    "mint": "2mKYEh4eijDsZRJ7jsR2JW4CETBVBJhXWuSGGL9Bpump",
+    "first_seen": "2026-07-10T01:59:59.105743+00:00"
+  },
+  "faker": {
+    "mint": "8Z57meCCfUsh5VCaVW5e9xnTC4FzbuWweBBM9UMLpump",
+    "first_seen": "2026-07-10T01:59:59.744149+00:00"
+  },
+  "tipqueen": {
+    "mint": "5ZHJZbeSzavAcvfoqhigBSGkBNQxSxxh8ZA4wiFopump",
+    "first_seen": "2026-07-10T02:00:01.451570+00:00"
+  },
+  "albemarle": {
+    "mint": "6fcMQNzk9B4r3oZ2DghDCwFRJaHWT9f7KoUREXpCpump",
+    "first_seen": "2026-07-10T02:00:03.103917+00:00"
   }
 }
