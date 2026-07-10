@@ -8942,5 +8942,29 @@
   "hermesworld": {
     "mint": "2YF1qxgYVY9x6UWVfampZp9er7PHXRYRDKi3isFnYhH9",
     "first_seen": "2026-07-10T06:10:06.203293+00:00"
+  },
+  "cancer": {
+    "mint": "5xaGR9B3i91oYXKZWUXWkLrric6EXvRVyWGDE7uGpump",
+    "first_seen": "2026-07-10T06:20:01.504672+00:00"
+  },
+  "tasty": {
+    "mint": "Fn12fPTcSWzYxhv5Nf94ikfxwHK2oJEBwuJmYrEKpump",
+    "first_seen": "2026-07-10T06:20:02.080539+00:00"
+  },
+  "ggc": {
+    "mint": "A6VATus3TxGFDCe7uT21iuPFdmZhQtNH9qXBCdhvpump",
+    "first_seen": "2026-07-10T06:20:02.623414+00:00"
+  },
+  "keling": {
+    "mint": "ERrYwZF88ZBezREEubxAfcjS5dYacFsrcLJu3gqypump",
+    "first_seen": "2026-07-10T06:20:04.265917+00:00"
+  },
+  "batcat": {
+    "mint": "6Nqj9sktvKPbPQyu3Kd7tGKec3FvfdLxuWSiCniYpump",
+    "first_seen": "2026-07-10T06:20:04.805375+00:00"
+  },
+  "punk": {
+    "mint": "5NgaVXHoikb9e326MSCwo44DXKGuPiKVt9q9Tm51pump",
+    "first_seen": "2026-07-10T06:20:11.632942+00:00"
   }
 }
