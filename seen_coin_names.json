@@ -9654,5 +9654,33 @@
   "memesai": {
     "mint": "9oZeoKcR112wf8sNqBxnSi6Y4U8ZiyKiow2bDd6Gpump",
     "first_seen": "2026-07-10T11:50:08.969901+00:00"
+  },
+  "othercoin": {
+    "mint": "Ci4qVjPd1o3bpFWNieBNy1jgqBBuP2DesnUDjMSTpump",
+    "first_seen": "2026-07-10T11:59:55.631038+00:00"
+  },
+  "come": {
+    "mint": "2t6UXwYufduTqYLJojTrcyS9vwKuKoiqjcjQtQsKpump",
+    "first_seen": "2026-07-10T11:59:57.197354+00:00"
+  },
+  "roppy": {
+    "mint": "Gysk1hHVov9BEXoRCcGcQdiKFf4e3YdsJ6qeP4r9pump",
+    "first_seen": "2026-07-10T11:59:57.712137+00:00"
+  },
+  "nothapcat": {
+    "mint": "2pSe9G1JRYsxQZDFZB4WKWFLXtkztqyZmXzCcvHVpump",
+    "first_seen": "2026-07-10T11:59:59.236886+00:00"
+  },
+  "oreo": {
+    "mint": "8b3vNyWqdiXDx9BM4oqZ4Y58MNnCs3QSgF57Knw1pump",
+    "first_seen": "2026-07-10T12:00:00.270243+00:00"
+  },
+  "godcoin": {
+    "mint": "3tiaJo3aLmxP8WbCGM39gX8Ek57UNifhKsF6SVocpump",
+    "first_seen": "2026-07-10T12:00:00.791670+00:00"
+  },
+  "dadscoin": {
+    "mint": "7sv7Y2QwfpevuZqgGy9F5rNRM7aqKC43ybouakoUpump",
+    "first_seen": "2026-07-10T12:00:01.301420+00:00"
   }
 }
