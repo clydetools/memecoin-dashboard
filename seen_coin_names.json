@@ -8334,5 +8334,25 @@
   "spepe": {
     "mint": "3bwtvuDWid8wk4oMMnzQSyHz8d3zf628eiyjjAMSpump",
     "first_seen": "2026-07-10T01:20:01.078827+00:00"
+  },
+  "lfish": {
+    "mint": "BYgMZzs2pBKivhVfLKHmBxoqssoX5cofjdPrukcopump",
+    "first_seen": "2026-07-10T01:29:58.077682+00:00"
+  },
+  "fz": {
+    "mint": "Hu9JHqVL6UbVmq72sK936gFLuF9tzHW7ipwv5NPspump",
+    "first_seen": "2026-07-10T01:29:58.410344+00:00"
+  },
+  "mbull": {
+    "mint": "9WhF7jZJ66Q5gSUyof7iVKbooJP9SkaQFa8rcW6ipump",
+    "first_seen": "2026-07-10T01:30:01.264798+00:00"
+  },
+  "hamburger": {
+    "mint": "48GjZEpCYL8HMgTjNJDeovZvkSSCGndWMuvmifaYpump",
+    "first_seen": "2026-07-10T01:30:03.669626+00:00"
+  },
+  "stag": {
+    "mint": "MXq6EDaCEUfzed1X1D6HDeeoNJQ97zx18w3TX6Dpump",
+    "first_seen": "2026-07-10T01:30:08.875303+00:00"
   }
 }
