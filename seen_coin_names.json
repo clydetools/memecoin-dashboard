@@ -10386,5 +10386,53 @@
   "moginu": {
     "mint": "3dLdvu96Z94xufNgX11tmDvDVWTRZ719S2tjAkhNpump",
     "first_seen": "2026-07-10T16:40:00.304643+00:00"
+  },
+  "fatbull": {
+    "mint": "9vRAMtgD3xADbzRcg3fSrk5tCgsjXApWfjGak2Qupump",
+    "first_seen": "2026-07-10T16:49:55.080052+00:00"
+  },
+  "pcws": {
+    "mint": "8bqagjWAE5JsFsiWc9oGBP8m3NmLXeSTX6qU7ZDupump",
+    "first_seen": "2026-07-10T16:49:55.943818+00:00"
+  },
+  "riplet": {
+    "mint": "6VoHDQPVBKiqjMQBo91Ei4TrfEvAT2dhYBRvxXV9pump",
+    "first_seen": "2026-07-10T16:49:56.342361+00:00"
+  },
+  "ilm": {
+    "mint": "AiJakZnB5sCDR3sPA1SqRMUpYyMRDFtGB8ztDG1Cpump",
+    "first_seen": "2026-07-10T16:49:56.707286+00:00"
+  },
+  "plx": {
+    "mint": "9qURHxthfjPxmQNdQYr1Q7HGfLDTzNj5AKXcxjiXpump",
+    "first_seen": "2026-07-10T16:49:57.101159+00:00"
+  },
+  "ba2": {
+    "mint": "6Moq8sRddwPi9P7MLGgu9dDNgj6RuPG1tLr6oVG6pump",
+    "first_seen": "2026-07-10T16:49:57.523718+00:00"
+  },
+  "flapping": {
+    "mint": "BBnAwyQDi3SJEsR1DkXbjGrctgUXmJArtJuY59sHpump",
+    "first_seen": "2026-07-10T16:49:59.670666+00:00"
+  },
+  "runner": {
+    "mint": "99eyCJSujMBxXGUjXphiG61nzKSVHDFUBpDcsvCppump",
+    "first_seen": "2026-07-10T16:50:00.084826+00:00"
+  },
+  "tabitok": {
+    "mint": "7PzgKLwW1LCGURNGea7R6gMjEhEabNqSVRu5ypgYpump",
+    "first_seen": "2026-07-10T16:50:04.297387+00:00"
+  },
+  "purpe": {
+    "mint": "HBoNJ5v8g71s2boRivrHnfSB5MVPLDHHyVjruPfhGkvL",
+    "first_seen": "2026-07-10T16:50:04.799029+00:00"
+  },
+  "tempo": {
+    "mint": "22cHS5gnEZwPj6WDq4eCwrJw58WjaqgE7LhJmtkM8Puv",
+    "first_seen": "2026-07-10T16:50:04.890730+00:00"
+  },
+  "autisem": {
+    "mint": "6KqRZwgsP2vBYg1bDEBZqQp6e7HGvgCYWNNTBQpRpump",
+    "first_seen": "2026-07-10T16:50:04.974614+00:00"
   }
 }
