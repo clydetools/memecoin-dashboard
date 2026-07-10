@@ -10326,5 +10326,13 @@
   "triplebull": {
     "mint": "3rc9GZmrshHryVBvYusXBP2VaxqHpChBEBof1ujzpump",
     "first_seen": "2026-07-10T16:00:05.434631+00:00"
+  },
+  "xsol": {
+    "mint": "ASKXDcDXyHJVHkFS6PyKWp3hp7m94g9KQEEy6GYtMH29",
+    "first_seen": "2026-07-10T16:10:03.555678+00:00"
+  },
+  "hexstarufo": {
+    "mint": "B9uGfvtdYeqBiNSikZttvVcGRodD5wLWg4TdYGBHpump",
+    "first_seen": "2026-07-10T16:10:04.103844+00:00"
   }
 }
