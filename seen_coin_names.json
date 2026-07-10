@@ -8238,5 +8238,45 @@
   "tardy": {
     "mint": "6DrbqjN1u5YcJjop6Vujdc1jRWXRz1XZ9vQi1HWYXkt",
     "first_seen": "2026-07-10T00:29:58.625145+00:00"
+  },
+  "michicash": {
+    "mint": "hP2bxELC1tFSwYMLiaPC8jbjtpwh472eoBkb3wrpump",
+    "first_seen": "2026-07-10T00:39:52.082526+00:00"
+  },
+  "wat": {
+    "mint": "22oEQGqSko1JsVQmDwg87NiZvghQB6RNSFrAr8fSpump",
+    "first_seen": "2026-07-10T00:39:52.448820+00:00"
+  },
+  "check": {
+    "mint": "G45M2kvsX31HMHcLmcgVM8zju7ZhMoDcs3CPexbjpump",
+    "first_seen": "2026-07-10T00:39:53.136664+00:00"
+  },
+  "shx": {
+    "mint": "8W43gVejuQmUaLfHydbwFd1LWzNUQnPMgAqJGUfQpump",
+    "first_seen": "2026-07-10T00:39:53.588497+00:00"
+  },
+  "vibecat": {
+    "mint": "8r8TWGSExyrS9SmMQo5WMNVitTeMiHDsVUu18YBopump",
+    "first_seen": "2026-07-10T00:39:53.923215+00:00"
+  },
+  "kirbos": {
+    "mint": "CrhPYaHr7sX3UB8uPGdPLycUHJWyYDSudHZduHfqpump",
+    "first_seen": "2026-07-10T00:39:55.011590+00:00"
+  },
+  "peaceguy": {
+    "mint": "85vdovHhkXnDi98EYMQmD2vXS82jRP1VDDXfkJ38pump",
+    "first_seen": "2026-07-10T00:39:59.657390+00:00"
+  },
+  "popcup": {
+    "mint": "9DHbn4hRPPnsd9auhCytRCfRpaPvxpj6qSDenqLmpump",
+    "first_seen": "2026-07-10T00:39:59.681593+00:00"
+  },
+  "jtx": {
+    "mint": "BNRm5RqFTF2zWADwTmVVLWeGXJATptNVpBKQU9Z2pump",
+    "first_seen": "2026-07-10T00:40:00.018851+00:00"
+  },
+  "bullji": {
+    "mint": "DGqcaiEscD7A7JkyunA84UDCwc9t7krQhDk3XAKXpump",
+    "first_seen": "2026-07-10T00:40:00.065946+00:00"
   }
 }
