@@ -9430,5 +9430,17 @@
   "redboo": {
     "mint": "CAi1qqqVRickbPaJ7uUQXFsPwvu6cs67WHpfU5yiygrs",
     "first_seen": "2026-07-10T10:19:59.427242+00:00"
+  },
+  "farmed": {
+    "mint": "71dvNrPeeTZSDgoM9oRzYA3k4BHtttC42foXLQBfpump",
+    "first_seen": "2026-07-10T10:29:54.611622+00:00"
+  },
+  "stim": {
+    "mint": "EKfBv7CsinGMuiZyxUk1MymYSfFhSMamcWbKnoupump",
+    "first_seen": "2026-07-10T10:29:55.319040+00:00"
+  },
+  "rave": {
+    "mint": "62PZsoMrcv2JesVfPghDutuKtPjm83owSWQBkw8bMY44",
+    "first_seen": "2026-07-10T10:29:59.638810+00:00"
   }
 }
