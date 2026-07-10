@@ -10730,5 +10730,45 @@
   "puppy": {
     "mint": "kUg4RnJvBiuz6AWFccWPWr1EbXT9ratD9Cb8nRRxfun",
     "first_seen": "2026-07-10T18:30:08.414038+00:00"
+  },
+  "fkb": {
+    "mint": "6wCx9SWmz4sdvYYFo5NjeSwyezgBpkZN68nN4KNUpump",
+    "first_seen": "2026-07-10T18:39:54.639565+00:00"
+  },
+  "xmen": {
+    "mint": "9dywjoCtkta5Ya5pQFAu2VmfKJHG7J95Du35Ld4opump",
+    "first_seen": "2026-07-10T18:39:55.173659+00:00"
+  },
+  "mogsheep": {
+    "mint": "9iaCYhQaBunSAEgMzLq8TSQewo27xkiEuZmGqjSrpump",
+    "first_seen": "2026-07-10T18:39:55.671284+00:00"
+  },
+  "kun": {
+    "mint": "8JQgph2PJrYiMkUXvLgZRc4gaorEmFSvZg72jGWdpump",
+    "first_seen": "2026-07-10T18:39:56.100677+00:00"
+  },
+  "mochat": {
+    "mint": "8WpZFCbQCv28Na73bHktz1hpefnu8FnmMzRUNarvpump",
+    "first_seen": "2026-07-10T18:39:56.544336+00:00"
+  },
+  "yeee": {
+    "mint": "BKGKzDRa3oDr1VgijrwqkaswHmKx7eWzu51VKqpTpump",
+    "first_seen": "2026-07-10T18:39:57.362402+00:00"
+  },
+  "goldaple": {
+    "mint": "5mHaZNpp5DdXyAWQxdGKkWhF75QP2wzHQL61Y43ppump",
+    "first_seen": "2026-07-10T18:39:57.748285+00:00"
+  },
+  "thebull": {
+    "mint": "3GDsJoq79UM4ptApMoyzqn5ccJkSSiQnUnaquU3gpump",
+    "first_seen": "2026-07-10T18:39:58.750958+00:00"
+  },
+  "com": {
+    "mint": "6ASmCmD9fTWWoDTqybtaJi7W6txAN5fjiP5ZH373pump",
+    "first_seen": "2026-07-10T18:40:03.074150+00:00"
+  },
+  "mogcoin": {
+    "mint": "8hb1Dc5hRrEnuVR3MoxKrFqNhdbsvoa2sQPEDGeKpump",
+    "first_seen": "2026-07-10T18:40:03.695424+00:00"
   }
 }
