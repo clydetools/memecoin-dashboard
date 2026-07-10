@@ -8570,5 +8570,9 @@
   "aster": {
     "mint": "ASTvKYYXymYN4XAirCJ6u2RTrNfGbfD1t7q5vCs1FVPo",
     "first_seen": "2026-07-10T02:40:06.416606+00:00"
+  },
+  "xlive": {
+    "mint": "AX7bY9R4TEQL4wGHQKkE6fbhQFVo9LQJjiJb2KQxpump",
+    "first_seen": "2026-07-10T02:49:54.350518+00:00"
   }
 }
