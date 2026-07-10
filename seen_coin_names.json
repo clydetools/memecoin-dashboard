@@ -8574,5 +8574,37 @@
   "xlive": {
     "mint": "AX7bY9R4TEQL4wGHQKkE6fbhQFVo9LQJjiJb2KQxpump",
     "first_seen": "2026-07-10T02:49:54.350518+00:00"
+  },
+  "francis": {
+    "mint": "2m5XcdzvNSPGKwHc6Ss71893fmHNa318T2qYU9espump",
+    "first_seen": "2026-07-10T02:59:53.862498+00:00"
+  },
+  "lomic": {
+    "mint": "EGWT6YH6UT7Z2kvtQYVms1VTbmmBkwWoNZczpoAMpump",
+    "first_seen": "2026-07-10T02:59:54.769907+00:00"
+  },
+  "haoko": {
+    "mint": "AC37oFREWuEprBAwzjAhwADoAFSoCdCAw2pCbBSbqvqg",
+    "first_seen": "2026-07-10T02:59:55.127724+00:00"
+  },
+  "fbull": {
+    "mint": "4W8zdKoYhPEGwmeNtk4Ln2Jh4MnABGBtgHDQNuLQpump",
+    "first_seen": "2026-07-10T02:59:56.565928+00:00"
+  },
+  "gbc2026": {
+    "mint": "4rRpgaK64RhCjtymrA1ZgeWafxGRStsYEknveoE8pump",
+    "first_seen": "2026-07-10T02:59:56.934985+00:00"
+  },
+  "smoke": {
+    "mint": "HBwU35KNvf97p9Sg887pBN5jX54m7hUHBjeVvGrcpump",
+    "first_seen": "2026-07-10T02:59:57.308867+00:00"
+  },
+  "401c": {
+    "mint": "kHEvL1vxMbhqYgp78MKE3tz5VPgU1wXkL3HAghopump",
+    "first_seen": "2026-07-10T02:59:57.665614+00:00"
+  },
+  "rotcoin": {
+    "mint": "Fozgr3cLsYJ2RBjM3XPV1b8UzhrpVmBumAyYvvyopump",
+    "first_seen": "2026-07-10T03:00:02.016686+00:00"
   }
 }
