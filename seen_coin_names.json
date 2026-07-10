@@ -10622,5 +10622,41 @@
   "mogsem": {
     "mint": "G6k4tuNCWh4AkNGVnUbqDrJoce4AdrQmJTRZWUnhpump",
     "first_seen": "2026-07-10T18:00:00.612051+00:00"
+  },
+  "popalon": {
+    "mint": "gdNwsL5rVQ9jcbnMMyiT3R19C129bp59t6oUmeFpump",
+    "first_seen": "2026-07-10T18:09:57.843040+00:00"
+  },
+  "fuckyou": {
+    "mint": "59QR5ePFR1mVGCAKnpQywrfAcQkRNKLaLJrKhKaypump",
+    "first_seen": "2026-07-10T18:09:58.562910+00:00"
+  },
+  "lmao": {
+    "mint": "G4wxPicZgbfAdHuRa819K7Tun6ntLBLM4zc4wSLopump",
+    "first_seen": "2026-07-10T18:09:59.153462+00:00"
+  },
+  "droolers": {
+    "mint": "5eR21gzFJUh1GDqLxCJVRMikonGctK1txn1qxCNxpump",
+    "first_seen": "2026-07-10T18:10:05.151423+00:00"
+  },
+  "freecoins": {
+    "mint": "29d1kSh6ghWSb6wV35bVQvBPZu6VD4EN6TTw1LyHpump",
+    "first_seen": "2026-07-10T18:10:05.681065+00:00"
+  },
+  "mvpw": {
+    "mint": "HAGmN1tbtQ6h6qSjCEWijboS3xmLBG7a2jqZ7zsQRtTn",
+    "first_seen": "2026-07-10T18:10:11.847930+00:00"
+  },
+  "mrvlx": {
+    "mint": "3mFtp8EqhXpKohNFzH9s2CmoYSFwrboDmso54MA8wRju",
+    "first_seen": "2026-07-10T18:10:11.861740+00:00"
+  },
+  "vdor": {
+    "mint": "VDoRrZix72Er41foJAdKrwFqYNozPbktuPa4Xy1A7Au",
+    "first_seen": "2026-07-10T18:10:11.894745+00:00"
+  },
+  "pfex": {
+    "mint": "E69jKcfkFoVSRArbg7WDkRqSbnzAJiYhbVRoZUoo3t7M",
+    "first_seen": "2026-07-10T18:10:11.923898+00:00"
   }
 }
