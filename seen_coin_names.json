@@ -10318,5 +10318,13 @@
   "alphabull": {
     "mint": "CYWiAVhd2XJeVdeCCVz4USHsQC7RERDGtxbnwZWvpump",
     "first_seen": "2026-07-10T15:50:06.679904+00:00"
+  },
+  "bos": {
+    "mint": "86X9RjpTwH8i1LHLwc2iBg5WB2dPxzhfcwob8Qpbou38",
+    "first_seen": "2026-07-10T16:00:04.658877+00:00"
+  },
+  "triplebull": {
+    "mint": "3rc9GZmrshHryVBvYusXBP2VaxqHpChBEBof1ujzpump",
+    "first_seen": "2026-07-10T16:00:05.434631+00:00"
   }
 }
