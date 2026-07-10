@@ -9854,5 +9854,29 @@
   "hamster": {
     "mint": "2SN5omCCJPzseBpm7t38Qt2muy8gd4oknbF34tzLpump",
     "first_seen": "2026-07-10T13:20:09.612956+00:00"
+  },
+  "few": {
+    "mint": "8xTHXGwXvaq2yX7Pj4gcqmxQgjdBFaZAT6Hbdp3Zpump",
+    "first_seen": "2026-07-10T13:29:55.068173+00:00"
+  },
+  "triplea": {
+    "mint": "B1VmQKAHq1uBkEVPofp6F6C2NvGhKtRkHdKsvJgKpump",
+    "first_seen": "2026-07-10T13:29:56.111520+00:00"
+  },
+  "shibe": {
+    "mint": "EXKW8THiySRZFBJsVrQACzJ89pQcKDedvrX3YZdCpump",
+    "first_seen": "2026-07-10T13:29:56.797866+00:00"
+  },
+  "crnch": {
+    "mint": "8FChzu1wpkhutEkcN8wA8phWa7PhzFaZ7U2XXiNnpump",
+    "first_seen": "2026-07-10T13:30:02.266956+00:00"
+  },
+  "mogdog": {
+    "mint": "BmSjM7C7VRhznMMVzXidgyuE5ehvTHbRr1uGe2xFpump",
+    "first_seen": "2026-07-10T13:30:02.317747+00:00"
+  },
+  "goofreck": {
+    "mint": "6hpfrxQb2kn9iprcJcZ6uXruGAwDe12W9zT4y4WSpump",
+    "first_seen": "2026-07-10T13:30:02.790107+00:00"
   }
 }
