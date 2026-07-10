@@ -8914,5 +8914,17 @@
   "testicle": {
     "mint": "4TyZGqRLG3VcHTGMcLBoPUmqYitMVojXinAmkL8xpump",
     "first_seen": "2026-07-10T05:49:59.805221+00:00"
+  },
+  "rexleo": {
+    "mint": "9X3V7R5m38NsmT4rFtFaUxyyn7hBVspt4u2fCJo4pump",
+    "first_seen": "2026-07-10T05:59:57.152100+00:00"
+  },
+  "sobscoin": {
+    "mint": "G72z7fstJSieo4R5hADVrL1HYhBBogMMEPwK7cxzpump",
+    "first_seen": "2026-07-10T05:59:57.700778+00:00"
+  },
+  "captoly": {
+    "mint": "7gUHL3CK3woWU6ftGR98g31nBUfYbMrCwXWa9o7zg68C",
+    "first_seen": "2026-07-10T06:00:03.315913+00:00"
   }
 }
