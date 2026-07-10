@@ -10714,5 +10714,21 @@
   "martolexx": {
     "mint": "EThNYWZ73vdtnRtrdwDKq9nKkQgRwjcNppjDTqGopump",
     "first_seen": "2026-07-10T18:20:13.734220+00:00"
+  },
+  "tortoise": {
+    "mint": "3j8agyViWBXXCNJRKAUjF2Hf3h9x8RAfLMvpMVZcpump",
+    "first_seen": "2026-07-10T18:30:00.616362+00:00"
+  },
+  "mogansem": {
+    "mint": "FofE1HghpvNpPoEntysEHBywKVcPGHSEnB2adrvepump",
+    "first_seen": "2026-07-10T18:30:02.335721+00:00"
+  },
+  "mogcow": {
+    "mint": "J9oNVHrQTq9ckPwXbGiPik9NjHSm5H1B84sHXpPCpump",
+    "first_seen": "2026-07-10T18:30:03.367078+00:00"
+  },
+  "puppy": {
+    "mint": "kUg4RnJvBiuz6AWFccWPWr1EbXT9ratD9Cb8nRRxfun",
+    "first_seen": "2026-07-10T18:30:08.414038+00:00"
   }
 }
