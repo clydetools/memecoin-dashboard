@@ -11522,5 +11522,37 @@
   "zbyt": {
     "mint": "3hsMu5tSrZYQejwTHfYWDKdfyd2urAuVvdfznppppump",
     "first_seen": "2026-07-10T23:19:59.096636+00:00"
+  },
+  "realmemes": {
+    "mint": "GzN57WWNCWXuRftNckLBwUC5zXQ5ggGhAiFUE65cpump",
+    "first_seen": "2026-07-10T23:29:51.901372+00:00"
+  },
+  "norug": {
+    "mint": "FRBUFYFNfJL9epYFWVrX1DW1RGHaXT3ijCSaeK3spump",
+    "first_seen": "2026-07-10T23:29:52.325348+00:00"
+  },
+  "moggerco": {
+    "mint": "7rx2VssDUDaFGg8hEcYKwSe9LfGcvbPC83hcokAppump",
+    "first_seen": "2026-07-10T23:29:52.695564+00:00"
+  },
+  "ink": {
+    "mint": "3D5bNDXTN9gfte1wV7g6342ApnDswYAgT1FiRrYy2mYR",
+    "first_seen": "2026-07-10T23:29:57.449975+00:00"
+  },
+  "wesley": {
+    "mint": "CeSQAsN3WLSHCuRHDrhaL5iXRfFLiWXcfbjSFStipump",
+    "first_seen": "2026-07-10T23:29:57.466950+00:00"
+  },
+  "vlud": {
+    "mint": "8e4Mg15a2MJYEo2KdJtPKXWEXB122E6RqSpvXhUgpump",
+    "first_seen": "2026-07-10T23:29:57.497580+00:00"
+  },
+  "lizardcoin": {
+    "mint": "HAQDpQNfgXzNM7r8MD8R5njEocKmhiPQKcMp3R7eGgzz",
+    "first_seen": "2026-07-10T23:29:57.533537+00:00"
+  },
+  "me": {
+    "mint": "62KWYPmpjsPMPz6QPoXVnJxzQb7rz7AHWze3i3572Mwc",
+    "first_seen": "2026-07-10T23:29:57.894478+00:00"
   }
 }
