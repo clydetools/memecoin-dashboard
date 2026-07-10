@@ -8110,5 +8110,61 @@
   "arrow": {
     "mint": "G6cHLEwYHyZJXBhKpSWMU6RUtcq9HM9UTn2cTEdKpump",
     "first_seen": "2026-07-09T22:47:34.373280+00:00"
+  },
+  "gtafrance": {
+    "mint": "6XUThXfe7uEYEamY2ozMi1SRxew4zKCSpiH2kb1bpump",
+    "first_seen": "2026-07-10T00:09:18.404296+00:00"
+  },
+  "grokgaming": {
+    "mint": "6Q79Rx4RuAFWWnwwjAKBEf6QiHSSsQxrn3Tj9d1x62Rt",
+    "first_seen": "2026-07-10T00:09:19.046469+00:00"
+  },
+  "raccoon": {
+    "mint": "7oEUiwFD4WksfUmFXGzXTM386hvzPm8N278poAHgpump",
+    "first_seen": "2026-07-10T00:09:20.149997+00:00"
+  },
+  "grok": {
+    "mint": "EJr6RrJ1nngK6TGdUgvcVo5HQdbiJMyd6Zg3FNVkpump",
+    "first_seen": "2026-07-10T00:09:23.645470+00:00"
+  },
+  "czsey": {
+    "mint": "97rJ2CLYvLheKCjNXgccHyobW4ijuaKULLggjS9ghuts",
+    "first_seen": "2026-07-10T00:09:38.046087+00:00"
+  },
+  "robindoge": {
+    "mint": "BCp74Shns4212vfaWQTskwpDJMvbtLgpfumq9UV7pump",
+    "first_seen": "2026-07-10T00:09:38.498984+00:00"
+  },
+  "aka": {
+    "mint": "9F6VbPeM8xR9Nkntyjp5nPY52w9YG9331bLuyhe3pump",
+    "first_seen": "2026-07-10T00:09:43.066338+00:00"
+  },
+  "cloud": {
+    "mint": "2cEc8AKGjjCeYNXod2f9aPuSdoSihzK6Br6ceCwvpump",
+    "first_seen": "2026-07-10T00:09:43.077461+00:00"
+  },
+  "marvin": {
+    "mint": "8LZKRa3f23CrCTwLFRY9jQWRjFQwGiuP46Mk9jytpump",
+    "first_seen": "2026-07-10T00:09:43.617888+00:00"
+  },
+  "paris": {
+    "mint": "Ck7E3KkXwtB9tromVbXgbbsQh2qNFsvvyATewTrVpump",
+    "first_seen": "2026-07-10T00:09:43.740628+00:00"
+  },
+  "soul": {
+    "mint": "9zwd6ME5duhWDBSvKc8hXK3sHKKM23sXJBiqjF3Mpump",
+    "first_seen": "2026-07-10T00:09:43.777460+00:00"
+  },
+  "myth": {
+    "mint": "HYS2KQTAE17HBYf84wNBed9heA8ejC69aEg4LNgMpump",
+    "first_seen": "2026-07-10T00:09:44.133026+00:00"
+  },
+  "ptroll": {
+    "mint": "HbugFhaL4ijduGiHcY4uT6CNgX58Qac9djsAFo7Dpump",
+    "first_seen": "2026-07-10T00:09:44.322262+00:00"
+  },
+  "screaming": {
+    "mint": "8dHAoYtTqrHX4XmYp7r3D4MRaHaZGcxwd49GcQ5Rpump",
+    "first_seen": "2026-07-10T00:09:44.336494+00:00"
   }
 }
