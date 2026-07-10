@@ -8690,5 +8690,13 @@
   "aircorg": {
     "mint": "VGz5JN59ozf2Mtsv8R4FbCDUWxtEgmAdKEBZL4Epump",
     "first_seen": "2026-07-10T03:40:16.219039+00:00"
+  },
+  "porsche": {
+    "mint": "EVZdHdAtLupgvaxmT3gtVo2ZqoMQD8mKFNT93W1Kpump",
+    "first_seen": "2026-07-10T03:49:56.116439+00:00"
+  },
+  "rocat": {
+    "mint": "FoQKjcgHfaBjQg9gGAexXqMAgBMEpCoRSWy3kgUcpump",
+    "first_seen": "2026-07-10T03:49:56.892584+00:00"
   }
 }
