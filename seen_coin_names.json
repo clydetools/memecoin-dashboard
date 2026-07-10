@@ -10230,5 +10230,45 @@
   "herd": {
     "mint": "3HEhKGxawAnA9ewfY3MPWxok227tFzfkfHyvfXPMWQGT",
     "first_seen": "2026-07-10T15:20:09.438087+00:00"
+  },
+  "tttriple": {
+    "mint": "Ftq5wXTR7o2qaF5J4mXbuvyVCZEWUsarNwx9s6owpump",
+    "first_seen": "2026-07-10T15:29:56.262166+00:00"
+  },
+  "five": {
+    "mint": "JDhpbVdEodLqrGfmRqmtwwcufsu7Ao6DdKzCBwwfpump",
+    "first_seen": "2026-07-10T15:29:56.610446+00:00"
+  },
+  "robinbull": {
+    "mint": "BNZWqmVSUXeDL2bGzoS2mzsaYUXGjZ7qmz7JRTYcpump",
+    "first_seen": "2026-07-10T15:29:57.279769+00:00"
+  },
+  "osowin": {
+    "mint": "3rKEUNb5sjecKofNcXUicd1Y2CMe4XxMQQPSWYwCsKhE",
+    "first_seen": "2026-07-10T15:29:57.615138+00:00"
+  },
+  "rba": {
+    "mint": "FXdTK7fPuJPuqC4KHrY48xc6L8eGKTHLSM8pZpwnpump",
+    "first_seen": "2026-07-10T15:29:58.011377+00:00"
+  },
+  "julf10": {
+    "mint": "HTxGPq59URZBfGpuEpumXAWkXLsSS6tsFiKTXkxKpump",
+    "first_seen": "2026-07-10T15:29:58.381042+00:00"
+  },
+  "ot": {
+    "mint": "HEWuzXK7g4pkgwY1TwcNieD5NKHzMGV24gqyAcPmpump",
+    "first_seen": "2026-07-10T15:29:58.720234+00:00"
+  },
+  "nutzsche": {
+    "mint": "Hw86T1GgxohgPkrT3n4cXh5tjR96pHCoPcqtorPSpump",
+    "first_seen": "2026-07-10T15:30:00.969609+00:00"
+  },
+  "reflect": {
+    "mint": "zNKRuMpV7pDixuywbTUyh6LecBaKyhJ2MgnULvLpump",
+    "first_seen": "2026-07-10T15:30:01.355835+00:00"
+  },
+  "moonara": {
+    "mint": "DkpMZXwhrJDjVHWrHo13NkTpt98R7h7MEQ3kPB7Ppump",
+    "first_seen": "2026-07-10T15:30:06.132440+00:00"
   }
 }
