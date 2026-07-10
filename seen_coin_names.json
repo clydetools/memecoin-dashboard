@@ -10882,5 +10882,25 @@
   "roja": {
     "mint": "FC8Rk5kFHiJXyf4kWnexYTVxycXg6T6bRSD3SHMDTm1N",
     "first_seen": "2026-07-10T19:40:14.383839+00:00"
+  },
+  "pheephee": {
+    "mint": "BBbUAaBC5cYEhuZcRNinBuChojbKAMkLMGEVRABBpump",
+    "first_seen": "2026-07-10T19:49:56.875771+00:00"
+  },
+  "fireball": {
+    "mint": "DQMaBPrXEvTbHxqSzdRxR8PF9Z34uYwibjjP7EN7bonk",
+    "first_seen": "2026-07-10T19:49:58.922326+00:00"
+  },
+  "bog": {
+    "mint": "3iNciPaCxxPXaR92BRz8xRJP1bLpA8cVEWMKMSkupump",
+    "first_seen": "2026-07-10T19:50:04.766638+00:00"
+  },
+  "cryptodog": {
+    "mint": "7LkxLUhdFJeyCor9tEK8fKdvPgqGm4Z9mWpR45yvpump",
+    "first_seen": "2026-07-10T19:50:04.820064+00:00"
+  },
+  "fidel": {
+    "mint": "9bE5AWZBpb1oRAypn6CgVnswWjZ267X79Z24tskQkD7j",
+    "first_seen": "2026-07-10T19:50:04.849122+00:00"
   }
 }
