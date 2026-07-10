@@ -8110,5 +8110,61 @@
   "arrow": {
     "mint": "G6cHLEwYHyZJXBhKpSWMU6RUtcq9HM9UTn2cTEdKpump",
     "first_seen": "2026-07-09T22:47:34.373280+00:00"
+  },
+  "robindoge": {
+    "mint": "BCp74Shns4212vfaWQTskwpDJMvbtLgpfumq9UV7pump",
+    "first_seen": "2026-07-10T00:09:51.928403+00:00"
+  },
+  "grok": {
+    "mint": "2LgSj4beu6gkRWSbSrxFiY2s77G9DiG5EgNBgjUApump",
+    "first_seen": "2026-07-10T00:09:52.362128+00:00"
+  },
+  "trde2frsky": {
+    "mint": "4NDaNRqy9WLV4oTFYeDubcyiJXJAuzH3ZPPw8QkRpump",
+    "first_seen": "2026-07-10T00:10:06.039248+00:00"
+  },
+  "cupsuck": {
+    "mint": "3LGZQvEtuvLa8WeLA7SLBuSdRuGdSrMt21aRzKkCpump",
+    "first_seen": "2026-07-10T00:10:06.365823+00:00"
+  },
+  "trumpair": {
+    "mint": "6tWfXCqR2SXt1m1bFPTUn4ySyXF3ZxfDxh8BS8A5pump",
+    "first_seen": "2026-07-10T00:10:07.552712+00:00"
+  },
+  "reptilecoin": {
+    "mint": "C2T5757T1ZYsafkRTR6dHzw5dMSV8iXdE69WZYqDpump",
+    "first_seen": "2026-07-10T00:10:08.459773+00:00"
+  },
+  "aka": {
+    "mint": "9F6VbPeM8xR9Nkntyjp5nPY52w9YG9331bLuyhe3pump",
+    "first_seen": "2026-07-10T00:10:13.108966+00:00"
+  },
+  "cloud": {
+    "mint": "2cEc8AKGjjCeYNXod2f9aPuSdoSihzK6Br6ceCwvpump",
+    "first_seen": "2026-07-10T00:10:13.145665+00:00"
+  },
+  "marvin": {
+    "mint": "8LZKRa3f23CrCTwLFRY9jQWRjFQwGiuP46Mk9jytpump",
+    "first_seen": "2026-07-10T00:10:13.493072+00:00"
+  },
+  "paris": {
+    "mint": "Ck7E3KkXwtB9tromVbXgbbsQh2qNFsvvyATewTrVpump",
+    "first_seen": "2026-07-10T00:10:13.613745+00:00"
+  },
+  "soul": {
+    "mint": "9zwd6ME5duhWDBSvKc8hXK3sHKKM23sXJBiqjF3Mpump",
+    "first_seen": "2026-07-10T00:10:13.639152+00:00"
+  },
+  "myth": {
+    "mint": "HYS2KQTAE17HBYf84wNBed9heA8ejC69aEg4LNgMpump",
+    "first_seen": "2026-07-10T00:10:13.924811+00:00"
+  },
+  "ptroll": {
+    "mint": "HbugFhaL4ijduGiHcY4uT6CNgX58Qac9djsAFo7Dpump",
+    "first_seen": "2026-07-10T00:10:14.042411+00:00"
+  },
+  "screaming": {
+    "mint": "8dHAoYtTqrHX4XmYp7r3D4MRaHaZGcxwd49GcQ5Rpump",
+    "first_seen": "2026-07-10T00:10:14.280321+00:00"
   }
 }
