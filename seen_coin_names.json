@@ -10962,5 +10962,25 @@
   "goldship": {
     "mint": "53kFy8ee2aCRyxvXHVZ9Q4YUXGRiXuhMsLHesBAkpump",
     "first_seen": "2026-07-10T20:10:13.029501+00:00"
+  },
+  "rookie": {
+    "mint": "8w1DVVKJpt9FxgjLwfyYM1m2MBmvtQUfWJxQT8Akpump",
+    "first_seen": "2026-07-10T20:19:54.712446+00:00"
+  },
+  "sgrd": {
+    "mint": "7N5tLrDpzmKatCgaQypG7N5G86jmdriSXBipjbxspump",
+    "first_seen": "2026-07-10T20:19:58.537417+00:00"
+  },
+  "war": {
+    "mint": "3voWrfVMa7yN9P2Xigwcfnnhu7F7kcPh1WLL7aaLpump",
+    "first_seen": "2026-07-10T20:19:59.347757+00:00"
+  },
+  "moneytree": {
+    "mint": "GfCoxsa21iwNRzZeo6GnyEuuubwDxwuBnQK4ousMpump",
+    "first_seen": "2026-07-10T20:20:04.427708+00:00"
+  },
+  "mogtroll": {
+    "mint": "6RhD69zL61vW8cqsa1iMentAmb3bQynh9Wf5LmK5pump",
+    "first_seen": "2026-07-10T20:20:04.461244+00:00"
   }
 }
