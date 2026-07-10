@@ -10554,5 +10554,21 @@
   "popmog": {
     "mint": "94YUcwS7U6xN9jp8QociFhWyvkF418trgbc41QBvZzLL",
     "first_seen": "2026-07-10T17:24:10.025508+00:00"
+  },
+  "dude": {
+    "mint": "4xNTcoJqH7QH3zanWMJ2N9EZyfRHfgVS9dgBxKFepump",
+    "first_seen": "2026-07-10T17:29:59.827958+00:00"
+  },
+  "realwhales": {
+    "mint": "6LDuAR6NaFejiLEutkV9HraYXK27NERUYhMZwo6Upump",
+    "first_seen": "2026-07-10T17:30:02.741495+00:00"
+  },
+  "buddy": {
+    "mint": "C3UkAg5UewWoF8prnBf1YsfKaibRGuN2xGv3dBiRpump",
+    "first_seen": "2026-07-10T17:30:04.162666+00:00"
+  },
+  "hoodbull": {
+    "mint": "4tuz8K6c4pe8NeCJM3v2MNrsaXHS3a4uSx5KBoujpump",
+    "first_seen": "2026-07-10T17:30:04.742554+00:00"
   }
 }
