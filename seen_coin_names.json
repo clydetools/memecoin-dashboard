@@ -8698,5 +8698,29 @@
   "rocat": {
     "mint": "FoQKjcgHfaBjQg9gGAexXqMAgBMEpCoRSWy3kgUcpump",
     "first_seen": "2026-07-10T03:49:56.892584+00:00"
+  },
+  "sparrow": {
+    "mint": "5nNuNWmZrAW7AcJ3TBR668a7FDw5EUHb5XHwxgvepump",
+    "first_seen": "2026-07-10T03:59:53.157360+00:00"
+  },
+  "goldenbull": {
+    "mint": "FA6dxTr8JEKpLsqgz43baxRrrMxT8NjExNo2PiEapump",
+    "first_seen": "2026-07-10T03:59:53.912363+00:00"
+  },
+  "good": {
+    "mint": "BcqdkWBSPTYYvGotfWMnxMrnR6W4WBD2NRELW6A9pump",
+    "first_seen": "2026-07-10T03:59:54.264372+00:00"
+  },
+  "guerrirod": {
+    "mint": "6VJCpH99e21cTw7XcEfKMWHQ9hryj6NsXXkSXdTTpump",
+    "first_seen": "2026-07-10T03:59:54.585155+00:00"
+  },
+  "brett": {
+    "mint": "5kMtbTwtc47dfezEsQGwuT1j9AJsRoihJaG19kWnpump",
+    "first_seen": "2026-07-10T03:59:54.921577+00:00"
+  },
+  "libyi": {
+    "mint": "8yTF6CsJJTu75Y1vdpXCuMheumkVY9meh8fuuBLbDGpX",
+    "first_seen": "2026-07-10T03:59:55.277409+00:00"
   }
 }
