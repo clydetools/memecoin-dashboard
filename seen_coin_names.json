@@ -8770,5 +8770,25 @@
   "anif": {
     "mint": "HcFUgXHEJWjZfDFvyFXDfVRkq5VTzJCfXNpJtcQ3pump",
     "first_seen": "2026-07-10T04:20:00.778034+00:00"
+  },
+  "triplec": {
+    "mint": "AW1ErSHQn29nDcZ6t3ME7DfEN8PW9rGViSr5DKRppump",
+    "first_seen": "2026-07-10T04:30:01.311190+00:00"
+  },
+  "hoodtroll": {
+    "mint": "ART32E27WpSJeWY9cQaKqbQXcH7LpBXHo3MRV3ENpump",
+    "first_seen": "2026-07-10T04:30:01.861403+00:00"
+  },
+  "workhorse": {
+    "mint": "6FZxtZH2McZBvhYa1oYraPwfryDdjREP8mPKh593pump",
+    "first_seen": "2026-07-10T04:30:02.404324+00:00"
+  },
+  "dance": {
+    "mint": "Fkec41EHaXRcVsmj6vaQPPA6EsFW2Vda7tgk9oDspump",
+    "first_seen": "2026-07-10T04:30:02.939130+00:00"
+  },
+  "helidog": {
+    "mint": "G16u6V2qK9HS2wXL3pjGmwxwHBrawcA1MYrGj5Vjpump",
+    "first_seen": "2026-07-10T04:30:10.635032+00:00"
   }
 }
