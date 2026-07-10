@@ -11086,5 +11086,33 @@
   "monsieur": {
     "mint": "6aoMJ5w4yoDwJCDfKHN2czEZcj9VCpij5i4ZUMhQ4S6H",
     "first_seen": "2026-07-10T21:00:07.737482+00:00"
+  },
+  "ccgen": {
+    "mint": "6iucdBTZFY8M9sHwXRcRDqskBuFMNrjT1ZptKQ3ipump",
+    "first_seen": "2026-07-10T21:09:53.699779+00:00"
+  },
+  "oaksapplin": {
+    "mint": "EYuwXvXRbRZgfbjHbejv3gAa1qFQ7uBpXEuxuu8ppump",
+    "first_seen": "2026-07-10T21:09:54.232940+00:00"
+  },
+  "skg": {
+    "mint": "8ZYH9JQjETGFkzSNE64zX5Rxdk7uLgyMaor2RDNHd2eC",
+    "first_seen": "2026-07-10T21:09:57.716679+00:00"
+  },
+  "apple": {
+    "mint": "8eVYHhuDcXErZFpLhjgLEQepzZRpNJ4XGJyosuMpump",
+    "first_seen": "2026-07-10T21:09:58.247888+00:00"
+  },
+  "m32": {
+    "mint": "6hKtz8FV7cAQMrbjcBZeTQAcrYep3WCM83164JpJpump",
+    "first_seen": "2026-07-10T21:10:02.900090+00:00"
+  },
+  "ftw": {
+    "mint": "BRvxcLJDRx8Caawz9xaM45QCJpAvWe4wSekCqM64wSzP",
+    "first_seen": "2026-07-10T21:10:03.307458+00:00"
+  },
+  "triplem": {
+    "mint": "9XLV8zRv4otS9FF7wQy6Wzgp2aajF4vbTAmuCSy3rn2o",
+    "first_seen": "2026-07-10T21:10:03.447065+00:00"
   }
 }
