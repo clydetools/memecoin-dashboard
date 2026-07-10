@@ -10834,5 +10834,13 @@
   "shelleybay": {
     "mint": "HtiQmiV4BFkujshs4kro3Ga3pF8ZcfFqMQNnzfdZdgkb",
     "first_seen": "2026-07-10T19:10:01.069240+00:00"
+  },
+  "zl": {
+    "mint": "HAu9XSX9Zs1u94zYYCCYMRhYQoBfnBWCKBqgsg6kpump",
+    "first_seen": "2026-07-10T19:19:56.601198+00:00"
+  },
+  "snowusdt": {
+    "mint": "DZGBpoo6X69T7SV8NH3DqeiKAMv4mNk3Mh4wTpPCZcDm",
+    "first_seen": "2026-07-10T19:20:02.402631+00:00"
   }
 }
