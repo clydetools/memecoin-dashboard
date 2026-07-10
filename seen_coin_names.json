@@ -10490,5 +10490,37 @@
   "mogpug": {
     "mint": "AZY9iCuA9D74evtyrZ42o52RZRryxDvKM1pisgFVpump",
     "first_seen": "2026-07-10T17:09:58.695165+00:00"
+  },
+  "lolcats": {
+    "mint": "8B59SCajHVWSBKo8wEZjDHaWMSfAjCXdKnTSfNc4pump",
+    "first_seen": "2026-07-10T17:19:57.110190+00:00"
+  },
+  "dust": {
+    "mint": "G843hGofLg5W9EeGVcv4scMoNUhAK5N72RgNBDVapump",
+    "first_seen": "2026-07-10T17:19:57.653898+00:00"
+  },
+  "moginhood": {
+    "mint": "Eu4ySVLJNxZgQFkMQHMNnmzT37LUNHSC8PZbCqEkpump",
+    "first_seen": "2026-07-10T17:20:00.410841+00:00"
+  },
+  "banana": {
+    "mint": "GGGNGcQzKWHbW8XFtYpRcm4uWX5Apr3QKuSix5Kbpump",
+    "first_seen": "2026-07-10T17:20:01.499169+00:00"
+  },
+  "fluff": {
+    "mint": "HzcQtjgaykCkFV4tBtk2fprYJHscPi7P1nDwaz14pump",
+    "first_seen": "2026-07-10T17:20:02.027913+00:00"
+  },
+  "notaperchbudd": {
+    "mint": "FqHYFoP5AyZS5HhmHaEsXB3sMKMjvtnPRD1csqCapump",
+    "first_seen": "2026-07-10T17:20:02.563553+00:00"
+  },
+  "awr": {
+    "mint": "Ai4CL1SAxVRigxQFwBH8S2JkuL7EqrdiGwTC7JpCpump",
+    "first_seen": "2026-07-10T17:20:07.178420+00:00"
+  },
+  "arcane": {
+    "mint": "3jSL5nnnYcRLmTqFmwvY1Mikh42fQsT7p7NvXPYzanon",
+    "first_seen": "2026-07-10T17:20:07.868101+00:00"
   }
 }
