@@ -9130,5 +9130,17 @@
   "ascend": {
     "mint": "HKHBrJGc1Qdp2xe8X9u5ofGno5bUiZAsrn7J3mfypump",
     "first_seen": "2026-07-10T07:40:06.988589+00:00"
+  },
+  "gc": {
+    "mint": "AqC2CBzoxYvTjVzaKoPAVqyenvmxniG7Z9DXnEntpump",
+    "first_seen": "2026-07-10T07:49:56.704962+00:00"
+  },
+  "aurum": {
+    "mint": "Eu5mXTLnBg17RXWVpQcfMCK2gmVxbktPzbBBMkJrpump",
+    "first_seen": "2026-07-10T07:49:57.799885+00:00"
+  },
+  "the": {
+    "mint": "4cc4A4WYF1SvZdhXqRXUJioFhui5tPhvHoirKDx2r7Wu",
+    "first_seen": "2026-07-10T07:50:03.869465+00:00"
   }
 }
