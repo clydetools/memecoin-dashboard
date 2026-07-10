@@ -9534,5 +9534,33 @@
   "catchbull": {
     "mint": "D6otV74LM83Sd79oArNTfw2EQEehy1i2eG39xhaepump",
     "first_seen": "2026-07-10T11:00:00.299863+00:00"
+  },
+  "dgp": {
+    "mint": "AFMjjCpzgm6XK23VZpj7BYDAQDmsQkRfp3aQPSgLpump",
+    "first_seen": "2026-07-10T11:09:57.906653+00:00"
+  },
+  "1000": {
+    "mint": "A6ahUdDQob2z3UWhLAHv3qDPbm43faBXsamcQEwGpump",
+    "first_seen": "2026-07-10T11:09:58.470970+00:00"
+  },
+  "rimy": {
+    "mint": "5CpAFg5x2vndFSZ49kvYH4aJvgZA9HAcnqgxfLCYpump",
+    "first_seen": "2026-07-10T11:10:00.104482+00:00"
+  },
+  "1000x": {
+    "mint": "AzNFNjuepyL9frWyLxd94k2aGVM9fwuSza4uvU2apump",
+    "first_seen": "2026-07-10T11:10:01.651383+00:00"
+  },
+  "froge": {
+    "mint": "AMCHpR1F5gKt6msk9j9aDBjKUSmgyAxhymbZhjkypump",
+    "first_seen": "2026-07-10T11:10:06.602866+00:00"
+  },
+  "usedcar": {
+    "mint": "9gwTegFJJErDpWJKjPfLr2g2zrE3nL1v5zpwbtsk3c6P",
+    "first_seen": "2026-07-10T11:10:07.173668+00:00"
+  },
+  "xand": {
+    "mint": "XANDuUoVoUqniKkpcKhrxmvYJybpJvUxJLr21Gaj3Hx",
+    "first_seen": "2026-07-10T11:10:07.291511+00:00"
   }
 }
