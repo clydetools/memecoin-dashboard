@@ -10794,5 +10794,25 @@
   "flave": {
     "mint": "8hX3kakGfbCbbheWXqxGVzpnqHktnURCxgVmoHAfpump",
     "first_seen": "2026-07-10T18:50:02.929021+00:00"
+  },
+  "solli": {
+    "mint": "CUxwpNSHGNSiNxLUpL5k4TddGFZYtxG3AF9V9XrTpump",
+    "first_seen": "2026-07-10T18:59:54.987058+00:00"
+  },
+  "gotcha": {
+    "mint": "ErM8VTSUfpvToPuRNf5mEJAvLc7oh7KqGLqrzj8bpump",
+    "first_seen": "2026-07-10T18:59:59.701529+00:00"
+  },
+  "bullishsol": {
+    "mint": "J7DBGxjJnp67it4TubeMMBZGus4LUhBbnNA3GCDgpump",
+    "first_seen": "2026-07-10T18:59:59.745736+00:00"
+  },
+  "triny": {
+    "mint": "2vfSmgDEj9n5WEYnauimHu9g9enEycmc1dmgW9Lupump",
+    "first_seen": "2026-07-10T18:59:59.793778+00:00"
+  },
+  "yamal": {
+    "mint": "HeyuJAVMPKsFdLUeCnrezcTdTo3ZVYJzV1UzgvtZQETa",
+    "first_seen": "2026-07-10T19:00:00.236429+00:00"
   }
 }
