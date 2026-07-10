@@ -8482,5 +8482,41 @@
   "ngaf": {
     "mint": "AsdWSGHCAYE2koS3NJxCDDwydjpsbpyFfQeHhjNLBdaV",
     "first_seen": "2026-07-10T02:20:07.652489+00:00"
+  },
+  "notacat": {
+    "mint": "HGisrDGLRhFLkt5nf4wcJNYhKUUcNFFGPyiBt4JDpump",
+    "first_seen": "2026-07-10T02:29:54.333340+00:00"
+  },
+  "sr": {
+    "mint": "3EmerS56esdVfRosiYap4hrvXnPZFaC35drwhxj7pump",
+    "first_seen": "2026-07-10T02:29:54.891474+00:00"
+  },
+  "cashybara": {
+    "mint": "C3bK1gr6GzABUxkqRBoFECUB7DoLE5nvFkrvxC9opump",
+    "first_seen": "2026-07-10T02:29:55.448995+00:00"
+  },
+  "thunker": {
+    "mint": "4N3pES6twYkCpj1BapT7fv9YMBoDrcMEeawGRNmmpump",
+    "first_seen": "2026-07-10T02:29:57.177318+00:00"
+  },
+  "cashpump": {
+    "mint": "2fTq2uDqTV1VQFD4XLEztj9UyaTAfb2oubF6byTopump",
+    "first_seen": "2026-07-10T02:30:00.452067+00:00"
+  },
+  "ballerina": {
+    "mint": "GNuM9kPreVB2zuxxAxLpJ7kjKE2P1kEim82SXuiCMiwQ",
+    "first_seen": "2026-07-10T02:30:00.971523+00:00"
+  },
+  "bagworkers": {
+    "mint": "GwFybUChUZ6hNYgaueVmELnyAn1ATan5w7CpAGq5pump",
+    "first_seen": "2026-07-10T02:30:01.487022+00:00"
+  },
+  "aircat": {
+    "mint": "CZcnJvKKLWKvh6cwmv7Lcsb5D9pGRg7Ctomjqf7GSHW3",
+    "first_seen": "2026-07-10T02:30:06.691391+00:00"
+  },
+  "wkc": {
+    "mint": "Hv6PKdfC4ddQ1ZfizoHKrKYFk36zSSJV9RyeP26tpump",
+    "first_seen": "2026-07-10T02:30:06.750536+00:00"
   }
 }
