@@ -10770,5 +10770,29 @@
   "mogcoin": {
     "mint": "8hb1Dc5hRrEnuVR3MoxKrFqNhdbsvoa2sQPEDGeKpump",
     "first_seen": "2026-07-10T18:40:03.695424+00:00"
+  },
+  "spark": {
+    "mint": "4zUy2pPohfDFhdg66KDLgi2BRLKbxX7WHpZMeVUKpump",
+    "first_seen": "2026-07-10T18:49:53.350588+00:00"
+  },
+  "bullissol": {
+    "mint": "L1cTMauG84L34h6Mj2rmKG69GY8NBx23dJoZMhUpump",
+    "first_seen": "2026-07-10T18:49:54.439944+00:00"
+  },
+  "breadcat": {
+    "mint": "38u5ae1aExw9K6sjqtDZVJoGCtZ7otY5UPTR2jmSpump",
+    "first_seen": "2026-07-10T18:49:55.443717+00:00"
+  },
+  "llmao": {
+    "mint": "7HodbA3MGvyHUMQ4doU96PZfwpdt8QcBwYa7XfLupump",
+    "first_seen": "2026-07-10T18:49:56.158452+00:00"
+  },
+  "ansemfuck": {
+    "mint": "B5rXvzCQoueuTsfhvzvyb22v4H6KXYNxt1WH3yNwpump",
+    "first_seen": "2026-07-10T18:49:56.816634+00:00"
+  },
+  "flave": {
+    "mint": "8hX3kakGfbCbbheWXqxGVzpnqHktnURCxgVmoHAfpump",
+    "first_seen": "2026-07-10T18:50:02.929021+00:00"
   }
 }
