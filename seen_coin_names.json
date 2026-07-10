@@ -9682,5 +9682,45 @@
   "dadscoin": {
     "mint": "7sv7Y2QwfpevuZqgGy9F5rNRM7aqKC43ybouakoUpump",
     "first_seen": "2026-07-10T12:00:01.301420+00:00"
+  },
+  "mom": {
+    "mint": "4NNEWnf25z2mteQcCobQxp6uLj1YgvrHyv6JCcKmpump",
+    "first_seen": "2026-07-10T12:10:05.948419+00:00"
+  },
+  "garbage": {
+    "mint": "D2aK7a8P6Q3huzhmms4w5XwvPJAQNAiQGQESkzcSpump",
+    "first_seen": "2026-07-10T12:10:06.573839+00:00"
+  },
+  "help": {
+    "mint": "2hNfvWVvw8XzKRYLS6jqpQgoArPhLMU96qYt1JSYpump",
+    "first_seen": "2026-07-10T12:10:09.962286+00:00"
+  },
+  "memdex": {
+    "mint": "83iBDw3ZpxqJ3pEzrbttr9fGA57tttehDAxoFyR1moon",
+    "first_seen": "2026-07-10T12:10:16.300618+00:00"
+  },
+  "sachi": {
+    "mint": "7Y2TPeq3hqw21LRTCi4wBWoivDngCpNNJsN1hzhZpump",
+    "first_seen": "2026-07-10T12:10:16.315288+00:00"
+  },
+  "decentral": {
+    "mint": "949aaReg5QnEKbde41BBj5Z45uU2Y8yhB4bZaif4pump",
+    "first_seen": "2026-07-10T12:10:16.336987+00:00"
+  },
+  "upscalp": {
+    "mint": "2nKNuDniEeAs44oCT1niwzXGNNiEh4N7pfZJJ3t4pump",
+    "first_seen": "2026-07-10T12:10:16.356582+00:00"
+  },
+  "broke": {
+    "mint": "9UjwQHUVbJtgdYhBSSpzBF4z9mBwFkBoT2RJroGwwray",
+    "first_seen": "2026-07-10T12:10:16.376880+00:00"
+  },
+  "mbit": {
+    "mint": "8nb5aX3dmSjMgXx9mbQXzEhpBBH24LKCdw3ruH27pump",
+    "first_seen": "2026-07-10T12:10:16.408934+00:00"
+  },
+  "blackhouse": {
+    "mint": "5oewdsrJXdJuCnvGdP9YcrgPFkp2GJgCeK7FTAHYpump",
+    "first_seen": "2026-07-10T12:10:17.096302+00:00"
   }
 }
