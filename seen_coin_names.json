@@ -9342,5 +9342,25 @@
   "brisket": {
     "mint": "DhtMNcHag55TThCHrhXArSLyfCnXD6VreUqzrJLSpump",
     "first_seen": "2026-07-10T09:30:07.240645+00:00"
+  },
+  "zlusd": {
+    "mint": "H32VmxcTGaHWcpsGSmb8rjBLmb34my1RYKQEujpupump",
+    "first_seen": "2026-07-10T09:39:55.412076+00:00"
+  },
+  "jesus": {
+    "mint": "Ct8PQsMEfz2CWCkvFtDEZPvcY5dyg9kPXDzx7xvGpump",
+    "first_seen": "2026-07-10T09:39:57.068003+00:00"
+  },
+  "gamechat": {
+    "mint": "FEhpEMsyvPweNdFmgWR8Aj5MDe7HjmY7nV5ByHgdpump",
+    "first_seen": "2026-07-10T09:39:57.460646+00:00"
+  },
+  "paraloom": {
+    "mint": "Br1JxELQYP34YdRW4gbEPLasHEtyz8eCmT2FvmnYpump",
+    "first_seen": "2026-07-10T09:40:02.213229+00:00"
+  },
+  "gork": {
+    "mint": "38PgzpJYu2HkiYvV8qePFakB8tuobPdGm2FFEn7Dpump",
+    "first_seen": "2026-07-10T09:40:02.231162+00:00"
   }
 }
