@@ -9014,5 +9014,41 @@
   "whtmensa": {
     "mint": "CtDJS7E8u5KnJuWe2yo9sykfa84rWvHNESc6c6e3pump",
     "first_seen": "2026-07-10T06:59:57.782253+00:00"
+  },
+  "ai": {
+    "mint": "14EV2mbTUVYyZ5kPgimiC3sxUVbUihCB9cLZNz9bpump",
+    "first_seen": "2026-07-10T07:09:53.971437+00:00"
+  },
+  "goatscan": {
+    "mint": "3EVhJV5SXkJcGainpdm21D75SnYsDzjA577cpKuZpump",
+    "first_seen": "2026-07-10T07:09:55.068640+00:00"
+  },
+  "bruhfish": {
+    "mint": "DbmhEN6TtyTq4LWBsbtE7dmmNM3skTXrgxhxofoVpump",
+    "first_seen": "2026-07-10T07:09:55.434239+00:00"
+  },
+  "mins": {
+    "mint": "A3cNXEHoYeYAX3wo46rbU63JNJ2976y8spB6PUZApump",
+    "first_seen": "2026-07-10T07:09:56.137881+00:00"
+  },
+  "bankr": {
+    "mint": "AP6wEsU8GYBLNPKaECbqTC9xLP3C2ba46da1kcXupump",
+    "first_seen": "2026-07-10T07:09:56.500915+00:00"
+  },
+  "gorp": {
+    "mint": "5KzWhb5GQKxwggpVai1n2BLS5BNtoxX7ifbydjrSVEEG",
+    "first_seen": "2026-07-10T07:10:00.882896+00:00"
+  },
+  "liquidity": {
+    "mint": "GtsGGMnfoGhxnnZuWYZFg42ySFpiUzZJDpVdK4xvnREV",
+    "first_seen": "2026-07-10T07:10:01.425106+00:00"
+  },
+  "xavier": {
+    "mint": "BuK3BYo79xiJz8A11LCf2qtbNzQXEoHTsbiHNFgJpump",
+    "first_seen": "2026-07-10T07:10:01.460512+00:00"
+  },
+  "lr": {
+    "mint": "32e2Rpw2ZLLhSaoVwMn4Vyx3vkHG6xCPRiyXrPJYpump",
+    "first_seen": "2026-07-10T07:10:01.928325+00:00"
   }
 }
