@@ -8822,5 +8822,21 @@
   "gleeb": {
     "mint": "AFCHLMyqn47LzVrxrWu8VUKWmGNPRPcqy6aMJmiGpump",
     "first_seen": "2026-07-10T04:49:55.714002+00:00"
+  },
+  "rider": {
+    "mint": "7qH81ZAwAigGFoYwbnYdJd5Nc9zbQ9PNqV9mmBtmpump",
+    "first_seen": "2026-07-10T04:59:58.313143+00:00"
+  },
+  "rat": {
+    "mint": "EHStZTgaDyTXpDuCAy4eKodcy3Ncoz6pjXc6aoK6pump",
+    "first_seen": "2026-07-10T04:59:59.887291+00:00"
+  },
+  "hot": {
+    "mint": "H8ZWYMMgVXvfj9tXgfk3eyeF5du3W3ExQceTeGqwHEVM",
+    "first_seen": "2026-07-10T05:00:00.750985+00:00"
+  },
+  "pedro": {
+    "mint": "55GSRMDaFtMpf6jj6rCjxt2VUYh9y752imRN25Hrpump",
+    "first_seen": "2026-07-10T05:00:01.274859+00:00"
   }
 }
