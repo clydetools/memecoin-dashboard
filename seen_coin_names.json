@@ -10170,5 +10170,25 @@
   "chippy": {
     "mint": "Bz7Nx1F3Mti1BVS7ZAVDLSKGEaejufxvX2DPdjpf8PqT",
     "first_seen": "2026-07-10T15:00:01.035129+00:00"
+  },
+  "sticky": {
+    "mint": "EMPdXTDyVWAQcpBnkge3FBZXvxBzqWTYJ9xurL89pump",
+    "first_seen": "2026-07-10T15:09:54.824025+00:00"
+  },
+  "pumpit": {
+    "mint": "4q7zRrU8bpoRNnCQY9eSLeXGWRW2ZFp3vDNdpMHjpump",
+    "first_seen": "2026-07-10T15:09:55.211050+00:00"
+  },
+  "mars": {
+    "mint": "88HKQ4j6qpBmPBFD6vxjMbeF7uHvfZZGmGEYqWHZpump",
+    "first_seen": "2026-07-10T15:09:55.580711+00:00"
+  },
+  "mgdg": {
+    "mint": "5r8gEU1nv4hgqeQDpiAdmUMt5oUD6ULq2Yfz1wdEpump",
+    "first_seen": "2026-07-10T15:09:59.696654+00:00"
+  },
+  "firetruckdog": {
+    "mint": "FHcp18wmMsiaghv2gB9SHrF529DYehm3yXFT8525pump",
+    "first_seen": "2026-07-10T15:10:00.043199+00:00"
   }
 }
