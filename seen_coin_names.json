@@ -12466,5 +12466,13 @@
   "moobit": {
     "mint": "HnRUJYnmGhKNk9Gz6dDpBy3mPU5TkNx4d3Gmhfv8pump",
     "first_seen": "2026-07-11T07:30:15.026117+00:00"
+  },
+  "afh": {
+    "mint": "22p2axzQQzDkvtN2WExDj8fnXQCvJtLZywedb3PPpump",
+    "first_seen": "2026-07-11T07:39:58.793026+00:00"
+  },
+  "tsts": {
+    "mint": "9bMqRs1XSb2oz7QLR2m6yprxaSLhJCPhWXfaFxb2UzsQ",
+    "first_seen": "2026-07-11T07:39:59.923774+00:00"
   }
 }
