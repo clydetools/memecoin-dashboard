@@ -12130,5 +12130,21 @@
   "cuzo": {
     "mint": "BVfJ6hN4ozhavuh2bSxDB2kxLNyTVcYEDReSLzFypump",
     "first_seen": "2026-07-11T04:40:00.690612+00:00"
+  },
+  "wrongmodel": {
+    "mint": "5Gr8amiLH63cCUUWpENtZbmWzrJ4jPFB3Vc76MU5pump",
+    "first_seen": "2026-07-11T04:49:55.186880+00:00"
+  },
+  "sux": {
+    "mint": "5itLu9rQBiNkQpywsitiqxGHfY36gUDuvrkmh6RLpump",
+    "first_seen": "2026-07-11T04:49:58.069601+00:00"
+  },
+  "based": {
+    "mint": "GbWcRhxMNeCQBeknbKrTuDJ1Ak77x6aTvNWP6vqtgNdB",
+    "first_seen": "2026-07-11T04:49:58.861095+00:00"
+  },
+  "irr": {
+    "mint": "7ChJ8UE5BxWkHxDmvwEBDFdtMocZiaKuapgkhpdrpump",
+    "first_seen": "2026-07-11T04:49:59.277715+00:00"
   }
 }
