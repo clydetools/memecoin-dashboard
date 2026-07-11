@@ -12066,5 +12066,21 @@
   "xstocksfi": {
     "mint": "2NB1d2GpTku8DqdpuSxmBd5piLeqB1g6YPip6wwuuFea",
     "first_seen": "2026-07-11T04:00:02.914547+00:00"
+  },
+  "chickenshit": {
+    "mint": "9cd28fDV3KWcyBhPWExS9z4JA8Cxoq8ypTi9njp2pump",
+    "first_seen": "2026-07-11T04:09:52.760494+00:00"
+  },
+  "whales1": {
+    "mint": "Cqgywo1pFAwYsYYC19AW1nn2tM75FC9s9cyAmSNupump",
+    "first_seen": "2026-07-11T04:09:53.096488+00:00"
+  },
+  "tweetcoin": {
+    "mint": "HTgLRPWZHuv7KafUXu4THeXeXE1585WV2V8sqzSgpump",
+    "first_seen": "2026-07-11T04:09:53.756748+00:00"
+  },
+  "11oo": {
+    "mint": "DYTCLacY17kVc7F71H3x3Vhz4wyTJdnznxY6wQkspump",
+    "first_seen": "2026-07-11T04:09:54.083891+00:00"
   }
 }
