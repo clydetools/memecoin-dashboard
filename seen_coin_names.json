@@ -12494,5 +12494,21 @@
   "karina2": {
     "mint": "5KZEGvTWWq9xuuUpgnNGgpXzDSgfzzw8ZFTBkSBFpump",
     "first_seen": "2026-07-11T07:49:57.222526+00:00"
+  },
+  "mitch": {
+    "mint": "8Que4effYtKT3cDuviTn9j5AogRStSopJe8jVfPtpump",
+    "first_seen": "2026-07-11T07:59:59.616847+00:00"
+  },
+  "lizard": {
+    "mint": "FPZ8Xvegg7qwCtmwSzkrw4bppxZDN4gqtFd1iiyFpump",
+    "first_seen": "2026-07-11T08:00:00.234916+00:00"
+  },
+  "pooch": {
+    "mint": "BjsUBVHu1g8pNp6BSxdy6dStqfcbeb7u2QqQeJpgpump",
+    "first_seen": "2026-07-11T08:00:02.553130+00:00"
+  },
+  "jimbean": {
+    "mint": "7xZ6FQP33PEvxD9E49b8GgHQFLn49t9bGe8JrfLvpump",
+    "first_seen": "2026-07-11T08:00:03.924872+00:00"
   }
 }
