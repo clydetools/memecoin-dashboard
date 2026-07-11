@@ -12418,5 +12418,21 @@
   "vitaly": {
     "mint": "D78NGAjigMXaX52u5wvvLoNWuDZW98DayCxVtM9Fpump",
     "first_seen": "2026-07-11T07:10:11.827728+00:00"
+  },
+  "oi": {
+    "mint": "9e75eDUdALmWFfk6KzXPEuzVHpyDSg2fVFiFEJbYpump",
+    "first_seen": "2026-07-11T07:19:58.022854+00:00"
+  },
+  "33kryptic": {
+    "mint": "7hX25VGfVCANWYGEc5LshUn1FvQEL9up3ZcKsFakpump",
+    "first_seen": "2026-07-11T07:19:59.043251+00:00"
+  },
+  "nug": {
+    "mint": "22ozFYdUW18PN53etXXLR31neWr6vZbe3SFyr26Lpump",
+    "first_seen": "2026-07-11T07:19:59.733335+00:00"
+  },
+  "febubank": {
+    "mint": "DgMG64RmA3wjp7kqrjVX5aUcquk6Z5sRJPaPe6kbwg6X",
+    "first_seen": "2026-07-11T07:20:06.606482+00:00"
   }
 }
