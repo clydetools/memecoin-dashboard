@@ -12174,5 +12174,9 @@
   "wallet": {
     "mint": "D9xQCHoDT9YC66BufMqhuUePceArkVcmNY1Rtv9v5KeM",
     "first_seen": "2026-07-11T05:00:07.611233+00:00"
+  },
+  "broccoli": {
+    "mint": "ExoJWkd9dHKExDkp21R3hN1Xk5dFLYJMxwpNcPN3pump",
+    "first_seen": "2026-07-11T05:09:52.672743+00:00"
   }
 }
