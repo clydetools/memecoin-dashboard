@@ -12298,5 +12298,17 @@
   "voxel": {
     "mint": "6DEvB7wEj1iR4mMe4Yji7n1L7hiz9BCd4tBWiLVvpump",
     "first_seen": "2026-07-11T06:00:13.320175+00:00"
+  },
+  "genwealth": {
+    "mint": "5gdkymiHDBetTnCBjr1YAeqMCeGJKVFRkumrAAgmpump",
+    "first_seen": "2026-07-11T06:04:46.390709+00:00"
+  },
+  "mbapepe": {
+    "mint": "D4A8n37vHh8Va9dtTayMjwtiLaLsmLaLht8SgCdSpump",
+    "first_seen": "2026-07-11T06:04:46.564692+00:00"
+  },
+  "ssl": {
+    "mint": "2tuw17xp9dBxCW72HFvRAhpawMtc5Lcag3GGBktCpump",
+    "first_seen": "2026-07-11T06:04:46.608768+00:00"
   }
 }
