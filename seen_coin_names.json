@@ -11746,5 +11746,17 @@
   "aaif": {
     "mint": "FJpfv6WFpvJBhYybGN4yFUY2iARwim1aP6wmQ5uGfsUq",
     "first_seen": "2026-07-11T01:00:02.609573+00:00"
+  },
+  "newufo": {
+    "mint": "7qesD8W5DYj6h5qEKdcUoautGZ1xDsWZhvp7gJYDpump",
+    "first_seen": "2026-07-11T01:09:53.019775+00:00"
+  },
+  "catbag": {
+    "mint": "GNufWjNcMRir7WbSgccmDMDuSXHKqXmi4uvvuLm6pump",
+    "first_seen": "2026-07-11T01:09:54.821382+00:00"
+  },
+  "sweep": {
+    "mint": "Bnw9HxyfUwUsJ6qtTrLme954SWBi4WEvZVe5CL83pump",
+    "first_seen": "2026-07-11T01:10:02.584960+00:00"
   }
 }
