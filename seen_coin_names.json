@@ -13814,5 +13814,25 @@
   "gfn250": {
     "mint": "Bb1EjpknyHH1GEQYQCSnrUzf3zY1S9KDDRbKnCoVY5qd",
     "first_seen": "2026-07-11T18:10:01.017745+00:00"
+  },
+  "cmcg": {
+    "mint": "7jMnYoYh93BkuTre1TW3ygs3vuUXcfYRzv3ygAnepump",
+    "first_seen": "2026-07-11T18:19:53.610965+00:00"
+  },
+  "elonwif": {
+    "mint": "DXG9NYxbQno9ytFJ9Cgs8EQbbhmN3ipetxjZKjfkpump",
+    "first_seen": "2026-07-11T18:19:54.945030+00:00"
+  },
+  "samcat": {
+    "mint": "7V5trR7Z2EbSQ5rf95ySHAkdTAr7HUxbesmGdhnpump",
+    "first_seen": "2026-07-11T18:19:56.367561+00:00"
+  },
+  "slurpee": {
+    "mint": "4AoxfFLuoabTX3yhxLU7N1hWHpmCTwv2hiMuvGWepump",
+    "first_seen": "2026-07-11T18:20:01.351754+00:00"
+  },
+  "nigs": {
+    "mint": "22poV4p1bcmUD4csLKZ3ALLK7DGmwrAsuDv2ZtZepump",
+    "first_seen": "2026-07-11T18:20:02.053886+00:00"
   }
 }
