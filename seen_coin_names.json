@@ -12402,5 +12402,9 @@
   "jacobcoin": {
     "mint": "7K9M4CukFyQZgPDsu7CDgqr2CZZwQmTZdPvB3hKTpump",
     "first_seen": "2026-07-11T06:49:55.856471+00:00"
+  },
+  "cowin": {
+    "mint": "2kQHmsGCn4ychGbGAm3FSxDYrWowvUZknsPqiTRKpump",
+    "first_seen": "2026-07-11T07:00:02.643709+00:00"
   }
 }
