@@ -14106,5 +14106,41 @@
   "predictor": {
     "mint": "3PAtpXzFVmcDhGw5zjxg5wLiCC43nFGyxz8Dsihwpump",
     "first_seen": "2026-07-11T20:09:56.625946+00:00"
+  },
+  "shred": {
+    "mint": "XcFiufNroCCCzea21DayzEfBs4iphhkL15y2Twpp2Jk",
+    "first_seen": "2026-07-11T20:19:54.213585+00:00"
+  },
+  "swe": {
+    "mint": "BxkCqDQAhLvDBirjFtaZocUHcx6ip9Dwaw1BChrNpump",
+    "first_seen": "2026-07-11T20:19:54.782869+00:00"
+  },
+  "pking": {
+    "mint": "2cPoakH9iiat6EFyMPU3CvYpZ8xgrkhg1CmCEoqHKYBh",
+    "first_seen": "2026-07-11T20:19:55.333558+00:00"
+  },
+  "beet": {
+    "mint": "B3WR4QSDth88GokQRaBPQJ65TkzmVJ8ss7b3aDfEpump",
+    "first_seen": "2026-07-11T20:19:55.934934+00:00"
+  },
+  "maneki": {
+    "mint": "A8StWAAGb3ShENSjEVh8H4q3Z1KMa8WKAJEjTneLpump",
+    "first_seen": "2026-07-11T20:19:56.698752+00:00"
+  },
+  "ghoulz": {
+    "mint": "Hh2p3qxgWH8gp8DwGPNpELvFkYFAKRb7TuArGjFppump",
+    "first_seen": "2026-07-11T20:19:57.350213+00:00"
+  },
+  "inusider": {
+    "mint": "4fDSfTGTmGLv7oqRt6kJb4ySVcLN478yQ2tsFBNmpump",
+    "first_seen": "2026-07-11T20:19:57.854394+00:00"
+  },
+  "ufox": {
+    "mint": "51cQfqtLjQwCMrebQugD52s4pqePibbb6gSmqYjWPQsx",
+    "first_seen": "2026-07-11T20:19:58.815666+00:00"
+  },
+  "kups": {
+    "mint": "HTQhknk7LM58njp5BB1dEuG7HHAFctkQydzG2K9npump",
+    "first_seen": "2026-07-11T20:20:04.504702+00:00"
   }
 }
