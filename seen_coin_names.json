@@ -14250,5 +14250,49 @@
   "rufus": {
     "mint": "5fsq26AvsAKyRSAb6ZPEgyJUAteK8Lk9UvoZq2nJpump",
     "first_seen": "2026-07-11T21:00:04.873367+00:00"
+  },
+  "miguel": {
+    "mint": "GUSA4ngoBH4j3UpX6HZASQfcija59QcvA1mLs65apump",
+    "first_seen": "2026-07-11T21:09:54.151780+00:00"
+  },
+  "frogbutt": {
+    "mint": "FErfZmveaRunhM845AQ7uRrM6aVh6XhdvXHAQmd5pump",
+    "first_seen": "2026-07-11T21:09:54.519862+00:00"
+  },
+  "godspeed": {
+    "mint": "9YwPviyiwUD43Lb5pNACVk8xutnBczYmo3MuXaCiWHcL",
+    "first_seen": "2026-07-11T21:09:54.849908+00:00"
+  },
+  "baldcat": {
+    "mint": "5VbCS42QzcGLFk5kD6sZfEEv9BwZMUzWjszHmocApump",
+    "first_seen": "2026-07-11T21:09:55.178351+00:00"
+  },
+  "pfbull": {
+    "mint": "2imV6zm9mVEUpB9f8TdNCXbqVpjNCKJ362Zq9NDApump",
+    "first_seen": "2026-07-11T21:09:56.503009+00:00"
+  },
+  "tweak": {
+    "mint": "B7ua7E6Gqrc1HVjGod2nfPCr7UwpVDrMqLAosSszpump",
+    "first_seen": "2026-07-11T21:09:56.844459+00:00"
+  },
+  "dfgsd": {
+    "mint": "qQPccZzLmGhVa6TSqsajKLa8q7QBDWuEerMfnpie9S4",
+    "first_seen": "2026-07-11T21:09:57.177752+00:00"
+  },
+  "blox": {
+    "mint": "EZiUtZ9dkmA2sWtNBMX3Xju9wudHGmgoMJcd2W24pump",
+    "first_seen": "2026-07-11T21:09:57.520901+00:00"
+  },
+  "tits": {
+    "mint": "23CTZMjEYNNZUE4itfn3iv6kgM4xn7X7dx1kVX1Gr8Xi",
+    "first_seen": "2026-07-11T21:10:02.103122+00:00"
+  },
+  "fmjpump": {
+    "mint": "FmjijgwEHpe32VPvHy1s7u7TLthh9yu1j75djVbWpump",
+    "first_seen": "2026-07-11T21:10:02.140087+00:00"
+  },
+  "bertcoin": {
+    "mint": "AfscB41dn4q9NsF7ej2FDFCzov6qmmPQNqtBhuhgpump",
+    "first_seen": "2026-07-11T21:10:02.679522+00:00"
   }
 }
