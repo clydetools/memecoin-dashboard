@@ -12962,5 +12962,29 @@
   "agentx402": {
     "mint": "GWyqWXidkh3rtjYaJQSDjpWb2kSDzWW3KBM353Dwpdg7",
     "first_seen": "2026-07-11T12:50:03.611531+00:00"
+  },
+  "slakor": {
+    "mint": "BNixVNWXraLBNkcXKbrFJiS1ECH27CrY3n4Vb7pypump",
+    "first_seen": "2026-07-11T12:59:53.378328+00:00"
+  },
+  "jean": {
+    "mint": "22pTmV7FyRczV4RurpfuvxFcWbzqW9BqYSNRdVgApump",
+    "first_seen": "2026-07-11T12:59:54.340491+00:00"
+  },
+  "doctorbull": {
+    "mint": "GTtEK96xjTbiQyS4YTHsPSBVGgRQnMwS2cKATsq5pump",
+    "first_seen": "2026-07-11T12:59:55.151048+00:00"
+  },
+  "stlr": {
+    "mint": "ChyvJZqMyM4rn92mKi9CgEuBiL5oMnYw3mosZ4m2pump",
+    "first_seen": "2026-07-11T12:59:56.030780+00:00"
+  },
+  "nostalgia": {
+    "mint": "ffC9UqJuZGt27b4XUCZykdvw2xjqJmYb9wydE4Upump",
+    "first_seen": "2026-07-11T13:00:02.429963+00:00"
+  },
+  "chompix": {
+    "mint": "DxVAn6ykMrX9YmJPEZkEkqJtFVCRstmQDiAAU8tepump",
+    "first_seen": "2026-07-11T13:00:02.814934+00:00"
   }
 }
