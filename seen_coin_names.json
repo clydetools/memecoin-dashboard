@@ -12310,5 +12310,17 @@
   "ssl": {
     "mint": "2tuw17xp9dBxCW72HFvRAhpawMtc5Lcag3GGBktCpump",
     "first_seen": "2026-07-11T06:04:46.608768+00:00"
+  },
+  "singularity": {
+    "mint": "ENxVSWtk7Yt3aqBMu96qLVzbwKECto9tpBVdrDRhpump",
+    "first_seen": "2026-07-11T06:09:56.318764+00:00"
+  },
+  "box": {
+    "mint": "64uYbE5VvGs9Gg4hn8qJbcYU51srAWs3hc4Gu7Xspump",
+    "first_seen": "2026-07-11T06:09:57.438213+00:00"
+  },
+  "beerr": {
+    "mint": "BKdYQwqB9ayT34qWZdZdGiERTxqRNP1wMvJSmV2epump",
+    "first_seen": "2026-07-11T06:09:58.485351+00:00"
   }
 }
