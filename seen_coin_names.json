@@ -12678,5 +12678,21 @@
   "ptc": {
     "mint": "Ekf27T43c42XwdAcPiaQRuW96CUVvyuXNEjXPL9PvE4Z",
     "first_seen": "2026-07-11T10:10:04.498385+00:00"
+  },
+  "scam": {
+    "mint": "32tBSqjaAAVFNtSJvgy8gBg2Az2CAxWQHuBSZcAypump",
+    "first_seen": "2026-07-11T10:19:52.972922+00:00"
+  },
+  "gp": {
+    "mint": "7rdVJkYpAmu35QjNB4ZdDtdygdjjPr1yzWLw3ASYpump",
+    "first_seen": "2026-07-11T10:19:54.235576+00:00"
+  },
+  "justice": {
+    "mint": "22p92u2Vs69eWTX7kQC5fWUvUzNfoSEc9ANrd8xepump",
+    "first_seen": "2026-07-11T10:19:54.668152+00:00"
+  },
+  "opunai": {
+    "mint": "EpUaU94Fu8jZjcQVrEHabHYjTptSJo1PnMeffftapump",
+    "first_seen": "2026-07-11T10:19:55.910415+00:00"
   }
 }
