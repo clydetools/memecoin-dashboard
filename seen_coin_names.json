@@ -12566,5 +12566,21 @@
   "entro": {
     "mint": "HYnsveQmKoG3qPhWypcgx938widsvJ9BECd9xzmKpump",
     "first_seen": "2026-07-11T08:40:03.832360+00:00"
+  },
+  "maniac": {
+    "mint": "2RT4jrVHXmVFjur5qkx4qnXZExsfpbshzj3dvkkWpump",
+    "first_seen": "2026-07-11T08:49:54.984256+00:00"
+  },
+  "thirsty": {
+    "mint": "E5uq7hYT6fh8DVtxL9gN6VLPjKGSgKxfhewH4ikPpump",
+    "first_seen": "2026-07-11T08:49:56.428589+00:00"
+  },
+  "bluebull": {
+    "mint": "5tof2yTK9PijSAcbGNCT8TnNK6qM7riePYg7xhcAHtGR",
+    "first_seen": "2026-07-11T08:50:02.220982+00:00"
+  },
+  "texe": {
+    "mint": "A4PBMVLgjMUvRe3Mr6fQcex7zgGJuQfwuusLhQDft43e",
+    "first_seen": "2026-07-11T08:50:02.260475+00:00"
   }
 }
