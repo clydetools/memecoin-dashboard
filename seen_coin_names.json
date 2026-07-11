@@ -11794,5 +11794,21 @@
   "plepe": {
     "mint": "7zgx4nX2hPutz45FxfciohnWqRuiqZHWGfXYDUsEpump",
     "first_seen": "2026-07-11T01:39:57.073394+00:00"
+  },
+  "trollbull": {
+    "mint": "2azjtJFD6439WbcKDVNtRfDnb6wSxS2sTM1GBLuFpump",
+    "first_seen": "2026-07-11T01:49:54.436121+00:00"
+  },
+  "dawg": {
+    "mint": "5bVoNpJsYRx6QRvfPkxvWpygMycWwJiZsNKsLR13pump",
+    "first_seen": "2026-07-11T01:49:55.031774+00:00"
+  },
+  "topenai": {
+    "mint": "oPAiAikWTaFj9RYoRFD35ccfwhnMcB3ThgBZRHSkjTZ",
+    "first_seen": "2026-07-11T01:49:59.628656+00:00"
+  },
+  "swarms": {
+    "mint": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+    "first_seen": "2026-07-11T01:50:00.342201+00:00"
   }
 }
