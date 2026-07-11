@@ -12622,5 +12622,9 @@
   "roobinhood": {
     "mint": "3Ct65xHR4qbiP7th7Ywg2aJQYqCzFnUTabPHtjckpump",
     "first_seen": "2026-07-11T09:19:59.139257+00:00"
+  },
+  "echo": {
+    "mint": "Fc9kdcVsN1Z5AR4H6nU38RftD2k3AAUDZ3nNUT6pump",
+    "first_seen": "2026-07-11T09:29:55.132136+00:00"
   }
 }
