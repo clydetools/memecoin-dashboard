@@ -12770,5 +12770,25 @@
   "omg": {
     "mint": "7eHN8yj7ffqkrfDwFTWvHco1v16HorfXQrT8zDqdpump",
     "first_seen": "2026-07-11T11:09:57.631031+00:00"
+  },
+  "fafo": {
+    "mint": "DoQSRGP4QBa2twQQmwCVGph5gx2rDgKNxfkWmBryqQUZ",
+    "first_seen": "2026-07-11T11:19:54.965005+00:00"
+  },
+  "dooh": {
+    "mint": "7HDSeeXUzXywbrub1JEBfJiX8DNrk6DzvvvZjVXipump",
+    "first_seen": "2026-07-11T11:19:58.765042+00:00"
+  },
+  "lumbull": {
+    "mint": "VhZdwCpLUcC1ZRFf7ZBnoHw8XV8YxjGuQtwZxsspump",
+    "first_seen": "2026-07-11T11:20:01.821229+00:00"
+  },
+  "fap": {
+    "mint": "FuARoPsS4V9Ne3ozy65ZQNi38pV2EUxJGGv3V8q2pump",
+    "first_seen": "2026-07-11T11:20:07.139396+00:00"
+  },
+  "bullcash": {
+    "mint": "AwXtJ4QsZwHwD84C4WtJfhAAiF9FBFisMwry1LSLpump",
+    "first_seen": "2026-07-11T11:20:07.194041+00:00"
   }
 }
