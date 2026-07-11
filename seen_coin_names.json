@@ -12322,5 +12322,29 @@
   "beerr": {
     "mint": "BKdYQwqB9ayT34qWZdZdGiERTxqRNP1wMvJSmV2epump",
     "first_seen": "2026-07-11T06:09:58.485351+00:00"
+  },
+  "vibes": {
+    "mint": "FmrGvrdANwz75tDTs18tWz8RjzsUVCqtfto1HGqkpump",
+    "first_seen": "2026-07-11T06:19:55.732138+00:00"
+  },
+  "faucet": {
+    "mint": "4VPVn2SkT91pFTq3AFwZfGkigEY5ZSq8V8zeNTawpump",
+    "first_seen": "2026-07-11T06:20:01.250112+00:00"
+  },
+  "rdbull": {
+    "mint": "Cfvrm8czqBijk48pQExEeha7maqb2oqkwgJTZJFHpump",
+    "first_seen": "2026-07-11T06:20:01.760529+00:00"
+  },
+  "zucchini": {
+    "mint": "CfzA6KJPrE6Pf6Jj4CJLLN4B5tHPE6o47BTnZH8Cpump",
+    "first_seen": "2026-07-11T06:20:02.287720+00:00"
+  },
+  "pkx": {
+    "mint": "Fkfr1sRyk7j57ZHsaLDp7xGxcwAZqGJG79QrA9aDpump",
+    "first_seen": "2026-07-11T06:20:08.816420+00:00"
+  },
+  "uatf": {
+    "mint": "Ea526UEJ89VSWcXNAQDoEQm7uGotE85B76iZ9atCpt2x",
+    "first_seen": "2026-07-11T06:20:08.936662+00:00"
   }
 }
