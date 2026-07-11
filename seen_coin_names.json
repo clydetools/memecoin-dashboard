@@ -12042,5 +12042,29 @@
   "sludge": {
     "mint": "AayNmwN9tLQwYGJ88RK1iZSQeeaiNXuzQScSBqAhauwH",
     "first_seen": "2026-07-11T03:50:01.473648+00:00"
+  },
+  "ven": {
+    "mint": "5CGkgVfRGCoURhtCfuPhb4fV141TGszCiNUF4mShpump",
+    "first_seen": "2026-07-11T03:59:56.043235+00:00"
+  },
+  "pooh": {
+    "mint": "CjWu5uavmctVaFoDFj9XaF7r7fNQcPXsZX9pm2bipump",
+    "first_seen": "2026-07-11T03:59:56.590212+00:00"
+  },
+  "mmga": {
+    "mint": "HEMDh1QBtgDXQn5dqJiWRwado9yP35m3GnBr1ib8pump",
+    "first_seen": "2026-07-11T03:59:57.080178+00:00"
+  },
+  "lolz": {
+    "mint": "2p1BtPtHFhGb4P1S6KNvwmkNi6WzwApMhKbhUqdhpump",
+    "first_seen": "2026-07-11T03:59:57.581681+00:00"
+  },
+  "wdog": {
+    "mint": "GYKmdfcUmZVrqfcH1g579BGjuzSRijj3LBuwv79rpump",
+    "first_seen": "2026-07-11T04:00:02.181595+00:00"
+  },
+  "xstocksfi": {
+    "mint": "2NB1d2GpTku8DqdpuSxmBd5piLeqB1g6YPip6wwuuFea",
+    "first_seen": "2026-07-11T04:00:02.914547+00:00"
   }
 }
