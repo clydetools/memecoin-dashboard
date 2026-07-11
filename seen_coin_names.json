@@ -14590,5 +14590,37 @@
   "ascii": {
     "mint": "95NTrA2PA4MWv7AXSgBJV3XTTNdZHDTCs6zCxKJnpump",
     "first_seen": "2026-07-11T23:00:06.354573+00:00"
+  },
+  "freemoney": {
+    "mint": "3G5sDVJw2XAXZ9Dq2dLNKuwrBSLWuGymabZnqfoWpump",
+    "first_seen": "2026-07-11T23:09:55.479389+00:00"
+  },
+  "winfifa": {
+    "mint": "5LtUJWaLKKFxUUSfW61cokdKn5nyft925HnK9PMcpump",
+    "first_seen": "2026-07-11T23:09:55.951314+00:00"
+  },
+  "phew": {
+    "mint": "AqsmhCw9STqgeVadNngENKfUx6Vsh3aSQx7dDjQSpump",
+    "first_seen": "2026-07-11T23:09:56.662134+00:00"
+  },
+  "carp": {
+    "mint": "GZNHNqZG44XUAFeBgAjrMGvFY8CiVHihEZsgXusfpump",
+    "first_seen": "2026-07-11T23:09:57.024389+00:00"
+  },
+  "1burger": {
+    "mint": "4TtUYqMw7ZtLFGy4zPBDHPR7Lk66oFjZsbPm1sEDpDh2",
+    "first_seen": "2026-07-11T23:09:58.780678+00:00"
+  },
+  "shsc": {
+    "mint": "D9JgQpat8p9wpWKWBzsqRE5y91z6bpWq9KWFoByZpump",
+    "first_seen": "2026-07-11T23:10:03.224148+00:00"
+  },
+  "avanse": {
+    "mint": "7eGTHXt5F6juscg1oddru1PevK4r3XsJC4yTEowZpump",
+    "first_seen": "2026-07-11T23:10:03.779205+00:00"
+  },
+  "trade": {
+    "mint": "CR9jFW7ZjFUvNLRXB1Ku3BovcR5462cYyUC1Mq3tpump",
+    "first_seen": "2026-07-11T23:10:03.838354+00:00"
   }
 }
