@@ -12742,5 +12742,17 @@
   "huud": {
     "mint": "GBusxSBBXZdLKqXyzzwkcCLNQAH2DpDHk9VBUDdZpump",
     "first_seen": "2026-07-11T10:49:57.260618+00:00"
+  },
+  "loombull": {
+    "mint": "2gTXhtB87jsRfmFmnPjXYRXfH51AAzJ1hEvLfbWbpump",
+    "first_seen": "2026-07-11T10:59:59.346441+00:00"
+  },
+  "eurocucksim": {
+    "mint": "tFhWFsT8sNtYLx4iBuNqprUybNLy7Hk7WZgfatapump",
+    "first_seen": "2026-07-11T11:00:00.255942+00:00"
+  },
+  "nuxa": {
+    "mint": "8AK3fKND4LFGpmn96rkD5fpkJosC7vmc8d68bx9pump",
+    "first_seen": "2026-07-11T11:00:02.353024+00:00"
   }
 }
