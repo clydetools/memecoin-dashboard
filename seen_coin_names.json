@@ -12606,5 +12606,21 @@
   "loveisland": {
     "mint": "5M68jxqUjEALYoQQa8oxbVq5veSgK17JQMr9b9xdpump",
     "first_seen": "2026-07-11T09:10:02.245707+00:00"
+  },
+  "hopium": {
+    "mint": "9pfQifSKh7LS8Xc8DZfNj9cyQEkioASQnSF4DbXFpump",
+    "first_seen": "2026-07-11T09:19:57.753871+00:00"
+  },
+  "seas": {
+    "mint": "5wYnUb8eJU9HEjS5zq5HYwxLFanGmY11VeDYBMVkpump",
+    "first_seen": "2026-07-11T09:19:58.103564+00:00"
+  },
+  "catass": {
+    "mint": "6TuTzwWhe46ipwRW1633Wnbt2SQubx2z2V5KSKtspump",
+    "first_seen": "2026-07-11T09:19:58.790030+00:00"
+  },
+  "roobinhood": {
+    "mint": "3Ct65xHR4qbiP7th7Ywg2aJQYqCzFnUTabPHtjckpump",
+    "first_seen": "2026-07-11T09:19:59.139257+00:00"
   }
 }
