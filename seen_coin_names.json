@@ -16258,5 +16258,29 @@
   "dickcoin": {
     "mint": "T74PEzAKYV8acUi2ETYesDRwosk9UPEL7PFSVjWpump",
     "first_seen": "2026-07-12T15:30:00.589673+00:00"
+  },
+  "meantme": {
+    "mint": "4vJtFK4uW1VSjmZEaRftHpKj8pg2doU9UzYWe5frk16R",
+    "first_seen": "2026-07-12T15:38:04.635821+00:00"
+  },
+  "speedrun": {
+    "mint": "CPhB6bU6AXSneAf77aUkpzx8ee2jyfNnzMZou6Gcpump",
+    "first_seen": "2026-07-12T15:38:05.683841+00:00"
+  },
+  "stace": {
+    "mint": "eCAQYFLPDnif5TbymShHnRnSZzjW2dWkmu8ePQmpump",
+    "first_seen": "2026-07-12T15:38:06.264730+00:00"
+  },
+  "cheeks": {
+    "mint": "BX1i4yiFFRHKEZ6z37PXYmwiYT5AfmYyvxBfcfJapump",
+    "first_seen": "2026-07-12T15:38:06.786616+00:00"
+  },
+  "frmt": {
+    "mint": "CcWq7qKbxt1ZgJq11EXmrbokgMMHaJDuu9dCkX6Kpump",
+    "first_seen": "2026-07-12T15:38:07.320136+00:00"
+  },
+  "amali": {
+    "mint": "GrogpXhp5yHAvd42qTPaR3BmYRYnrcf5chTrfmXTpump",
+    "first_seen": "2026-07-12T15:38:07.831000+00:00"
   }
 }
