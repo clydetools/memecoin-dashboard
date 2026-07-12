@@ -16034,5 +16034,57 @@
   "forg": {
     "mint": "G4QRtYNRPyxdKwcAqqW3xSeEynDDxEyRvrDT9FJEpump",
     "first_seen": "2026-07-12T14:00:57.335507+00:00"
+  },
+  "spiderman": {
+    "mint": "Eubb7bget8DbfgcDekz9kds3ndn7d2Gi9n7UXCVJpump",
+    "first_seen": "2026-07-12T14:14:09.986789+00:00"
+  },
+  "0": {
+    "mint": "CNbRu9DB8uDCoEGdGJMrAWoZn4CzojiUKTdHaDiXpump",
+    "first_seen": "2026-07-12T14:14:10.614947+00:00"
+  },
+  "tessie": {
+    "mint": "4iJkp4jH5QLM7fPigC9eSxEkKCHXqhmUUPatddXZ8dAi",
+    "first_seen": "2026-07-12T14:14:11.193108+00:00"
+  },
+  "solanomics": {
+    "mint": "R9ppcHiKqLn18vvrQCUxMXAXXTos4K6m6KxZUiTpump",
+    "first_seen": "2026-07-12T14:14:11.734219+00:00"
+  },
+  "poppy": {
+    "mint": "6AMhcKtw1E5ADNSUtpW4zrZqcCwZJBvgNYXrboynpump",
+    "first_seen": "2026-07-12T14:14:12.261772+00:00"
+  },
+  "tesla": {
+    "mint": "5a5WnppVFGD4dwFAhTgdeTWj4xQKfkU31cqHsYa8pump",
+    "first_seen": "2026-07-12T14:14:12.823930+00:00"
+  },
+  "smarp": {
+    "mint": "FRJqej8PvLNnZrKdnkE2XGpD8LfYqjVgVtEcKFzHpump",
+    "first_seen": "2026-07-12T14:14:13.828974+00:00"
+  },
+  "xauusd": {
+    "mint": "HiG7JucudM5K3SxXEHcXZHbGWZqFvgoz8q66qcwrpump",
+    "first_seen": "2026-07-12T14:14:14.326023+00:00"
+  },
+  "crackgreg": {
+    "mint": "FRXMpVCm1maWJiEWytJwVdHSWwTUjFj74auSkkjzpump",
+    "first_seen": "2026-07-12T14:14:14.868109+00:00"
+  },
+  "gadi": {
+    "mint": "81rQicRQnVdt7u8XW2i4RfTfiiCnZdAr1iTG5vzzpump",
+    "first_seen": "2026-07-12T14:14:15.678063+00:00"
+  },
+  "goalexpres": {
+    "mint": "8Xv7Vyrh3T7sSZt14ad669KTDwJLjHje3m81CAnmpump",
+    "first_seen": "2026-07-12T14:14:16.229748+00:00"
+  },
+  "solever": {
+    "mint": "2vM37a8KKhrP2LJqRi3wankwGqyzgSKuEmTHNcTypump",
+    "first_seen": "2026-07-12T14:14:21.675922+00:00"
+  },
+  "pepecat": {
+    "mint": "CRAMvzDsSpXYsFpcoDr6vFLJMBeftez1E7277xwPpump",
+    "first_seen": "2026-07-12T14:14:22.890859+00:00"
   }
 }
