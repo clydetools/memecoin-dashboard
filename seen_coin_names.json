@@ -15666,5 +15666,41 @@
   "phentum": {
     "mint": "HMiDvZXfksmc8JYdq2h9VSe7i38tLo5HbzFXusT8xjzN",
     "first_seen": "2026-07-12T10:00:38.902402+00:00"
+  },
+  "sofi": {
+    "mint": "GdbJJBUS4G4dST5bfU2mo5BB3nTqzaiBCofQZ5Fipump",
+    "first_seen": "2026-07-12T10:13:25.695529+00:00"
+  },
+  "less": {
+    "mint": "5GzSno1a3LbHQkgm9fEWSdLUd1Qy6HAjiF9arqYSpump",
+    "first_seen": "2026-07-12T10:13:26.245966+00:00"
+  },
+  "fent": {
+    "mint": "8iGNCg6YNiQ7KwmiBL3Tm3gg6nyVdTrSKZbFUrakpump",
+    "first_seen": "2026-07-12T10:13:26.784555+00:00"
+  },
+  "castrated": {
+    "mint": "C2uxsp78mRicosSsdjdyxjTTdcVmDiC3951EXLsM1vHQ",
+    "first_seen": "2026-07-12T10:13:31.477253+00:00"
+  },
+  "j1tfyi": {
+    "mint": "HAqD46mR4LgY3aJiMZSabfefZoysG3Uuj6wn2ZKYE14v",
+    "first_seen": "2026-07-12T10:13:32.242700+00:00"
+  },
+  "jiangban": {
+    "mint": "3KiaRgoXCSkqMysiBX7WX1ubWCaw6Vijen3D4Lqvpump",
+    "first_seen": "2026-07-12T10:13:32.280746+00:00"
+  },
+  "axs": {
+    "mint": "AXSPQdcrWG3hn3jt7jXqsPTwLk8BgQYbWfcerTutZLCt",
+    "first_seen": "2026-07-12T10:13:32.406712+00:00"
+  },
+  "nickexe": {
+    "mint": "2Cn914VFmRasAJyhEQrjuxXoLqTR6b66Cx6vcDWwpump",
+    "first_seen": "2026-07-12T10:13:32.524267+00:00"
+  },
+  "sosana": {
+    "mint": "49jdQxUkKtuvorvnwWqDzUoYKEjfgroTzHkQqXG9YFMj",
+    "first_seen": "2026-07-12T10:13:32.835627+00:00"
   }
 }
