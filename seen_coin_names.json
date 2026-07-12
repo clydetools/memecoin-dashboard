@@ -15770,5 +15770,17 @@
   "stock": {
     "mint": "2LAi7vCSKeZNN1NtGMyft96eU6qing7YEYvBQA8apump",
     "first_seen": "2026-07-12T11:29:57.166068+00:00"
+  },
+  "teacat": {
+    "mint": "3i5xieUD9REPVcd2XBaGZ3a8Dkk5VQ59pWHhGRLUgV91",
+    "first_seen": "2026-07-12T11:39:59.714566+00:00"
+  },
+  "tater": {
+    "mint": "9w9fmayTYH3YiWzAbfitQnQjdqRk51tkYjUSWeQnbc93",
+    "first_seen": "2026-07-12T11:40:05.849517+00:00"
+  },
+  "spike": {
+    "mint": "BX9yEgW8WkoWV8SvqTMMCynkQWreRTJ9ZS81dRXYnnR9",
+    "first_seen": "2026-07-12T11:40:06.394638+00:00"
   }
 }
