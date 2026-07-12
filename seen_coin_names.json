@@ -15930,5 +15930,17 @@
   "lambro": {
     "mint": "AdWTfeHHRijnGTvEdNNpiHYM2zjnMHGbpZWdfD6cpump",
     "first_seen": "2026-07-12T13:10:06.457376+00:00"
+  },
+  "luna": {
+    "mint": "5gEBCrthALPNFYsiTVp34oQwfQ4xZ6qmuyjCsFSgLuna",
+    "first_seen": "2026-07-12T13:20:03.887779+00:00"
+  },
+  "riddance": {
+    "mint": "5HTnTnDAnc3Tpuq7vCo9pWT6eLP24iAedALfcQfMpump",
+    "first_seen": "2026-07-12T13:20:05.442955+00:00"
+  },
+  "cinderella": {
+    "mint": "9zxq3rPNVM5B43Zu7ntKvc6hi1fEzu9QFTvSC77Lpump",
+    "first_seen": "2026-07-12T13:20:10.610795+00:00"
   }
 }
