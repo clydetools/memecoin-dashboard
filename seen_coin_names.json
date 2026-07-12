@@ -16702,5 +16702,37 @@
   "force": {
     "mint": "BZiEMwTwRkt6eVi6wJek1YaZXwey2a5Arae8ToWWkhoh",
     "first_seen": "2026-07-12T19:10:02.771798+00:00"
+  },
+  "brandon": {
+    "mint": "GC7HuoFDXkGyAzLPLyxUu1Fr9UC1BgQCWuDawMjzpump",
+    "first_seen": "2026-07-12T19:19:53.683503+00:00"
+  },
+  "impjak": {
+    "mint": "5hyJ16mGWX9bTxEpvuFmQT6Fei8LQxtmJMfzafwkpump",
+    "first_seen": "2026-07-12T19:19:54.203768+00:00"
+  },
+  "smelly": {
+    "mint": "GYEqRW7nm5U5cMQhTyDrcsMJtVLuF2gs46GWDfi7pump",
+    "first_seen": "2026-07-12T19:19:56.772480+00:00"
+  },
+  "ljc": {
+    "mint": "3kYJuPnTky5zLUj5LUxQSgKBrFgubrUkzY2Csinr5o5F",
+    "first_seen": "2026-07-12T19:19:58.316418+00:00"
+  },
+  "branigger": {
+    "mint": "3sLA7AbW62FRQePePFixeAyP1JohVJFo2A8tksjxpump",
+    "first_seen": "2026-07-12T19:19:58.830723+00:00"
+  },
+  "b20": {
+    "mint": "C6b4DUrsHAUL9AYPMe5iyDQxKnTd4Nd3ULTqhcP2pump",
+    "first_seen": "2026-07-12T19:20:00.561411+00:00"
+  },
+  "turtle": {
+    "mint": "A7Uks1zjQjWHADRsrZADN3NassPfUMinciDSPBXt7mz",
+    "first_seen": "2026-07-12T19:20:11.256328+00:00"
+  },
+  "cashduck": {
+    "mint": "CK9zqM5JtFAQLr1YSoW2M1ACGasZ7Q8kkya6XHQjpump",
+    "first_seen": "2026-07-12T19:20:11.766946+00:00"
   }
 }
