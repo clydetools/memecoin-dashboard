@@ -16602,5 +16602,17 @@
   "cale": {
     "mint": "4k2Z2443EMSrijePUB2tKynNCaJbDCEVh24vB8huvAcR",
     "first_seen": "2026-07-12T18:20:05.710984+00:00"
+  },
+  "wifchi": {
+    "mint": "2PQvicUD93oQoYnHi9M2draEhHweeQ3W42w9ppXypump",
+    "first_seen": "2026-07-12T18:29:57.571479+00:00"
+  },
+  "patrick": {
+    "mint": "E2C2dzY7wqSafDx81zZyNbHALYNAN1Qwr4uHrf8MYNWY",
+    "first_seen": "2026-07-12T18:29:58.008102+00:00"
+  },
+  "ovary": {
+    "mint": "FJJ8dtvpLUz1q6hvwQwBNDbw4iXz97Gu3ZqXTR97spH3",
+    "first_seen": "2026-07-12T18:30:03.978373+00:00"
   }
 }
