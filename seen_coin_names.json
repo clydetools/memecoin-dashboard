@@ -15830,5 +15830,21 @@
   "dfl": {
     "mint": "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
     "first_seen": "2026-07-12T12:10:52.903558+00:00"
+  },
+  "elonrwa": {
+    "mint": "FRuKbnFsEpkbJkRkkuv9uSgFk7DWWRxiVntmK93Spump",
+    "first_seen": "2026-07-12T12:19:56.624253+00:00"
+  },
+  "pippidog": {
+    "mint": "J7pciR1aFiuNpUUuhEpMTtjUd7dNBjU9oXfojybmpump",
+    "first_seen": "2026-07-12T12:19:59.114663+00:00"
+  },
+  "crashcat": {
+    "mint": "BWrUhH74M63YifAs4xNWTiLS3CfyZ2tdRC5P6MMMpump",
+    "first_seen": "2026-07-12T12:19:59.779002+00:00"
+  },
+  "ttpa": {
+    "mint": "HegmiLGRmFyhxKDxFTVdfT6AJPcm58VSANMTnCypump",
+    "first_seen": "2026-07-12T12:20:00.125563+00:00"
   }
 }
