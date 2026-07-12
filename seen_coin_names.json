@@ -15754,5 +15754,9 @@
   "sec": {
     "mint": "8wcUiVKHaGGBrrHjBMcT3rmR1tNRkCc6MmEftq4jpump",
     "first_seen": "2026-07-12T11:00:02.555680+00:00"
+  },
+  "powa": {
+    "mint": "B65egkuVt9dTMAc9hEo3t6du4axVDhxeLrMYAQhH6cpC",
+    "first_seen": "2026-07-12T11:20:31.378731+00:00"
   }
 }
