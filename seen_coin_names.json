@@ -15126,5 +15126,25 @@
   "dumdum": {
     "mint": "BdQqTYorrFN7QCuue91rnFwQoKcYeyNoqAzA8nXnREUH",
     "first_seen": "2026-07-12T03:50:00.395127+00:00"
+  },
+  "marv": {
+    "mint": "CubsWJPtZS1hphytuDV4pKpXRuejAJeKKpSKGKvvpump",
+    "first_seen": "2026-07-12T03:59:54.684835+00:00"
+  },
+  "chimq": {
+    "mint": "GGMthmNQTxmgRHfkC5ghZ4UdeYN37LaoQs3ppV5pump",
+    "first_seen": "2026-07-12T03:59:56.941001+00:00"
+  },
+  "mac": {
+    "mint": "7w734mbs1Z146aafthyaK1Ktf2i7EcikDMYBaGp2pump",
+    "first_seen": "2026-07-12T03:59:57.483071+00:00"
+  },
+  "hoggregor": {
+    "mint": "22qnjFgcwnAMvDCzgLhC79ggXFsCfkPh1cSyLePwpump",
+    "first_seen": "2026-07-12T03:59:58.030148+00:00"
+  },
+  "mclegger": {
+    "mint": "3ZSwJcUKkTTtiATHfrKjm6gkCM1MB8HgAH4Mi63CYH2w",
+    "first_seen": "2026-07-12T04:00:02.499887+00:00"
   }
 }
