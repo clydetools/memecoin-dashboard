@@ -16774,5 +16774,21 @@
   "potato": {
     "mint": "CU5HapNqwmuqd5qM3VM5fvBkUss5feanDeHwYHiQ7huz",
     "first_seen": "2026-07-12T19:30:02.239575+00:00"
+  },
+  "pounz": {
+    "mint": "AADYajLW7WdaSfUg9dQgjdvv4SWamRfpwCPwQJmcpump",
+    "first_seen": "2026-07-12T19:40:00.895721+00:00"
+  },
+  "ticker": {
+    "mint": "GBCC94MyAXFPqPLbCdistSFUE52jyF3Xzn1PbeHCpump",
+    "first_seen": "2026-07-12T19:40:01.438053+00:00"
+  },
+  "robinhoodies": {
+    "mint": "E6DikL5CMWmFv1SqejHF7eNtYoTV8qC6ZoyPETggRPAL",
+    "first_seen": "2026-07-12T19:40:07.157475+00:00"
+  },
+  "rbn": {
+    "mint": "GFqrMS2ehVUQ3YVRW2uSCqKg4BQFrs7kZzdjwMNU83uN",
+    "first_seen": "2026-07-12T19:40:07.216014+00:00"
   }
 }
