@@ -16598,5 +16598,9 @@
   "samba": {
     "mint": "G3jQqZfjcKfHkYePhXBqGb3vUBQPxXvfFvz6gHsNpump",
     "first_seen": "2026-07-12T18:10:03.242493+00:00"
+  },
+  "cale": {
+    "mint": "4k2Z2443EMSrijePUB2tKynNCaJbDCEVh24vB8huvAcR",
+    "first_seen": "2026-07-12T18:20:05.710984+00:00"
   }
 }
