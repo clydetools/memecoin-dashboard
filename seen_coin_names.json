@@ -16902,5 +16902,41 @@
   "ansevil": {
     "mint": "BZzThzUgWZ1hnYpegmENju2SXsuqANnGshBDr4tYpump",
     "first_seen": "2026-07-12T20:10:04.957984+00:00"
+  },
+  "taskforce": {
+    "mint": "76bPv9PCkCk5L1KoCTyg1KyknViseNqVZJwoJwnkpump",
+    "first_seen": "2026-07-12T20:20:00.500246+00:00"
+  },
+  "tek": {
+    "mint": "5DnnnQkZcWgpZJGUDEgWw2g4QzsUi5XkmNvERzn8pump",
+    "first_seen": "2026-07-12T20:20:01.045923+00:00"
+  },
+  "cursecat": {
+    "mint": "CFU4Nmjvw9HiA5HGsrTjdJ3hHiiCVkRmHhyafVT1pump",
+    "first_seen": "2026-07-12T20:20:03.588978+00:00"
+  },
+  "dayone": {
+    "mint": "6127mwT8KaJucfghEg7cSim9bAZGzYvoweGBW63xpump",
+    "first_seen": "2026-07-12T20:20:04.110257+00:00"
+  },
+  "milly": {
+    "mint": "7DWjvRuuQ8EL3F4TMszstuovvH7q6bEPqUsiZz5dpump",
+    "first_seen": "2026-07-12T20:20:04.567323+00:00"
+  },
+  "blessed": {
+    "mint": "7Qk4BGD2FGAMFo8XyUJvMzmLNTUXyduDUkFtxZZSpump",
+    "first_seen": "2026-07-12T20:20:06.063595+00:00"
+  },
+  "dingus": {
+    "mint": "HySCmeGhzcyeZZBFNgJoxQQjSSczqfCEV2ZwxG5dpump",
+    "first_seen": "2026-07-12T20:20:06.525464+00:00"
+  },
+  "notsure": {
+    "mint": "CoZzSL7GzM6cLfYWik2vq5fxE6EFYnYoDVamAUUfpump",
+    "first_seen": "2026-07-12T20:20:10.388412+00:00"
+  },
+  "xyra": {
+    "mint": "Cc7vy9em8HUvzoZUUzbNnm594MuRkfN8gthqmxHmTmPQ",
+    "first_seen": "2026-07-12T20:20:16.891324+00:00"
   }
 }
