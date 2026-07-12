@@ -16982,5 +16982,25 @@
   "earth": {
     "mint": "ARpzDru14NTp1D8755wPg1H4QHFCt1YwJsfnXmA5pump",
     "first_seen": "2026-07-12T20:50:25.631153+00:00"
+  },
+  "copycat": {
+    "mint": "5pnw3nPMdbsmGESzF4i7s13ZytWfjhedx2tNsvKvhBKt",
+    "first_seen": "2026-07-12T21:03:40.712844+00:00"
+  },
+  "gogh": {
+    "mint": "9Pbus645b5QJnjPTeu2M4j7pMjV2jgc5AziPNoTJpump",
+    "first_seen": "2026-07-12T21:03:41.797698+00:00"
+  },
+  "gender": {
+    "mint": "5oTeDYneZT3vhFBATBTyQ3VWGBPnhUUfKy3Kdt4Fpump",
+    "first_seen": "2026-07-12T21:03:42.783164+00:00"
+  },
+  "odds": {
+    "mint": "CR8bhpxEzZKZfgspZg1ZiEvM5ojsesrGzWRqK7Eepump",
+    "first_seen": "2026-07-12T21:03:43.151069+00:00"
+  },
+  "robindc": {
+    "mint": "DWzjwx4tt14LTH17tXbTnLJx9KECQFs5sgJVmRp7pump",
+    "first_seen": "2026-07-12T21:03:48.238798+00:00"
   }
 }
