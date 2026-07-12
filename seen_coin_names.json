@@ -17290,5 +17290,25 @@
   "magpie": {
     "mint": "9UuLsJ3jf8ViBNeRcwXD53re5G3ypgfKK3s2EiMMpump",
     "first_seen": "2026-07-12T23:10:02.181691+00:00"
+  },
+  "river": {
+    "mint": "2Rs31jrJJKcZVmUxZ4NhsaLLY8NSwSrEH6AHrnk2pump",
+    "first_seen": "2026-07-12T23:19:53.899092+00:00"
+  },
+  "tator": {
+    "mint": "5tb5dSWbPbc3dTvHPRChZ4nZX8G5Ee5NcJAoGfUEpump",
+    "first_seen": "2026-07-12T23:19:54.219649+00:00"
+  },
+  "bank": {
+    "mint": "FdWxXjmPvYgMYoMijCmadVcjPxoXoS7KCXiJKRd8pump",
+    "first_seen": "2026-07-12T23:19:56.575662+00:00"
+  },
+  "ofc": {
+    "mint": "CYX13kimcdjCT27aDZVJnzuCVo9h6JDT6HR7kbnppump",
+    "first_seen": "2026-07-12T23:19:57.240968+00:00"
+  },
+  "gaycoin": {
+    "mint": "FPfFX4Z4DhtGJKDbw2dSrSZkPG8YKdaod535Me4rpump",
+    "first_seen": "2026-07-12T23:20:01.559451+00:00"
   }
 }
