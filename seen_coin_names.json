@@ -15714,5 +15714,13 @@
   "fcoin": {
     "mint": "GRZZ7JsXPLqF4VvoV6RFpkmSAPg59XCVjXLQWM16pump",
     "first_seen": "2026-07-12T10:24:16.963787+00:00"
+  },
+  "gus": {
+    "mint": "22qsYrc3SqDQ5qqUjA7nstGxa9ZEV6GWXa1cHq4Ppump",
+    "first_seen": "2026-07-12T10:30:07.611936+00:00"
+  },
+  "shrub": {
+    "mint": "GN78Djb7J2xc2ZLZaJLoGoF8FU6x7DnK3kUJFsnDpump",
+    "first_seen": "2026-07-12T10:30:14.421124+00:00"
   }
 }
