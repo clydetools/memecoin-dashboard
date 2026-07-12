@@ -15810,5 +15810,25 @@
   "smug": {
     "mint": "37fnSpJQtbZkFjJhuj1mnhvJRtnKFPbyLFhf4Ni2pump",
     "first_seen": "2026-07-12T11:59:57.875120+00:00"
+  },
+  "xgoats": {
+    "mint": "BCBVn7sNtfXuCaFWLLvsKYTEcQiFgpnq7hfN7Pzspump",
+    "first_seen": "2026-07-12T12:10:38.568241+00:00"
+  },
+  "dnc": {
+    "mint": "9rPGbJEi3nJraE3dAyNgbXtgc4X72SY4FstDMGfipump",
+    "first_seen": "2026-07-12T12:10:39.112495+00:00"
+  },
+  "riggentina": {
+    "mint": "3crVyFZh5Pi3KZEvqX4EEh1ozhUfHyBArtr1pzfepump",
+    "first_seen": "2026-07-12T12:10:47.143666+00:00"
+  },
+  "pumpfunlif": {
+    "mint": "4PJXXLLu8wNLedM8Pfo8mWRdFr7mXxrBgGGFH83xRUae",
+    "first_seen": "2026-07-12T12:10:52.345380+00:00"
+  },
+  "dfl": {
+    "mint": "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
+    "first_seen": "2026-07-12T12:10:52.903558+00:00"
   }
 }
