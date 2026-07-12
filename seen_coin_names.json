@@ -15022,5 +15022,21 @@
   "mcdoge": {
     "mint": "9fQdMbjsYg7vNjnXULwzdmoCS4napNoWya5Zf7YAfhaa",
     "first_seen": "2026-07-12T02:50:04.896183+00:00"
+  },
+  "paddibaddy": {
+    "mint": "DUH5GpoaiEHQQ3LkuEdXu8KWJSjEHsLx5BqCPvBLpump",
+    "first_seen": "2026-07-12T02:59:52.423016+00:00"
+  },
+  "paddle": {
+    "mint": "Er5GMFs6Hi1w25ZUk4bzY8PNWfw5doWQis94HnQxpump",
+    "first_seen": "2026-07-12T02:59:52.764467+00:00"
+  },
+  "fibo": {
+    "mint": "7uQKEeeq9rFtmf4inhYdh5QvUT34drWq6mLn1Hf2pump",
+    "first_seen": "2026-07-12T02:59:53.406152+00:00"
+  },
+  "calmbull": {
+    "mint": "EQXngq9W4AF439M6z25VeRSoydXggxKQNdyzvi3Epump",
+    "first_seen": "2026-07-12T02:59:54.978070+00:00"
   }
 }
