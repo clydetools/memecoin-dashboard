@@ -14950,5 +14950,21 @@
   "goddard": {
     "mint": "Fp4s7REpWcsZeuB89nXfj8KBqn9xaWRQkACsBrHfpump",
     "first_seen": "2026-07-12T01:49:59.722469+00:00"
+  },
+  "chip": {
+    "mint": "9h3ShqnXeNHTbvJHCHhKPFGhQfVF2Zv8exSDWu6Bpump",
+    "first_seen": "2026-07-12T01:59:57.940301+00:00"
+  },
+  "twump": {
+    "mint": "9GdB95nfzTfedxUPZtuWw4zRV6ZGG4tMYgzKwUzhpump",
+    "first_seen": "2026-07-12T01:59:58.506796+00:00"
+  },
+  "furacat": {
+    "mint": "HgvVJE2K2WDf5m36ZkvzZUxJeDiYboKW9Wn2dowwpump",
+    "first_seen": "2026-07-12T01:59:59.349550+00:00"
+  },
+  "meela": {
+    "mint": "45zhrW143m9RwotudbBG5Xno7XTDuQR8ZSdsHhyRpump",
+    "first_seen": "2026-07-12T01:59:59.787942+00:00"
   }
 }
