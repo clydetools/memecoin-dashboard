@@ -18610,5 +18610,33 @@
   "smlo": {
     "mint": "cCpv5Z3nqKbKohYqgY7rxFebjMjvU7SBhwgYbCipump",
     "first_seen": "2026-07-13T12:20:03.368909+00:00"
+  },
+  "spre": {
+    "mint": "5hfhT3zBQzQjDQo9dJfCqNVQtm4Fc3NhakFmLxhTpump",
+    "first_seen": "2026-07-13T12:30:34.476104+00:00"
+  },
+  "hoodgpt": {
+    "mint": "EERFpg2y3XHj5LdSf1QFTeYu4Jf5wdKx7cCWgHwJpump",
+    "first_seen": "2026-07-13T12:30:35.942037+00:00"
+  },
+  "sydney": {
+    "mint": "UWww7ooo6ciiKUbMWWBMKFS9W95Msk7hd3KpJSmpump",
+    "first_seen": "2026-07-13T12:30:36.638890+00:00"
+  },
+  "callduck": {
+    "mint": "B6G2KmmpHonRqS8dwbR1nchnJKZrh8Bk59cq4zCPpump",
+    "first_seen": "2026-07-13T12:30:36.991828+00:00"
+  },
+  "sideeye": {
+    "mint": "3CBFs2GEzT1v8DUpHzztF8qtwqxAjFe2qzXVJsqHpump",
+    "first_seen": "2026-07-13T12:30:37.968105+00:00"
+  },
+  "anukong": {
+    "mint": "9TH4WrNrmcE4UVfRuyY4ntN7n7eXHBshss9Wm5Cepump",
+    "first_seen": "2026-07-13T12:30:42.677216+00:00"
+  },
+  "glitchbull": {
+    "mint": "EryhbZLdDxT7p6X8TcYc9nJEMiEWpo9YnnjmLrApump",
+    "first_seen": "2026-07-13T12:30:43.257845+00:00"
   }
 }
