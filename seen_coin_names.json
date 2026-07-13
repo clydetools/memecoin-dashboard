@@ -19450,5 +19450,29 @@
   "rowdy": {
     "mint": "HDub1hZUL67x2G85ajZEjzp5DdKVpRJAvMUAgaQTpump",
     "first_seen": "2026-07-13T18:10:02.707384+00:00"
+  },
+  "quants": {
+    "mint": "4YyxWJkcfPExqTjev1kA193Zs6LmRwsXrWLpXBcypump",
+    "first_seen": "2026-07-13T18:19:54.163707+00:00"
+  },
+  "luffycat": {
+    "mint": "9XrTxjg6oe9SdL9sfKabseS2mHgvjRPYyQvNrq38pump",
+    "first_seen": "2026-07-13T18:19:54.949913+00:00"
+  },
+  "psyopcom": {
+    "mint": "HbLLTvkeqYqsw7iCNRiuLXdB9CL4m5cnK83pTgTrpump",
+    "first_seen": "2026-07-13T18:19:55.354454+00:00"
+  },
+  "oscar": {
+    "mint": "8DRJso5TVtvxzrtfEChSp6RxegygQvGjqvKtnXj1pump",
+    "first_seen": "2026-07-13T18:19:55.723233+00:00"
+  },
+  "diskow": {
+    "mint": "3fWH5bG1JKVVsSjLaPUXtwhEpUKb2YQmuzxSexAzpump",
+    "first_seen": "2026-07-13T18:20:00.756280+00:00"
+  },
+  "kash": {
+    "mint": "DBeYjjAi2R1L2nzRkZczq98LdDufnsov1gDaaLwdpump",
+    "first_seen": "2026-07-13T18:20:00.806465+00:00"
   }
 }
