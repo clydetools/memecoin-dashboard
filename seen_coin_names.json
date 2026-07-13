@@ -17898,5 +17898,25 @@
   "goldpigger": {
     "mint": "b2QiQ8SVZByrJdhhNsLtEojm2bRDANUvzxW3Nw2pump",
     "first_seen": "2026-07-13T04:50:03.562918+00:00"
+  },
+  "nike": {
+    "mint": "GtMFnKx58kJrqUmnWth2LCdb9DF9cKJLgA52QbPBpump",
+    "first_seen": "2026-07-13T04:59:53.454680+00:00"
+  },
+  "kospi": {
+    "mint": "9xkPWyJc7Qw9kdeCFiWhABmcDHncmYPtcPzRMdu9pump",
+    "first_seen": "2026-07-13T04:59:54.224509+00:00"
+  },
+  "tibo": {
+    "mint": "6Uhk5yEwnf8wGLUREpkEmLqPUttgvUJwWawhqWZYpump",
+    "first_seen": "2026-07-13T04:59:55.217222+00:00"
+  },
+  "elves": {
+    "mint": "73nKEpBvNzUaP9MLnkq4f1SVQWbHd9PLAz63girGv3TQ",
+    "first_seen": "2026-07-13T05:00:00.394241+00:00"
+  },
+  "tork": {
+    "mint": "6SDS8VmpVPMidtrupqhgH98anwudJtsPvAdN5y8qTgyK",
+    "first_seen": "2026-07-13T05:00:00.536738+00:00"
   }
 }
