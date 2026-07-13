@@ -19474,5 +19474,45 @@
   "kash": {
     "mint": "DBeYjjAi2R1L2nzRkZczq98LdDufnsov1gDaaLwdpump",
     "first_seen": "2026-07-13T18:20:00.806465+00:00"
+  },
+  "madeit": {
+    "mint": "D5hnNF4PzUSjZNRh69CWGUh5isRLMDUieXPxGwRopump",
+    "first_seen": "2026-07-13T18:29:55.495860+00:00"
+  },
+  "notis": {
+    "mint": "H3yiP7NxmqXJwxs15Fi7F51sY52CZkHpU6yRyntLPT7",
+    "first_seen": "2026-07-13T18:29:56.568336+00:00"
+  },
+  "hellish": {
+    "mint": "5bsrP5dxaWMkj4mxUjuFT5zqHEtYjzUoaMMDJVHFpump",
+    "first_seen": "2026-07-13T18:29:57.089152+00:00"
+  },
+  "tsukune": {
+    "mint": "t1t2q7v2TjXGDeAL2nGaALhnNodKT6nY48XPpZGpump",
+    "first_seen": "2026-07-13T18:29:57.653781+00:00"
+  },
+  "sheng": {
+    "mint": "8jMZvQWPydSbhfxCBWvMTd9R6EbSDfEvGQTsww2Epump",
+    "first_seen": "2026-07-13T18:29:59.722467+00:00"
+  },
+  "life": {
+    "mint": "9vvbbXggFGZNcN6nWRkmndJijdAuEwzfTJYkSG6Rpump",
+    "first_seen": "2026-07-13T18:30:00.769349+00:00"
+  },
+  "crao": {
+    "mint": "HMy6qMexXYicnMAsYjZJ3wwZwjBp9QY298x7QSRWpump",
+    "first_seen": "2026-07-13T18:30:01.289373+00:00"
+  },
+  "bullance": {
+    "mint": "7KgvsRAMVrLVBSPryLbsPVtTnjnXhWu9ZWGmV4iJUjK6",
+    "first_seen": "2026-07-13T18:30:06.371902+00:00"
+  },
+  "trashcat": {
+    "mint": "E57Zx9pjqbLsTineJbDQVV8s2xEweVyfg93S2wJwpump",
+    "first_seen": "2026-07-13T18:30:06.422473+00:00"
+  },
+  "bullrace": {
+    "mint": "2bxth36hBFdm2g9Wz2PLRq1jMuFi4h8XGJnZCivqcoLQ",
+    "first_seen": "2026-07-13T18:30:06.462144+00:00"
   }
 }
