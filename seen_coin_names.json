@@ -18950,5 +18950,25 @@
   "grandpa": {
     "mint": "9FuNQbTitwQyGmzez4X41euocuCEGrTyD2G9vbqrpump",
     "first_seen": "2026-07-13T14:50:13.215395+00:00"
+  },
+  "girlwifg": {
+    "mint": "FTbUH6sE76fXmWmGggEnbsjdq9oVaxoGs3WoTj6ppump",
+    "first_seen": "2026-07-13T14:59:55.119448+00:00"
+  },
+  "granpa": {
+    "mint": "6SVh8SNmySZzUQoqLMxWhDbW1HLpxmn1vvs5GChnpump",
+    "first_seen": "2026-07-13T14:59:56.026901+00:00"
+  },
+  "rkitty": {
+    "mint": "5DtorgdBRvoHipZGuUxAu3gq4QhM7icc5XeaoH4ppump",
+    "first_seen": "2026-07-13T14:59:56.420375+00:00"
+  },
+  "4": {
+    "mint": "9eQcWWt1adpeWck8uqh3PYzMGZrN1TmxGG2M8iE6pump",
+    "first_seen": "2026-07-13T14:59:57.241191+00:00"
+  },
+  "dollarbull": {
+    "mint": "7nuWZZwKksW3LXxTk3274SQhJLNsz58941MJQU5xpump",
+    "first_seen": "2026-07-13T15:00:02.498181+00:00"
   }
 }
