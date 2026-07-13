@@ -18230,5 +18230,9 @@
   "agentlayer": {
     "mint": "444DPguaifQZ5NicFicD9Kni6emKexyqqG4dEkUaBAGS",
     "first_seen": "2026-07-13T08:20:58.477014+00:00"
+  },
+  "scrib": {
+    "mint": "GxR9GtEs8B6R2Vssha7PVuJ6dvbUV4KkqRWsW52npump",
+    "first_seen": "2026-07-13T08:29:55.774271+00:00"
   }
 }
