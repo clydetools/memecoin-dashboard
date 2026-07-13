@@ -19182,5 +19182,25 @@
   "hoodshark": {
     "mint": "79kxqgNBiXviuTYT1vTVKaCfvqDxDi37anHY2SGApump",
     "first_seen": "2026-07-13T16:20:05.871690+00:00"
+  },
+  "alphacat": {
+    "mint": "DEKZUEUEgfaU8B46Y1VK7LmBDAg2zoZsL3uRjdEQpump",
+    "first_seen": "2026-07-13T16:30:00.206613+00:00"
+  },
+  "aje": {
+    "mint": "DK1pmzRFRMzuFfCWhYGd8SranBSBe389iiPVBwLGpump",
+    "first_seen": "2026-07-13T16:30:01.127617+00:00"
+  },
+  "fkit": {
+    "mint": "39iQKQ3HWH5U7GMGHitxSEasWN2G8qBwRWv9NCz7pump",
+    "first_seen": "2026-07-13T16:30:01.553655+00:00"
+  },
+  "tinfoil": {
+    "mint": "8vqFh73imgRLCHR747dBuXyWUa9yZaajBfkRt9a1pump",
+    "first_seen": "2026-07-13T16:30:02.409107+00:00"
+  },
+  "spaceage": {
+    "mint": "2vcjgEVD83amxcAtGp9ScrkZVxFuDNapULzAi3aipump",
+    "first_seen": "2026-07-13T16:30:02.800988+00:00"
   }
 }
