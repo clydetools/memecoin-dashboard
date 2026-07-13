@@ -18002,5 +18002,21 @@
   "fruit": {
     "mint": "F2CtERURjU3Fgg76Dggkjjcu7SSkXkmJNpiQAYyuEFX6",
     "first_seen": "2026-07-13T06:00:16.030461+00:00"
+  },
+  "kyh": {
+    "mint": "nY76okofPmGfeDZeWtgCgs1CFJwGEjmPgiDdkJDpump",
+    "first_seen": "2026-07-13T06:09:54.826922+00:00"
+  },
+  "neill": {
+    "mint": "6zAmuzHEndv18W75eXxYF2X3XVtySuxy2tyCGwnUpump",
+    "first_seen": "2026-07-13T06:09:55.588764+00:00"
+  },
+  "ripneill": {
+    "mint": "AAB8NzpEYxTB1Qnc6LF59cu5fH7MLnr6A2bDdneTpump",
+    "first_seen": "2026-07-13T06:09:57.011708+00:00"
+  },
+  "exploited": {
+    "mint": "5VhNAbut94xKRGi3WawiBWLp3MR7TX3Zm9KDB6PPpump",
+    "first_seen": "2026-07-13T06:09:57.954874+00:00"
   }
 }
