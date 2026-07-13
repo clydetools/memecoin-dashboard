@@ -18170,5 +18170,25 @@
   "kading": {
     "mint": "6Zh8GM7d5KPUC3d6e7UJwBt4vubNUmx8DChXFQ6Cpump",
     "first_seen": "2026-07-13T07:30:05.047529+00:00"
+  },
+  "aivar": {
+    "mint": "F6jFQMKWadFaqJy11cCxaya5GaBdUWuSM4rofz2KCgSj",
+    "first_seen": "2026-07-13T07:39:54.278965+00:00"
+  },
+  "evo": {
+    "mint": "H15AsvADwbSyjG4k6QyT3e4bLpbDpxWMcmBkrxEepump",
+    "first_seen": "2026-07-13T07:39:54.964900+00:00"
+  },
+  "samneill": {
+    "mint": "8jXPjts8VQbsBjtzXBVyLdtxUC4hr8xj1X7A7w5Qpump",
+    "first_seen": "2026-07-13T07:40:00.501280+00:00"
+  },
+  "leon": {
+    "mint": "Fnmq5udTPPkxGjw8nDtnRsjJWfHfdNmsfKGLhUerBAGS",
+    "first_seen": "2026-07-13T07:40:01.075278+00:00"
+  },
+  "rekill": {
+    "mint": "ADnE9o6B7WHhzaRctmbqdPCRiLiA34WBXzYPbrFqBAGS",
+    "first_seen": "2026-07-13T07:40:01.172086+00:00"
   }
 }
