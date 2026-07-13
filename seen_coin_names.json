@@ -20094,5 +20094,21 @@
   "solshcat": {
     "mint": "FxobCbKDXKNStRwLwzWqhout6PuUmNrpfAg8Vo5fpump",
     "first_seen": "2026-07-13T20:59:55.124672+00:00"
+  },
+  "naughty": {
+    "mint": "7yFY8cv9hJBDvFPiWXMGGQ3XhzDEUFcsLBXojYbdpump",
+    "first_seen": "2026-07-13T21:09:52.691299+00:00"
+  },
+  "vpn": {
+    "mint": "8M27MD2uMLTvdXJN2y1GjfKHXDzYMAfsB5sssKHUpump",
+    "first_seen": "2026-07-13T21:09:53.175837+00:00"
+  },
+  "ansemkins": {
+    "mint": "DXu2SAwSx9KgftLTDE9ucRtn9iWehmkc9oeY7DM8pump",
+    "first_seen": "2026-07-13T21:09:55.206456+00:00"
+  },
+  "bees": {
+    "mint": "37hPkJ5a8zsFUNpK1Qtbvarp1DiQy5BoBzVMJ9X2pump",
+    "first_seen": "2026-07-13T21:10:00.882092+00:00"
   }
 }
