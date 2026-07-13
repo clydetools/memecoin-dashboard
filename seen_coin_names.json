@@ -17894,5 +17894,9 @@
   "biccoin": {
     "mint": "HmqwTYrQj3kMMuXc1o51kX368X46P3YBNo4iHRe3pump",
     "first_seen": "2026-07-13T04:40:00.509194+00:00"
+  },
+  "goldpigger": {
+    "mint": "b2QiQ8SVZByrJdhhNsLtEojm2bRDANUvzxW3Nw2pump",
+    "first_seen": "2026-07-13T04:50:03.562918+00:00"
   }
 }
