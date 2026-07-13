@@ -18702,5 +18702,29 @@
   "agno": {
     "mint": "BPG6syYXdvDzNHojWwFNfU3MECuW1RMAtzHRR7MJpump",
     "first_seen": "2026-07-13T13:00:00.285968+00:00"
+  },
+  "slopbull": {
+    "mint": "DA33WR43ApMGbNvNQ2npZMaztEw9F8JttbYX3Qfwpump",
+    "first_seen": "2026-07-13T13:09:58.277145+00:00"
+  },
+  "platypus": {
+    "mint": "J1BTPGFZYZZnzyJNHooHHUikQ3GyvDLp6pPMJkbhpump",
+    "first_seen": "2026-07-13T13:09:58.960950+00:00"
+  },
+  "bwa": {
+    "mint": "9ro83e7ECf6hthgXbBFheo8yvC64bUEF5xjZ8KHUpump",
+    "first_seen": "2026-07-13T13:09:59.966110+00:00"
+  },
+  "gacha": {
+    "mint": "dqJxmeU3hxgACcpWMvJLhhQWYWnDgD77QWBPNjHpump",
+    "first_seen": "2026-07-13T13:10:00.321100+00:00"
+  },
+  "gjvlm4b": {
+    "mint": "GJvLcMvQwznh1gAonWnqbqdSRrNCQmVzhfsZVvQdtM4b",
+    "first_seen": "2026-07-13T13:10:05.103044+00:00"
+  },
+  "llm": {
+    "mint": "98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump",
+    "first_seen": "2026-07-13T13:10:05.657391+00:00"
   }
 }
