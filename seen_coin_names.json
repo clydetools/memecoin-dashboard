@@ -18362,5 +18362,33 @@
   "digitalech": {
     "mint": "3ARdB6jv1D1gRqLYXyQmuBnaSn8343EnSY5jLytpNqug",
     "first_seen": "2026-07-13T10:09:59.802897+00:00"
+  },
+  "loser": {
+    "mint": "FrCixodxyDbqtPsSfk1ruLzy5YnUKhmA549ZYLKJpump",
+    "first_seen": "2026-07-13T10:19:56.288928+00:00"
+  },
+  "parallelsw": {
+    "mint": "FnMk13QWje2gD4RhtEbXig3fi8pAbr9MGKerB5d7voVP",
+    "first_seen": "2026-07-13T10:19:56.714822+00:00"
+  },
+  "uranus": {
+    "mint": "G45Nk2qzycPY8WCiHPp1hBBUkx1WGfqh9MEAFQ9gpump",
+    "first_seen": "2026-07-13T10:19:57.064155+00:00"
+  },
+  "latenthori": {
+    "mint": "2Zm4XdPjheVjkQCKefXpzcKnh8zRcyFwTd5h6gWn4f1K",
+    "first_seen": "2026-07-13T10:19:57.399248+00:00"
+  },
+  "adaptiveda": {
+    "mint": "3vdBsqLSsFni3W2J1Gis7cUARA9SdtrhMfVwCWp17Lz7",
+    "first_seen": "2026-07-13T10:19:58.382646+00:00"
+  },
+  "satx": {
+    "mint": "7U9idKvVHfSAevPe3AJPgHENFwT9cyawsA3RW3qzkwAz",
+    "first_seen": "2026-07-13T10:20:02.741079+00:00"
+  },
+  "natix": {
+    "mint": "FRySi8LPkuByB7VPSCCggxpewFUeeJiwEGRKKuhwpKcX",
+    "first_seen": "2026-07-13T10:20:03.301185+00:00"
   }
 }
