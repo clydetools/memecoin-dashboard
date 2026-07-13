@@ -18726,5 +18726,29 @@
   "llm": {
     "mint": "98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump",
     "first_seen": "2026-07-13T13:10:05.657391+00:00"
+  },
+  "ctc": {
+    "mint": "DedmxeYeXwVA9LrNMujnCEpy1huxnKzw1JjgA85dpump",
+    "first_seen": "2026-07-13T13:19:53.570985+00:00"
+  },
+  "argentinas": {
+    "mint": "6i2xsJ2y7sAAEiNyAuJhjFWaFkjVBA5uAZaa3NnDpump",
+    "first_seen": "2026-07-13T13:19:53.907866+00:00"
+  },
+  "fatrunner": {
+    "mint": "42rQ5pPx6c74k2q4U3tZjN33NQek1sZPVj2edetFpump",
+    "first_seen": "2026-07-13T13:19:54.744625+00:00"
+  },
+  "tit": {
+    "mint": "22s2Sy7mswYmWJ825a1fS9Asaqc7AuvdWpaurt7ipump",
+    "first_seen": "2026-07-13T13:19:55.429509+00:00"
+  },
+  "cure": {
+    "mint": "4Zf1Wv6QrqEcVCATcFASfsANVhd79ptWzfSS4T1Gpump",
+    "first_seen": "2026-07-13T13:19:55.768905+00:00"
+  },
+  "nnns": {
+    "mint": "91hVBrG7oo26SxvZnz7uVXKkziNoHDP7PEhz1Fi6pump",
+    "first_seen": "2026-07-13T13:19:56.759859+00:00"
   }
 }
