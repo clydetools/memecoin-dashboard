@@ -18750,5 +18750,29 @@
   "nnns": {
     "mint": "91hVBrG7oo26SxvZnz7uVXKkziNoHDP7PEhz1Fi6pump",
     "first_seen": "2026-07-13T13:19:56.759859+00:00"
+  },
+  "candle": {
+    "mint": "BBZ56m6o9K8i291eKHppqU7vRHgxxJCm93tiMKHZpump",
+    "first_seen": "2026-07-13T13:29:56.956830+00:00"
+  },
+  "redditorsi": {
+    "mint": "9wkcN5c3dDvoN9M26PzNS4C47LKVETLsM88iufBopump",
+    "first_seen": "2026-07-13T13:29:57.528032+00:00"
+  },
+  "deerfam": {
+    "mint": "818afseXxo8q59YTjmP2xEArEK8sJ4QeymhwvYTHpump",
+    "first_seen": "2026-07-13T13:29:59.186562+00:00"
+  },
+  "shi": {
+    "mint": "BTLR2QyUQSetwZDnPTesq5maSBG99QBZjhuEvfXzpump",
+    "first_seen": "2026-07-13T13:29:59.717476+00:00"
+  },
+  "weedcat": {
+    "mint": "4MtHaZMhTntvjzPLajkvnXjzBtwcnDMYUx2UMvM7pump",
+    "first_seen": "2026-07-13T13:30:00.296217+00:00"
+  },
+  "cmi6900": {
+    "mint": "CKjnr9uu2wNaJHuv9Fuj3TKZYHnTcQCAdgaLCHuWiMhq",
+    "first_seen": "2026-07-13T13:30:06.185010+00:00"
   }
 }
