@@ -18970,5 +18970,49 @@
   "dollarbull": {
     "mint": "7nuWZZwKksW3LXxTk3274SQhJLNsz58941MJQU5xpump",
     "first_seen": "2026-07-13T15:00:02.498181+00:00"
+  },
+  "25": {
+    "mint": "2xj6ogP9Sj9AFCUdTjVXoQG6BnNZRt4MUHW8kWmKpump",
+    "first_seen": "2026-07-13T15:10:04.236678+00:00"
+  },
+  "la": {
+    "mint": "H7JK5UwVteTAw5fz3n7vNVF1XQypTeKid2QwNxQpump",
+    "first_seen": "2026-07-13T15:10:04.745895+00:00"
+  },
+  "autest": {
+    "mint": "HjJWr6yqvecqDHKCLXVnpqjH5UAQr6f94WsbnCFhpump",
+    "first_seen": "2026-07-13T15:10:06.273378+00:00"
+  },
+  "bbf": {
+    "mint": "H7Dg2zUpaZQanTZqwZ5GjvLDrqxMn6Zy89mNcBj9pump",
+    "first_seen": "2026-07-13T15:10:08.151221+00:00"
+  },
+  "timmy": {
+    "mint": "GoEKGr9x2k1WnojX6cd7wdLqt6cc6PVrK3DXXQJ4KG1e",
+    "first_seen": "2026-07-13T15:10:08.663961+00:00"
+  },
+  "sphynx": {
+    "mint": "9wyn8tbDReQFUfwidwdrumDmp8pyWdRrTRrX6xAFpump",
+    "first_seen": "2026-07-13T15:10:09.894019+00:00"
+  },
+  "cudis": {
+    "mint": "CudisfkgWvMKnZ3TWf6iCuHm8pN2ikXhDcWytwz6f6RN",
+    "first_seen": "2026-07-13T15:10:16.270943+00:00"
+  },
+  "xdel": {
+    "mint": "CA2BuDpdxzuwxmoqnW37tPsYhEGhBjEjURa4oLD9pump",
+    "first_seen": "2026-07-13T15:10:16.487418+00:00"
+  },
+  "trisig": {
+    "mint": "BLDiYcvm3CLcgZ7XUBPgz6idSAkNmWY6MBbm8Xpjpump",
+    "first_seen": "2026-07-13T15:10:16.630107+00:00"
+  },
+  "zex": {
+    "mint": "ZEXy1pqteRu3n13kdyh4LwPQknkFk3GzmMYMuNadWPo",
+    "first_seen": "2026-07-13T15:10:16.776046+00:00"
+  },
+  "macron": {
+    "mint": "CH2hgEFbGUxc9U4WPJRJSYhgHJcNijMXpb5PMmo92PuF",
+    "first_seen": "2026-07-13T15:10:17.017659+00:00"
   }
 }
