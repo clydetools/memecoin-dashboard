@@ -18470,5 +18470,41 @@
   "mil": {
     "mint": "6Tk3uHQpLDtd4Qob5fduLjfhXxAasWgvdo8hYeswxMiL",
     "first_seen": "2026-07-13T11:10:08.483868+00:00"
+  },
+  "alfred": {
+    "mint": "BiFAAPAZSWt1rMpUmS4jgk2qM9EjAaitXvRpcqLepump",
+    "first_seen": "2026-07-13T11:20:01.345505+00:00"
+  },
+  "louis": {
+    "mint": "98N3fEW9qjQaGKLMhBaL8QkYy7cW7qmp2gyapzu6pump",
+    "first_seen": "2026-07-13T11:20:02.215797+00:00"
+  },
+  "dildoed": {
+    "mint": "6T8QeQEDwKsADFXP4GsGus7fhkZnb5zuNPW7Xyrupump",
+    "first_seen": "2026-07-13T11:20:02.780024+00:00"
+  },
+  "nibble": {
+    "mint": "7WtAq9M7GL6JEzezGTCF1EUUBFLoNA2DB3W95aozpump",
+    "first_seen": "2026-07-13T11:20:03.336218+00:00"
+  },
+  "poppops": {
+    "mint": "EYotbaJFCnq5zywd1xDUQ8XDLAhhReNESJhh8Lawpump",
+    "first_seen": "2026-07-13T11:20:04.421285+00:00"
+  },
+  "way": {
+    "mint": "F1VUVvQYuZ5J7u3dSLvZHufFcsycRx52oZB3wDjWpump",
+    "first_seen": "2026-07-13T11:20:05.667948+00:00"
+  },
+  "dildo": {
+    "mint": "ESHc5nG5Sei2Vg63oJSf1n3kRDin2A9TXAsCpovspump",
+    "first_seen": "2026-07-13T11:20:06.204523+00:00"
+  },
+  "rbt": {
+    "mint": "65nTNuJGHme4PQvKQyJykKp1bJAkK4A8Q66sd2yBWugf",
+    "first_seen": "2026-07-13T11:20:11.428419+00:00"
+  },
+  "worldchain": {
+    "mint": "AtsvJ9Y5VyoAZMbsKEitz5wxRjChAvqDr7WhmD5mpump",
+    "first_seen": "2026-07-13T11:20:13.065992+00:00"
   }
 }
