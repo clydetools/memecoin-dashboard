@@ -18574,5 +18574,17 @@
   "blastit": {
     "mint": "6bMwDS7oFveErCEivTDzyYHNcSBQzX8vM5gWcXwRpump",
     "first_seen": "2026-07-13T11:59:53.216451+00:00"
+  },
+  "hoodscan": {
+    "mint": "4ZxQLmZ1AWJ3h8fEjDWNuhvBN8corRNoKFi4tmTGpump",
+    "first_seen": "2026-07-13T12:09:52.748933+00:00"
+  },
+  "wojakull": {
+    "mint": "J9xZJtUGU1LRzHPpUfVtJ7p5VMnK14DunPn55PdFpump",
+    "first_seen": "2026-07-13T12:09:59.002747+00:00"
+  },
+  "retardio": {
+    "mint": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+    "first_seen": "2026-07-13T12:09:59.366686+00:00"
   }
 }
