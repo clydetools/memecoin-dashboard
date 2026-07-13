@@ -20206,5 +20206,29 @@
   "gopher": {
     "mint": "6ipEBVtr6ckJq1RqhNT1x4SSiY8BaqFbPA53VQdUpump",
     "first_seen": "2026-07-13T21:59:59.868587+00:00"
+  },
+  "manipulate": {
+    "mint": "2AX4npYhfxb1hkwsBnd7CbXdpKNgUUmBwg72hGZppump",
+    "first_seen": "2026-07-13T22:09:54.848022+00:00"
+  },
+  "pikins": {
+    "mint": "5PcBMPjFLrXbR4cSBr5fEFtq38MeuHHCwqKbD3PTpump",
+    "first_seen": "2026-07-13T22:09:55.234576+00:00"
+  },
+  "apertureos": {
+    "mint": "1LecF16fGZpZPoTdHEyrntWLZTu9mTQt9ZyRtYZpump",
+    "first_seen": "2026-07-13T22:09:56.926540+00:00"
+  },
+  "taia": {
+    "mint": "5wSva654BYtjm8LuqGA9JBj5X2STfooHc5uqq2gwray",
+    "first_seen": "2026-07-13T22:09:57.403568+00:00"
+  },
+  "btc10": {
+    "mint": "22sJM4xYUNHXz5YC71x9sKjzoRjGoq9QzVvehB4Hpump",
+    "first_seen": "2026-07-13T22:09:58.410229+00:00"
+  },
+  "irlguys": {
+    "mint": "84ENt57k6B7mmEXktCQ9WupyLDBiyJcfZcqzdHQApump",
+    "first_seen": "2026-07-13T22:10:03.965863+00:00"
   }
 }
