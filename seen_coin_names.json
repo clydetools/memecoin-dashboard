@@ -19258,5 +19258,29 @@
   "elefanto": {
     "mint": "BkEKbRXujqzMfTivNVvqcLNLK5RW3KPong93DEAGeVgr",
     "first_seen": "2026-07-13T17:00:05.757972+00:00"
+  },
+  "adher": {
+    "mint": "CMXStsSN3fzp4FB66cZDJFBYbV12tY912g6jU7Gzpump",
+    "first_seen": "2026-07-13T17:02:53.895608+00:00"
+  },
+  "bros": {
+    "mint": "3dJcYjZaW3rMybM5ZsADarxyVhhGo8RE4Q1g6Jjipump",
+    "first_seen": "2026-07-13T17:02:54.531179+00:00"
+  },
+  "psyopcat": {
+    "mint": "2WxTQKdFJ7mRwKRXgCA3SoX9gKZwofhXYQiQNJ2ypump",
+    "first_seen": "2026-07-13T17:02:56.373594+00:00"
+  },
+  "tindog": {
+    "mint": "J1ysc2bYh7w9GzqxSwuNhrH8wbxNW4bYFw8koJxspump",
+    "first_seen": "2026-07-13T17:02:57.776629+00:00"
+  },
+  "crash": {
+    "mint": "AwJgDpF67KNpTth42R73pcWTRoKfXoxJvBGL75fcpump",
+    "first_seen": "2026-07-13T17:02:58.285970+00:00"
+  },
+  "ethel": {
+    "mint": "xFLeMCd1sAHYCgKjUUWVXweyPtPAgvoduRLb5Ykpump",
+    "first_seen": "2026-07-13T17:02:59.266856+00:00"
   }
 }
