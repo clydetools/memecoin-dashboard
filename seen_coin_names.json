@@ -20162,5 +20162,17 @@
   "novasky": {
     "mint": "BV4dcdCRj7JZi6pTyc5aUZuU6TqEgfzuZwRgoKSfpump",
     "first_seen": "2026-07-13T21:30:07.469772+00:00"
+  },
+  "horikan": {
+    "mint": "GLxWuqWk2Jhsf4B9WoJAwnYXzcXZtqCfmDb75Sy5pump",
+    "first_seen": "2026-07-13T21:39:54.336696+00:00"
+  },
+  "dca": {
+    "mint": "HSR7ER9Qx7u3KSmV1hfZjK55wMZTccsLLTCR6yXSpump",
+    "first_seen": "2026-07-13T21:39:54.687568+00:00"
+  },
+  "scamfun": {
+    "mint": "3YgoGgTibp388tKqTtwKozX1MMyk8aDfVGEGsKK5pump",
+    "first_seen": "2026-07-13T21:39:55.690460+00:00"
   }
 }
