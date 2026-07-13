@@ -18506,5 +18506,17 @@
   "worldchain": {
     "mint": "AtsvJ9Y5VyoAZMbsKEitz5wxRjChAvqDr7WhmD5mpump",
     "first_seen": "2026-07-13T11:20:13.065992+00:00"
+  },
+  "wiglet": {
+    "mint": "8f33Kf7qMjgGGcn8vjwvxJKo5TqRzc5rGSBqZVZJpump",
+    "first_seen": "2026-07-13T11:29:54.752251+00:00"
+  },
+  "scout": {
+    "mint": "Ede8hMvHQszbrfoLhU9Pc2twiz2UQ44kbgzcjW1Lpump",
+    "first_seen": "2026-07-13T11:29:56.473041+00:00"
+  },
+  "favglow": {
+    "mint": "CCP1gfJ8zEuYs8WDA88PhhtEmzrNS7tgXZveedNwpump",
+    "first_seen": "2026-07-13T11:30:01.351771+00:00"
   }
 }
