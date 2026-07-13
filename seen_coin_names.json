@@ -20074,5 +20074,25 @@
   "faaaahh": {
     "mint": "3kZ6tFcbKDq4cxe7Ke7kdmugPF3Vh96thrYhS8vdpump",
     "first_seen": "2026-07-13T20:49:56.697841+00:00"
+  },
+  "trophy": {
+    "mint": "3MTVtnvpJZ8HoMhRHZeeph8uoHVeni7L9Tr2CGR8pump",
+    "first_seen": "2026-07-13T20:59:52.980334+00:00"
+  },
+  "saddoge": {
+    "mint": "6pGTXxuRWtLV7e4MF9gjt8XobkSLU3ZTqxMnvKLxpump",
+    "first_seen": "2026-07-13T20:59:53.410440+00:00"
+  },
+  "triples": {
+    "mint": "5sv3bdifxUUGDN1Gt1popagGyoKoNh7DcCBdjAy4pump",
+    "first_seen": "2026-07-13T20:59:53.751934+00:00"
+  },
+  "mobu": {
+    "mint": "5p9LEPjPe7wjMAxUFgRVkU8Sax7wMGNSK5m2TLTspump",
+    "first_seen": "2026-07-13T20:59:54.774141+00:00"
+  },
+  "solshcat": {
+    "mint": "FxobCbKDXKNStRwLwzWqhout6PuUmNrpfAg8Vo5fpump",
+    "first_seen": "2026-07-13T20:59:55.124672+00:00"
   }
 }
