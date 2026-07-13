@@ -18054,5 +18054,29 @@
   "vidocq": {
     "mint": "E5KmsJBKVcR9BhssMWpBvUp5XrQVh2nGXBw28RzoCMS7",
     "first_seen": "2026-07-13T06:30:00.632414+00:00"
+  },
+  "pearcat": {
+    "mint": "GvdJG282jXevBJt5HdjnxrKs7L5ZpbqSChJ7RTnepump",
+    "first_seen": "2026-07-13T06:39:56.818452+00:00"
+  },
+  "anarchy": {
+    "mint": "CXUWWtUq7EsP5V188BeCCZeXFfzYhh8swrnwY1hCpump",
+    "first_seen": "2026-07-13T06:39:57.850887+00:00"
+  },
+  "hi": {
+    "mint": "3wDioiWUz52pWBXf3CF6szbovg2CD1DjZkiHwXJTpump",
+    "first_seen": "2026-07-13T06:39:58.197744+00:00"
+  },
+  "gyort": {
+    "mint": "3h9iVcNU8DiPng3jwnUojWYLazGTbeKtobPkJaXZpump",
+    "first_seen": "2026-07-13T06:39:58.852902+00:00"
+  },
+  "retired": {
+    "mint": "7RmYgUTMQ1L9fTjZRK9a6GUEiQZCHWL4PhsB4FxPpump",
+    "first_seen": "2026-07-13T06:39:59.179811+00:00"
+  },
+  "afroge": {
+    "mint": "HiE6r15MBfBix4yZprTScEwcwA5TazrN7B2ZPPKJpump",
+    "first_seen": "2026-07-13T06:39:59.524002+00:00"
   }
 }
