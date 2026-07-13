@@ -17518,5 +17518,25 @@
   "spk": {
     "mint": "wEd8jYzEWTnYsMR9vVoUGG8fwosT1qMs538rpJDpump",
     "first_seen": "2026-07-13T01:19:59.308882+00:00"
+  },
+  "birdie": {
+    "mint": "5TYXvDRZTQ855HADqMG8ZVVBWzWDbtRAPeeqYrtwpump",
+    "first_seen": "2026-07-13T01:29:56.141241+00:00"
+  },
+  "kim": {
+    "mint": "9wMuZLWwLZDoFGv8N34ncQAjQDLA468RaPy2aG4Wpump",
+    "first_seen": "2026-07-13T01:29:56.666340+00:00"
+  },
+  "endy": {
+    "mint": "5nfUBjp7wM1gTtHTGFDWGUUeoP94hxfDDXABXW14pump",
+    "first_seen": "2026-07-13T01:29:57.646284+00:00"
+  },
+  "shyt": {
+    "mint": "9LgFHm8pSgDdm569CDSr2Y7tBjC2YBZVyEvKnCCppump",
+    "first_seen": "2026-07-13T01:29:58.165923+00:00"
+  },
+  "bitgirl": {
+    "mint": "HVX32gx3sAekVQS8ExQNKA5mEk4GJYhd9yMXaDUKpump",
+    "first_seen": "2026-07-13T01:29:58.728587+00:00"
   }
 }
