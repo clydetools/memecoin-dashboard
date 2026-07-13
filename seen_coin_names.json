@@ -18094,5 +18094,17 @@
   "cloots": {
     "mint": "CFhgTUXw7of3PYdbw3YrPeE9EVzVGo435i8FEmd8dr6w",
     "first_seen": "2026-07-13T06:50:04.230076+00:00"
+  },
+  "stakes": {
+    "mint": "GZMgC7PjNnYjasEV3w1NewRqHZDDgi9NvFqYe3Rapump",
+    "first_seen": "2026-07-13T06:59:55.539236+00:00"
+  },
+  "megabison": {
+    "mint": "3DHuqH3yb7HAxBTebcMfjT1fMHbfNUAGB7TGYBQkpump",
+    "first_seen": "2026-07-13T06:59:57.923278+00:00"
+  },
+  "lootify": {
+    "mint": "4SWYoPwTZrtrJkb2QehcDRcofLJHp1vZnHxhoWWnPQB6",
+    "first_seen": "2026-07-13T07:00:02.554286+00:00"
   }
 }
