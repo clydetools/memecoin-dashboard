@@ -20230,5 +20230,45 @@
   "irlguys": {
     "mint": "84ENt57k6B7mmEXktCQ9WupyLDBiyJcfZcqzdHQApump",
     "first_seen": "2026-07-13T22:10:03.965863+00:00"
+  },
+  "pissed": {
+    "mint": "7JZDe1vLmP16oQuuCCBAYFennTNPazWQHSfg2ThZpump",
+    "first_seen": "2026-07-13T22:19:53.666343+00:00"
+  },
+  "40th": {
+    "mint": "22sKhXbLxgEAhUQBzWrpu4YYbMeoW2MPDn3CJicUpump",
+    "first_seen": "2026-07-13T22:19:54.653063+00:00"
+  },
+  "gumball": {
+    "mint": "6AUqicKUhDvLZUDp3a1dwXrRpqyG3i3uMgLK8qT1pump",
+    "first_seen": "2026-07-13T22:19:55.251841+00:00"
+  },
+  "nrc": {
+    "mint": "2wScE6nDUU94HcAxtYgEL1JBfQjCpfWCA1yQ6ny8pump",
+    "first_seen": "2026-07-13T22:19:55.679938+00:00"
+  },
+  "poofs": {
+    "mint": "J8Cuc4aNiKSJqp8KMkCZXzr6Gkec58ZHqusTi4b8pump",
+    "first_seen": "2026-07-13T22:19:56.359730+00:00"
+  },
+  "ap3d": {
+    "mint": "1sd4aSt7si9M18UqfGkVWPdFKGZyj5aw1GCX8wbpump",
+    "first_seen": "2026-07-13T22:19:56.802417+00:00"
+  },
+  "wtfdt": {
+    "mint": "V6haz4CTddn76hBQoW2v4NCjjYocqL5u6bV27Kmpump",
+    "first_seen": "2026-07-13T22:19:57.188801+00:00"
+  },
+  "bulldog": {
+    "mint": "5hAvuGiAo3x2FY7ViG8UH79R4a1nMSbMDZUhkKiopump",
+    "first_seen": "2026-07-13T22:19:57.574913+00:00"
+  },
+  "nigtavern": {
+    "mint": "ESKkcNb4scYEttjUwMwZLMCUWpbhiz9GMJpFbuSLpump",
+    "first_seen": "2026-07-13T22:19:58.541573+00:00"
+  },
+  "caterpillar": {
+    "mint": "2MQYwdiBLzLEo7kKgmZyfkZh6wGt8C58nNsxwZgSpump",
+    "first_seen": "2026-07-13T22:20:03.390688+00:00"
   }
 }
