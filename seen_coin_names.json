@@ -21526,5 +21526,21 @@
   "genbull": {
     "mint": "Cygh1aJtZ3npT2zbufBPsHnLVFJ7XWw5dXdKfa5Dpump",
     "first_seen": "2026-07-14T10:19:58.252918+00:00"
+  },
+  "texts": {
+    "mint": "8mmx11Z9vPef3oTrXBUrbBvMPgDBZ7CcUiWpUTvxpump",
+    "first_seen": "2026-07-14T10:29:55.699807+00:00"
+  },
+  "swf": {
+    "mint": "2V6h9xZ2HPw67xHTYzazK37DDSqS6uLXppdJws7Gpump",
+    "first_seen": "2026-07-14T10:29:56.252754+00:00"
+  },
+  "wifnut": {
+    "mint": "3g43nUAvUYQ4b1fqsxmJkEwuXuN6LCpxc5wwG2XJpump",
+    "first_seen": "2026-07-14T10:29:57.262718+00:00"
+  },
+  "njcfund": {
+    "mint": "4dPWxop48Hf8i5Zqmh8BvtXZDdteDaFq2N1tDE9opump",
+    "first_seen": "2026-07-14T10:29:57.779795+00:00"
   }
 }
