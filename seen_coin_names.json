@@ -21746,5 +21746,17 @@
   "korean": {
     "mint": "BhAHHcXwy5gwK7xnb7z4S68JPQcH4AM734FXQEknpump",
     "first_seen": "2026-07-14T12:30:01.776128+00:00"
+  },
+  "magacoin": {
+    "mint": "9s6kzxciDgDdhR6S6CLei25w9AjH9XnQUS4YLHMVpump",
+    "first_seen": "2026-07-14T12:40:01.679307+00:00"
+  },
+  "peekdog": {
+    "mint": "3QqohvSrsbnYj4uRMG4NLx2eATNvbo17GqfoeDGHpump",
+    "first_seen": "2026-07-14T12:40:08.674544+00:00"
+  },
+  "cp": {
+    "mint": "FkhxdWbWMNg8r4JuYJNn97ibh7BvPdB58evtVYWGpump",
+    "first_seen": "2026-07-14T12:40:13.148278+00:00"
   }
 }
