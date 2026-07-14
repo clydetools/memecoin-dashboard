@@ -20922,5 +20922,33 @@
   "abu": {
     "mint": "CQD12ULK3RVp7qqGo4nNsoFXsteRh1Ded2PvcLWdpump",
     "first_seen": "2026-07-14T04:09:59.813664+00:00"
+  },
+  "osmo": {
+    "mint": "8QHd753L72oLYkzMvRG1oGHUYZAaCDGMuEDNWFkApump",
+    "first_seen": "2026-07-14T04:19:52.483343+00:00"
+  },
+  "earthnuts": {
+    "mint": "2RUp2eLd7kAiEea44wLx5naWELWRxf87EmQsfrcwpump",
+    "first_seen": "2026-07-14T04:19:52.957935+00:00"
+  },
+  "ynot": {
+    "mint": "FJA6zKozN1D3tqJ1UuFPA1etzssWKkgxq9d79AYipump",
+    "first_seen": "2026-07-14T04:19:54.094627+00:00"
+  },
+  "american": {
+    "mint": "gkhT3eazM4rbLNKFkyueRXETVyFTSiiPQgcGSKF9dtd",
+    "first_seen": "2026-07-14T04:19:54.462535+00:00"
+  },
+  "acid": {
+    "mint": "5xGuSkAX1c55P8oxwat1LLPTUsj1y3AMVDyB8sMPpump",
+    "first_seen": "2026-07-14T04:19:54.833811+00:00"
+  },
+  "jokerz": {
+    "mint": "EUYdxCy8ykG3c8kWpsuHywG9WR9wyhuMW73T8Gs2pump",
+    "first_seen": "2026-07-14T04:19:55.544720+00:00"
+  },
+  "trollbrain": {
+    "mint": "C79Qw7DbnLaH2B9jZ9fbqLfMXhKEGZkLSZDDa8EVpump",
+    "first_seen": "2026-07-14T04:19:57.652247+00:00"
   }
 }
