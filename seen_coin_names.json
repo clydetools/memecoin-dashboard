@@ -20950,5 +20950,13 @@
   "trollbrain": {
     "mint": "C79Qw7DbnLaH2B9jZ9fbqLfMXhKEGZkLSZDDa8EVpump",
     "first_seen": "2026-07-14T04:19:57.652247+00:00"
+  },
+  "bink": {
+    "mint": "CjKqc5yLm2DcM2W8jpqfs2rW4YyvKSCVCK6L58sUpump",
+    "first_seen": "2026-07-14T04:29:55.442045+00:00"
+  },
+  "fuuchan": {
+    "mint": "BspFLK2cDz7WnwBr9UxP84MjoxjBFpJPVMxhSam8pump",
+    "first_seen": "2026-07-14T04:29:55.773103+00:00"
   }
 }
