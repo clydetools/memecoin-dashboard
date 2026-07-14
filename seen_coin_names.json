@@ -21946,5 +21946,25 @@
   "chloe": {
     "mint": "GU9ohNsMdWttQe678qGnVVg39TXo18LhvqBsC1DQpump",
     "first_seen": "2026-07-14T14:00:04.344994+00:00"
+  },
+  "click": {
+    "mint": "EGqG9DoVGS6RmwwXTgaYXUMG3i9Xv2zXu5UrZBCrpump",
+    "first_seen": "2026-07-14T14:10:02.009724+00:00"
+  },
+  "clush": {
+    "mint": "5QEpZX7WfBe9w3CMkUryyC4pk9MUzNUR1gXMXh2Bpump",
+    "first_seen": "2026-07-14T14:10:02.399179+00:00"
+  },
+  "depsek": {
+    "mint": "3yQUDFuauV8KdyKUqiHinaKsfpMayCE5ceXNszmdpump",
+    "first_seen": "2026-07-14T14:10:03.503199+00:00"
+  },
+  "catoid": {
+    "mint": "EfU4xWf6c6ZqPKcBxWDjDQyak4iExcBoehXaSacrpump",
+    "first_seen": "2026-07-14T14:10:08.595096+00:00"
+  },
+  "vibecoin": {
+    "mint": "AZbem4s8iLJE5eniDZJ7c8q1ahbfMwWgCA8TxVW2tDUB",
+    "first_seen": "2026-07-14T14:10:08.964211+00:00"
   }
 }
