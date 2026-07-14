@@ -22662,5 +22662,53 @@
   "aris": {
     "mint": "3ozAqHejKs5SPsHY8PCe9DxqyvJBKSoYQYFrCDvhpump",
     "first_seen": "2026-07-14T18:20:17.389558+00:00"
+  },
+  "demobob": {
+    "mint": "FYyyPhp8aYvnZekPo7m8qLYD5CHnRrb8uzGGpZqLpump",
+    "first_seen": "2026-07-14T18:29:54.447261+00:00"
+  },
+  "tilly": {
+    "mint": "7WMM2Q7ubLTkYYTkzDMogusgZNQjBdSnKQRFgVW3pump",
+    "first_seen": "2026-07-14T18:29:56.572947+00:00"
+  },
+  "febufather": {
+    "mint": "C8bvFBghyDiMa6xbuAp8v4cEvJBw4ePJvKixFBFPpump",
+    "first_seen": "2026-07-14T18:29:57.296855+00:00"
+  },
+  "2fcat": {
+    "mint": "3bBKe3EJr45jLZzVxp6yL8Fh7AAnf9qgrxLjbL3Ppump",
+    "first_seen": "2026-07-14T18:29:59.147605+00:00"
+  },
+  "clanker": {
+    "mint": "FKMo5x7hKYwdSBip62d3mjQkwJxHQ5xe3JnyF18r9tXk",
+    "first_seen": "2026-07-14T18:29:59.872541+00:00"
+  },
+  "magabob": {
+    "mint": "F98SkyfZyaL6ujq5H9ebRWZYzieWMWGx3Qmfy7BRpump",
+    "first_seen": "2026-07-14T18:30:00.234276+00:00"
+  },
+  "dotwings": {
+    "mint": "95VoiiJHfYMnbpRJfGkqytaayHwQqFSGuq6jHQgvpump",
+    "first_seen": "2026-07-14T18:30:01.577211+00:00"
+  },
+  "ego": {
+    "mint": "EhrPwXRjcLE4sY4f2jQsHeeXzfJHt9PeJqVRQMajpump",
+    "first_seen": "2026-07-14T18:30:02.354096+00:00"
+  },
+  "leonsol": {
+    "mint": "FV8KnV8SuYkAM9Z5rEdExU5yX7XLJZM5iszeRKiLpump",
+    "first_seen": "2026-07-14T18:30:03.088340+00:00"
+  },
+  "solpec": {
+    "mint": "Feq5HSuDm1aRLx1crLoSyjodnrZaLDUzTw5xiijipump",
+    "first_seen": "2026-07-14T18:30:03.463885+00:00"
+  },
+  "hecto": {
+    "mint": "DRSo3XaivA29yNTWeL4LipyagL5ABFHCzgAyz57X9EE",
+    "first_seen": "2026-07-14T18:30:08.378664+00:00"
+  },
+  "rudo": {
+    "mint": "AHzEctE234LCpt6eD4D2uqNfzkY566BJ51sf7CXEfcNF",
+    "first_seen": "2026-07-14T18:30:08.587912+00:00"
   }
 }
