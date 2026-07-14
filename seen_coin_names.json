@@ -20518,5 +20518,21 @@
   "klik": {
     "mint": "FJkGVYMbu6ozS8SpKa8bgrgsPRo3Kqc4YKxaJ7qWka1M",
     "first_seen": "2026-07-14T00:30:03.587618+00:00"
+  },
+  "andy": {
+    "mint": "6Xt5fVVvVjhCbeng3xdPQzcJo36DVitV9iTd7JXVpump",
+    "first_seen": "2026-07-14T00:39:55.580486+00:00"
+  },
+  "livekit": {
+    "mint": "Anh5FLvw89y4PhbYzirY51rwQjr8wNHRE7byfDPNpump",
+    "first_seen": "2026-07-14T00:39:57.719647+00:00"
+  },
+  "kekcoin": {
+    "mint": "9aRovqiC8faQ2nHc3BmhaocmvzHDkLVkY8WoGDbhpump",
+    "first_seen": "2026-07-14T00:39:59.284214+00:00"
+  },
+  "ftn": {
+    "mint": "8SGoL9a1ac9fHXpyC1tByumJiuAnrKiLDJwQ8RMBoedz",
+    "first_seen": "2026-07-14T00:40:04.669735+00:00"
   }
 }
