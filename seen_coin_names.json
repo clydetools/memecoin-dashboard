@@ -22146,5 +22146,29 @@
   "claynosaur": {
     "mint": "8kvptZPajh1LJ9fPZrqJnJYnhNw6rnaKfphQp1snpump",
     "first_seen": "2026-07-14T15:20:12.664193+00:00"
+  },
+  "hoacoin": {
+    "mint": "5Hiwc5JsD1iiG4eH6S5N8kzKMmaTrDYYzacaYf7jpump",
+    "first_seen": "2026-07-14T15:29:54.063928+00:00"
+  },
+  "clayverse": {
+    "mint": "DiXBAUcFAuPn2cpNbZKcj4YvPC4FnhZmBXLJNiNAobdN",
+    "first_seen": "2026-07-14T15:29:54.565566+00:00"
+  },
+  "odo": {
+    "mint": "FkKbSMLjzbVmMQQjUWLW4Dm1rmpcPitq1THmF3wkpump",
+    "first_seen": "2026-07-14T15:29:55.745886+00:00"
+  },
+  "habibi": {
+    "mint": "6TM2ji5xxD7KFwMaiwzBvg7dnPpmE8ZjQzCkz4Jnpump",
+    "first_seen": "2026-07-14T15:29:57.555031+00:00"
+  },
+  "bonkuji": {
+    "mint": "CSBUoLDkaReTzzZ1KJcBUhnGEsYvbMy2ADfDW1Jsbonk",
+    "first_seen": "2026-07-14T15:29:57.919269+00:00"
+  },
+  "gersem": {
+    "mint": "5poHHYifZcxnEfKySUJ4YcyyHnE7gnMivwryUhb9pump",
+    "first_seen": "2026-07-14T15:30:03.295848+00:00"
   }
 }
