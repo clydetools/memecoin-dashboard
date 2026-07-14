@@ -21690,5 +21690,9 @@
   "dewangga": {
     "mint": "5BzQrrbmTaNQsFkYCepJk2456BcGLJkvYT4B6sSppump",
     "first_seen": "2026-07-14T11:59:55.301903+00:00"
+  },
+  "skip": {
+    "mint": "6SD5YyeLaoumhnzWmDSoBdLf3ZBUWuRCvzmr9Qbhpump",
+    "first_seen": "2026-07-14T12:03:18.216091+00:00"
   }
 }
