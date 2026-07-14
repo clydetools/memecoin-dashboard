@@ -23210,5 +23210,41 @@
   "buffett": {
     "mint": "CVBV9GZPDHXepeVUrfg4EhPj8JKRhprYftC4diPQpump",
     "first_seen": "2026-07-14T21:40:05.205362+00:00"
+  },
+  "wbts": {
+    "mint": "7mmmGk61hwCqZTp44e8sjjcH4bmtFkPaeEbRJxjdpump",
+    "first_seen": "2026-07-14T21:50:00.165801+00:00"
+  },
+  "worstmeme": {
+    "mint": "B6CBLzDEYpBVSie8UwPMz2FjdPqjYt9zQZwteeBopump",
+    "first_seen": "2026-07-14T21:50:01.439507+00:00"
+  },
+  "gsm": {
+    "mint": "4sG1DBXFELuRNuKsHm9b8mh7Znc1QPP6tmu3jKHFpump",
+    "first_seen": "2026-07-14T21:50:01.969283+00:00"
+  },
+  "scuter": {
+    "mint": "AW8QsbaLQCeP2U6gZYcU92nqPSee5ekCYSnwpo8Nbonk",
+    "first_seen": "2026-07-14T21:50:03.013649+00:00"
+  },
+  "benkguy": {
+    "mint": "8QWLDonFcj2Q44sXffT3kiqFz2GPVyNycVVLf9SdRfdu",
+    "first_seen": "2026-07-14T21:50:03.533385+00:00"
+  },
+  "spacev5": {
+    "mint": "13m6VPAjnRfPJWG6W9DNZNVdXW3yXwvYkTY4gckQpump",
+    "first_seen": "2026-07-14T21:50:04.156999+00:00"
+  },
+  "capital": {
+    "mint": "AhzuJyN6b9C7yU5ANNdDUH7j4QRD1uLNTtU3fsatpump",
+    "first_seen": "2026-07-14T21:50:04.677720+00:00"
+  },
+  "unipcs": {
+    "mint": "7NMGDGfoH6EdV5ut7j2WKER6KY3BA81Y7jht7K24C5ft",
+    "first_seen": "2026-07-14T21:50:05.193768+00:00"
+  },
+  "boogerman": {
+    "mint": "DxDUE6aPSeqLoy6p9XqszgjsHfyW5CYDBbfU6Gb3pump",
+    "first_seen": "2026-07-14T21:50:05.708544+00:00"
   }
 }
