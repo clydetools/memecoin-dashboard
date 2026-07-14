@@ -21106,5 +21106,29 @@
   "gully": {
     "mint": "4vD3ay7Mkso6XrC8719akTbtrQXRfsYovfGwcKWjpump",
     "first_seen": "2026-07-14T06:20:12.940923+00:00"
+  },
+  "gaelic": {
+    "mint": "GAfeZzYmvVcuFhFL1nBjkfjjuKQQ7vMYd9za2bL9pump",
+    "first_seen": "2026-07-14T06:39:56.520298+00:00"
+  },
+  "stimmy": {
+    "mint": "3QmiYdqVfuS2yiMBq4pERLgC47NL8aqfCguPoKFppump",
+    "first_seen": "2026-07-14T06:39:57.723840+00:00"
+  },
+  "ftp": {
+    "mint": "DVPA3W1i5w1fsek6K5mRUThwtt3XzwDCZ3SQbC5dpump",
+    "first_seen": "2026-07-14T06:39:58.107979+00:00"
+  },
+  "osp": {
+    "mint": "F8KkZiseaZfhixouEJo7D7PGF6HnQiyLRKQtRXNupump",
+    "first_seen": "2026-07-14T06:39:58.518852+00:00"
+  },
+  "meena": {
+    "mint": "DBPkXoKgXpbPtHbeG3ZgPbk39JErvFDsM3Z1t7w5pump",
+    "first_seen": "2026-07-14T06:39:59.263182+00:00"
+  },
+  "kaufmo": {
+    "mint": "HzKHkoYWm86YUaU8Jh8PTQsmUEvvusCb9xBb7W1Spump",
+    "first_seen": "2026-07-14T06:40:03.853632+00:00"
   }
 }
