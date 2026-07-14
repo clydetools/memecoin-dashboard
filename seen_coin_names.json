@@ -23070,5 +23070,29 @@
   "wiftrump": {
     "mint": "ErjGRdeJy6rwDXizoCqifcLP7GNcLtRrHdxZjyc7pump",
     "first_seen": "2026-07-14T20:42:08.331041+00:00"
+  },
+  "thesol": {
+    "mint": "7aAcL3u3HCTUiTt2P1VRBKKej8u98LdrmpSGBbkpump",
+    "first_seen": "2026-07-14T20:50:01.122133+00:00"
+  },
+  "lamine": {
+    "mint": "B1h36nFbKLswzqYRGFD7y9ckGeAzncLaZaMguV6v1Lu5",
+    "first_seen": "2026-07-14T20:50:01.933607+00:00"
+  },
+  "kfrog": {
+    "mint": "GNz3FpYFSyhPeME4TZWNSJUgKnX9gx1HtirRA4Eypump",
+    "first_seen": "2026-07-14T20:50:02.335890+00:00"
+  },
+  "pooland": {
+    "mint": "svXUVh7TSduy8XaFLmBqWfFfLyYGQcGJfbbtet1pump",
+    "first_seen": "2026-07-14T20:50:02.696493+00:00"
+  },
+  "popkid": {
+    "mint": "2SKxNNprshuGErWiPZGMwEyMPNtrKScPMn1XjUDYpump",
+    "first_seen": "2026-07-14T20:50:03.061704+00:00"
+  },
+  "jejuan": {
+    "mint": "2PLZfhQXysxLPxiLkCY54Ai6GwQVXSTLJdJ6G5oGwDaY",
+    "first_seen": "2026-07-14T20:50:03.858415+00:00"
   }
 }
