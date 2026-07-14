@@ -22498,5 +22498,41 @@
   "newsdog": {
     "mint": "4XLxhCuDhjepCkrhz76NsUBvPHL1R3FaJNsaCYxXpump",
     "first_seen": "2026-07-14T17:29:58.656933+00:00"
+  },
+  "nopower": {
+    "mint": "8J6kxuZeEXKZbcUG993pUCFtunAEsmrcKpKjuBWBpump",
+    "first_seen": "2026-07-14T17:39:57.070718+00:00"
+  },
+  "ripbears": {
+    "mint": "9fuwwCpQe9ocDxs9F441SeXwcXM8iW1reVhXgaMHXTH9",
+    "first_seen": "2026-07-14T17:39:57.459961+00:00"
+  },
+  "jules": {
+    "mint": "7WaM6itEzyt6ahnXaxcAZR5xX5VbEEce92EC2gh5pump",
+    "first_seen": "2026-07-14T17:39:57.841342+00:00"
+  },
+  "heist": {
+    "mint": "58C788duxSYtDiHgEGywhkevF68iiK98Jr9pbrShpump",
+    "first_seen": "2026-07-14T17:39:58.212621+00:00"
+  },
+  "geegcoin": {
+    "mint": "HiHVUjWJ5PQSLLaxRepKDApuRptE3uNiYcKnPqxApump",
+    "first_seen": "2026-07-14T17:39:58.613858+00:00"
+  },
+  "vibedog": {
+    "mint": "4HKTEVM5e7qtsZncUndGfdi9oTBqHzG5hohJ6tqxpump",
+    "first_seen": "2026-07-14T17:39:59.327179+00:00"
+  },
+  "hummingbird": {
+    "mint": "GDKqNLkK33B8NSBAbTje8sLTn3w7unJRLENdD9Gapump",
+    "first_seen": "2026-07-14T17:40:03.482313+00:00"
+  },
+  "lettuce": {
+    "mint": "9jo2XEbGyrCvwkzbNHTMWm6QkVepZgB45Kv1owfcpump",
+    "first_seen": "2026-07-14T17:40:06.418802+00:00"
+  },
+  "cattears": {
+    "mint": "9w47d5K1Whg4HoGFtk7L9XXV1P95tpuz6ehZSfaRpump",
+    "first_seen": "2026-07-14T17:40:12.053880+00:00"
   }
 }
