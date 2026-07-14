@@ -20506,5 +20506,17 @@
   "solshapes": {
     "mint": "EURreiLWkQ8Nf7dzidHKSy33kY4XWPB2ZFAUbdHFe2R1",
     "first_seen": "2026-07-14T00:20:09.185448+00:00"
+  },
+  "memory": {
+    "mint": "6cayeCxpbWMRfbRGKbu5axUoosaoct99Gn7qwH1iadV9",
+    "first_seen": "2026-07-14T00:29:57.583045+00:00"
+  },
+  "jbtc": {
+    "mint": "E4dsS1u62qrjL9edeQcfWXUYDgACh8W1FnpmxDJ69u47",
+    "first_seen": "2026-07-14T00:29:58.129900+00:00"
+  },
+  "klik": {
+    "mint": "FJkGVYMbu6ozS8SpKa8bgrgsPRo3Kqc4YKxaJ7qWka1M",
+    "first_seen": "2026-07-14T00:30:03.587618+00:00"
   }
 }
