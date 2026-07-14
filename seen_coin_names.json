@@ -20978,5 +20978,13 @@
   "bullabu": {
     "mint": "Da3D3YqmnCWJtGQTHaTMEPyikBHJVFgV3MLSHt2o2nAS",
     "first_seen": "2026-07-14T04:40:00.974287+00:00"
+  },
+  "maybull": {
+    "mint": "Gj24xZxjejavUFEnR6FgFTEknjVmnr2JNuMV8bMBpump",
+    "first_seen": "2026-07-14T04:50:00.239961+00:00"
+  },
+  "core": {
+    "mint": "4FdojUmXeaFMBG6yUaoufAC5Bz7u9AwnSAMizkx5pump",
+    "first_seen": "2026-07-14T04:50:07.434922+00:00"
   }
 }
