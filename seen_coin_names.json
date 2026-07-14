@@ -21086,5 +21086,25 @@
   "smartjak": {
     "mint": "AnGpE43KCCNupH72U12qSj87n5ZceS7et6crnW2uXvP2",
     "first_seen": "2026-07-14T06:00:04.850315+00:00"
+  },
+  "eloncoin": {
+    "mint": "8cifXmWXKYXaES8uD1Yy2PEpFEfXV2wqkcWc2N7Apump",
+    "first_seen": "2026-07-14T06:19:54.923697+00:00"
+  },
+  "trumpbills": {
+    "mint": "BtHoj8J1mqFCV7kEvv7WT6oHm44ExE6nR7VRRZZdpump",
+    "first_seen": "2026-07-14T06:20:07.768556+00:00"
+  },
+  "ogai": {
+    "mint": "12qeULdGtXeZErpacxxWzf9cXqBvzmwaz22GkMZ9pump",
+    "first_seen": "2026-07-14T06:20:08.104174+00:00"
+  },
+  "comptek": {
+    "mint": "5vg3wtaYKajBg8hMCEognCnw14Wo712XUDTCJHhfpump",
+    "first_seen": "2026-07-14T06:20:08.436061+00:00"
+  },
+  "gully": {
+    "mint": "4vD3ay7Mkso6XrC8719akTbtrQXRfsYovfGwcKWjpump",
+    "first_seen": "2026-07-14T06:20:12.940923+00:00"
   }
 }
