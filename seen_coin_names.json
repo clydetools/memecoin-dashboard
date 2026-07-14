@@ -21542,5 +21542,29 @@
   "njcfund": {
     "mint": "4dPWxop48Hf8i5Zqmh8BvtXZDdteDaFq2N1tDE9opump",
     "first_seen": "2026-07-14T10:29:57.779795+00:00"
+  },
+  "ftt": {
+    "mint": "kUG2AbXv14JhdkULLv26rPJT7rmUg9AKck913VVPump",
+    "first_seen": "2026-07-14T10:39:52.915689+00:00"
+  },
+  "nomi": {
+    "mint": "i2C3oVfUU5AbhVgddBRKaZRPrionQRv4SEM35xbpump",
+    "first_seen": "2026-07-14T10:39:54.183618+00:00"
+  },
+  "geezahs": {
+    "mint": "ECV7S6fV5kA4b55PnPJ22W4r746SgN837JFwAtjppump",
+    "first_seen": "2026-07-14T10:39:55.602594+00:00"
+  },
+  "gif": {
+    "mint": "BC7gnH2Ju8uKgT2FFkswC6bX3QUtX3x5RbhUw2B9pump",
+    "first_seen": "2026-07-14T10:39:56.124969+00:00"
+  },
+  "hamke": {
+    "mint": "J5D67v8HaeFoE1RUcALPB5y3FmBA7QEdLTBVA4Puwgaz",
+    "first_seen": "2026-07-14T10:40:00.903866+00:00"
+  },
+  "morr": {
+    "mint": "morrkKLmaHdzBdjNfTXwu6uDFvqHdF1ZosZNcjPrpYo",
+    "first_seen": "2026-07-14T10:40:00.928212+00:00"
   }
 }
