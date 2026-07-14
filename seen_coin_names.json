@@ -23554,5 +23554,37 @@
   "nibbii": {
     "mint": "GBjrhnNLFRd4NY1SMv76yJf59mjsRHc2jVhoLt3Cpump",
     "first_seen": "2026-07-14T23:40:07.870061+00:00"
+  },
+  "haald": {
+    "mint": "2r4L6YodPGDSFfq9CVBy7LZRiFvSEhM2zuW7uNKqpump",
+    "first_seen": "2026-07-14T23:49:59.878008+00:00"
+  },
+  "wbbk": {
+    "mint": "4hU2Kf4nz29sUiq9rRJ4erTYiSgwjsf17cQFgP64pump",
+    "first_seen": "2026-07-14T23:50:00.444981+00:00"
+  },
+  "mobutucry": {
+    "mint": "Ge3kvEqC6VnerduotJPdjGFs6nxvVsdUWyRTs75Zpump",
+    "first_seen": "2026-07-14T23:50:01.792930+00:00"
+  },
+  "ramoon": {
+    "mint": "C4HoZzGYbHmY66UXf61iR8wcnP6rYFRKuUUbz95Dpump",
+    "first_seen": "2026-07-14T23:50:02.993851+00:00"
+  },
+  "sentient": {
+    "mint": "21ks1CYQVEB5QdsBtnK2H8fbhtrX6Hru6ZuzJ1mEpump",
+    "first_seen": "2026-07-14T23:50:03.829369+00:00"
+  },
+  "chutgpt": {
+    "mint": "6of5akhEyT9Fp3jRoq7VgTFHNE6Bg6oeqriUs8zCJYod",
+    "first_seen": "2026-07-14T23:50:04.403921+00:00"
+  },
+  "pythia": {
+    "mint": "CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump",
+    "first_seen": "2026-07-14T23:50:10.823311+00:00"
+  },
+  "wsolp": {
+    "mint": "GvUCjmWSXA5hrTh9smmNA1AU55YCtP9mDLQcrKA1pump",
+    "first_seen": "2026-07-14T23:50:10.874035+00:00"
   }
 }
