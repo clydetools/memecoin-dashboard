@@ -23718,5 +23718,17 @@
   "neptune": {
     "mint": "E8tFTkoYX6ub6MrfXpcZaVvkFeTUEjqhiQWvZwKHpump",
     "first_seen": "2026-07-15T01:10:01.929110+00:00"
+  },
+  "cashkrabs": {
+    "mint": "DwdzcR3BHaeDNbJpYNCxCvnqGuAzCfas7iKPg6DMpump",
+    "first_seen": "2026-07-15T01:19:53.191582+00:00"
+  },
+  "cvault": {
+    "mint": "GkswxyKhSxYTsywKykQqWWdKhVV3tkPB17SCaMi8pump",
+    "first_seen": "2026-07-15T01:19:54.734213+00:00"
+  },
+  "beggy": {
+    "mint": "t2Ypujv3uK12PYBDkZKznCcHvEfGmjbyNKRXe2Ppump",
+    "first_seen": "2026-07-15T01:20:00.355011+00:00"
   }
 }
