@@ -24050,5 +24050,13 @@
   "tired": {
     "mint": "JBBBwhksBCeR4wrnz6zzaJjVEUWBwgHkPvqaS8J4pump",
     "first_seen": "2026-07-15T04:39:57.869821+00:00"
+  },
+  "hopper": {
+    "mint": "7BDZF3Ufq9zPpYZZNkhhjhXaMXcGR9pghK6R26c6pump",
+    "first_seen": "2026-07-15T04:49:59.811784+00:00"
+  },
+  "rollie": {
+    "mint": "GFmyB7LP6Vctsgk982qap5C7hvzbYiZUjLN6YHTZpump",
+    "first_seen": "2026-07-15T04:50:04.412906+00:00"
   }
 }
