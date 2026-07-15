@@ -23914,5 +23914,25 @@
   "agialpha": {
     "mint": "tWKHzXd5PRmxTF5cMfJkm2Ua3TcjwNNoSRUqx6Apump",
     "first_seen": "2026-07-15T03:10:00.975179+00:00"
+  },
+  "jerry": {
+    "mint": "7afg9D5Y2gg5ZvtpJLYVL3K7GNrttZBPMFBkfqmJpump",
+    "first_seen": "2026-07-15T03:19:57.498779+00:00"
+  },
+  "zonk": {
+    "mint": "Rxqa9MwqmaoCLfgKo6PGVxeFxHxm5kRatPNRPeapump",
+    "first_seen": "2026-07-15T03:19:59.181039+00:00"
+  },
+  "mayem": {
+    "mint": "7hjF9mShaciwzt8R9ERBMGAMehKsXjhewuSyWmkhpump",
+    "first_seen": "2026-07-15T03:19:59.523467+00:00"
+  },
+  "enigma": {
+    "mint": "6yGBYS24mygV6M6eYkzDB23LST1G2VHs3D38gK6Qpump",
+    "first_seen": "2026-07-15T03:19:59.884384+00:00"
+  },
+  "memedb": {
+    "mint": "rriwiGHspFi2kavAeb4Gii6rr7Mj5pfaGH6ABRkpump",
+    "first_seen": "2026-07-15T03:20:05.440636+00:00"
   }
 }
