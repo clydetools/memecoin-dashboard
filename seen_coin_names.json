@@ -24570,5 +24570,41 @@
   "solard": {
     "mint": "47M2U1eVot6VPWjcqEFWe2CesUTBGBXfSDovaqTmpump",
     "first_seen": "2026-07-15T16:54:11.559234+00:00"
+  },
+  "troco": {
+    "mint": "GHdcTTK9DB8MgdfbLWjopByEYTgi29aYd73dPcQ1pump",
+    "first_seen": "2026-07-15T20:39:37.865838+00:00"
+  },
+  "readtweet": {
+    "mint": "39EmEqimAVk1uwmNE5JgQu48gaF9moc97vEGcCKQpump",
+    "first_seen": "2026-07-15T20:39:38.871923+00:00"
+  },
+  "grokkybara": {
+    "mint": "6sapKYi6absVVDjjs9mJ85v7tyhAupL7AKZcj2d6pump",
+    "first_seen": "2026-07-15T20:39:43.116976+00:00"
+  },
+  "brecs": {
+    "mint": "5QoNYABgR3nR1bhwQNDVnmuDzy3c2G6bCkDzi6N2pump",
+    "first_seen": "2026-07-15T20:39:49.460025+00:00"
+  },
+  "magnet": {
+    "mint": "8jRAqGyNuakmbznCHTj9uiW3wZvRS4XgefKTyAbHQ771",
+    "first_seen": "2026-07-15T20:39:50.016220+00:00"
+  },
+  "dexter": {
+    "mint": "14dRm28nQdLwH2gewiPB6fYUm83WUw1BvcHbtiAsmPHL",
+    "first_seen": "2026-07-15T20:39:50.115227+00:00"
+  },
+  "oro": {
+    "mint": "7apj78jEgPGup8UqAcHd9vuDDpWwSapGBdCvF6Uapump",
+    "first_seen": "2026-07-15T20:39:50.231905+00:00"
+  },
+  "forge": {
+    "mint": "GUxKwgqqcZVMoF3Q9Ky6dj9VdecA2J64wmDdmRaKpump",
+    "first_seen": "2026-07-15T20:39:50.368607+00:00"
+  },
+  "solguy": {
+    "mint": "9FRByUiuZHFLuQhLd51Z9LRWNfLcpQEs1u7uSs5mpump",
+    "first_seen": "2026-07-15T20:39:50.414912+00:00"
   }
 }
