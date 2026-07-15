@@ -23742,5 +23742,9 @@
   "bribelon": {
     "mint": "GxKLLSZHqhgx3f3EBQjKNJqANmds2GDdn6BiRe3rpump",
     "first_seen": "2026-07-15T01:29:58.525308+00:00"
+  },
+  "raffle": {
+    "mint": "Cwz6WJ24x59xEXK4x2cDQzwDDr9N4cnbXAg1c13Jpump",
+    "first_seen": "2026-07-15T01:39:57.607633+00:00"
   }
 }
