@@ -23878,5 +23878,21 @@
   "btcb": {
     "mint": "HYEAcFsfEaFWXw2cJ78fQjmkgtSAy8AaghhVgFTq7og5",
     "first_seen": "2026-07-15T02:50:08.210486+00:00"
+  },
+  "shitworld": {
+    "mint": "7tRs7mfMSW7wMqeuXCvAqaLV1JHGYLT9NrLTh83cpump",
+    "first_seen": "2026-07-15T02:59:57.703790+00:00"
+  },
+  "claim": {
+    "mint": "4KqBgMWf8qgymrk2KC5tSf15WCieWoX2dYC5jbc2pump",
+    "first_seen": "2026-07-15T02:59:58.965640+00:00"
+  },
+  "quakcat": {
+    "mint": "3iHHMenoEga9JoMEmrHrPGhJ1WTtFLbWSyRsxzjPpump",
+    "first_seen": "2026-07-15T02:59:59.603004+00:00"
+  },
+  "fartball": {
+    "mint": "D9q1CWSFfPUgo83bcxVjWQiz27n7SU98j8JHBs93t4qX",
+    "first_seen": "2026-07-15T03:00:04.297281+00:00"
   }
 }
