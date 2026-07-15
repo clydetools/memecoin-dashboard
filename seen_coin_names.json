@@ -24058,5 +24058,25 @@
   "rollie": {
     "mint": "GFmyB7LP6Vctsgk982qap5C7hvzbYiZUjLN6YHTZpump",
     "first_seen": "2026-07-15T04:50:04.412906+00:00"
+  },
+  "ethereum": {
+    "mint": "rBPhAPTVhD76e4W1xxQvm4TR6b9N2WxzvFQyt8qNCkm",
+    "first_seen": "2026-07-15T04:59:54.502844+00:00"
+  },
+  "goatest": {
+    "mint": "4cHuTtaBEpJBV4s22fSryPg7ZrfpchZAMRTShcW9RZAS",
+    "first_seen": "2026-07-15T04:59:56.125209+00:00"
+  },
+  "dyw": {
+    "mint": "AEk7uLuiD3QTmBatjyqHVJ8F72G7LzGnLiafQEqLpump",
+    "first_seen": "2026-07-15T04:59:57.324931+00:00"
+  },
+  "pyjus": {
+    "mint": "Ft9SwULxFHic8kXgJP4ZuipEc2EqkiUYst4Wwk1opump",
+    "first_seen": "2026-07-15T05:00:00.686382+00:00"
+  },
+  "bansem": {
+    "mint": "GFTrCRwazZJxn4FKuEC8PfkpPo7xFDGrcXA1WZTupump",
+    "first_seen": "2026-07-15T05:00:02.571481+00:00"
   }
 }
