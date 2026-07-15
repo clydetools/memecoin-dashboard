@@ -24254,5 +24254,17 @@
   "reject": {
     "mint": "7dpDPEPvc6pJxfcvTdxGZ9rfigfWpXPmGfbjLKKypump",
     "first_seen": "2026-07-15T07:29:59.359149+00:00"
+  },
+  "nobull": {
+    "mint": "CnJtcebfotY4jozrMxUSbwsJ2bsn2Pr3zYV7CQifpump",
+    "first_seen": "2026-07-15T07:39:57.854202+00:00"
+  },
+  "richer": {
+    "mint": "3F2QbdVwcJVfZArqG5wAAR54Lk2jmgTeixw6e2Jfpump",
+    "first_seen": "2026-07-15T07:39:59.996224+00:00"
+  },
+  "ipr": {
+    "mint": "BrGpizu7bLfkfEseewyq7WKwZzhjUxvhq3nakN6Mpump",
+    "first_seen": "2026-07-15T07:40:01.408772+00:00"
   }
 }
