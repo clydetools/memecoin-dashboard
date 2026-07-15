@@ -24454,5 +24454,25 @@
   "elonmusk": {
     "mint": "FBBDvnzxeTKDazCFQPBduPrNudykCtn654rig4jDpump",
     "first_seen": "2026-07-15T09:40:00.239431+00:00"
+  },
+  "odyssey": {
+    "mint": "H6cEXPjKvSeWSogDmTweEauBhHuG9CPVveLj8ctapump",
+    "first_seen": "2026-07-15T09:49:54.749848+00:00"
+  },
+  "welb": {
+    "mint": "9zS5AKCqsX11Pipmctumv83FKwZfcyh1SLUUmqxKpump",
+    "first_seen": "2026-07-15T09:49:55.441463+00:00"
+  },
+  "superbug": {
+    "mint": "CaZawXnfEBXftBdwRpn5fFLLqWCciPWmnBNBrnbppump",
+    "first_seen": "2026-07-15T09:49:56.116845+00:00"
+  },
+  "pons": {
+    "mint": "DC8WY62cszywuXbsoTHKvsWfgwJXsfqTr3uh5jzmpump",
+    "first_seen": "2026-07-15T09:49:56.784765+00:00"
+  },
+  "ansemnrg": {
+    "mint": "EfZKRPuQpiFT5RGj1du8yptEGvFEMEoLeGDmjPAPpump",
+    "first_seen": "2026-07-15T09:50:01.526013+00:00"
   }
 }
