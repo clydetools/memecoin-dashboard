@@ -25486,5 +25486,41 @@
   "rollerpig": {
     "mint": "5rHKzttGF9UMmqgiiTwMhvdVaN4mo2QxueCr36q5pump",
     "first_seen": "2026-07-16T14:30:02.451630+00:00"
+  },
+  "tknz": {
+    "mint": "89r35foiPBeoseBPxCexQ3zLnE6avVKqJoLuw2Eipump",
+    "first_seen": "2026-07-16T14:39:59.460109+00:00"
+  },
+  "takeover": {
+    "mint": "R8E41my92M8qiZdwwsN79tRNREU6bVHHH8vSfc8pump",
+    "first_seen": "2026-07-16T14:39:59.834330+00:00"
+  },
+  "scrotion": {
+    "mint": "66U22DQNPi6NnZzRatG6sPCxwffaRerhqfJmroy4pump",
+    "first_seen": "2026-07-16T14:40:00.532885+00:00"
+  },
+  "boomer": {
+    "mint": "Aj2ywiBvJVXQsAKXNBUdFetvr6AKn5JKNJfGeC2Cpump",
+    "first_seen": "2026-07-16T14:40:00.872453+00:00"
+  },
+  "vubecoder": {
+    "mint": "9YsxJBmwsuS6tKimU8hU6nPv6RoJXexfiqcTGiHFpump",
+    "first_seen": "2026-07-16T14:40:01.222807+00:00"
+  },
+  "jayden": {
+    "mint": "6Zzt4a1o7UZpAYax6n4fyMSRLmstzMppwcohFdx6pump",
+    "first_seen": "2026-07-16T14:40:01.909617+00:00"
+  },
+  "datainu": {
+    "mint": "D525vVRRK8aJBdVLMFpNrRYZeRXvVFGQs3tN9sDgpump",
+    "first_seen": "2026-07-16T14:40:02.248618+00:00"
+  },
+  "council": {
+    "mint": "JApBLLKgTtafsHYwTRF2FfmvYjEYGwjeGwViB5k3pump",
+    "first_seen": "2026-07-16T14:40:02.904161+00:00"
+  },
+  "gs": {
+    "mint": "BuDDrdiySU2bJDySXLsmb8CZGnWhoMVCKwT4iKDfpump",
+    "first_seen": "2026-07-16T14:40:03.249120+00:00"
   }
 }
