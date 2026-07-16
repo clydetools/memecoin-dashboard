@@ -25290,5 +25290,25 @@
   "and": {
     "mint": "9xtDHWMKn7qFBzbjYLjrGT3Jue47AtBSREyLGDajpump",
     "first_seen": "2026-07-16T12:40:00.207124+00:00"
+  },
+  "soltard": {
+    "mint": "3Q6Gta3Xu3oBbfm5XcuhTtdbyV1FQ3VeVDEg6r88pump",
+    "first_seen": "2026-07-16T12:50:00.992880+00:00"
+  },
+  "hodler": {
+    "mint": "4EG5cj3pvcCEX3GV9pK81Gg6h5Bh9g71DCAHMkq5pump",
+    "first_seen": "2026-07-16T12:50:01.558700+00:00"
+  },
+  "btcboy": {
+    "mint": "4v6zpjikjU4GeLsuZBLhP6YwoYksuMa8oevae3F1pump",
+    "first_seen": "2026-07-16T12:50:04.219459+00:00"
+  },
+  "datacenter": {
+    "mint": "3tpFru4ABDtdkYx2B7XVLxfbCgATnAkm96QUZrygpump",
+    "first_seen": "2026-07-16T12:50:04.750936+00:00"
+  },
+  "maxhbull": {
+    "mint": "3QFvseNX1Fdkc6SZV4AT2BfSDvMUH4xQDY1H7TbPpump",
+    "first_seen": "2026-07-16T12:50:09.880096+00:00"
   }
 }
