@@ -26362,5 +26362,29 @@
   "unchained": {
     "mint": "GgzH3GfJaZbkRt8zDbeKK9XYERSgEQUviXK7av2g1oa3",
     "first_seen": "2026-07-16T19:40:14.906403+00:00"
+  },
+  "velku": {
+    "mint": "9zfkamc17RvJ3jytALCVg6ekXPwp7F4rJUGZFPTcpump",
+    "first_seen": "2026-07-16T19:49:56.906951+00:00"
+  },
+  "nugget": {
+    "mint": "CC7Yv9byDqVbJhit87N8whWNV8Jms3MCBxiifmHjpump",
+    "first_seen": "2026-07-16T19:49:57.302431+00:00"
+  },
+  "shane": {
+    "mint": "44tkSaE8953HMSksYjWQBv4cmDbr1Q4ERQEpAuDepump",
+    "first_seen": "2026-07-16T19:49:58.111306+00:00"
+  },
+  "mca19": {
+    "mint": "APHbfFiGKCH9Fv7WMypowX1jsmcdj8woPx5kxsUGpump",
+    "first_seen": "2026-07-16T19:49:59.290899+00:00"
+  },
+  "anzemtrump": {
+    "mint": "GdSe394FqC2js99W7pWoRj5SRf5Gu7LjDV6pV5TTpump",
+    "first_seen": "2026-07-16T19:49:59.693584+00:00"
+  },
+  "voltron": {
+    "mint": "9fKPiknq5opx4w4cBTGBq1u9vtdUe4vgAB9z7ZiUpump",
+    "first_seen": "2026-07-16T19:50:00.123686+00:00"
   }
 }
