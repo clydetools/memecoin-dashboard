@@ -26742,5 +26742,17 @@
   "fuuu": {
     "mint": "GFs8MNicCEZKCmX2jCxwECw8xRyJKaQrjRvbZ2ZEpump",
     "first_seen": "2026-07-16T22:10:10.132404+00:00"
+  },
+  "catscan": {
+    "mint": "7srHZ3ThA6WrJoyWgA9uTsmZEHPqgxNR4GVFHNjwpump",
+    "first_seen": "2026-07-16T22:19:53.627020+00:00"
+  },
+  "froggo": {
+    "mint": "89JLaD54zbgak7UM6kF8S6XBGAN4guZXvjt2foM9pump",
+    "first_seen": "2026-07-16T22:19:53.974424+00:00"
+  },
+  "nr": {
+    "mint": "4otH96vaNFzVwW66BJdJLwG3EqKReksTQG81FatSpump",
+    "first_seen": "2026-07-16T22:19:56.357183+00:00"
   }
 }
