@@ -24662,5 +24662,25 @@
   "tchyon": {
     "mint": "GhYbScomtGQmEafdgrd6szdZHU83iZJHkskvs9XGpump",
     "first_seen": "2026-07-15T23:45:40.890148+00:00"
+  },
+  "i": {
+    "mint": "C6feEuHbZy24DpamVvyQfEb2SSUkzcmoh5FjPVJfpump",
+    "first_seen": "2026-07-16T05:39:56.651252+00:00"
+  },
+  "correct": {
+    "mint": "3rL9iAG5KJDczprm1rDzv6jDtEwwBzHv1hjXKswmpump",
+    "first_seen": "2026-07-16T05:39:58.710682+00:00"
+  },
+  "vicecoin": {
+    "mint": "ExCALBK63oJHxoDTgEPspKG7TFuhBcEgMv6YiyApump",
+    "first_seen": "2026-07-16T05:40:05.590505+00:00"
+  },
+  "sdog": {
+    "mint": "93xdcJBG9VUtxE57McCLHNEYuKeneszjR8DugivQpump",
+    "first_seen": "2026-07-16T05:40:06.331813+00:00"
+  },
+  "saitama": {
+    "mint": "65JQDUkabYnLEM1hzAiEyTy8FtYxDWRevbestmkDS9b7",
+    "first_seen": "2026-07-16T05:40:06.435348+00:00"
   }
 }
