@@ -24898,5 +24898,25 @@
   "gerald": {
     "mint": "v5g2uxKKpSAUXkCw8d51A2r9jvBJLDJD7jFPkTSpump",
     "first_seen": "2026-07-16T08:40:04.441425+00:00"
+  },
+  "magicswap": {
+    "mint": "A8vaQJuDzXmKgCu4Kk3VR8eJC2BEzzLXf4ju7Zi3WZCp",
+    "first_seen": "2026-07-16T08:49:55.289434+00:00"
+  },
+  "yuno": {
+    "mint": "HV3Jf6d98PEdp78q89wvnJNmeEjCh61xYeA7NLR2pump",
+    "first_seen": "2026-07-16T08:49:55.887245+00:00"
+  },
+  "tllc": {
+    "mint": "8m2V2N8syVhTqKex7ZAieeCBHvbUGh5GbhS5ZpdBpump",
+    "first_seen": "2026-07-16T08:49:56.406279+00:00"
+  },
+  "jackfruit": {
+    "mint": "DhpfpRKtWzh33oEqbpb2rCBxG4ZaNRUjkLtWuaePpump",
+    "first_seen": "2026-07-16T08:49:57.456928+00:00"
+  },
+  "stroke": {
+    "mint": "2ouH1NSw4NSibkB61hbkAJGAHFrjQenCQ7UiytYgpump",
+    "first_seen": "2026-07-16T08:50:01.981431+00:00"
   }
 }
