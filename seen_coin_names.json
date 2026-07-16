@@ -24986,5 +24986,21 @@
   "dinar": {
     "mint": "AgCpt2wgiLaV29fmaFTZMuM4Hn59gwCArkiMj24zHTVb",
     "first_seen": "2026-07-16T09:30:04.643719+00:00"
+  },
+  "soley": {
+    "mint": "9Au3qpkKeivcG731NHP3rZULT4qLid1BgR42ruUwpump",
+    "first_seen": "2026-07-16T09:39:54.907415+00:00"
+  },
+  "soldicoin": {
+    "mint": "CCWJi1p7HmecLDpwtDqR72ucv9Lmsrv8hJpK7hj1pump",
+    "first_seen": "2026-07-16T09:39:57.276793+00:00"
+  },
+  "bbuld": {
+    "mint": "B4sMM8eNdC2NLT5LDGRZfTo4jxAccQwKNAW8DUBTpump",
+    "first_seen": "2026-07-16T09:39:57.650626+00:00"
+  },
+  "ohtani": {
+    "mint": "DicACXBCRoHntGCYVYHzLmRtGP37HWmXhnaLW7hTpump",
+    "first_seen": "2026-07-16T09:40:04.501178+00:00"
   }
 }
