@@ -24738,5 +24738,9 @@
   "trmpcndle": {
     "mint": "ETBzcmwyAFgUx22W7ee2R3R9gYAKbowjXTUsij8npump",
     "first_seen": "2026-07-16T06:19:58.618704+00:00"
+  },
+  "impcoin": {
+    "mint": "7s5HKVfcodxGWrkFYhni47ChrKNsUpLiX8RNfCsNRBx3",
+    "first_seen": "2026-07-16T06:30:04.245144+00:00"
   }
 }
