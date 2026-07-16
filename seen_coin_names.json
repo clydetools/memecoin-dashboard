@@ -24874,5 +24874,29 @@
   "kane": {
     "mint": "G7hp7oaW6Wv3x8aBFWkhxmaCUQs83HEmX3GGuWxfpump",
     "first_seen": "2026-07-16T08:30:00.461491+00:00"
+  },
+  "ugct": {
+    "mint": "BVmS9SESFvYKHgUvYpqJu4NXiD5Ydi1RK5BhZTpapump",
+    "first_seen": "2026-07-16T08:39:59.123151+00:00"
+  },
+  "otf": {
+    "mint": "2bK87e3fUcEq5J9aoDaHCXekfdpHneGviVH14UGtpump",
+    "first_seen": "2026-07-16T08:40:03.682504+00:00"
+  },
+  "nummus": {
+    "mint": "9JK2U7aEkp3tWaFNuaJowWRgNys5DVaKGxWk73VT5ray",
+    "first_seen": "2026-07-16T08:40:03.706747+00:00"
+  },
+  "geunni": {
+    "mint": "BC88D98XpBubR7Ndz2iF221yjcGecQuorUS8yDU8pump",
+    "first_seen": "2026-07-16T08:40:03.763854+00:00"
+  },
+  "sharkcash": {
+    "mint": "E5kGCj6VNekd2K4RT1gYnr7AAqdeaK5X9aHCgNCzpump",
+    "first_seen": "2026-07-16T08:40:03.800598+00:00"
+  },
+  "gerald": {
+    "mint": "v5g2uxKKpSAUXkCw8d51A2r9jvBJLDJD7jFPkTSpump",
+    "first_seen": "2026-07-16T08:40:04.441425+00:00"
   }
 }
