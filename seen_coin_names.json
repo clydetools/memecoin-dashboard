@@ -25354,5 +25354,17 @@
   "dogers": {
     "mint": "6HmscAjYm71tdeou3YLnrukxiGQsEeVypVuehtzspump",
     "first_seen": "2026-07-16T13:10:00.775938+00:00"
+  },
+  "cali": {
+    "mint": "J1wB6D43TxbY6kCpxcKZCTD5DbwPSwifG6eYDTgwpump",
+    "first_seen": "2026-07-16T13:20:09.390648+00:00"
+  },
+  "jaago": {
+    "mint": "DwcbvRDDhRLuXMNLB5Ndb57ANkHB25rs4jJ2vf3YDkSx",
+    "first_seen": "2026-07-16T13:20:10.601579+00:00"
+  },
+  "bullrot": {
+    "mint": "2bzcfw8SXE8QpPUowLbUdyTk2kuf3ghGEiaAk6edpump",
+    "first_seen": "2026-07-16T13:20:11.339728+00:00"
   }
 }
