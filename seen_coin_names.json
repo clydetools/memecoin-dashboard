@@ -24682,5 +24682,37 @@
   "saitama": {
     "mint": "65JQDUkabYnLEM1hzAiEyTy8FtYxDWRevbestmkDS9b7",
     "first_seen": "2026-07-16T05:40:06.435348+00:00"
+  },
+  "gboom": {
+    "mint": "HYVFxr2PRXEmh2AZ2zy9Ky3nQAaPaMf6xxNVaM8Tpump",
+    "first_seen": "2026-07-16T05:49:54.070157+00:00"
+  },
+  "groom": {
+    "mint": "F1vGFi557YGaLRXeNATv9ttRpeqn4gVgBJYFuNagpump",
+    "first_seen": "2026-07-16T05:49:57.449448+00:00"
+  },
+  "ifucz": {
+    "mint": "3HqhXoX4gjLLfA1gTkLwEh6v1aFmf7aUuc3K6q3fnQbJ",
+    "first_seen": "2026-07-16T05:50:00.334380+00:00"
+  },
+  "imp": {
+    "mint": "5rk7zX7cFztVKHMCQmquoS73woY2iBzK9NFrTnqjpump",
+    "first_seen": "2026-07-16T05:50:05.618253+00:00"
+  },
+  "goy": {
+    "mint": "GNaD53adYoe5YButnGMALMs239RT34JYWtMYvM5Spump",
+    "first_seen": "2026-07-16T05:50:08.466322+00:00"
+  },
+  "roam": {
+    "mint": "2F2gCX8gPyRKvNqEBGDnX4F1oBDAHXgTEPpgCTAApump",
+    "first_seen": "2026-07-16T05:50:09.506797+00:00"
+  },
+  "starfall": {
+    "mint": "H9LCMSkgxMSKymBrb45sDBnxzL8YqimfAhHxcFprpump",
+    "first_seen": "2026-07-16T05:50:10.226613+00:00"
+  },
+  "jarvis": {
+    "mint": "CmpuL8k9KY3NrpfDRoJrVmuwd1zRMFRUxX55avyGpump",
+    "first_seen": "2026-07-16T05:50:22.113968+00:00"
   }
 }
