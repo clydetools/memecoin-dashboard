@@ -25030,5 +25030,25 @@
   "sona": {
     "mint": "A6nzrPGXLe1x86SbEfoMneiWXyFTWALBvmwjJPaHkRyz",
     "first_seen": "2026-07-16T10:09:54.639642+00:00"
+  },
+  "sid": {
+    "mint": "BQg4g7pe4P5QecZjChR9P3G4pSnAFWXyntpdtGQ7pump",
+    "first_seen": "2026-07-16T10:19:55.139489+00:00"
+  },
+  "aifather": {
+    "mint": "G96degKG9zFMWXbeYGmuiKX5HdruXVjVZRiEnzzWpump",
+    "first_seen": "2026-07-16T10:19:55.646004+00:00"
+  },
+  "alex": {
+    "mint": "FugEQfayG7wfSvin3eauLM6kQCpWVLsJ7DbkXwfpump",
+    "first_seen": "2026-07-16T10:19:57.028731+00:00"
+  },
+  "bullcase": {
+    "mint": "44ntv68AYsW3Wn5MjGaeDxwbdQTgLTvHEogCDAFXpump",
+    "first_seen": "2026-07-16T10:19:58.043000+00:00"
+  },
+  "rbald": {
+    "mint": "CKNNXN6FiRsZbCgHUkV2s24JXHmcge9DHKMoaKj5TbPD",
+    "first_seen": "2026-07-16T10:20:03.441556+00:00"
   }
 }
