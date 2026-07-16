@@ -25618,5 +25618,41 @@
   "sue": {
     "mint": "7egwUarRTLLiBgYZAfNJuxsMqtXiW3DQvErRPkxNpump",
     "first_seen": "2026-07-16T15:19:56.206772+00:00"
+  },
+  "nda": {
+    "mint": "CkkXFS6jLUJEhUvQw3nYXukUJqqH7YQvw5dkvLZjpump",
+    "first_seen": "2026-07-16T15:29:56.132995+00:00"
+  },
+  "mtv": {
+    "mint": "Bvj2kYsL1jaiz3tWjqcZ4n7WjUwS6ATL4XAAqPKPpump",
+    "first_seen": "2026-07-16T15:29:57.394540+00:00"
+  },
+  "legion": {
+    "mint": "6BDuy2kDPHBXV3DAq5f3wKRFQR5BmA3sJV813D4bpump",
+    "first_seen": "2026-07-16T15:29:58.082693+00:00"
+  },
+  "stubby": {
+    "mint": "9jyDGSeFmXtmkzdXfN3BFqrjmVCxNbt68HDBvMovpump",
+    "first_seen": "2026-07-16T15:29:59.266766+00:00"
+  },
+  "bojack": {
+    "mint": "8idTS2smQ6p4Q5RDX3vaELpmzBC8HCP69soMss6Epump",
+    "first_seen": "2026-07-16T15:30:01.511841+00:00"
+  },
+  "rose": {
+    "mint": "9fyWsxKoZhSCh2p39593DCvcmQuhDZGmHcYv7J6Qpump",
+    "first_seen": "2026-07-16T15:30:02.441276+00:00"
+  },
+  "mirror": {
+    "mint": "EdpMpCvCQqVCtmTwhucaHHF8GTMknSGSZduxeX53pump",
+    "first_seen": "2026-07-16T15:30:03.269332+00:00"
+  },
+  "tst": {
+    "mint": "22umKaCQ2bWBvH78jwnJn7SYzuvDvSxS9EFkWi2Spump",
+    "first_seen": "2026-07-16T15:30:04.881214+00:00"
+  },
+  "cucu": {
+    "mint": "Ez5vJWA4s6FZCDvXxC8GsJiNbBYo5KHtt9spo2QSpump",
+    "first_seen": "2026-07-16T15:30:10.497895+00:00"
   }
 }
