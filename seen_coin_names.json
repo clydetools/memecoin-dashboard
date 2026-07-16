@@ -25422,5 +25422,41 @@
   "kevin": {
     "mint": "DPsf86YRnym8NATVbYnEbgfsfPRoYEarGVAt1Qd74sPp",
     "first_seen": "2026-07-16T13:50:02.647054+00:00"
+  },
+  "ah": {
+    "mint": "BFmAzp2QUyTUq7sKh4171N6KaJAXzRPMWaqyjMuXB6ir",
+    "first_seen": "2026-07-16T14:09:59.833373+00:00"
+  },
+  "amsenite": {
+    "mint": "Fq9oqDs4YPgEjwJVdypj5TFeWN7aspC9mN41CZELpump",
+    "first_seen": "2026-07-16T14:10:00.636762+00:00"
+  },
+  "dat": {
+    "mint": "YXfHnVxkfB7awUe3vZtfUMHSeoGfGZjjSR8eZxbpump",
+    "first_seen": "2026-07-16T14:10:01.201437+00:00"
+  },
+  "tkg": {
+    "mint": "7sae8GpGDic2z4gQRwXeRw7iesZru9M4nuwtw6Ggpump",
+    "first_seen": "2026-07-16T14:10:01.696509+00:00"
+  },
+  "snaky": {
+    "mint": "BRJs4fH3Jn5KHhMnLq2Bj9iwFU9f5wb52AxERKT3pump",
+    "first_seen": "2026-07-16T14:10:03.727442+00:00"
+  },
+  "vice": {
+    "mint": "wscbjwA28nago5X5MLhhmu828n76zczRserXB9jpump",
+    "first_seen": "2026-07-16T14:10:08.582428+00:00"
+  },
+  "uttcoin": {
+    "mint": "BUTT7L5hRtJmGgg8617DeGqrkGWaz6gojXdoNMLxyCbe",
+    "first_seen": "2026-07-16T14:10:09.434938+00:00"
+  },
+  "duckcat": {
+    "mint": "ChuEEPaDFvzT8UxjzpGbf8FHhyBK265eY8hvu4dwpump",
+    "first_seen": "2026-07-16T14:10:09.594724+00:00"
+  },
+  "microprompt": {
+    "mint": "GA9bEdsd1RnMCq4RVK1SU3apPyy84cAXPxg1Js2kpump",
+    "first_seen": "2026-07-16T14:10:10.088500+00:00"
   }
 }
