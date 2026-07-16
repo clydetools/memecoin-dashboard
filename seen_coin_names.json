@@ -26274,5 +26274,33 @@
   "rips": {
     "mint": "EG4NKDnZmTRiX7vuyG5QkPuk3N458graFRj4uQUzpump",
     "first_seen": "2026-07-16T19:10:03.677251+00:00"
+  },
+  "ponzi": {
+    "mint": "9gfVeDig2SKizWTmjEnEnr7dzgh1S54cgjxUd3YKpump",
+    "first_seen": "2026-07-16T19:19:57.482291+00:00"
+  },
+  "k3": {
+    "mint": "3a6v9jq6FgKsHQofbKUnsBB6PxYJNCvqb2WS9wcQsrc5",
+    "first_seen": "2026-07-16T19:19:58.843728+00:00"
+  },
+  "fifabull": {
+    "mint": "D76dXuCbaeKRj6WG5mCibLhmSy9W7KaU4Wh82dogpump",
+    "first_seen": "2026-07-16T19:19:59.340714+00:00"
+  },
+  "4663b": {
+    "mint": "AooB5yTjsgX8G6K3dUHHPnX1Q8MCwsEdnb4UBrPrpump",
+    "first_seen": "2026-07-16T19:20:00.336444+00:00"
+  },
+  "helen": {
+    "mint": "7t3m62X3Hnx5QA9Gv9ssc9TK3xd8Ert6yYbm2au2pump",
+    "first_seen": "2026-07-16T19:20:01.378576+00:00"
+  },
+  "strx": {
+    "mint": "Boic2A4LRHMyp7CNckyExgoG6A7nSrp8dwQnvbxSpump",
+    "first_seen": "2026-07-16T19:20:01.945149+00:00"
+  },
+  "yoinks": {
+    "mint": "8WMqg77neGit13yn8Wywgpet7aehPHfoSPpe1A9HWeEP",
+    "first_seen": "2026-07-16T19:20:02.476463+00:00"
   }
 }
