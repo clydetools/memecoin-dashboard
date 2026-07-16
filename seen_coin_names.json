@@ -25662,5 +25662,41 @@
   "mayuree": {
     "mint": "BWJuvbt2EnbeqyimpkxiPpQ755bBbdCd2h13WwoJpump",
     "first_seen": "2026-07-16T15:40:01.140563+00:00"
+  },
+  "experts": {
+    "mint": "HGHpsAi9sd2vFVsqCgcYofHSPefAsUDKxWP8X8FQpump",
+    "first_seen": "2026-07-16T15:50:02.057601+00:00"
+  },
+  "gcat1": {
+    "mint": "22up7j7hMkFW4KhYnJrLyNERkn8JsjpLx4PyvARLpump",
+    "first_seen": "2026-07-16T15:50:03.878350+00:00"
+  },
+  "ruhroh": {
+    "mint": "AHsVfwdnrydc8yb6vEV264JU1S8coxrKNTcmxrkppump",
+    "first_seen": "2026-07-16T15:50:06.353311+00:00"
+  },
+  "kingsball": {
+    "mint": "3iEmFetmLmFq7NCCs2JX9RXmusqHruAjX6K7nEsFpump",
+    "first_seen": "2026-07-16T15:50:07.246737+00:00"
+  },
+  "bfa": {
+    "mint": "2DVoobwuwVNce7j7mLKcf6z5SmTYPvyuEqKd6KCppump",
+    "first_seen": "2026-07-16T15:50:07.654579+00:00"
+  },
+  "ansemchrist": {
+    "mint": "5zbCSHirATVek4hGSHLDd4WmcqJKk6aXstekusnrpump",
+    "first_seen": "2026-07-16T15:50:08.948547+00:00"
+  },
+  "defender": {
+    "mint": "9roA86iSAzPVLxiYaowopxGk8atKuN2WAQ5BJoYVpump",
+    "first_seen": "2026-07-16T15:50:09.899627+00:00"
+  },
+  "yank": {
+    "mint": "CxbgvjyAa1RLoLttv9BP8WJcy8exGRWkaHvDvvXRpump",
+    "first_seen": "2026-07-16T15:50:15.887894+00:00"
+  },
+  "usahero": {
+    "mint": "48ujPidNHwCJno94SNPJazgEVtz2GbibCcYL8qNFpump",
+    "first_seen": "2026-07-16T15:50:16.588605+00:00"
   }
 }
