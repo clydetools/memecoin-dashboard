@@ -24742,5 +24742,9 @@
   "impcoin": {
     "mint": "7s5HKVfcodxGWrkFYhni47ChrKNsUpLiX8RNfCsNRBx3",
     "first_seen": "2026-07-16T06:30:04.245144+00:00"
+  },
+  "moonbag": {
+    "mint": "3H8iTdhkuSbzZrG1yP1WpNfeKVMyXwAhNndrKvEZpump",
+    "first_seen": "2026-07-16T06:39:59.514367+00:00"
   }
 }
