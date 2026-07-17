@@ -27610,5 +27610,21 @@
   "rump": {
     "mint": "DGmn9wHxiPLPUgS5Ni7dje8RVtiKNaMiDzbYtZs9pump",
     "first_seen": "2026-07-17T07:34:52.358925+00:00"
+  },
+  "pengu2026": {
+    "mint": "F77xTwXd8kUZPAeZprm6DKHL5D6yr93rgXitT5g2pump",
+    "first_seen": "2026-07-17T07:39:57.740779+00:00"
+  },
+  "lus": {
+    "mint": "2eWhoHgWYiMqquLDMvWnAcdk41BbnA6Wao1TPbCspump",
+    "first_seen": "2026-07-17T07:39:58.473113+00:00"
+  },
+  "urkl": {
+    "mint": "E7NVB6P6fYXrgiEtWEUVykjgQuW8teyR7pUcpNWKpump",
+    "first_seen": "2026-07-17T07:39:58.823304+00:00"
+  },
+  "ceilingcopter": {
+    "mint": "5dq9tM29q8vK5Fj6GWwYPLBrf85f5qCGLUW25nxTpump",
+    "first_seen": "2026-07-17T07:40:00.439084+00:00"
   }
 }
