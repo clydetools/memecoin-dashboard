@@ -27430,5 +27430,21 @@
   "meikira": {
     "mint": "8zNdbVaoTWA2VHuz5ZPoj4X2VChJdzkYkU8MvMLBpump",
     "first_seen": "2026-07-17T03:40:03.545161+00:00"
+  },
+  "freeport": {
+    "mint": "EaRvqLYcVe8Y7uKeNw2fvaHcjhTRB2ioQnUxWRL6pump",
+    "first_seen": "2026-07-17T03:49:54.519837+00:00"
+  },
+  "manuk": {
+    "mint": "Hk2Ys3NieHSjBGX1yHHjJEHENu918Mkc2LgjgT8bpump",
+    "first_seen": "2026-07-17T03:49:57.277625+00:00"
+  },
+  "kappel": {
+    "mint": "HwrUw95KJNn9sEuQ9EFGteTTuFytJqUdXpv2FrRPpump",
+    "first_seen": "2026-07-17T03:49:57.888258+00:00"
+  },
+  "chrisgpt": {
+    "mint": "F9rfbCNUVQmWeJb9XWpRBe9cWYWpmMFnKLJfanSSYw6G",
+    "first_seen": "2026-07-17T03:50:08.648693+00:00"
   }
 }
