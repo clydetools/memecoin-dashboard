@@ -27210,5 +27210,33 @@
   "trumpfraud": {
     "mint": "7YCxJeqW1VZnGvmmt4LKbwEC8UDJtCYbecpU4LiMpump",
     "first_seen": "2026-07-17T01:29:57.715582+00:00"
+  },
+  "donaldpump": {
+    "mint": "CUA8h9Q5XsC1dqQtYc8uKeJWxnbsjerg2W6f1E2zpump",
+    "first_seen": "2026-07-17T01:39:54.071184+00:00"
+  },
+  "gem": {
+    "mint": "HrP1x8Wkud1pik6GBdv3nLEMoKM5pF8FS4bLgNf5pump",
+    "first_seen": "2026-07-17T01:39:54.633124+00:00"
+  },
+  "nlp": {
+    "mint": "MefMaeFwP7krxyKrYrTrjfTrzm1fvKEE5gycSALpump",
+    "first_seen": "2026-07-17T01:39:55.664351+00:00"
+  },
+  "hbl": {
+    "mint": "5R4S6k68ckd5c7Rua35ypYwBHfjnXvbru1ySZWTbpump",
+    "first_seen": "2026-07-17T01:39:56.679956+00:00"
+  },
+  "1756": {
+    "mint": "HuqnARmDzPnC4dHjyKzRUqAE3cWy9aPnFmqKFQuppump",
+    "first_seen": "2026-07-17T01:39:57.205469+00:00"
+  },
+  "stash": {
+    "mint": "6vGAHfinV1vbeqHtzsi6icykab8BdnUzaBtkb36upump",
+    "first_seen": "2026-07-17T01:39:57.713370+00:00"
+  },
+  "siuuu": {
+    "mint": "GpYxvgpkkmpZqHFQjDmMJBFtRiJyVGHo9icngdUzpump",
+    "first_seen": "2026-07-17T01:39:58.237465+00:00"
   }
 }
