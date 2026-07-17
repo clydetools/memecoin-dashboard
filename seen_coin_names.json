@@ -27178,5 +27178,33 @@
   "shork": {
     "mint": "BJB5tHWAHboMAwti5AHbCNX17F3jL8ehkh4zuTUx99Zn",
     "first_seen": "2026-07-17T01:10:05.049637+00:00"
+  },
+  "jfk": {
+    "mint": "GviKrLQ1QzzeMHfSV1DSGm7m2wJq8xjconqfTZTdpump",
+    "first_seen": "2026-07-17T01:19:55.200310+00:00"
+  },
+  "elections": {
+    "mint": "E8BvzFbLXXqwUDp5duFaUhc7AWWrHcj3BD9SfFotpump",
+    "first_seen": "2026-07-17T01:19:55.664675+00:00"
+  },
+  "integrity": {
+    "mint": "22wKSjohk1RLJy2NtRdHHeox8j2vCfyUTbspubVhpump",
+    "first_seen": "2026-07-17T01:19:56.082743+00:00"
+  },
+  "fraud": {
+    "mint": "5ukwyu5iZPmpBQBvJEdY5vw9doy8L7kh6PkMAgBupump",
+    "first_seen": "2026-07-17T01:19:56.849326+00:00"
+  },
+  "kyle": {
+    "mint": "ArVhQk7jwvwdyMMdwLbsuPcH7wUfGQKckYC3Z9fipump",
+    "first_seen": "2026-07-17T01:20:02.148201+00:00"
+  },
+  "eaglecoin": {
+    "mint": "A2wLXwkBb5Qs8DZzXnH65XhjMMeeDJJfQVA4v6BXpump",
+    "first_seen": "2026-07-17T01:20:02.514159+00:00"
+  },
+  "wwww": {
+    "mint": "4ECuwyZeX2FbZZ1aDbSEfiwcVxxATFsdhm8xHxoEr15C",
+    "first_seen": "2026-07-17T01:20:03.256307+00:00"
   }
 }
