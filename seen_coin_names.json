@@ -27522,5 +27522,21 @@
   "hashcat": {
     "mint": "9Y3GB1VRrgM5CDY53mqsw1R9zasN93gG3fho4jV7pump",
     "first_seen": "2026-07-17T04:49:52.624222+00:00"
+  },
+  "steven": {
+    "mint": "4TsA4VHT9q67RChcmnowKi48mCoN78AbLBuWwHggpump",
+    "first_seen": "2026-07-17T04:59:53.138257+00:00"
+  },
+  "imstarving": {
+    "mint": "7EmTepBttJ5zqQxX2872zAmrDzaGxxzJFsWhTdgBpump",
+    "first_seen": "2026-07-17T04:59:53.500472+00:00"
+  },
+  "univ": {
+    "mint": "DSQSDV6JJdWwCZDtX2WhD5jVoUP7X7mzLqBxjzzUpump",
+    "first_seen": "2026-07-17T04:59:55.188410+00:00"
+  },
+  "b2h": {
+    "mint": "B4amyJXMBwqhbgkiJhdnEusPsjQfMWB91njw5UZNwVaB",
+    "first_seen": "2026-07-17T05:00:00.140625+00:00"
   }
 }
