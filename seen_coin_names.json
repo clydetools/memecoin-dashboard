@@ -28002,5 +28002,81 @@
   "plastic": {
     "mint": "DU7BqqKt7vC9i7paUQSeduxkWkTHQmoVR85M79pfpump",
     "first_seen": "2026-07-18T20:28:13.422917+00:00"
+  },
+  "rbck": {
+    "mint": "H5Ry3PD3XJ3MYT5hYEZ6DKLTLfmZKUCkaLryWf3Ppump",
+    "first_seen": "2026-07-18T21:00:51.517146+00:00"
+  },
+  "wbull": {
+    "mint": "Go3pyzuNvdPMQ1iaCc6ikgGQVREbvD4dzmafEp1Fpump",
+    "first_seen": "2026-07-18T21:00:52.071168+00:00"
+  },
+  "hogwheels": {
+    "mint": "FPyHp6QhcZnE2ZZABjMgwAETUrS4nr3mJrFowzmGpump",
+    "first_seen": "2026-07-18T21:00:52.536501+00:00"
+  },
+  "thunder": {
+    "mint": "4oVCg3rbkK4FXpFahRnZKB4BR2TBDAT4cCEn2Bd1pump",
+    "first_seen": "2026-07-18T21:00:53.028587+00:00"
+  },
+  "cbr": {
+    "mint": "AmNasTBtqAKWdujcG44byHKjsyFscG3TgAwqW5ATpump",
+    "first_seen": "2026-07-18T21:00:54.355316+00:00"
+  },
+  "cooncoin": {
+    "mint": "52DuoXRxEjMAWkVSAaqAFkF8F8MWKLViq7aAYMy8pump",
+    "first_seen": "2026-07-18T21:00:54.925654+00:00"
+  },
+  "polyhunt": {
+    "mint": "7Ge2WmMQ5DNCYicf6EzD9VbhtZucVddHE3UYBfhUpump",
+    "first_seen": "2026-07-18T21:00:55.433946+00:00"
+  },
+  "vibetrading": {
+    "mint": "7uU8k9cSSYFpN3f7buzCnGeNMb4tuzDgrdk2xPbtpump",
+    "first_seen": "2026-07-18T21:00:56.458154+00:00"
+  },
+  "aibubble": {
+    "mint": "3g9fU1fDCeo2EzR8aQTqLN2aGxJEqCARXzP8PeNQpump",
+    "first_seen": "2026-07-18T21:00:57.615393+00:00"
+  },
+  "theodore": {
+    "mint": "8KAsN5tSbGm7N5rDkusvFShJwqU8wACUAvSWAWCkpump",
+    "first_seen": "2026-07-18T21:00:58.581297+00:00"
+  },
+  "wiggacat": {
+    "mint": "7mWP4Whe5eTZUyL7yrG2PywAcp4JsnkbDRRWvvDqpump",
+    "first_seen": "2026-07-18T21:00:59.503926+00:00"
+  },
+  "hoodaf": {
+    "mint": "AvnXT5iAfK3PTbMEnWDJVHcvrAwiZTbqvXftPfGipump",
+    "first_seen": "2026-07-18T21:01:01.832754+00:00"
+  },
+  "testing": {
+    "mint": "7yxAD13LXuGdSQNbCjogDE553vGAcwjG1mDrEgjbpump",
+    "first_seen": "2026-07-18T21:01:02.365086+00:00"
+  },
+  "ababou": {
+    "mint": "J39fvTfwhw36gNL5cLA7K4p3YqwRdFJoLqBCbaTipump",
+    "first_seen": "2026-07-18T21:01:05.374865+00:00"
+  },
+  "dug": {
+    "mint": "C29FLAaSGLsYZz3NDLw4e6RLDJK9K9eXtTRc9XFbpump",
+    "first_seen": "2026-07-18T21:01:06.341477+00:00"
+  },
+  "mrst": {
+    "mint": "23MJxWpMt9gUugDHHLqEKrrfWJ6pw5qhQ4xGBzo7pump",
+    "first_seen": "2026-07-18T21:01:10.906402+00:00"
+  },
+  "yhtomij": {
+    "mint": "2QZmbAgLaorDHKx8jgzFH7NCpC5erGCzHQZFNgzUpump",
+    "first_seen": "2026-07-18T21:01:10.980137+00:00"
+  },
+  "gram": {
+    "mint": "H5cNS5XLBqoscMKXHVM85Zvu18eN9XfNSAAe1CFKPmg2",
+    "first_seen": "2026-07-18T21:01:11.979033+00:00"
+  },
+  "ginger": {
+    "mint": "GYVHmvi8Xs7CmPQwbS4pE5EXyd9P8ZTx2S4Pn5uspump",
+    "first_seen": "2026-07-18T21:01:12.539331+00:00"
   }
 }
