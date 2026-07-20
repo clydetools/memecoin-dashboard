@@ -28710,5 +28710,37 @@
   "luigi": {
     "mint": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
     "first_seen": "2026-07-20T09:40:06.971969+00:00"
+  },
+  "heightpill": {
+    "mint": "CzYZEwrdBY6VZhpviAcPkLHFTuqC8NHb7mEULkB2pump",
+    "first_seen": "2026-07-20T09:50:02.313667+00:00"
+  },
+  "newmayhem": {
+    "mint": "66P2E8EBWk53szjnLncLvzTVs8deG64zwKVmqUjnpump",
+    "first_seen": "2026-07-20T09:50:02.823508+00:00"
+  },
+  "mb": {
+    "mint": "BSfUL7h1jTgDQNe2YaqRM2c2TnEvqgPrrYGNvtgwpump",
+    "first_seen": "2026-07-20T09:50:03.825560+00:00"
+  },
+  "kad": {
+    "mint": "BKoxcSP31HDoi5bgi9wXTX8wEChRXAoSZdTVGfWQpump",
+    "first_seen": "2026-07-20T09:50:04.353541+00:00"
+  },
+  "sof": {
+    "mint": "D32vX1r7PDmJGU1VbhbNAByCABeweUyME6DGXsB6pump",
+    "first_seen": "2026-07-20T09:50:04.869166+00:00"
+  },
+  "prefire": {
+    "mint": "G8QY4LMzfZsr2oi6U7uQoMWBXUtQYo6mPX9tDBj1pump",
+    "first_seen": "2026-07-20T09:50:05.366350+00:00"
+  },
+  "shrimple": {
+    "mint": "EjoLTDrRhrXiEzz8cZ9YewRkUnytZ1uvWBHZoSivm9gm",
+    "first_seen": "2026-07-20T09:50:06.342126+00:00"
+  },
+  "wemadeit": {
+    "mint": "8j8MAJeKfUcBVdwMbwUcSYVRgwpanYfav6mHHNzppump",
+    "first_seen": "2026-07-20T09:50:07.240332+00:00"
   }
 }
