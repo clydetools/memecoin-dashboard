@@ -30270,5 +30270,37 @@
   "pals": {
     "mint": "FQnrUmhQBc8ErSsuQJgPsokhwg4iq2WuHi9a8PuDpump",
     "first_seen": "2026-07-20T19:40:00.229488+00:00"
+  },
+  "worthless": {
+    "mint": "J9wtHyEiZiwV5bNopgSE216svmfeXFe8AgXrVfr2pump",
+    "first_seen": "2026-07-20T19:49:56.552859+00:00"
+  },
+  "ttro": {
+    "mint": "Fdkr2AbwzEwH3AbpAmA6TwQU2iiEKLvnVLzqNkQipump",
+    "first_seen": "2026-07-20T19:49:58.908338+00:00"
+  },
+  "hayde": {
+    "mint": "9BBk7hegG2SRUPkkjgTeYxyfdxjaG242w95Yec5Spump",
+    "first_seen": "2026-07-20T19:49:59.297216+00:00"
+  },
+  "tact": {
+    "mint": "2PnYkLARLHBXyMT9zXVhcAxLCbQx18eazvSEHhZFpump",
+    "first_seen": "2026-07-20T19:50:00.045737+00:00"
+  },
+  "pmaxxing": {
+    "mint": "CZbaew2xPzup14ThY2e21U8nMcs1YxWga5Q5vnmNpump",
+    "first_seen": "2026-07-20T19:50:00.747466+00:00"
+  },
+  "titcat": {
+    "mint": "gWU2FdNeHgmQcGXBfeaYZtxAzCGtA62jG69San4pump",
+    "first_seen": "2026-07-20T19:50:03.782486+00:00"
+  },
+  "sob": {
+    "mint": "GAgqP2a7Fy359pqbxzafJixorUToRSVzPbBpGrtspump",
+    "first_seen": "2026-07-20T19:50:08.099975+00:00"
+  },
+  "3301": {
+    "mint": "4NtcfdvctKGHSay6RtQwgPonWqoeXtXPpt927i3ipump",
+    "first_seen": "2026-07-20T19:50:08.145665+00:00"
   }
 }
