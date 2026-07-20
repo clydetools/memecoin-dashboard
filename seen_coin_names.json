@@ -30374,5 +30374,41 @@
   "degenai": {
     "mint": "Gu3LDkn7Vx3bmCzLafYNKcDxv2mH7YN44NJZFXnypump",
     "first_seen": "2026-07-20T20:20:13.238045+00:00"
+  },
+  "solver": {
+    "mint": "6ALU4g7nnh7wukXSLNnY7jdMtBD5Cd9EGRbDA6F4pump",
+    "first_seen": "2026-07-20T20:29:55.422947+00:00"
+  },
+  "tetst": {
+    "mint": "HgFkTxqTRoX7tpYFAFb5x3BKFUvSRiVpctpJ4ykN5yKR",
+    "first_seen": "2026-07-20T20:29:57.878567+00:00"
+  },
+  "theapache64": {
+    "mint": "3b7CthGDGkMLtLLJafXdAPMjAr8vygfrv2whHD3XgWGS",
+    "first_seen": "2026-07-20T20:29:58.379853+00:00"
+  },
+  "stuart": {
+    "mint": "4Hgeu7waWVj8a13bJLxSvXdAU6dWEwamHhxCYbLjm8H7",
+    "first_seen": "2026-07-20T20:30:00.067754+00:00"
+  },
+  "zhao0506": {
+    "mint": "BVeFhR9fj9mHasVZRoRwrUTY1pgnGk13K7uwU3ZAaBoN",
+    "first_seen": "2026-07-20T20:30:01.455098+00:00"
+  },
+  "nilf": {
+    "mint": "8SPmVrEG5VgbdCeEJ4QSvAmKwVMbdUfYmtz95yQZpump",
+    "first_seen": "2026-07-20T20:30:02.399045+00:00"
+  },
+  "jtc": {
+    "mint": "H55qUAeK313XyTrhxeMVQgBrogdGG9biyAVfmDQipump",
+    "first_seen": "2026-07-20T20:30:08.785109+00:00"
+  },
+  "xstocks": {
+    "mint": "HeLcWAyB8QiTWcoTf9kk2LfFUjpFMQghVeSG3bkowiZr",
+    "first_seen": "2026-07-20T20:30:08.865115+00:00"
+  },
+  "orson": {
+    "mint": "8DTCwdRa5kjhMjcgFVsEGXWWi46G4NrXSH7hHCZypump",
+    "first_seen": "2026-07-20T20:30:08.927053+00:00"
   }
 }
