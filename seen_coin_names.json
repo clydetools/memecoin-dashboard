@@ -30606,5 +30606,9 @@
   "scc": {
     "mint": "2gbvgkbtFSSbZ42VTdwZRcz4L9spykACAkdTMkJopump",
     "first_seen": "2026-07-20T21:50:05.482899+00:00"
+  },
+  "richicoin": {
+    "mint": "8s5QKNAS451wGD6wtciA2sJHAH3WaeLEh193LJ6Vpump",
+    "first_seen": "2026-07-20T21:59:58.180215+00:00"
   }
 }
