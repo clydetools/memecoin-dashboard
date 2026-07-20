@@ -30774,5 +30774,29 @@
   "jimo": {
     "mint": "88aSv6tJo2igQVeRa8jCv1pfnaqTeYD93punZdnApump",
     "first_seen": "2026-07-20T23:00:09.771561+00:00"
+  },
+  "jimtrash": {
+    "mint": "GjVUVpzJ9VNCnzkotxuQC1X9kmKoB5kQCQJP5fubpump",
+    "first_seen": "2026-07-20T23:09:58.870996+00:00"
+  },
+  "greed3": {
+    "mint": "39XEQv41oG2Bmygo83KzY5vrAD4znFAK8TDTm2Jmpump",
+    "first_seen": "2026-07-20T23:10:00.392457+00:00"
+  },
+  "magaclinton": {
+    "mint": "E164HZszsgEYp8vD1jxQAFSLebZaghULEMzj6BE4ehwN",
+    "first_seen": "2026-07-20T23:10:01.399726+00:00"
+  },
+  "btf": {
+    "mint": "65aCJqz7ViNvWBKfMT8co15uMDfYM9GgbpRN5ca3pump",
+    "first_seen": "2026-07-20T23:10:02.430389+00:00"
+  },
+  "lvwg": {
+    "mint": "BMH5gNcyMbueCuH9BMwNRS1b36TJKi1fMXzYhpZapump",
+    "first_seen": "2026-07-20T23:10:03.487880+00:00"
+  },
+  "ctsv": {
+    "mint": "D6XYxpu4NkVN7tuZiHCFvoc46vwo7ELSyidHeS1Qpump",
+    "first_seen": "2026-07-20T23:10:04.493122+00:00"
   }
 }
