@@ -29114,5 +29114,45 @@
   "lrc": {
     "mint": "CwB1duwpi8PYSVrM4KRmUCRhBYUysb1htEE1R2gJC1Jc",
     "first_seen": "2026-07-20T12:30:07.342589+00:00"
+  },
+  "huckster": {
+    "mint": "HBkaKbWFBDSm9AN8earzCz5gRhoE76vn9GnAW2czpump",
+    "first_seen": "2026-07-20T12:39:59.524893+00:00"
+  },
+  "bug": {
+    "mint": "GPJqYJmkCcvs4Qm5KMD4h8RJdyqXZX5mrSxbP9L2pump",
+    "first_seen": "2026-07-20T12:40:00.111234+00:00"
+  },
+  "hucksters": {
+    "mint": "BD8enP1ViPg36ThDXLcux12YwNGc4o2Q5CnVYnuspump",
+    "first_seen": "2026-07-20T12:40:00.675004+00:00"
+  },
+  "kingrrik": {
+    "mint": "3vZqGmc1RsHU4TeANPCPydoPtaRSNConmLWYcgjapump",
+    "first_seen": "2026-07-20T12:40:01.783831+00:00"
+  },
+  "crud": {
+    "mint": "Aow2z36eVrnPb31snUbZ9xHPqwcGYGCJWcLi7YDMpump",
+    "first_seen": "2026-07-20T12:40:02.325304+00:00"
+  },
+  "fab": {
+    "mint": "DWRUFqftxjsDNm28jdqPpMF4PXCchPaQ2xzaeBRpump",
+    "first_seen": "2026-07-20T12:40:03.396838+00:00"
+  },
+  "stonk": {
+    "mint": "7E6oyfVeKisLp3JG4eGyh4gWovi8w7w2moakRHXepump",
+    "first_seen": "2026-07-20T12:40:03.930965+00:00"
+  },
+  "junglecoin": {
+    "mint": "4apNmypvdL8YHXTnWHfYH1ozssvX4KptLeVG9Zw6pump",
+    "first_seen": "2026-07-20T12:40:04.459073+00:00"
+  },
+  "ai16z": {
+    "mint": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+    "first_seen": "2026-07-20T12:40:11.181740+00:00"
+  },
+  "still": {
+    "mint": "B4diYxt1VvHaZhrAFC4J5AqkyD6ExYb4JEzbc1orpump",
+    "first_seen": "2026-07-20T12:40:11.857836+00:00"
   }
 }
