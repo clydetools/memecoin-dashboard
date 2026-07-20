@@ -29302,5 +29302,33 @@
   "monerochan": {
     "mint": "H5b4iYiZYycr7fmQ1dMj7hdfLGAEPcDH261K4hugpump",
     "first_seen": "2026-07-20T13:50:06.122885+00:00"
+  },
+  "trumpmothy": {
+    "mint": "E9DVRpuAG3VmayRs7NNBSvpuMGkCM868NNMu7i1Lpump",
+    "first_seen": "2026-07-20T14:00:29.735384+00:00"
+  },
+  "bigcoin": {
+    "mint": "EM6EU6TaYFxu4R4SPaYX6TScoVKg7tvrP1SgWqzcpump",
+    "first_seen": "2026-07-20T14:00:32.084585+00:00"
+  },
+  "ole26": {
+    "mint": "BWGJuFZaeFebvHysnMPTnS5TzAEtwTEeSSjoWVhXpump",
+    "first_seen": "2026-07-20T14:00:34.276644+00:00"
+  },
+  "rizq": {
+    "mint": "725q1vwerscBvC8JBMHVQbfLJpAHK626K9mNdSicpump",
+    "first_seen": "2026-07-20T14:00:36.714368+00:00"
+  },
+  "pwhft": {
+    "mint": "9oJXgXrkZ8HX6jGqkMTXjtp2nJ5SyciUHudD3x9eAfpQ",
+    "first_seen": "2026-07-20T14:00:38.207829+00:00"
+  },
+  "bigweek": {
+    "mint": "Brz34sjSwJgDqGqZE89PkSZdSnovqeAYysKZ5QAmpump",
+    "first_seen": "2026-07-20T14:00:39.628306+00:00"
+  },
+  "bigweekp": {
+    "mint": "3pmiFMW8n7ooZxdE3LPBC1dpuwsdSeb5QuYbti2hpump",
+    "first_seen": "2026-07-20T14:00:40.584237+00:00"
   }
 }
