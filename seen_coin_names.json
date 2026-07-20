@@ -30066,5 +30066,29 @@
   "riglon": {
     "mint": "BTSdVupAXL6k6P5G5s4MtzsjszKnhLxYnHWhGRrwpump",
     "first_seen": "2026-07-20T18:30:02.536394+00:00"
+  },
+  "1g": {
+    "mint": "EtpFwBWDJH5kfBZfR42bNpsmybtmfWkgGsifBtyppump",
+    "first_seen": "2026-07-20T18:39:57.741263+00:00"
+  },
+  "bugatti": {
+    "mint": "DpfZYLEcvNP2iVQZ6CsbuoaiSNkGWPtqTcDcTm9mpump",
+    "first_seen": "2026-07-20T18:39:58.290045+00:00"
+  },
+  "dwa": {
+    "mint": "5b69uBQxfSrrApR442YqiGkSVtJwijvBaipPHK8Spump",
+    "first_seen": "2026-07-20T18:39:58.837126+00:00"
+  },
+  "afkfish": {
+    "mint": "27PKhWpdaCZ4bsf1p5jDL1EiHENuwSFdLc61B1oopump",
+    "first_seen": "2026-07-20T18:40:03.863500+00:00"
+  },
+  "another": {
+    "mint": "9JJSYvekWRTGAua58updSroW7njukAmYt6qpxYbPpump",
+    "first_seen": "2026-07-20T18:40:03.927857+00:00"
+  },
+  "googleai": {
+    "mint": "HEjvWGQgywcEA42Xs8SQ7jxLaTjCaG2vWzJNtEoSLcmB",
+    "first_seen": "2026-07-20T18:40:04.741997+00:00"
   }
 }
