@@ -28954,5 +28954,41 @@
   "bossahur": {
     "mint": "41PG2jHAU3VFrwn98fZu1YzzS9wUmEUGRHGFYp2npump",
     "first_seen": "2026-07-20T11:20:12.448410+00:00"
+  },
+  "chcoc": {
+    "mint": "2cHe1AnQNkNiQSfQ3c6tnFDn6ifAfAjwMxZ8yX6mpump",
+    "first_seen": "2026-07-20T11:29:54.128043+00:00"
+  },
+  "slidka": {
+    "mint": "4Ha3r8HS58VQmwCfpzAXMNyJvMGHyKPyxkMaaBBNpump",
+    "first_seen": "2026-07-20T11:29:55.281719+00:00"
+  },
+  "kotn": {
+    "mint": "G5rpV7ayUXvPPW8yRKUq9RyHhH2kL51Qpr9jniEhpump",
+    "first_seen": "2026-07-20T11:29:56.826904+00:00"
+  },
+  "upcoin": {
+    "mint": "5Bi5db5M9NpgVzzeUnLxQaV6WjdDKZChuZtwdExCpump",
+    "first_seen": "2026-07-20T11:29:58.356308+00:00"
+  },
+  "axel": {
+    "mint": "4f7bs6HQt26NjNQYnM3hTojU5PcqiVEF7bvmnS5Zpump",
+    "first_seen": "2026-07-20T11:29:59.412900+00:00"
+  },
+  "milanesa": {
+    "mint": "7TnGMJVessnb1S2b9xnhEWx7csyNYTpHSJooGvFjZaeG",
+    "first_seen": "2026-07-20T11:30:02.493295+00:00"
+  },
+  "wag": {
+    "mint": "GAvYz1gZz73SrLTGgSWtSBWkabYWkXcCkdgFVkQXpump",
+    "first_seen": "2026-07-20T11:30:03.512072+00:00"
+  },
+  "guldlon": {
+    "mint": "9P2mzHuZAwvL32Z1C6KMjwvpkbjkh2Bd3CWbAurepump",
+    "first_seen": "2026-07-20T11:30:10.185334+00:00"
+  },
+  "market": {
+    "mint": "9sxjHZ3tGNFL1jqZBcXwVgv6ugkfzmonWTvYFVhnpump",
+    "first_seen": "2026-07-20T11:30:11.131111+00:00"
   }
 }
