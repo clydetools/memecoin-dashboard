@@ -28922,5 +28922,37 @@
   "bailey": {
     "mint": "FHWaa7ydZccqyBsuWtRXu4KhapD7i23DJr5H1Aqspump",
     "first_seen": "2026-07-20T11:10:06.792150+00:00"
+  },
+  "goldlon": {
+    "mint": "GdbT9jssJTyTBYL6zszUh6ghLVBPMhMxsqkb1AYZpump",
+    "first_seen": "2026-07-20T11:19:57.940080+00:00"
+  },
+  "burnham": {
+    "mint": "XYfqVjAjiV82kg7vrUooL1fEnxkfgYMQT7cWwgBpump",
+    "first_seen": "2026-07-20T11:19:58.547413+00:00"
+  },
+  "mlingo": {
+    "mint": "6ySejjjPpMMTeaqbkb7GV1bY93GWCVEnuFFYzr2xpump",
+    "first_seen": "2026-07-20T11:19:59.140994+00:00"
+  },
+  "jjboy": {
+    "mint": "GMnDXbgU5d9VTrUPyGNAbSNV9Z1bxcTJFod5ptDfpump",
+    "first_seen": "2026-07-20T11:20:01.365339+00:00"
+  },
+  "elun": {
+    "mint": "6SV8LBXqB7JCDTTGVuSpjbempyMiqcR3KcXzEFcfpump",
+    "first_seen": "2026-07-20T11:20:02.903008+00:00"
+  },
+  "itsretarddd": {
+    "mint": "9WCW8j5jxPiEM4VNdVycgwD5Vx58wGYr9rQvCYqspump",
+    "first_seen": "2026-07-20T11:20:06.638461+00:00"
+  },
+  "erdos": {
+    "mint": "8qwSi2Wy7uhoR38xX21FQA87dismtccxLw18yTLKpump",
+    "first_seen": "2026-07-20T11:20:11.769440+00:00"
+  },
+  "bossahur": {
+    "mint": "41PG2jHAU3VFrwn98fZu1YzzS9wUmEUGRHGFYp2npump",
+    "first_seen": "2026-07-20T11:20:12.448410+00:00"
   }
 }
