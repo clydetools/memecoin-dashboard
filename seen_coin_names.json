@@ -29330,5 +29330,9 @@
   "bigweekp": {
     "mint": "3pmiFMW8n7ooZxdE3LPBC1dpuwsdSeb5QuYbti2hpump",
     "first_seen": "2026-07-20T14:00:40.584237+00:00"
+  },
+  "lamac": {
+    "mint": "238J1BLfxuWcFHxzfCGqEMBDcriJnVttEYEDvVnmpump",
+    "first_seen": "2026-07-20T14:10:00.417677+00:00"
   }
 }
