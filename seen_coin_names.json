@@ -28554,5 +28554,17 @@
   "robfox": {
     "mint": "GJYrfTw7PMDrTcDtYvEDK4FQHcpDT7L151oQDdzvF2C5",
     "first_seen": "2026-07-20T08:30:05.590877+00:00"
+  },
+  "robinhub": {
+    "mint": "CRAmbLtwMRB7X9eYQ54JNDx79ovikdEwKMvqvKnppump",
+    "first_seen": "2026-07-20T08:39:52.437853+00:00"
+  },
+  "fg": {
+    "mint": "DswaJHDuZir9YXKZsb9zMHnPiZBMfANJkXPFuEK5pump",
+    "first_seen": "2026-07-20T08:39:57.097527+00:00"
+  },
+  "boxabl": {
+    "mint": "H2yHLoC24dM5v1Vjh2Poqx7fZ9mp8EfR2MYseXScpump",
+    "first_seen": "2026-07-20T08:39:57.126514+00:00"
   }
 }
