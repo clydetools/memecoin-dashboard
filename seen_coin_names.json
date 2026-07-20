@@ -28894,5 +28894,33 @@
   "soil": {
     "mint": "E7Nftk7uvLXBsqXB7NQpaJi533Q72C2skzNAZaqotAhB",
     "first_seen": "2026-07-20T11:00:01.655734+00:00"
+  },
+  "luwes": {
+    "mint": "SkMs8pq4xdbPBcP2aBQ7acPYLUPHCWEBXCTLVwwpump",
+    "first_seen": "2026-07-20T11:09:56.946295+00:00"
+  },
+  "100mono": {
+    "mint": "AqTL3E1Fg8s8Xp9RdEu311QYitraNPnmB9XPggbZpump",
+    "first_seen": "2026-07-20T11:09:57.612169+00:00"
+  },
+  "spacecake": {
+    "mint": "237vwoN7oPrhSuT77W1De86hNrSTcKT71mLz4df8pump",
+    "first_seen": "2026-07-20T11:09:58.290208+00:00"
+  },
+  "chillmensa": {
+    "mint": "237w6x2yocUBYFHPL82qk1tUichdKkEAPbPgMKD3pump",
+    "first_seen": "2026-07-20T11:09:58.965475+00:00"
+  },
+  "avb": {
+    "mint": "6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump",
+    "first_seen": "2026-07-20T11:10:06.019452+00:00"
+  },
+  "alpen": {
+    "mint": "3BfXW2uTt6N3hgktvsHPtghDbgxKpiLuGnW63fPjpump",
+    "first_seen": "2026-07-20T11:10:06.088103+00:00"
+  },
+  "bailey": {
+    "mint": "FHWaa7ydZccqyBsuWtRXu4KhapD7i23DJr5H1Aqspump",
+    "first_seen": "2026-07-20T11:10:06.792150+00:00"
   }
 }
