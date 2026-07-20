@@ -28870,5 +28870,29 @@
   "ogi": {
     "mint": "12SFro5AeU3z4b3exEpLczbwcm49EvwU312j1JvB5ogi",
     "first_seen": "2026-07-20T10:50:01.369022+00:00"
+  },
+  "plainly": {
+    "mint": "8smhpzMkmn8vZKDku4N2pD5JPN9uczPbrxJ2Hxkbpump",
+    "first_seen": "2026-07-20T10:59:52.709423+00:00"
+  },
+  "legionella": {
+    "mint": "GzSR45oViLB9fuSomz6oTAmuj2ttMMyConyYDiEKpump",
+    "first_seen": "2026-07-20T10:59:53.238177+00:00"
+  },
+  "rachel": {
+    "mint": "4LvodhsPNLCpHDRdUakDsVaEPvHPUuPAKir36qkEpump",
+    "first_seen": "2026-07-20T10:59:53.642216+00:00"
+  },
+  "nein": {
+    "mint": "3nbSvQo4xDjWcykKvW7bRCqDDi1oAdKf9KmgpXkSpump",
+    "first_seen": "2026-07-20T10:59:54.805345+00:00"
+  },
+  "loaf": {
+    "mint": "47pAKQk8S3ED6Mym3a9RehK3myXgn1xy3zFZ2j21pump",
+    "first_seen": "2026-07-20T10:59:55.234505+00:00"
+  },
+  "soil": {
+    "mint": "E7Nftk7uvLXBsqXB7NQpaJi533Q72C2skzNAZaqotAhB",
+    "first_seen": "2026-07-20T11:00:01.655734+00:00"
   }
 }
