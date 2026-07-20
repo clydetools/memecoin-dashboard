@@ -29518,5 +29518,25 @@
   "catbat": {
     "mint": "mo7mapMrCsyci5w1td1wgrKPtNeCfjfkKi96DknWi5N",
     "first_seen": "2026-07-20T15:10:05.904125+00:00"
+  },
+  "melvin": {
+    "mint": "DzMHC9S1argxXoryr9zSyaCL2SQa3oMnrm3TBLDVpump",
+    "first_seen": "2026-07-20T15:19:55.802126+00:00"
+  },
+  "fred": {
+    "mint": "3J1FwJG5GzRSK8hqXycfWDGEgQUVvT3aKCdrVtBHpump",
+    "first_seen": "2026-07-20T15:19:56.149424+00:00"
+  },
+  "speed": {
+    "mint": "4guo55mkDpcYfyUH9CRbMDKZvF4AKRJrv2VqdK4ypump",
+    "first_seen": "2026-07-20T15:19:56.887091+00:00"
+  },
+  "vazya": {
+    "mint": "2jMLdkF4VD8S43sgHmn7yeJEv5orPZBEtmdFfpzupump",
+    "first_seen": "2026-07-20T15:19:57.808202+00:00"
+  },
+  "mudrix": {
+    "mint": "2QXPjbGzFEXKWkYZZ3dpxqYH4NATNK3poUJpA2Qgpump",
+    "first_seen": "2026-07-20T15:20:03.942141+00:00"
   }
 }
