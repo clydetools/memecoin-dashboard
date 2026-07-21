@@ -32558,5 +32558,9 @@
   "jimcash": {
     "mint": "65kXV5tUz6wEaC6rP4QqMxN6MssWTs1J56NqeHvNpump",
     "first_seen": "2026-07-21T14:10:09.452861+00:00"
+  },
+  "birds": {
+    "mint": "2Gztn5tMY9zfJgZE1EK3TWpS9sooqZ7RN8uJdwUM2bAf",
+    "first_seen": "2026-07-21T14:20:02.491045+00:00"
   }
 }
