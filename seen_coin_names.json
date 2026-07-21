@@ -32618,5 +32618,37 @@
   "winkcat": {
     "mint": "Ehprpe6visPXd91xVEhfWPZJwhuLhAEeQEAoPTJFUzJg",
     "first_seen": "2026-07-21T14:50:07.461217+00:00"
+  },
+  "burn": {
+    "mint": "DUBvcUY1zKj3wkWv5LtvYsM7d4fR3U9JpQBniVjRpump",
+    "first_seen": "2026-07-21T15:00:04.780760+00:00"
+  },
+  "coinname": {
+    "mint": "AFwt5ZRe9zN36SMAcWMedzXiCdrwa2XRjgtN1xzEpump",
+    "first_seen": "2026-07-21T15:00:08.574082+00:00"
+  },
+  "xfra": {
+    "mint": "C7zbLKNgqYQv2bPifR57Zzi23E51NsxgXiAaQ933pump",
+    "first_seen": "2026-07-21T15:00:09.057159+00:00"
+  },
+  "tito": {
+    "mint": "ARU4gqMTqYfhafimb11AeKfNhUnn3cKpy5GTiQpXpump",
+    "first_seen": "2026-07-21T15:00:12.717455+00:00"
+  },
+  "aptc": {
+    "mint": "4YP8o33PXV5TH5TQTTgx3EqPmf1sN2K4VNwgRnt4pump",
+    "first_seen": "2026-07-21T15:00:13.671926+00:00"
+  },
+  "dopa": {
+    "mint": "8Ffe1AeAH6dKJgJRdg9P2wTXbrru8vrTzn8Rap9Spump",
+    "first_seen": "2026-07-21T15:00:14.205584+00:00"
+  },
+  "cashexprs": {
+    "mint": "2zpPHQPBbBB9qiiMCe8AxFShiDzpxUCQ6txGewAvpump",
+    "first_seen": "2026-07-21T15:00:19.204526+00:00"
+  },
+  "ripple": {
+    "mint": "Gn5Q9qnL5jTqHnwzi47gXHdUXNJxCbkHMkbFQYpRCSFJ",
+    "first_seen": "2026-07-21T15:00:19.253942+00:00"
   }
 }
