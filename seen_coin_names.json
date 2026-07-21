@@ -31950,5 +31950,25 @@
   "shakey": {
     "mint": "2eYDjJJXQccnsR5RdDFeWw2GWmCyHKq51ZGF31zepump",
     "first_seen": "2026-07-21T09:30:02.413211+00:00"
+  },
+  "exelon": {
+    "mint": "6ufMYN3PVdjNeh7jTAGr4TPXYYsbBsJZsyYFCNtmpump",
+    "first_seen": "2026-07-21T09:40:52.640936+00:00"
+  },
+  "qqnespne": {
+    "mint": "6vuSBYZwueqacSZ86cowKSwYwmkP7uhLgCnqoua9pump",
+    "first_seen": "2026-07-21T09:40:56.310744+00:00"
+  },
+  "mos": {
+    "mint": "8KkYHozRwmYszmn7h8DaHn2q3U5Ti7TcVfH2uck4pump",
+    "first_seen": "2026-07-21T09:40:58.579808+00:00"
+  },
+  "qqne": {
+    "mint": "FWoamJiKvhXc5p5jYf7insxiq9JD1Nq2tAy4A9H5pump",
+    "first_seen": "2026-07-21T09:40:59.150871+00:00"
+  },
+  "etf": {
+    "mint": "59HYRBzgQvkNcLp37uQaLmCFpTN93dGo5it2QWWNpump",
+    "first_seen": "2026-07-21T09:41:04.646807+00:00"
   }
 }
