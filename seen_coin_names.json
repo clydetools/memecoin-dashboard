@@ -33318,5 +33318,41 @@
   "boar": {
     "mint": "5ohBqLgmccJstRhrFskitBYa7DtwQ13HZmFzH8Wepump",
     "first_seen": "2026-07-21T19:30:06.874467+00:00"
+  },
+  "trumponomy": {
+    "mint": "9j3GBAbePUwv7pvegcFffsxDywoFwLzzAgdq6U6Epump",
+    "first_seen": "2026-07-21T19:39:53.855009+00:00"
+  },
+  "tonks": {
+    "mint": "ipYzpYEryyD9qg7p4Vm62XUi78TjVrxkGMF9QLVpump",
+    "first_seen": "2026-07-21T19:39:54.236844+00:00"
+  },
+  "jpeg": {
+    "mint": "67uWkFkPKsZsjSuooYFqT5NaVupaAwN3o9V6nSAppump",
+    "first_seen": "2026-07-21T19:39:54.578582+00:00"
+  },
+  "trumpecon": {
+    "mint": "GPGXp29W3g8XwKumuyJTLVZGj2NySFZY8Cgw8o56pump",
+    "first_seen": "2026-07-21T19:39:55.293850+00:00"
+  },
+  "mensahur": {
+    "mint": "DMy1pZSiUHFnUFcSN5frxCMVNs8M5R4CK6VNC2fLpump",
+    "first_seen": "2026-07-21T19:39:55.646453+00:00"
+  },
+  "collins": {
+    "mint": "Go5t3VKDWuFwChWiCXzZHU61Th7hKTmbdBayCQQwpump",
+    "first_seen": "2026-07-21T19:39:56.304164+00:00"
+  },
+  "tronks": {
+    "mint": "A8v2Xf7m55bx6EAL4e5KKnRMLWc5ZiNSbPNvKeeUpump",
+    "first_seen": "2026-07-21T19:39:57.010092+00:00"
+  },
+  "pr0pr": {
+    "mint": "to6BFFSWzJHNkGC3rEqa1zpRcCASzpHF6K9Amcgpump",
+    "first_seen": "2026-07-21T19:39:57.371503+00:00"
+  },
+  "intern": {
+    "mint": "7HwsD3ujMErhM94fXrBtsMTWfUkErazquur8kZ8Kpump",
+    "first_seen": "2026-07-21T19:40:03.417897+00:00"
   }
 }
