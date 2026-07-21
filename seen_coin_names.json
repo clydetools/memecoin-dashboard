@@ -31642,5 +31642,13 @@
   "gemwiz": {
     "mint": "FLC27A4x7EqJzfDsY1j1QL7MGTNJA1Fkx4f8EsMpump",
     "first_seen": "2026-07-21T06:10:07.001090+00:00"
+  },
+  "melons": {
+    "mint": "GQLMPbBcTHJKWy2XR5Tb6LYDV1wEMU9CRWSaNac2pump",
+    "first_seen": "2026-07-21T06:19:57.225235+00:00"
+  },
+  "ithaka": {
+    "mint": "EM346yiQcnWRu46tbXBezmX1LhsjBzdZdjkWxVKTpump",
+    "first_seen": "2026-07-21T06:19:58.086977+00:00"
   }
 }
