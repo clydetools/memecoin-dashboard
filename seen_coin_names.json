@@ -32186,5 +32186,25 @@
   "ifruit": {
     "mint": "5ASV6iJ5S25Kd1d6EJrJxbVSPaBadciXnYiG1Dozpump",
     "first_seen": "2026-07-21T11:30:05.430168+00:00"
+  },
+  "cricket": {
+    "mint": "BrKdAkWLz5BkKM5bEKJQyKwrricAXh64U6y3GNhUdUQJ",
+    "first_seen": "2026-07-21T11:39:56.649410+00:00"
+  },
+  "drumjax": {
+    "mint": "6oMSHwvGBDxhbVgCV32tBxoKhZEEY7PNTRyTkQzXpump",
+    "first_seen": "2026-07-21T11:39:57.168216+00:00"
+  },
+  "mosquito": {
+    "mint": "396RosFPYdBYxhbCYSzYWktBPV3TgwKjinPzDBgcpump",
+    "first_seen": "2026-07-21T11:39:57.724184+00:00"
+  },
+  "rl": {
+    "mint": "EA33TbCCFrnrds19778B8BLRwu3QbQ5sXboDQKHQpump",
+    "first_seen": "2026-07-21T11:39:58.766584+00:00"
+  },
+  "scpm": {
+    "mint": "BGRyTi2u1bSEghDyGm9uQumBYwDPVJLjs4o1CQEzpump",
+    "first_seen": "2026-07-21T11:39:59.312872+00:00"
   }
 }
