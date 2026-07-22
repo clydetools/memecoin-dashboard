@@ -34250,5 +34250,45 @@
   "apsem": {
     "mint": "8P5qYXx7pAjMUCkjnVmPfLaf7NMVHPhRsfjqM8kSpump",
     "first_seen": "2026-07-22T13:12:48.849461+00:00"
+  },
+  "usop": {
+    "mint": "kHvQBgGWWN2386qt572UmoCZitSfotEyg1kz8d2pump",
+    "first_seen": "2026-07-22T17:52:27.658321+00:00"
+  },
+  "shf": {
+    "mint": "CTkoWbNmym5r2jDYuEWdKZtPscEYyX83nN1cs3eSpump",
+    "first_seen": "2026-07-22T17:52:29.820721+00:00"
+  },
+  "zitcoin": {
+    "mint": "5PjZJ65vwDCw1yzczrRL3gZviRhrJgdtikMiJcahpump",
+    "first_seen": "2026-07-22T17:52:30.335901+00:00"
+  },
+  "trendcoin": {
+    "mint": "CYN5vjJZtSTkvSPa1uLpwt5hTEKJXHzyji6ZSUg4pump",
+    "first_seen": "2026-07-22T17:52:30.859336+00:00"
+  },
+  "jimothy911": {
+    "mint": "Lh9g1mZ6QmRFd4ZNzK8rvYMbSw7RPgPKF4E3nVCpump",
+    "first_seen": "2026-07-22T17:52:31.451338+00:00"
+  },
+  "jcraft": {
+    "mint": "23HCLp8N1gjfCcg4aFrYq9Wjfy9JY3AN8XCZaUcnpump",
+    "first_seen": "2026-07-22T17:52:32.495317+00:00"
+  },
+  "finn": {
+    "mint": "3ezp5K9eYfUn8xY81uvqj9Zoru6KAENYTScvvQVspump",
+    "first_seen": "2026-07-22T17:52:33.020503+00:00"
+  },
+  "bulbasol": {
+    "mint": "61z3QXMxs41E2dniUxZYf4PFXk6fFw4Wai9NNuZtqPE9",
+    "first_seen": "2026-07-22T17:52:37.449642+00:00"
+  },
+  "verity": {
+    "mint": "3nTmaNvUd12oEd52rsjc8hZLqSjRm1yoEtCnZBDRpump",
+    "first_seen": "2026-07-22T17:52:37.481883+00:00"
+  },
+  "soundsbig": {
+    "mint": "KkMMW7qab5wqu4rL7rJctP3Pui5nLd3qeFPD3Nwpump",
+    "first_seen": "2026-07-22T17:52:39.717771+00:00"
   }
 }
