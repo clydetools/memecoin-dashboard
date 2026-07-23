@@ -34350,5 +34350,65 @@
   "anmond": {
     "mint": "4nA3PW6DPmVzNDeKKa3SmfpKeY7LS1yXsRFJm9oEpump",
     "first_seen": "2026-07-23T06:45:01.884740+00:00"
+  },
+  "bucho": {
+    "mint": "BeJu9ihLS7j5Rz1EZV9QvQFA72yFpMWhcdX2SfQPpump",
+    "first_seen": "2026-07-23T12:14:48.397747+00:00"
+  },
+  "scag": {
+    "mint": "7BuhRVr1ZGGHRnK5uqwVZV9gLsW78bZBenBCZaSLpump",
+    "first_seen": "2026-07-23T12:14:48.761506+00:00"
+  },
+  "zmee": {
+    "mint": "E7MnXLVQuGquFmH97A8SBxjmF3tKSHBf54v9o6yDpump",
+    "first_seen": "2026-07-23T12:14:49.116581+00:00"
+  },
+  "treats": {
+    "mint": "5N1U8A4Rot41ddxrgEAFfKZksCCPSpNi7Kvywz6tpump",
+    "first_seen": "2026-07-23T12:14:49.477205+00:00"
+  },
+  "pete": {
+    "mint": "8Ry9eTKPC86FwU4cRz4XfecWYeKwNTeuMppxy4itpump",
+    "first_seen": "2026-07-23T12:14:49.844565+00:00"
+  },
+  "rimu": {
+    "mint": "3Tqr1aXAy4b1M6JPEjL87Ft9xiumrv84Vjxkopjxpump",
+    "first_seen": "2026-07-23T12:14:50.194387+00:00"
+  },
+  "bsc": {
+    "mint": "Eif3vXA4M4pzD39b1dFyHyGjyasxvuctQ9tNPKcMpump",
+    "first_seen": "2026-07-23T12:14:50.918505+00:00"
+  },
+  "test2": {
+    "mint": "ER7ba3mw4mNdXpD4k2Pqm4AZiV3zs9cy4gaK2wBoKzPr",
+    "first_seen": "2026-07-23T12:14:51.609353+00:00"
+  },
+  "animala": {
+    "mint": "F53JuXPcHz24rAf7QAHnuKdguhDyLJEVH6nPhHEWpump",
+    "first_seen": "2026-07-23T12:14:52.297004+00:00"
+  },
+  "tman": {
+    "mint": "5W8i2n2cwhP5cZRRtmZJg4HzERgpQriWKvt7yAmkpump",
+    "first_seen": "2026-07-23T12:14:52.698760+00:00"
+  },
+  "evil": {
+    "mint": "4ZnjyMHB15GFqy2qjmMEHAPHgNdrHvS7NMoaLdc8pump",
+    "first_seen": "2026-07-23T12:14:54.021240+00:00"
+  },
+  "fefer": {
+    "mint": "MgJ9UGX2aUC5YUaXK5C3qoTxzs6cfMnAot9Zr6AabQb",
+    "first_seen": "2026-07-23T12:14:58.298644+00:00"
+  },
+  "math": {
+    "mint": "5pVQnFwVxrpS81bXCPxFfh1LHHbv3AcymbpazZnhpump",
+    "first_seen": "2026-07-23T12:14:59.278995+00:00"
+  },
+  "syrax": {
+    "mint": "GD8cdLqU3HU8FfsQDAKU1vDrewciZC2WgRfs2yAspump",
+    "first_seen": "2026-07-23T12:14:59.492983+00:00"
+  },
+  "butcher": {
+    "mint": "8FMcrqRqvsewRivE3H516vK3x1kRKbUZUFsfTtK8pump",
+    "first_seen": "2026-07-23T12:14:59.747656+00:00"
   }
 }
