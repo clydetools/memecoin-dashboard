@@ -34662,5 +34662,49 @@
   "rupert": {
     "mint": "7DRgFDVNskjKK7nmYWuWYva49rH2H7yWzUXPBwKapump",
     "first_seen": "2026-07-24T20:05:27.333770+00:00"
+  },
+  "ruri": {
+    "mint": "7KSiFVx92LpYRQ6Scq38gbvpCrzhaZ6eMkZZiepipump",
+    "first_seen": "2026-07-24T23:45:18.338375+00:00"
+  },
+  "benix": {
+    "mint": "3KEARBzDWpYaWRaGkYcGAupEEeE1KFCvVyXkjvwBpump",
+    "first_seen": "2026-07-24T23:45:19.015612+00:00"
+  },
+  "benchode": {
+    "mint": "CrkdpEFXBKNW27CyD8d9APnVJcMGA5EmKvDGHHZbpump",
+    "first_seen": "2026-07-24T23:45:19.735605+00:00"
+  },
+  "ancillary": {
+    "mint": "B1iwrHUUXXaMEe8ZU9V5uLqnjBPH3wbfjQUPth5Ppump",
+    "first_seen": "2026-07-24T23:45:20.142310+00:00"
+  },
+  "hivemind": {
+    "mint": "73M2yRrort5XJC5PNdns7Lm3uoKybXZHBKmckccD2BaQ",
+    "first_seen": "2026-07-24T23:45:20.526600+00:00"
+  },
+  "loooonguy": {
+    "mint": "7gwUENFNMngNM29QXqTSnJU88Bqo8gybT7oZELUkpump",
+    "first_seen": "2026-07-24T23:45:21.541843+00:00"
+  },
+  "comebacks": {
+    "mint": "B7yLyG7hqx9QZhuEGtLe3bf8YkuYZXF81bfvmnnkpump",
+    "first_seen": "2026-07-24T23:45:21.898316+00:00"
+  },
+  "chickwatch": {
+    "mint": "BrqBC4KSFkAnBuGEGMWaCRnjds2rHGt1Dm7aQbcdpump",
+    "first_seen": "2026-07-24T23:45:22.816904+00:00"
+  },
+  "pumuckel": {
+    "mint": "8HQcRUViT9wpcQYNxGwB9P3s4eqj4zScPEZZhdpzVS54",
+    "first_seen": "2026-07-24T23:45:27.144603+00:00"
+  },
+  "smiskjim": {
+    "mint": "GaEeBmh4YWs8RmCbrgoAfYWR1a4D3SexKVmZkvhZpump",
+    "first_seen": "2026-07-24T23:45:27.206233+00:00"
+  },
+  "devin": {
+    "mint": "7gbEP2TAy5wM3TmMp5utCrRvdJ3FFqYjgN5KDpXiWPmo",
+    "first_seen": "2026-07-24T23:45:28.785706+00:00"
   }
 }
