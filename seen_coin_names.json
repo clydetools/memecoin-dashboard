@@ -34754,5 +34754,37 @@
   "bigfoot": {
     "mint": "3aa8X8UBWPUZmqNSCCKBknfpyyz3fZjHisYADdgcS9SZ",
     "first_seen": "2026-07-25T07:34:23.191854+00:00"
+  },
+  "trazor": {
+    "mint": "6GkueQKJCMtbaTxycXkekE7uREGcoZLoVhX8G7Qgpump",
+    "first_seen": "2026-07-25T11:48:27.614637+00:00"
+  },
+  "10000": {
+    "mint": "FqzNeJnsGawVVCajg2srayWEw6zeLjHzLVgqZrcTpump",
+    "first_seen": "2026-07-25T11:48:27.995465+00:00"
+  },
+  "pepsy": {
+    "mint": "z34ZSRwibQcZ4fy9xv7ZwZCLXhgd1nuRSndHzTapump",
+    "first_seen": "2026-07-25T11:48:29.403309+00:00"
+  },
+  "trump28": {
+    "mint": "65in6giVUyRfyErJnMC8Vwp2gwQ4eLCeYHfWTNw2pump",
+    "first_seen": "2026-07-25T11:48:29.771439+00:00"
+  },
+  "truppy": {
+    "mint": "BA9DF57TJWg4XHPRhtqY69PGAeKJJUgERMnQvKxxpump",
+    "first_seen": "2026-07-25T11:48:30.120468+00:00"
+  },
+  "sharkdog": {
+    "mint": "8gEtFeKeRt1QREkU51dRih9pQ39PyYpRRZTyLg2v5qFn",
+    "first_seen": "2026-07-25T11:48:34.707378+00:00"
+  },
+  "russ": {
+    "mint": "Bn92zYb4PJDFtmEnfWWxZA47dqWN7E8gcMwKaLMWVGFu",
+    "first_seen": "2026-07-25T11:48:34.757753+00:00"
+  },
+  "worm": {
+    "mint": "DPCDdMEuk7ukHx1BFzmMMTvJGZnzcC2jFdSqwdMcpump",
+    "first_seen": "2026-07-25T11:48:35.801015+00:00"
   }
 }
