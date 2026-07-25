@@ -34706,5 +34706,53 @@
   "devin": {
     "mint": "7gbEP2TAy5wM3TmMp5utCrRvdJ3FFqYjgN5KDpXiWPmo",
     "first_seen": "2026-07-24T23:45:28.785706+00:00"
+  },
+  "gelato": {
+    "mint": "4zN8DhDiunxfGYiJj5kkt5RK8fS57ChfMUcNcQ7Upump",
+    "first_seen": "2026-07-25T07:34:10.625387+00:00"
+  },
+  "james": {
+    "mint": "3iEVhrZjK1efUvgM9CVnugtMomf2NCiGexz5Y8Zmpump",
+    "first_seen": "2026-07-25T07:34:11.188747+00:00"
+  },
+  "bib": {
+    "mint": "Czt48jxy2NQAapNnMNEaYTq3BiuVrU1PkVtiiRenpump",
+    "first_seen": "2026-07-25T07:34:11.724320+00:00"
+  },
+  "shot": {
+    "mint": "HNrHgKxTUZuZPeGG8bFJHCHdEAdc4wRrAcLarLinpump",
+    "first_seen": "2026-07-25T07:34:12.265559+00:00"
+  },
+  "bman": {
+    "mint": "BSVDQTLhWreXQS5Gq4q7WPPGLPmeGrzrQ57MuvGApump",
+    "first_seen": "2026-07-25T07:34:12.831736+00:00"
+  },
+  "ggoblin": {
+    "mint": "A5dsspbfTEhwS6AZGubHtfJp9ZvVG8hvm13SWH1Cpump",
+    "first_seen": "2026-07-25T07:34:13.914724+00:00"
+  },
+  "trump2028": {
+    "mint": "2d2GZdehy2YGrj1MJ3y3yhXjficMa2J3GtncxkTQpump",
+    "first_seen": "2026-07-25T07:34:20.439004+00:00"
+  },
+  "nock": {
+    "mint": "H1VuYfnP7TUdM2U1N3xYdsxxoe8doZjgrnbEXXSE5ttb",
+    "first_seen": "2026-07-25T07:34:20.506749+00:00"
+  },
+  "shibcat": {
+    "mint": "2va3PB8agapRfiBsAFknFcxZTeifrn5tuPURdMAoASXQ",
+    "first_seen": "2026-07-25T07:34:20.567336+00:00"
+  },
+  "savage": {
+    "mint": "ATBqqcqKumxQEgLBTbuL5iNMMk7DNPzwKNTi8XVSpump",
+    "first_seen": "2026-07-25T07:34:21.200037+00:00"
+  },
+  "rtr": {
+    "mint": "BwHwj9uqmzX2hFQyeuVCwSonXJawiq8doj4AAaFCpump",
+    "first_seen": "2026-07-25T07:34:21.942554+00:00"
+  },
+  "bigfoot": {
+    "mint": "3aa8X8UBWPUZmqNSCCKBknfpyyz3fZjHisYADdgcS9SZ",
+    "first_seen": "2026-07-25T07:34:23.191854+00:00"
   }
 }
