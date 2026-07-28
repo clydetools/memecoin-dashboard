@@ -35198,5 +35198,41 @@
   "trenchlife": {
     "mint": "92t87DktrvYAi4yuv4TwhAbF4E2C934rJf9zqgsipump",
     "first_seen": "2026-07-27T21:53:55.553318+00:00"
+  },
+  "burba": {
+    "mint": "EQ2eUXiKXqryLktAUNG6m7drnuYk9RPGt9dQh4HQpump",
+    "first_seen": "2026-07-28T07:48:13.052139+00:00"
+  },
+  "crashcoin": {
+    "mint": "G2ixcMdjp6LCTrZ2dYZGbcgfTbnEeKMGHwh8WzXgpump",
+    "first_seen": "2026-07-28T07:48:13.723038+00:00"
+  },
+  "kskbdakda": {
+    "mint": "CQaiHMjShaZzivVHttsjbVUCggcpbMUAhBDCmn5Rpump",
+    "first_seen": "2026-07-28T07:48:14.292806+00:00"
+  },
+  "edp445": {
+    "mint": "F3AoLPA3BCzWZfNRkLS13F2oVHvrKoavp7Q4Byuxpump",
+    "first_seen": "2026-07-28T07:48:15.409972+00:00"
+  },
+  "loody": {
+    "mint": "EVo4bRhn6NB6oRypmvuiiTLcdiXmz9Ft7UyG1WExpump",
+    "first_seen": "2026-07-28T07:48:21.392785+00:00"
+  },
+  "bnut": {
+    "mint": "H3GtwGSrYRVqp7dtjkaDfjE2inydLkHwFkFJSPzrpump",
+    "first_seen": "2026-07-28T07:48:21.461614+00:00"
+  },
+  "doge1": {
+    "mint": "9BFw5KMWpBfzbEKh7qtp5U6hXRVZ6DqykZGV1BkFpump",
+    "first_seen": "2026-07-28T07:48:21.539039+00:00"
+  },
+  "giggley": {
+    "mint": "63DwEQHQpKmx7BVHiJ3FR7MkayjX88CWWZonda6YJSmE",
+    "first_seen": "2026-07-28T07:48:22.476220+00:00"
+  },
+  "budi": {
+    "mint": "Gihvutvj8wvAFLrazDgoHewwfy75ozjv3bGGdr87pump",
+    "first_seen": "2026-07-28T07:48:23.546381+00:00"
   }
 }
