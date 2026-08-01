@@ -35994,5 +35994,61 @@
   "pallettown": {
     "mint": "FBudQtQvaGX7ok7tD29wG2zH37H4Ee2rbyNREw7Tpump",
     "first_seen": "2026-07-31T20:43:57.701894+00:00"
+  },
+  "sundae": {
+    "mint": "GQYYmjgco7GR7BbNSeMsNh2Gywtvijs4AYUTK97gpump",
+    "first_seen": "2026-08-01T00:11:01.989147+00:00"
+  },
+  "fritz": {
+    "mint": "9WPmDNww9UkrVik3MDZbirha6DUJr6UKjdCzUKwxpump",
+    "first_seen": "2026-08-01T00:11:02.597728+00:00"
+  },
+  "pyramid": {
+    "mint": "8vYwEGehRMh8tCSh4scRrcTjVuEbS2qHA1DatEMDpump",
+    "first_seen": "2026-08-01T00:11:03.212466+00:00"
+  },
+  "amf": {
+    "mint": "51AmYKtBEXAWbY4R7NunxaKLQpws95ew6EgcuJdKpump",
+    "first_seen": "2026-08-01T00:11:03.786556+00:00"
+  },
+  "gligob": {
+    "mint": "EWvCU1bmMEnWETAMwmygmfj8Co536VLEDXsczjCQpump",
+    "first_seen": "2026-08-01T00:11:06.749534+00:00"
+  },
+  "myspace": {
+    "mint": "2NSHQefnzYtgNayCbbSPKSJgypi7dUf4QD4MhyvYUvxD",
+    "first_seen": "2026-08-01T00:11:11.425775+00:00"
+  },
+  "elizaarmy": {
+    "mint": "6VjMWHQFpRzLjujXfeBLxiTCNELhGqrLXAUiZLNLfw6L",
+    "first_seen": "2026-08-01T00:11:11.542099+00:00"
+  },
+  "spy": {
+    "mint": "7KAs65Mxa6emKrW7PN6u87p1mahHTTSz6K2U4xz4PPxn",
+    "first_seen": "2026-08-01T00:11:11.603583+00:00"
+  },
+  "usur": {
+    "mint": "K9PMn4L1QbdYEhFU7cHLCSHU8m3joWCU5Gz6fvQpump",
+    "first_seen": "2026-08-01T00:11:12.200696+00:00"
+  },
+  "burt": {
+    "mint": "Aeg6uKab1xBeqNkMPEr5VTzBbT6UgJC9qeSMcnxMpump",
+    "first_seen": "2026-08-01T00:11:12.965733+00:00"
+  },
+  "nsdq": {
+    "mint": "GXUisEapYfHJe8oFoWSPPyiLSLYT6Em9iEeXTFxUHyUA",
+    "first_seen": "2026-08-01T00:11:13.473221+00:00"
+  },
+  "ordr": {
+    "mint": "FgVcn25UXf4MoNf4coaz2o5xDGPK1goMbUBfyUgrmeta",
+    "first_seen": "2026-08-01T00:11:13.635481+00:00"
+  },
+  "genz": {
+    "mint": "GENZexWRRGNS2Ko5rEgGG1snRXpaa3CDDGYnhTSmE3kd",
+    "first_seen": "2026-08-01T00:11:13.793918+00:00"
+  },
+  "mofos": {
+    "mint": "3TkNcAtU6KXtQh299ap6RwrdtPV9skeCWp1yxUKKpump",
+    "first_seen": "2026-08-01T00:11:14.194721+00:00"
   }
 }
