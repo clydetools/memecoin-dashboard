@@ -36126,5 +36126,45 @@
   "crimecat": {
     "mint": "GvbiYgJNTCWRjqTeMda125NwMLHFWQXTJo6prDBnpump",
     "first_seen": "2026-08-01T08:43:10.607248+00:00"
+  },
+  "nio": {
+    "mint": "8ikb68rben3BKqvSju8Wj9hseUqdtedH42VT5DdEpump",
+    "first_seen": "2026-08-01T12:14:11.538373+00:00"
+  },
+  "kanzi": {
+    "mint": "4jgy34AEnRDEoDfQEgvwBK3p9e59Br2FxTgrPoGGpump",
+    "first_seen": "2026-08-01T12:14:11.913355+00:00"
+  },
+  "scrrap": {
+    "mint": "9jt2tkSZKdvXa4ZUv5GZqnKuEtLMdXrisUuL359Zpump",
+    "first_seen": "2026-08-01T12:14:12.326629+00:00"
+  },
+  "hole": {
+    "mint": "7UumttdhbvvtTsCYvL5kfPkcWkXDWb18xfiV9Etupump",
+    "first_seen": "2026-08-01T12:14:12.677600+00:00"
+  },
+  "bullgust": {
+    "mint": "26iKkEyiHmVLu73ccmGPufiD2JbPQVWMBGKS39f5pump",
+    "first_seen": "2026-08-01T12:14:13.033549+00:00"
+  },
+  "gshark": {
+    "mint": "23sLR85BpRDYEASAsx9R6uaWqJeZssAyNXYdyKUJpump",
+    "first_seen": "2026-08-01T12:14:13.397106+00:00"
+  },
+  "kebab": {
+    "mint": "A5nD6GU6fAVL9NBk4UjJvnB5JhSjgfVfpqUkALjzvtYA",
+    "first_seen": "2026-08-01T12:14:13.748409+00:00"
+  },
+  "babayaga": {
+    "mint": "35k1p8Jh8ULRj8dGbm3T3XEu8Jh5YDofLkQJujfzpump",
+    "first_seen": "2026-08-01T12:14:18.481385+00:00"
+  },
+  "tj": {
+    "mint": "BfwgWX1vTX7nRqFLwPir2ZWZ7RAJZAhZwBWq7a3Zpump",
+    "first_seen": "2026-08-01T12:14:18.517782+00:00"
+  },
+  "unfazed": {
+    "mint": "BkMeTMA8QY3WZ4NFr5spiFedLru7o7yGJ3gUV7tvpump",
+    "first_seen": "2026-08-01T12:14:21.235353+00:00"
   }
 }
