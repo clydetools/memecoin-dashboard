@@ -36402,5 +36402,53 @@
   "koharu": {
     "mint": "BB5CKxuxpuM8NCLpTXaZSkPmeg9eraAk39PLNt75pump",
     "first_seen": "2026-08-02T15:44:01.677644+00:00"
+  },
+  "plonkz": {
+    "mint": "EuJsJMh1SdRRFaG7yWVrEoVz15VzFMTX4xdPeKme1uDN",
+    "first_seen": "2026-08-02T20:01:58.612139+00:00"
+  },
+  "gimini": {
+    "mint": "5GiR5aB8H5q5KtdQnEYRNm82ELDFEzXnCFo78kCGpump",
+    "first_seen": "2026-08-02T20:01:59.699858+00:00"
+  },
+  "chaage": {
+    "mint": "DnPr6Uu1GRjd1Jceca1ZwMLs8fvEAnRBHWxp56gxpump",
+    "first_seen": "2026-08-02T20:02:02.873814+00:00"
+  },
+  "hitloor": {
+    "mint": "GuLswFtHckSbDSgd47cbN9CwfW7vVS5eJ7sxVqz4pump",
+    "first_seen": "2026-08-02T20:02:03.428931+00:00"
+  },
+  "foresight": {
+    "mint": "3GjtpZHQC5fMEqGdHg8daEpg72GY78WtRuFi9dBapump",
+    "first_seen": "2026-08-02T20:02:04.463219+00:00"
+  },
+  "littlecate": {
+    "mint": "BquqVVPySQGmWo4ZpH7Se2yXTNxySAot8Uwc9E1Cpump",
+    "first_seen": "2026-08-02T20:02:10.976031+00:00"
+  },
+  "auracat": {
+    "mint": "6wfbCEwBDE8D75QaQCSgawiNfKwJDCyAYA32F768pump",
+    "first_seen": "2026-08-02T20:02:11.098852+00:00"
+  },
+  "greyson": {
+    "mint": "6HeVncC64XUFVSFzG1mDtZYXxEePx5gQj34oS7JDpump",
+    "first_seen": "2026-08-02T20:02:11.214499+00:00"
+  },
+  "turtleboss": {
+    "mint": "FkLqaRrAn7VkMaMHSM5hQMRCezu1jeDapQ9nFtBJpump",
+    "first_seen": "2026-08-02T20:02:11.333003+00:00"
+  },
+  "bitc0in": {
+    "mint": "7RDc1nRd63gSGD5NEJhQAub1rxaBHj4hbQC95JWupump",
+    "first_seen": "2026-08-02T20:02:11.588823+00:00"
+  },
+  "poorgoat": {
+    "mint": "3m5WmiAs3TewbB9S96jpwuGfodTnn4PVM8a1ytVQpump",
+    "first_seen": "2026-08-02T20:02:12.700401+00:00"
+  },
+  "zucc": {
+    "mint": "4dK65AHdS2rmqgS6svPRg8NnEZ9iq5YjXwRkgCAjpump",
+    "first_seen": "2026-08-02T20:02:12.820584+00:00"
   }
 }
