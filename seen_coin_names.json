@@ -36546,5 +36546,53 @@
   "namnoi": {
     "mint": "6N46H85p5mhR7BQWiJtUTaDeEhQZXyP1dPqxovhqpump",
     "first_seen": "2026-08-03T12:39:22.681161+00:00"
+  },
+  "thedip": {
+    "mint": "23yWgTXJ2oBomMC1Dikvxba9RVJSRWrCZVY1Ndo8pump",
+    "first_seen": "2026-08-03T18:59:08.451871+00:00"
+  },
+  "retardedgoat": {
+    "mint": "7vMgeRVUvEBMEuqNcTVoHsAktCr78BsQgsZEH5AezCFH",
+    "first_seen": "2026-08-03T18:59:10.624740+00:00"
+  },
+  "quid": {
+    "mint": "Gx37dWejifwwTMDA4K6FqRrxD5wrgqDe7gv4EfXHpump",
+    "first_seen": "2026-08-03T18:59:13.424258+00:00"
+  },
+  "fuel": {
+    "mint": "CfVMF3TNfzRzqcmx8pterLCkCH9zsbamzDZjqcqSpump",
+    "first_seen": "2026-08-03T18:59:14.954464+00:00"
+  },
+  "sdad": {
+    "mint": "7xWSg1CtfQBADCt2PbUkPwi8AFuhSmKzhTr5nu8rpump",
+    "first_seen": "2026-08-03T18:59:16.481937+00:00"
+  },
+  "shakeout": {
+    "mint": "CZZbWRmZuoV2ouGDT62X4rxKum5vGn3GXf6PBB84pump",
+    "first_seen": "2026-08-03T18:59:17.005884+00:00"
+  },
+  "prc": {
+    "mint": "93PnfMmaTormyrYzYz4Y7nScDXMCJRdueAg5jCHapump",
+    "first_seen": "2026-08-03T18:59:18.046103+00:00"
+  },
+  "fumo": {
+    "mint": "9mnLamG9bZeGqRoUsqXttDvM7XDFpDf1PSQasZ1zpump",
+    "first_seen": "2026-08-03T18:59:18.599415+00:00"
+  },
+  "rest": {
+    "mint": "ERpXkEafaKuKEARBCFsVnLZA1GARWUjBBbQCukXpbonk",
+    "first_seen": "2026-08-03T18:59:23.126547+00:00"
+  },
+  "sealy": {
+    "mint": "92YsFJcUKMiTYXwZ5RQRFK1giZynrBqTKAKW5qJrvmrc",
+    "first_seen": "2026-08-03T18:59:23.187856+00:00"
+  },
+  "lmeow": {
+    "mint": "9tWD7CuW2g59fgMUnggo4cZqB6XHEZrHtBaa8q7dpump",
+    "first_seen": "2026-08-03T18:59:23.770184+00:00"
+  },
+  "pupe": {
+    "mint": "65wLN2NWXsf4YY38iGuScZmtxjQUuZSpYBS68Fxbpump",
+    "first_seen": "2026-08-03T18:59:25.230089+00:00"
   }
 }
