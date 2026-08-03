@@ -36490,5 +36490,61 @@
   "trucker": {
     "mint": "5hc1WKYnozPbpC51CxEXsnJT1U4TdxiWrLHJDmJ2pump",
     "first_seen": "2026-08-02T23:41:13.522662+00:00"
+  },
+  "supercoin": {
+    "mint": "F246EdinC99akAyKhLaDqXGd6DdPpDSgK9QWQQ26uzf1",
+    "first_seen": "2026-08-03T12:39:08.663515+00:00"
+  },
+  "exodus": {
+    "mint": "4Z2rDiA4BUhRQoSaMefDvG9q6wMVwK3thwxQ1s5ppump",
+    "first_seen": "2026-08-03T12:39:09.216738+00:00"
+  },
+  "pooraoh": {
+    "mint": "7CNqirTpj7iMZ9cLwYapqhJ8Fe7yVp1VwyU3HrKepump",
+    "first_seen": "2026-08-03T12:39:09.767900+00:00"
+  },
+  "bells": {
+    "mint": "smwNj6gkioZiCmL3zX6L8r3q5Z91m4aoJYiCBWPpump",
+    "first_seen": "2026-08-03T12:39:10.902896+00:00"
+  },
+  "caesar": {
+    "mint": "SRCyWKvmPCKKwwEKUPHqCJHGL1hV5huFdM9uGptpump",
+    "first_seen": "2026-08-03T12:39:12.464240+00:00"
+  },
+  "pipi": {
+    "mint": "HBzS6ZYyWm8rcNDoArkWxePYKKeLuffuSaFL4TASpump",
+    "first_seen": "2026-08-03T12:39:15.315251+00:00"
+  },
+  "deck": {
+    "mint": "DeNGDha55v7iVaZXMzjA9wZUmFrhhubcpBP5VM4qpump",
+    "first_seen": "2026-08-03T12:39:19.834096+00:00"
+  },
+  "saof": {
+    "mint": "8oSMq4sSyheFNVHrd5dEANGF29CMQwcnZZe8DrdqQbhX",
+    "first_seen": "2026-08-03T12:39:19.871552+00:00"
+  },
+  "bulle": {
+    "mint": "E4XcM3x3m1xWT6shrEApT57SKMm4UjNZjbWGdieFpump",
+    "first_seen": "2026-08-03T12:39:19.931317+00:00"
+  },
+  "nvdia": {
+    "mint": "24gAGpKTv6TX65SU9UovcvcMdsz2KvX1ePkx67As5LWQ",
+    "first_seen": "2026-08-03T12:39:20.536461+00:00"
+  },
+  "pige": {
+    "mint": "3xZiuKD78oYTBzoSgtgdiWKWunNodQ6izcNCmz3Jpump",
+    "first_seen": "2026-08-03T12:39:21.369275+00:00"
+  },
+  "shipy": {
+    "mint": "3anzRVkaLmsrF84pTPS6co9EvJFio2X3zf3nHVTmpump",
+    "first_seen": "2026-08-03T12:39:21.754917+00:00"
+  },
+  "grisha": {
+    "mint": "4ekzLyp9qQiYmt2Juto1aHHcm6iD98JysJ5hvTukpump",
+    "first_seen": "2026-08-03T12:39:22.033239+00:00"
+  },
+  "namnoi": {
+    "mint": "6N46H85p5mhR7BQWiJtUTaDeEhQZXyP1dPqxovhqpump",
+    "first_seen": "2026-08-03T12:39:22.681161+00:00"
   }
 }
