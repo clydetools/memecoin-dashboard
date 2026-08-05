@@ -36842,5 +36842,57 @@
   "tucker": {
     "mint": "EM2DQsHnknmdd9xTEiG2c9LfYzpAh1io3Td6Rs7Apump",
     "first_seen": "2026-08-05T06:14:51.407375+00:00"
+  },
+  "obesity": {
+    "mint": "E4ar82z5HP7DAg5sCrcCc2crXrF1kLsyvs9PRe5ppump",
+    "first_seen": "2026-08-05T09:09:53.369333+00:00"
+  },
+  "enforcement": {
+    "mint": "CJ79ksBq7wEUf1EmCMiDcfLiN6GdsujUBM7SPeWUpump",
+    "first_seen": "2026-08-05T09:09:54.031072+00:00"
+  },
+  "2027": {
+    "mint": "7L7UAhgcXTubPnbYBsriZQdXv6mJvkAoAP2aoSxkpump",
+    "first_seen": "2026-08-05T09:09:55.082282+00:00"
+  },
+  "wierner": {
+    "mint": "6vp2qLteXJLYUE1Aa5svJ2AdXFaVJteCtQxTz6PMpump",
+    "first_seen": "2026-08-05T09:09:55.597836+00:00"
+  },
+  "fat": {
+    "mint": "Hh68Vh9ZBKZn38X7izvyKB4hnGpMSwLBAawxc6cfpump",
+    "first_seen": "2026-08-05T09:09:56.625515+00:00"
+  },
+  "scambodia": {
+    "mint": "3GdiUMGrTo4knzSwHs4dmQPE3oTgaH72R7z1vV6dpump",
+    "first_seen": "2026-08-05T09:10:01.777744+00:00"
+  },
+  "brokecat": {
+    "mint": "HSpXfz2TqcpbzRk2BsMZCKCPbjUNcTywyFjG3TBTpump",
+    "first_seen": "2026-08-05T09:10:01.807652+00:00"
+  },
+  "sisypuss": {
+    "mint": "8HykgZKXNpMhfxQtDPb7AayRKJonZaQ8Mw1Xo3xmpump",
+    "first_seen": "2026-08-05T09:10:01.877801+00:00"
+  },
+  "sci6900": {
+    "mint": "9z13eAjZQCLgT3AwDYU2xnT8kB5SoDztrDm2cr2qk3fs",
+    "first_seen": "2026-08-05T09:10:02.823135+00:00"
+  },
+  "rasmr": {
+    "mint": "B1oEzGes1QxVZoxR3abiwAyL4jcPRF2s2ok5Yerrpump",
+    "first_seen": "2026-08-05T09:10:03.065007+00:00"
+  },
+  "catix": {
+    "mint": "3e53B7z3kkWcp9NrpJsRC5e5U6sNwxbHXmAXBH5tpump",
+    "first_seen": "2026-08-05T09:10:03.461811+00:00"
+  },
+  "haggis": {
+    "mint": "U237C8hKyZYL42TEtTv6JGtdwDr3pZaQeeWMCVVpump",
+    "first_seen": "2026-08-05T09:10:03.594912+00:00"
+  },
+  "ewj": {
+    "mint": "3Nn3cc8hQR4R2VQN52Mv5Wg4aeBzN29Fa4LPzQBHpump",
+    "first_seen": "2026-08-05T09:10:03.699348+00:00"
   }
 }
