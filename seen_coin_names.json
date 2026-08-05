@@ -36790,5 +36790,57 @@
   "kio": {
     "mint": "7rMnp9EJd61SvNn8LGc7SAJeQxM36oeECKmP2a7opump",
     "first_seen": "2026-08-04T20:58:23.853917+00:00"
+  },
+  "alpt": {
+    "mint": "H3cCTkE6iw4fpRd2a6Q1EGRbTB8NW1qkuBVRBjTKpump",
+    "first_seen": "2026-08-05T06:14:39.935343+00:00"
+  },
+  "ducke": {
+    "mint": "BwgJr4KtZ1zNy47x3WQxax6LYDJaJ7YPH8Hy756dpump",
+    "first_seen": "2026-08-05T06:14:43.071628+00:00"
+  },
+  "sasha": {
+    "mint": "Hpm9SNns627sX92FWJfveCuSGWKXg5A6BSJjLcyipump",
+    "first_seen": "2026-08-05T06:14:43.437693+00:00"
+  },
+  "lacc": {
+    "mint": "244pzVCkUdydhT8KwYNHmKud2LoxcFJTNjA7s18jpump",
+    "first_seen": "2026-08-05T06:14:43.799081+00:00"
+  },
+  "conan": {
+    "mint": "CQvadZTR8vikRqqwyhvYV8YpdfCRjUCGyQwCuY4rxBQt",
+    "first_seen": "2026-08-05T06:14:48.114808+00:00"
+  },
+  "buckazoids": {
+    "mint": "BQQzEvYT4knThhkSPBvSKBLg1LEczisWLhx5ydJipump",
+    "first_seen": "2026-08-05T06:14:48.152003+00:00"
+  },
+  "citadail": {
+    "mint": "7h5AzpYTAnh4Gyux8Gqko5Fvx4AYQBZdkzHZ2CsBudvJ",
+    "first_seen": "2026-08-05T06:14:48.209217+00:00"
+  },
+  "zkrune": {
+    "mint": "51mxznNWNBHh6iZWwNHBokoaxHYS2Amds1hhLGXkpump",
+    "first_seen": "2026-08-05T06:14:48.256154+00:00"
+  },
+  "imtina": {
+    "mint": "BFgbu16BRciq4NmSiqNeU3RKS83cXNwDF1b98438pump",
+    "first_seen": "2026-08-05T06:14:48.721258+00:00"
+  },
+  "aurora": {
+    "mint": "64ozZA7AMYDKtftDs4PGnHcnP3LpgFYwufHb8Gyrpump",
+    "first_seen": "2026-08-05T06:14:49.660129+00:00"
+  },
+  "board": {
+    "mint": "CiPxKfgE1sX4i9sgSrHzpbAw1aGUH4QFRgrAyE6Rpump",
+    "first_seen": "2026-08-05T06:14:49.786986+00:00"
+  },
+  "afao": {
+    "mint": "UMGAp8U5dBdsPHw5TcfaVib3JVTqJuyxDTBVArzpump",
+    "first_seen": "2026-08-05T06:14:51.255118+00:00"
+  },
+  "tucker": {
+    "mint": "EM2DQsHnknmdd9xTEiG2c9LfYzpAh1io3Td6Rs7Apump",
+    "first_seen": "2026-08-05T06:14:51.407375+00:00"
   }
 }
