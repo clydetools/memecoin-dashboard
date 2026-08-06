@@ -37434,5 +37434,65 @@
   "grock": {
     "mint": "Ey9MHgDFuVGNUmD8tNa1WUy1xAjLarLQPWg5FpVKRu6F",
     "first_seen": "2026-08-06T10:02:21.655844+00:00"
+  },
+  "mgl": {
+    "mint": "DF7C3JtGbfRtDBfq2B3ipUMFezmTvCcjdJfJZH99pump",
+    "first_seen": "2026-08-06T12:14:57.343022+00:00"
+  },
+  "rpsr": {
+    "mint": "DT2xULiYVrRL22aZXrxSwwRBpVvXjcqHm8TvpcMBpump",
+    "first_seen": "2026-08-06T12:14:57.794266+00:00"
+  },
+  "flowers": {
+    "mint": "6TcaSJ2FBD5RvKuMrqTN8vS4mxfCrhQ4rtAH48nHpump",
+    "first_seen": "2026-08-06T12:14:58.156732+00:00"
+  },
+  "chicken": {
+    "mint": "APrRAn41TtZRKweTWDEt8YB223Px1PSpZ3S4rdL3pump",
+    "first_seen": "2026-08-06T12:14:58.534080+00:00"
+  },
+  "foin": {
+    "mint": "H6m29JjnSeygbjTfX3SthTeR523kPtjgvdXg2xxJpump",
+    "first_seen": "2026-08-06T12:14:58.894872+00:00"
+  },
+  "emptybag": {
+    "mint": "7fZCG7P6989V4i7jMiZiVsAmELzMPihgp6Q4iUafpump",
+    "first_seen": "2026-08-06T12:14:59.336106+00:00"
+  },
+  "frok": {
+    "mint": "9XJ6DezeN2ia7tAP4YR4stPFE3VxUuLqgEkEisNNpump",
+    "first_seen": "2026-08-06T12:14:59.692251+00:00"
+  },
+  "dorae": {
+    "mint": "jvFUgAJRKVdBSztxeKkEe4J7aGP2iSJfbQPTKAypump",
+    "first_seen": "2026-08-06T12:15:04.561773+00:00"
+  },
+  "hydao": {
+    "mint": "7XiycwkFwd1ig3yhncPxaq3qwJ6S2RpHc63C541hgmdC",
+    "first_seen": "2026-08-06T12:15:04.602150+00:00"
+  },
+  "acu": {
+    "mint": "BkkRNPV4d6WKNDnV8ELZ6JumxrKU6Bz3NpPswVoxqQZ1",
+    "first_seen": "2026-08-06T12:15:04.741798+00:00"
+  },
+  "a51": {
+    "mint": "CXxLAybPFgp3f3g8kptd6d98PfyKS1abvd6CCZZSpump",
+    "first_seen": "2026-08-06T12:15:05.096677+00:00"
+  },
+  "catecoin": {
+    "mint": "36GuKdF7Z3fVAMVeZQRUPBT2uJd4SuXvmLnmraD7pump",
+    "first_seen": "2026-08-06T12:15:05.588008+00:00"
+  },
+  "arday": {
+    "mint": "8kzojNtviuzBWdb1C6ikc4fdPatTgYnnubBFbrvGpump",
+    "first_seen": "2026-08-06T12:15:05.659739+00:00"
+  },
+  "catdollar": {
+    "mint": "6uNEFjBasbEG8AC1ixSn6T3MrLNSAXRCSDnvdssDpump",
+    "first_seen": "2026-08-06T12:15:06.550411+00:00"
+  },
+  "1f916": {
+    "mint": "Fobn9z9m4p4yZPqDsqahtdhRLKkAcDuL7Udmp3sfpump",
+    "first_seen": "2026-08-06T12:15:07.278889+00:00"
   }
 }
