@@ -38022,5 +38022,49 @@
   "mimimumu": {
     "mint": "YBPUY1zz2QV1vk9X81YekCJC7MNbVxcscQxBiE2pump",
     "first_seen": "2026-08-07T15:40:04.130093+00:00"
+  },
+  "onboardoor": {
+    "mint": "Wahszspbts7og833Fi843JZcUxmN3ZTBsTT11Cbpump",
+    "first_seen": "2026-08-07T16:33:14.521730+00:00"
+  },
+  "babu": {
+    "mint": "6mq5MBMrDwAevFFUyJHs6tdRpP3o9Lf8zZLiTkqUpump",
+    "first_seen": "2026-08-07T16:33:15.383343+00:00"
+  },
+  "axes": {
+    "mint": "FSvyxnmpzKGFhmLnf2SSQaAbjRYBAb9nf7pGqXYdpump",
+    "first_seen": "2026-08-07T16:33:17.128196+00:00"
+  },
+  "duckcoins": {
+    "mint": "RSpSb9pLoKYXYkwyKRwMfJJrMbPxn9x2avnvRgWpump",
+    "first_seen": "2026-08-07T16:33:17.839651+00:00"
+  },
+  "noge": {
+    "mint": "24An4NvzRvsFiSuxUR4gjLp9Y386vgm9s7USJ6pTpump",
+    "first_seen": "2026-08-07T16:33:18.882244+00:00"
+  },
+  "ducks": {
+    "mint": "GDWts5s9US6hToDB2dDg2TnKjgQuhPBtLbJRH6pBpump",
+    "first_seen": "2026-08-07T16:33:20.190120+00:00"
+  },
+  "capybaras": {
+    "mint": "3WjKicaxXVm5QgL8fRdhhscj6Q5pt4fySzj4st7Apump",
+    "first_seen": "2026-08-07T16:33:24.817021+00:00"
+  },
+  "asparagus": {
+    "mint": "9J2H9fBHoJSWtoHVeUde97Xz3662gyBLz6Yapcmvpump",
+    "first_seen": "2026-08-07T16:33:24.896453+00:00"
+  },
+  "canines": {
+    "mint": "7rTzV6rduMEDuMWCrSZN9hE9oUik19cRpXWGJD1hpump",
+    "first_seen": "2026-08-07T16:33:24.958793+00:00"
+  },
+  "tinycate": {
+    "mint": "9uEYq1ANzNWKrMCRosPruhBALrS2NrYovGYa4PLh4hzA",
+    "first_seen": "2026-08-07T16:33:25.256476+00:00"
+  },
+  "dreamcoin": {
+    "mint": "3UGJHrLqzbX4g7GdAWAn5XkhVApT4WHxAewntuWJpump",
+    "first_seen": "2026-08-07T16:33:26.364677+00:00"
   }
 }
