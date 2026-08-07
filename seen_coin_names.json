@@ -37634,5 +37634,49 @@
   "fame": {
     "mint": "G3aQy6aJpZJeVzByqLTq5Atk7ZRhw2v7XBvtGVfipump",
     "first_seen": "2026-08-07T00:14:43.638395+00:00"
+  },
+  "sandbox": {
+    "mint": "9V9P6dEsBw86dkE1PeKt4fo7ZaEKfRsq9YVBFPRBTDpJ",
+    "first_seen": "2026-08-07T03:19:27.553655+00:00"
+  },
+  "10solgiveaw": {
+    "mint": "7FrHBnNpo5YdhtuJBxyDVXji9f6K2kSPunZaQZoipump",
+    "first_seen": "2026-08-07T03:19:28.098851+00:00"
+  },
+  "7day": {
+    "mint": "H7MQkSbjgEeBPM8ufbnwzG1qy7MXwD59nrdzixsopump",
+    "first_seen": "2026-08-07T03:19:28.618261+00:00"
+  },
+  "asa": {
+    "mint": "4ywMrqpCidjaHD5ZNdApGaZuwR5sEVSZcULEbGG9vkjf",
+    "first_seen": "2026-08-07T03:19:29.719343+00:00"
+  },
+  "pln": {
+    "mint": "249hqjXdSscWQzzfv9XR1BUfHChWx2LyiV2MLjQmpump",
+    "first_seen": "2026-08-07T03:19:31.357987+00:00"
+  },
+  "said": {
+    "mint": "4rWuWZei2iFNHYpnz5wjMeSvimsJcj5EgpSNvNS1pump",
+    "first_seen": "2026-08-07T03:19:36.147922+00:00"
+  },
+  "ttwo": {
+    "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+    "first_seen": "2026-08-07T03:19:36.862121+00:00"
+  },
+  "gst": {
+    "mint": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
+    "first_seen": "2026-08-07T03:19:37.215767+00:00"
+  },
+  "wig": {
+    "mint": "Gs2LiwnYtHPNmRqwzMChKKcdZQfDsvm782dwzuqQpump",
+    "first_seen": "2026-08-07T03:19:37.646064+00:00"
+  },
+  "slick": {
+    "mint": "6AdqeFQUUNmzQux2FTfzoP4KWr3vjy6syvSW5B4Kpump",
+    "first_seen": "2026-08-07T03:19:38.033911+00:00"
+  },
+  "megucoin": {
+    "mint": "88W2HHozq77e3EBcw5NmRb8WhKjYZDi6xR5RGsuXpump",
+    "first_seen": "2026-08-07T03:19:38.477447+00:00"
   }
 }
