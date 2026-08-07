@@ -37918,5 +37918,33 @@
   "pumpchain": {
     "mint": "HDJeC6gSxp6Yf8JUBGNi5euDgGo2cBP3QZEUbVvNpump",
     "first_seen": "2026-08-07T12:12:17.481917+00:00"
+  },
+  "ace": {
+    "mint": "FRgWLLrt8Dkb3w5x67RR3Gsb182CSn4rA83i6cmi9DBx",
+    "first_seen": "2026-08-07T13:42:28.998772+00:00"
+  },
+  "glimon": {
+    "mint": "46siviwddJErkuKRPZesFfoBqBweUiQ3fnq5fEoepump",
+    "first_seen": "2026-08-07T13:42:29.453214+00:00"
+  },
+  "plan": {
+    "mint": "Eoee4FWy1DSwRfmY6Le2UDqGgcw8gfNPgQD8tcEdpump",
+    "first_seen": "2026-08-07T13:42:30.909059+00:00"
+  },
+  "agentp": {
+    "mint": "24A542EXfLxJJNZ13AoGJf9Ji2K9PesK3gpQ1Un3pump",
+    "first_seen": "2026-08-07T13:42:32.651502+00:00"
+  },
+  "sidd": {
+    "mint": "ErswBqvawMAF5b28wNw7Czt6BVsJz5KAnjPcofCApump",
+    "first_seen": "2026-08-07T13:42:34.645869+00:00"
+  },
+  "wabi": {
+    "mint": "DxVHPe4oB64XUPDTc7Vp4a18pgKsCn7b6C61PdmQpump",
+    "first_seen": "2026-08-07T13:42:34.999992+00:00"
+  },
+  "ravecat": {
+    "mint": "mNzssXQ9hU1ASJ1CVuu4JjrFBrfeVdR2JzirKS3pump",
+    "first_seen": "2026-08-07T13:42:35.351924+00:00"
   }
 }
