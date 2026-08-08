@@ -39442,5 +39442,37 @@
   "stake": {
     "mint": "CbyTYb5npasw2GFjSaTEXzXhhJfSBcArCn9jUwRewcb3",
     "first_seen": "2026-08-08T22:58:13.903608+00:00"
+  },
+  "catsdaq": {
+    "mint": "2Ke7PSd6DZnnD9rr5zWbGnjKaJ3Vq3ENRZNAnKz9pump",
+    "first_seen": "2026-08-08T23:32:14.899883+00:00"
+  },
+  "realog": {
+    "mint": "7ubv4JEQcerqKNeReTNByLbnWf8TmPzgd7tRfrbkpump",
+    "first_seen": "2026-08-08T23:32:16.157242+00:00"
+  },
+  "fomoon": {
+    "mint": "KLpzGAoTZkZWjAPqQK1Dw6uX52zmG8X5xwoTYdYpump",
+    "first_seen": "2026-08-08T23:32:17.896810+00:00"
+  },
+  "privilege": {
+    "mint": "J9Kzgfy659wgh9HL9TbMUrdeC6fbXJkyptLFasYQHLuW",
+    "first_seen": "2026-08-08T23:32:19.015210+00:00"
+  },
+  "mintbyte": {
+    "mint": "6KvEczWWotkFfyUQTJcYEPwmKHsxDVnixe5Jsi3Hpump",
+    "first_seen": "2026-08-08T23:32:20.160345+00:00"
+  },
+  "mothercat": {
+    "mint": "7ZGCZeZeB9rMiPNsWsoANGPCxNrSWqjVPNkky7Xwpump",
+    "first_seen": "2026-08-08T23:32:25.626456+00:00"
+  },
+  "kekistan": {
+    "mint": "5LEz2jUEVRqurTpQuqQHa8qtT8VmPaw3VxN9W88ChBxb",
+    "first_seen": "2026-08-08T23:32:31.208574+00:00"
+  },
+  "hellpad": {
+    "mint": "8L3FTjGtCofy4zaJUrp4Cxf5xdZtKEsn2qHpHu9YiSvn",
+    "first_seen": "2026-08-08T23:32:31.969586+00:00"
   }
 }
