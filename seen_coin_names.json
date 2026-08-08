@@ -38506,5 +38506,25 @@
   "frohorse": {
     "mint": "9p84TE2ZwH8PXU7QMvj8ieK3TWodZPdCjpE8Q2uMpump",
     "first_seen": "2026-08-08T02:18:27.799245+00:00"
+  },
+  "scrvan": {
+    "mint": "G5Xe6yE2sbiuJQ186FvG48kpEHaGpoTXbuvdi7Zypump",
+    "first_seen": "2026-08-08T03:47:22.976309+00:00"
+  },
+  "prometheous": {
+    "mint": "51W3Ef2i1dvgMdHE4PeK8UKXtJTkNnVX6Vak5F2Vpump",
+    "first_seen": "2026-08-08T03:47:24.188121+00:00"
+  },
+  "frdn": {
+    "mint": "EjcUQ1Yh9eQCL1RYAztMQyJXAQqnQWC3YaFd7zASpump",
+    "first_seen": "2026-08-08T03:47:25.965281+00:00"
+  },
+  "mascot": {
+    "mint": "HRPTDiL4yoCFwXxSz17QJ23wpGT3p9m1RVfr5oWkpump",
+    "first_seen": "2026-08-08T03:47:27.235103+00:00"
+  },
+  "wenelonposts": {
+    "mint": "6Pcr9ipLHFPYerQ99Ad1yyPT2YNqXmucH7omsnEQpump",
+    "first_seen": "2026-08-08T03:47:29.479445+00:00"
   }
 }
