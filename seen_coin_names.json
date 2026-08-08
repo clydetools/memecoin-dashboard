@@ -39066,5 +39066,53 @@
   "sook": {
     "mint": "HfgV3Y9WUMuK7kyQmw3sCYByUBdWDkJPXsoKhJg7pump",
     "first_seen": "2026-08-08T16:55:56.639770+00:00"
+  },
+  "catboat": {
+    "mint": "CwVF1YS3femanrg8234TqVjy7BzbrPBwVMTzfWijpump",
+    "first_seen": "2026-08-08T17:26:37.734175+00:00"
+  },
+  "iou": {
+    "mint": "bvvTVRZm2wFChk7NApKWyTVn6QpRrTzsjpeRcd4pump",
+    "first_seen": "2026-08-08T17:26:39.170058+00:00"
+  },
+  "sapolandia": {
+    "mint": "5vz6tQqmAp3Enr35HxakwyVsDmNMYYy7kiVmrZEpump",
+    "first_seen": "2026-08-08T17:26:39.540104+00:00"
+  },
+  "cloq": {
+    "mint": "Dez2es88SUXrPq7zrxc8H9Gkv6F8Jr7EgD8nggZLpump",
+    "first_seen": "2026-08-08T17:26:40.549810+00:00"
+  },
+  "berwiz": {
+    "mint": "gZHv7Puxvyc78mB5e2rJNPMnPgBCdK7E8zSUj7xpump",
+    "first_seen": "2026-08-08T17:26:40.900448+00:00"
+  },
+  "babysling": {
+    "mint": "9xJtE6ncgTw7XVMX4zHsY7dweNCxsCyadch7MGX5pump",
+    "first_seen": "2026-08-08T17:26:42.218829+00:00"
+  },
+  "purr": {
+    "mint": "uXRrSfvqqHJptfBjE2BPLsefSNEbkb51CQFKPpTpump",
+    "first_seen": "2026-08-08T17:26:42.573159+00:00"
+  },
+  "grwa": {
+    "mint": "5bD6cwFM2bXQwasQivf2J4kjoRsRsJgb6E9uDqEwpump",
+    "first_seen": "2026-08-08T17:26:42.920594+00:00"
+  },
+  "geom": {
+    "mint": "6dX5M8DY6VTFtVRX5yzWn9RE4MkJTyoAVbAodk6cpump",
+    "first_seen": "2026-08-08T17:26:48.131708+00:00"
+  },
+  "skogtroll": {
+    "mint": "G5dyx7UfnX6TeHqrPVAM7qNMXznAsvjtbsbTCNbRpump",
+    "first_seen": "2026-08-08T17:26:48.182683+00:00"
+  },
+  "toadcat": {
+    "mint": "2wRUvhPAw6y3yLXX21Wk1fFtA12nm81YYCeVqy9wqqKn",
+    "first_seen": "2026-08-08T17:26:48.773839+00:00"
+  },
+  "clawmbat": {
+    "mint": "FC6WBsiqnoq5KqjcXA5mawtshXkTDFPjY3DevsNppump",
+    "first_seen": "2026-08-08T17:26:50.132261+00:00"
   }
 }
