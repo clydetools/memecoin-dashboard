@@ -38778,5 +38778,41 @@
   "maru": {
     "mint": "Etn5sZVyKfYY3tqLqctEA4sqKW5Psy221wKNo7K6pump",
     "first_seen": "2026-08-08T11:14:49.671828+00:00"
+  },
+  "gooncat": {
+    "mint": "HRcfM3wo7hrzu3qdaTP9aAdGZM8Y2A1dtCnsSEM4pump",
+    "first_seen": "2026-08-08T11:47:29.511466+00:00"
+  },
+  "whitecat": {
+    "mint": "3KrK6ip7Yd7HcZisTJEuFXRbFd9NjrGTwpMry7CWpump",
+    "first_seen": "2026-08-08T11:47:30.395148+00:00"
+  },
+  "familia": {
+    "mint": "7QbJPRtxigZGy687kzUW1nWsgZ5seYPDeePpqYHqpump",
+    "first_seen": "2026-08-08T11:47:32.850034+00:00"
+  },
+  "torto": {
+    "mint": "DgHut94A38uGV1zxcLVdVfD4YV1r7UoycNtHWwQWpump",
+    "first_seen": "2026-08-08T11:47:33.723924+00:00"
+  },
+  "ellie": {
+    "mint": "EANdxc7x3tHxnsFnuXEEHyVBgK9iJui8ZG2gwVUYpump",
+    "first_seen": "2026-08-08T11:47:40.126444+00:00"
+  },
+  "yeenballin": {
+    "mint": "7wZyC5poWJFukcgmQTszLMbB3L1Rz4kJbu7XrPXxpump",
+    "first_seen": "2026-08-08T11:47:40.174942+00:00"
+  },
+  "blink": {
+    "mint": "DwAq3xURyT5MRKeEU9mKj7BcnpXxri1NR2xtiCP1pump",
+    "first_seen": "2026-08-08T11:47:40.208866+00:00"
+  },
+  "vixen": {
+    "mint": "6MA2JKo8YWV43g8de5NLehbKqKkDZcaZQ6zGAoAtpump",
+    "first_seen": "2026-08-08T11:47:41.095880+00:00"
+  },
+  "malysh": {
+    "mint": "ArzrBsTWQZcLVckf33uc4n9m8su5KnbjkdzYJP9end48",
+    "first_seen": "2026-08-08T11:47:41.224565+00:00"
   }
 }
