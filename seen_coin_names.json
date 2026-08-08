@@ -39226,5 +39226,33 @@
   "frogwif": {
     "mint": "77iHpwpCrZZaEioFgASdjU3wYfJvknr7wQQKgfHepump",
     "first_seen": "2026-08-08T19:47:24.103679+00:00"
+  },
+  "kenny": {
+    "mint": "FT5GbiroQLb8QBBCebav6umspJpwS8oMuk1HDRYapump",
+    "first_seen": "2026-08-08T20:12:07.192817+00:00"
+  },
+  "totes": {
+    "mint": "CuKRNcqDUaDXNSw2C2kf7coqrv6vxXmrSK77JnLGsE1T",
+    "first_seen": "2026-08-08T20:12:09.382153+00:00"
+  },
+  "qpc": {
+    "mint": "EohU89w8PW1cb6Pq5RvgWRGVMiDNc16w8makQzXypump",
+    "first_seen": "2026-08-08T20:12:10.134033+00:00"
+  },
+  "yhq": {
+    "mint": "Ge6Be1SGoSQqgwe43RD9Fasg44GQHT1QnFhaGH9Dpump",
+    "first_seen": "2026-08-08T20:12:10.533850+00:00"
+  },
+  "mrtoad": {
+    "mint": "5AsZvQQLGJvnbSRQgnB3hxy7BY9k8vJxKF2uDVjzpump",
+    "first_seen": "2026-08-08T20:12:10.920299+00:00"
+  },
+  "bagworkv2": {
+    "mint": "F758yDUvvXER7adq4T3eMfo1fo7kUbBdQ1xUZ2Tgpump",
+    "first_seen": "2026-08-08T20:12:11.349475+00:00"
+  },
+  "daw": {
+    "mint": "27d3FkLUiMkKLD1U3swkDsotUwMfbzU8Y1ri2J7VjGmD",
+    "first_seen": "2026-08-08T20:12:12.441947+00:00"
   }
 }
