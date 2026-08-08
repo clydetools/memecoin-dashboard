@@ -38618,5 +38618,33 @@
   "imagine": {
     "mint": "9NyH2MG44Dxem1CUtbKDdDVDRSzn9yV2vmoN4xghpump",
     "first_seen": "2026-08-08T06:10:26.553333+00:00"
+  },
+  "fnzero": {
+    "mint": "EiJQSNge8rvwCUCK3rgLBRkTg3VQsTJ95c8KRY8Rpump",
+    "first_seen": "2026-08-08T07:13:28.101133+00:00"
+  },
+  "ribbon": {
+    "mint": "CU7NdBJ4PtySeCmD26gKZ2ugvVSQtY6VCuRnvCsWpump",
+    "first_seen": "2026-08-08T07:13:28.715613+00:00"
+  },
+  "meowers": {
+    "mint": "Cv6wN86qMHsBZufUpHrWNC4Td3tKwiKaP2Rncrdrpump",
+    "first_seen": "2026-08-08T07:13:29.260796+00:00"
+  },
+  "coining": {
+    "mint": "7jUrKtJmUCj6Babv64tPHSHekqfTExqBfqoxrbuZpump",
+    "first_seen": "2026-08-08T07:13:33.644543+00:00"
+  },
+  "foxsheep": {
+    "mint": "94oKPK2Vyar95JUgrGFfTYhc7NdwjoSKkRGbXgywpump",
+    "first_seen": "2026-08-08T07:13:35.613892+00:00"
+  },
+  "sisyphus": {
+    "mint": "H5k39AdqXSVm9b8DDpK8rY3BYY2QoKTHNeSrKDgTpump",
+    "first_seen": "2026-08-08T07:13:40.847400+00:00"
+  },
+  "louie": {
+    "mint": "AENK1YJ9978xp19xQLKat6eNmndf7Jg2FxFfKiwvpump",
+    "first_seen": "2026-08-08T07:13:40.917653+00:00"
   }
 }
