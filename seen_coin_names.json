@@ -38866,5 +38866,33 @@
   "ploddy": {
     "mint": "HSf6w34nAHiQ2uTPsFH3gSjae7rvbEmgoBEQm2uzpump",
     "first_seen": "2026-08-08T13:16:10.954156+00:00"
+  },
+  "apeer": {
+    "mint": "2xu1F4Z9WzR2wQqBbgTSqdRtx9Nq6LTJXrBZ6ZX8pump",
+    "first_seen": "2026-08-08T14:00:03.493058+00:00"
+  },
+  "pepethouds": {
+    "mint": "pPzLGA47cvbDeCwy19tMH9985yX7QWkocGhU9swpump",
+    "first_seen": "2026-08-08T14:00:04.569057+00:00"
+  },
+  "mystic": {
+    "mint": "6UnEg89iG2FXJQJHZk5EUSW4rMDoK9xoT3yDbicTpump",
+    "first_seen": "2026-08-08T14:00:04.965823+00:00"
+  },
+  "suuuper": {
+    "mint": "Hd3PKA1V6sVEgiBoUBXXE4nWyPK6ckp6rfZubicCpump",
+    "first_seen": "2026-08-08T14:00:05.719531+00:00"
+  },
+  "trenchcat": {
+    "mint": "2S15wEkV8bi2RtsfhrnG9rsy1ddncUgLJeh93Du1CopK",
+    "first_seen": "2026-08-08T14:00:11.657384+00:00"
+  },
+  "usfr": {
+    "mint": "CRX1huSdDAd7w99Xca2dAwsEVxkA5N5rqp4zNrgGXiFS",
+    "first_seen": "2026-08-08T14:00:11.752817+00:00"
+  },
+  "wbs": {
+    "mint": "BfNenwE1yfhr42o1dSw5psFQ3XhxsrSiK5UmSQVNNnHA",
+    "first_seen": "2026-08-08T14:00:12.589086+00:00"
   }
 }
