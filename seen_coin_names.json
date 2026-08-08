@@ -39326,5 +39326,45 @@
   "annie": {
     "mint": "77o6AFstAET2hRy5k9inn3vofy7FhrprixEHAV4PLvJM",
     "first_seen": "2026-08-08T21:27:17.763731+00:00"
+  },
+  "plague": {
+    "mint": "DQtaqZwH1RSCehzKgwe6pmcYAzmN4pgbNuyv8ojrpump",
+    "first_seen": "2026-08-08T21:56:13.961831+00:00"
+  },
+  "bonecrusher": {
+    "mint": "HQBKr8ixwAJBQ6iiKDQCGCF6jRjTqWdgwCx3NMjwpump",
+    "first_seen": "2026-08-08T21:56:14.526043+00:00"
+  },
+  "toadbull": {
+    "mint": "2Jsu5Je8K4FNExf9jhhrnHbUP75E7CSves1JQNaWpump",
+    "first_seen": "2026-08-08T21:56:15.097698+00:00"
+  },
+  "lure": {
+    "mint": "CXncB6cSyCTnzhAEvdxMSRrZv4j79L7x7dr6zpuJpump",
+    "first_seen": "2026-08-08T21:56:15.762787+00:00"
+  },
+  "wclaude": {
+    "mint": "3R69XGqgawygDKF5xVLCkn1xAqpgMQodrBDYDLv3pump",
+    "first_seen": "2026-08-08T21:56:16.357356+00:00"
+  },
+  "you": {
+    "mint": "Eynk9tsC3DtQqjUCa3fKvUUaudW6xtJ9fSvyubVbpump",
+    "first_seen": "2026-08-08T21:56:17.430401+00:00"
+  },
+  "benguin": {
+    "mint": "RfHyRKsNzQ8XNRdfDhrsffHVoHbLZkKMJoi3AB3pump",
+    "first_seen": "2026-08-08T21:56:18.474686+00:00"
+  },
+  "dsc": {
+    "mint": "2LFs1QshAYzEWv5gJ7WDWNjETS61q7Rphizx74tZpump",
+    "first_seen": "2026-08-08T21:56:21.942178+00:00"
+  },
+  "snapper": {
+    "mint": "7Ae5BS9MGenuB8EXJZUNGJanxCyjgW4dfCqyrtV1XuRr",
+    "first_seen": "2026-08-08T21:56:26.496070+00:00"
+  },
+  "victor": {
+    "mint": "AauaUotUEtrBbnioiL1TQGzLR1xXLeAGELNesPpHvzkf",
+    "first_seen": "2026-08-08T21:56:26.554285+00:00"
   }
 }
