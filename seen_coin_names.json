@@ -39190,5 +39190,41 @@
   "tbear": {
     "mint": "FYhhqKpdoYnGCYnvn7Db8NiABucTuAqGD59DSmYnpump",
     "first_seen": "2026-08-08T19:16:21.071106+00:00"
+  },
+  "viking": {
+    "mint": "FkYvz8GErPTGDejYbynnVW8c8jDFdYCys8bhdzxgpump",
+    "first_seen": "2026-08-08T19:47:10.961076+00:00"
+  },
+  "attrade": {
+    "mint": "AGf2cQBcaZsdxEXGjRVWGTaTnCPQxNRPTSuwU8SWpump",
+    "first_seen": "2026-08-08T19:47:12.182855+00:00"
+  },
+  "memelife": {
+    "mint": "5UkonD4Lx2pCzLwwPJyfUjpcoDgcYfJMoyu7e66jpump",
+    "first_seen": "2026-08-08T19:47:13.725710+00:00"
+  },
+  "fks": {
+    "mint": "EjyYRCHLhknABtwVMMdjVLdPpqcqScZ1c1fPJwA6pump",
+    "first_seen": "2026-08-08T19:47:14.255342+00:00"
+  },
+  "launchpan": {
+    "mint": "3QXetUv4haUXYvMysCnCgPB4kweAw1xMkK5xwPyZpump",
+    "first_seen": "2026-08-08T19:47:15.309162+00:00"
+  },
+  "funcoin": {
+    "mint": "A8gRxks1QFS4icNsddUC2mcwTuqm7WqgdBDy6uNBpump",
+    "first_seen": "2026-08-08T19:47:16.353967+00:00"
+  },
+  "fkp": {
+    "mint": "8s23Q18Gdz3BeC18bY6RYzsXUWzaVfXojTFdg9Zgpump",
+    "first_seen": "2026-08-08T19:47:18.420387+00:00"
+  },
+  "doggs": {
+    "mint": "EGkKAyfFi1jJpUJHFubbsdvS6SKmc4tQuyAUy8Sjpump",
+    "first_seen": "2026-08-08T19:47:19.456509+00:00"
+  },
+  "frogwif": {
+    "mint": "77iHpwpCrZZaEioFgASdjU3wYfJvknr7wQQKgfHepump",
+    "first_seen": "2026-08-08T19:47:24.103679+00:00"
   }
 }
