@@ -39254,5 +39254,33 @@
   "daw": {
     "mint": "27d3FkLUiMkKLD1U3swkDsotUwMfbzU8Y1ri2J7VjGmD",
     "first_seen": "2026-08-08T20:12:12.441947+00:00"
+  },
+  "pomo": {
+    "mint": "8YjvhrxFMYVwASbjpJ95msYt3tYC4sfRv6s2bupwpump",
+    "first_seen": "2026-08-08T20:51:32.433607+00:00"
+  },
+  "kabutoad": {
+    "mint": "3kBKZq336EsA5cnNsq1bjYgRGeao5BTgZFEpmTS7pump",
+    "first_seen": "2026-08-08T20:51:33.219879+00:00"
+  },
+  "twowigs": {
+    "mint": "2EMwZcw1Qd7sxD8r2a9hemPu5yDU4uitD7NShvNDpump",
+    "first_seen": "2026-08-08T20:51:33.612640+00:00"
+  },
+  "achlys": {
+    "mint": "7nENMJ2gS5ToB6NyTuQ5BKiPx92Psi4BVQN67d4Qpump",
+    "first_seen": "2026-08-08T20:51:34.255476+00:00"
+  },
+  "elot": {
+    "mint": "AbNNre5ac5QbKDeNgSArBEdATgCZz6pu17jiRSxrxDDU",
+    "first_seen": "2026-08-08T20:51:39.632254+00:00"
+  },
+  "pomeranian": {
+    "mint": "DfmUxZaGKH46tY2YgL5YLbQXg5FKup6Ftf666Ea5pump",
+    "first_seen": "2026-08-08T20:51:39.679053+00:00"
+  },
+  "hypnotoad": {
+    "mint": "57miZy94FL6iS3foTX6hJWp51aET8MAoZGT4zYuupump",
+    "first_seen": "2026-08-08T20:51:39.761438+00:00"
   }
 }
