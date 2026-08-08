@@ -38758,5 +38758,25 @@
   "prometheus": {
     "mint": "63zfjPfH4uaX3TQZoD35WqUrqiuCQQWndMTxQHsJpump",
     "first_seen": "2026-08-08T10:48:46.238947+00:00"
+  },
+  "wtbl": {
+    "mint": "3cTHDo2eNj3mSQsBsQ28oPy9kA6QGPuXBZFVU61Qpump",
+    "first_seen": "2026-08-08T11:14:36.153563+00:00"
+  },
+  "narra": {
+    "mint": "7C6fLEBBPyA7T12isgV87kjcLoVR2nBDBiUJhGaWpump",
+    "first_seen": "2026-08-08T11:14:48.580133+00:00"
+  },
+  "rosie": {
+    "mint": "9QSjVAg5rDfBZPhvKwZcB63St3r6bqohP3Adurkjpump",
+    "first_seen": "2026-08-08T11:14:48.933826+00:00"
+  },
+  "nintondo": {
+    "mint": "EAm9mT1W8qTseijesS6ZLLVq34dDdGZjvBPaZKiGpump",
+    "first_seen": "2026-08-08T11:14:49.301591+00:00"
+  },
+  "maru": {
+    "mint": "Etn5sZVyKfYY3tqLqctEA4sqKW5Psy221wKNo7K6pump",
+    "first_seen": "2026-08-08T11:14:49.671828+00:00"
   }
 }
