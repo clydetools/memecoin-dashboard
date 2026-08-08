@@ -39402,5 +39402,45 @@
   "stonkbroke": {
     "mint": "2D8Zr2n8v1FR3R7zUY5BwcX6WBAUCdVEKmm8HBkUkoM6",
     "first_seen": "2026-08-08T22:26:59.036778+00:00"
+  },
+  "stg": {
+    "mint": "2u6ffy22E6HArJAqGdubAZ91DXUgKM2pfBqcJdxGpump",
+    "first_seen": "2026-08-08T22:58:01.124522+00:00"
+  },
+  "tigerinu": {
+    "mint": "3VUfxU1C9xJPNLifS5upy5CzTkaYRHSx3PtS2ppapump",
+    "first_seen": "2026-08-08T22:58:01.895605+00:00"
+  },
+  "ogdoug": {
+    "mint": "AbUfn2WkPgSeHSCWWKhzv9yVPyjsjMzwziPCXNUypump",
+    "first_seen": "2026-08-08T22:58:02.921179+00:00"
+  },
+  "soho": {
+    "mint": "24FE5iJ4FtJGbyTgMuZnUH6YieH6kWj5v4owy6zUpump",
+    "first_seen": "2026-08-08T22:58:03.275519+00:00"
+  },
+  "jewlex": {
+    "mint": "EZauXhmxGsgEueByarRVZqMHurW4TqeojRNu6iikpump",
+    "first_seen": "2026-08-08T22:58:04.101816+00:00"
+  },
+  "frogtoad": {
+    "mint": "Eb7uqG4dnJcjvQCguxReoi7Qf81A7mKEM5neJmvzpump",
+    "first_seen": "2026-08-08T22:58:05.142932+00:00"
+  },
+  "doug": {
+    "mint": "9qPs7QY8aMgf5dECHAcQWG6BVWGDszmNYHyFSucYpump",
+    "first_seen": "2026-08-08T22:58:06.172943+00:00"
+  },
+  "drknker": {
+    "mint": "C9PFxd4YxcG3ScnpYMMNu2H5J1SibRv9qQ3F51Kipump",
+    "first_seen": "2026-08-08T22:58:07.829142+00:00"
+  },
+  "usd2": {
+    "mint": "24FEQCbqcbV93f9HRjjaZrrJsNLCeR8toZb1o8FRpump",
+    "first_seen": "2026-08-08T22:58:09.004531+00:00"
+  },
+  "stake": {
+    "mint": "CbyTYb5npasw2GFjSaTEXzXhhJfSBcArCn9jUwRewcb3",
+    "first_seen": "2026-08-08T22:58:13.903608+00:00"
   }
 }
