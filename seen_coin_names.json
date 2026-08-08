@@ -38838,5 +38838,33 @@
   "tfc": {
     "mint": "9fWLWwvHPuLjQiL65tU4bXf6jsB4L9TQXVWuWveXpump",
     "first_seen": "2026-08-08T12:17:03.092211+00:00"
+  },
+  "squishmallow": {
+    "mint": "5FiwkwBm58HotmNWU69NFch2KGZgWoTf1eyUNT69pump",
+    "first_seen": "2026-08-08T13:16:03.531273+00:00"
+  },
+  "wbsm": {
+    "mint": "ATDFtJbEF1UUBpekB6abjrj9GzErxiri95MPx2sHpump",
+    "first_seen": "2026-08-08T13:16:03.915944+00:00"
+  },
+  "quality": {
+    "mint": "269246hq8gyxw8d85yjafUwHphopHrj7cM3h7syBpump",
+    "first_seen": "2026-08-08T13:16:04.316305+00:00"
+  },
+  "jorge": {
+    "mint": "4oMsea7BndzZzsd4JMD1WoX5AHhWQXiZdtxTL4b3pump",
+    "first_seen": "2026-08-08T13:16:05.004374+00:00"
+  },
+  "supremecourt": {
+    "mint": "7dpjjAyLszQsg71vBA68cxpLbnsV2oEVCUhQF4SBpump",
+    "first_seen": "2026-08-08T13:16:05.359352+00:00"
+  },
+  "cream": {
+    "mint": "31ujEPcQgxVupeL3txvAUWAjid3FwC4LrHZjDjyypump",
+    "first_seen": "2026-08-08T13:16:06.029159+00:00"
+  },
+  "ploddy": {
+    "mint": "HSf6w34nAHiQ2uTPsFH3gSjae7rvbEmgoBEQm2uzpump",
+    "first_seen": "2026-08-08T13:16:10.954156+00:00"
   }
 }
