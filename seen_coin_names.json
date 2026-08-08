@@ -38526,5 +38526,57 @@
   "wenelonposts": {
     "mint": "6Pcr9ipLHFPYerQ99Ad1yyPT2YNqXmucH7omsnEQpump",
     "first_seen": "2026-08-08T03:47:29.479445+00:00"
+  },
+  "alliswell": {
+    "mint": "4fE3kpznBZqrLFNTNvFwkeKjsCXAP1hhVUnpFodFpump",
+    "first_seen": "2026-08-08T04:42:02.563471+00:00"
+  },
+  "web3": {
+    "mint": "73zX5aH7TwQpWN9U5RkDGYEzNjZrwBfbJnyQBgznpump",
+    "first_seen": "2026-08-08T04:42:02.920287+00:00"
+  },
+  "dunkcat": {
+    "mint": "F7vepk98wpBHdjjFgVFbsab1ZY9mJSu9GpCB5bT7pump",
+    "first_seen": "2026-08-08T04:42:03.272533+00:00"
+  },
+  "badjak": {
+    "mint": "Cq6CNKV6bv89sPhZ7ESFiNJxkxPC9or7LcT6VbJgpump",
+    "first_seen": "2026-08-08T04:42:05.035297+00:00"
+  },
+  "nepenthes": {
+    "mint": "7Q4jMQf1TybMECeksPg6W3xn3jFyCoWUHTjWsUm7pump",
+    "first_seen": "2026-08-08T04:42:06.736744+00:00"
+  },
+  "chosenone": {
+    "mint": "AHEHZdQobR8qJ6VP89481DXBydxggKbPJQzYeU67pump",
+    "first_seen": "2026-08-08T04:42:07.084526+00:00"
+  },
+  "toofy": {
+    "mint": "8Q2GaJtmhRpKeK1MZDuHELsExq4Dsfdv1NWrD6BDpump",
+    "first_seen": "2026-08-08T04:42:07.439195+00:00"
+  },
+  "rlcd": {
+    "mint": "8WnhvMHaYtMQoZPzD6xZAjTbtjznTpkeWk6Mbjsopump",
+    "first_seen": "2026-08-08T04:42:08.127713+00:00"
+  },
+  "pissinu": {
+    "mint": "7x625ySohTvGL9hmFm6tBssCQ5xTUsH1RYM5L1xipump",
+    "first_seen": "2026-08-08T04:42:13.686128+00:00"
+  },
+  "hodlcat": {
+    "mint": "4hodAAGHxJMCjpvbmztvqnmcMYjXoHJ6YaizZ2Khpump",
+    "first_seen": "2026-08-08T04:42:13.745285+00:00"
+  },
+  "saymen": {
+    "mint": "GQhejHCeGDgXfciLzqgg8PDAqbavRsAR9wxShhoDpump",
+    "first_seen": "2026-08-08T04:42:14.219650+00:00"
+  },
+  "burstcoin": {
+    "mint": "9ZRshboLUeFoXtFqu1ruUsv2hNfvKmWF9xkkgeY3pump",
+    "first_seen": "2026-08-08T04:42:14.335791+00:00"
+  },
+  "raccoonzilla": {
+    "mint": "6a3JSp2WRCkPV9ew6vhH7fL8qZ5PkugCwyoQPghxpump",
+    "first_seen": "2026-08-08T04:42:14.699072+00:00"
   }
 }
