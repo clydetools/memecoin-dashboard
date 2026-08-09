@@ -39710,5 +39710,49 @@
   "asscoin": {
     "mint": "G3EDZoS49NRVKP8X1HggHZJueJeR8d2izUHeXdV3pump",
     "first_seen": "2026-08-09T06:51:57.006824+00:00"
+  },
+  "dontthink": {
+    "mint": "7PP6WqE3xoB3xKaQX9ZGzTDz8iPvCmcBk54SVivDpump",
+    "first_seen": "2026-08-09T07:52:02.538679+00:00"
+  },
+  "nihilism": {
+    "mint": "9rymJew5Cxzh45C5VnRx6APsjHMJnnHUjCntdfLhpump",
+    "first_seen": "2026-08-09T07:52:03.024890+00:00"
+  },
+  "gsheep": {
+    "mint": "8cXVgAofEUBALpekJekB9sbEXMb19vgggCVJdCwTpump",
+    "first_seen": "2026-08-09T07:52:03.468902+00:00"
+  },
+  "ymtoad": {
+    "mint": "6DZDJ45swdTFX8swLUoQQ9oSpzhx3CjTnn3n5WGtpump",
+    "first_seen": "2026-08-09T07:52:04.311529+00:00"
+  },
+  "tut": {
+    "mint": "AuQN81BLTfMfkSb73F2YPTaYwwJBsAo6RRksMgUKA1rf",
+    "first_seen": "2026-08-09T07:52:08.813606+00:00"
+  },
+  "888": {
+    "mint": "2kYG1tJYQ14nVC26PTPtBraDzA3NpfnnJuaHrM7Wpump",
+    "first_seen": "2026-08-09T07:52:09.324880+00:00"
+  },
+  "pintail": {
+    "mint": "EWiVfvwDWaQ72N6hViMT5MEQ2y5fDtWrSdtXUUXR9Xv4",
+    "first_seen": "2026-08-09T07:52:09.492866+00:00"
+  },
+  "nosis": {
+    "mint": "FPfi9q1AixdUeWQVPFHJMJQ7a43S78dm6UZ4fzN4pump",
+    "first_seen": "2026-08-09T07:52:09.579741+00:00"
+  },
+  "iln": {
+    "mint": "DKpP7yBMe5JSkjhZxVmYTN7AKc1fKgiWUayhahbRpump",
+    "first_seen": "2026-08-09T07:52:09.801312+00:00"
+  },
+  "moodang": {
+    "mint": "8HyG5qPSp1M5Ez8KvL67NktTyCtHvr6Xn87b2UHNpump",
+    "first_seen": "2026-08-09T07:52:10.400327+00:00"
+  },
+  "firu": {
+    "mint": "7HvY2dyYYtzkjU1u9kniGyuTe41KwVxDCefywaTVf8rV",
+    "first_seen": "2026-08-09T07:52:11.170253+00:00"
   }
 }
