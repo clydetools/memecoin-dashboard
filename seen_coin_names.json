@@ -39754,5 +39754,29 @@
   "firu": {
     "mint": "7HvY2dyYYtzkjU1u9kniGyuTe41KwVxDCefywaTVf8rV",
     "first_seen": "2026-08-09T07:52:11.170253+00:00"
+  },
+  "copper": {
+    "mint": "H5pifPuoEMoCCBTYzHfRA3HskVrrghqj1foPxFK1pump",
+    "first_seen": "2026-08-09T08:38:16.347102+00:00"
+  },
+  "racc": {
+    "mint": "5Bxe3mHJbkj2n2dCCxnaWt2XVCfJWsUXUsmu839spump",
+    "first_seen": "2026-08-09T08:38:18.899695+00:00"
+  },
+  "gigatoad": {
+    "mint": "DXWMy8J8kgYUHff7gLbVjQYH2DvnFWkh92kkrPXUpump",
+    "first_seen": "2026-08-09T08:38:19.443349+00:00"
+  },
+  "rnrapecoin": {
+    "mint": "7mr7PkL3TykbhMVAj6vVPZm8patn1tALTPN6Vgnapump",
+    "first_seen": "2026-08-09T08:38:21.480349+00:00"
+  },
+  "mechakitty": {
+    "mint": "DLhxygJUkW4E5kJw5n4CxdhZArkrvsAWW4GGC9srpump",
+    "first_seen": "2026-08-09T08:38:25.961105+00:00"
+  },
+  "jeje": {
+    "mint": "6ZaQ5yKKbUbNpocw9XaTQUzvsucTcDekofsqAvFRpump",
+    "first_seen": "2026-08-09T08:38:27.749281+00:00"
   }
 }
