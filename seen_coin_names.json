@@ -40110,5 +40110,33 @@
   "blastimals": {
     "mint": "9fLNGCLpPvW2rcEBzg1ELABNeL1riVzH8BY5SLFYpump",
     "first_seen": "2026-08-09T16:31:22.735960+00:00"
+  },
+  "root": {
+    "mint": "A6Pso9PJLrR5ebMFkWUrFuBEHQppX6DRvneVDxbTpump",
+    "first_seen": "2026-08-09T17:07:35.518176+00:00"
+  },
+  "retarded": {
+    "mint": "9fMp8mrJHAgJ1zRowjKGfJDxd5Goduavu6w3X9x7pump",
+    "first_seen": "2026-08-09T17:07:35.960017+00:00"
+  },
+  "k999": {
+    "mint": "2Zf6DU14u1Ps3imnJV242pNMdcpLWq65WG32odLrpump",
+    "first_seen": "2026-08-09T17:07:36.841249+00:00"
+  },
+  "ff": {
+    "mint": "5wjWVjjyQq8nk7retvTRbf3VWQ27UgMHdmuw54jYn98P",
+    "first_seen": "2026-08-09T17:07:38.898255+00:00"
+  },
+  "dogface": {
+    "mint": "B49Jxno83hUfhHA2LLxoXV1hcQJbkCzcLcfqMpa7pump",
+    "first_seen": "2026-08-09T17:07:39.360350+00:00"
+  },
+  "alfe": {
+    "mint": "72Jp8y5bhRSPUb54JiqFsVthA2PmqaxRQU1NAfJVpump",
+    "first_seen": "2026-08-09T17:07:43.674422+00:00"
+  },
+  "lad": {
+    "mint": "5Kc2PwwPkyvRXC8wHgkVfKwxrMGktRuDpwTgAy1bpump",
+    "first_seen": "2026-08-09T17:07:43.769931+00:00"
   }
 }
