@@ -40514,5 +40514,21 @@
   "uotf": {
     "mint": "A5xZVmw54zWgKXcs8tDk18WNovwirD8cahyHLrB5pump",
     "first_seen": "2026-08-09T23:04:54.684851+00:00"
+  },
+  "hodl6": {
+    "mint": "F3j9vW8M2B1jkiJE5uFhyJPYEVKk5jSXXMgd33Dapump",
+    "first_seen": "2026-08-09T23:42:35.148664+00:00"
+  },
+  "biggie": {
+    "mint": "6q9YBEwVRjmMkUQUYtg6PSH3EQsom9oQ6AeoRxozpump",
+    "first_seen": "2026-08-09T23:42:37.346467+00:00"
+  },
+  "xcu": {
+    "mint": "E9sxicZhjDe74VMwxwv8MWLuqJ8hEKodE5j8eipxhwEU",
+    "first_seen": "2026-08-09T23:42:41.595574+00:00"
+  },
+  "gothgirl": {
+    "mint": "SnFRVPWvniob684BE9tjymeJYfSYRNy8ZNkK9A7pump",
+    "first_seen": "2026-08-09T23:42:43.185535+00:00"
   }
 }
