@@ -39878,5 +39878,25 @@
   "chavo": {
     "mint": "9E1Z49oyLK1LMMfiQ6vspBD4UdWkestBWyK8jiHTRiX",
     "first_seen": "2026-08-09T11:49:11.652989+00:00"
+  },
+  "chasu": {
+    "mint": "6zTivdsMU6ZTG4yCfPNf4JAyMHUqBLsQEyfz5T2Upump",
+    "first_seen": "2026-08-09T12:19:20.146553+00:00"
+  },
+  "volwar": {
+    "mint": "92o6yaoS8r3ZaZM88heJdCNj92v6aveEs7nNuhP3pump",
+    "first_seen": "2026-08-09T12:19:23.153651+00:00"
+  },
+  "grok53": {
+    "mint": "J32aJvSnyXK2iQbvLGRwXkzgECJP9YWs2Q35N9Vnpump",
+    "first_seen": "2026-08-09T12:19:23.539851+00:00"
+  },
+  "lnd": {
+    "mint": "9scjyBJzDmjdZMLeLto3STqJDNeviMs7DxpHZv8Fa5es",
+    "first_seen": "2026-08-09T12:19:28.950907+00:00"
+  },
+  "hats": {
+    "mint": "Dtwig1TB9vELQn4atMkqQPA1dgf7FLYSfUaA7xNWpump",
+    "first_seen": "2026-08-09T12:19:29.706351+00:00"
   }
 }
