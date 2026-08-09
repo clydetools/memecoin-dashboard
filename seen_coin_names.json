@@ -39554,5 +39554,37 @@
   "usof": {
     "mint": "mrvLXFRHZp8f6zRFQR6NJ1spACKvkAGzWm5PALMpump",
     "first_seen": "2026-08-09T02:13:59.825793+00:00"
+  },
+  "bark": {
+    "mint": "3RnNpZnbwrPre8tu9wRd1nGdVxCCZzFvYRmTCEGTpump",
+    "first_seen": "2026-08-09T03:54:57.992833+00:00"
+  },
+  "goodboy": {
+    "mint": "9pixuskn73a4zabyPcXxCKRpo88Ps9g1oBZ4oZJPpump",
+    "first_seen": "2026-08-09T03:54:58.854646+00:00"
+  },
+  "drage": {
+    "mint": "JD6pMWv2EhnL59RuNFe6ikGnwV7dWKfHHohiEsHKpump",
+    "first_seen": "2026-08-09T03:54:59.654647+00:00"
+  },
+  "polyverse": {
+    "mint": "3c2z1arzs2PNzgUCoGBSqJ1N43v2dH2UsQmvzTCApump",
+    "first_seen": "2026-08-09T03:55:00.009457+00:00"
+  },
+  "animates": {
+    "mint": "VmtWhe6UnbjRSJDBs9VBhj56MXG1taSXjn6KjChpump",
+    "first_seen": "2026-08-09T03:55:00.678201+00:00"
+  },
+  "sbd": {
+    "mint": "8ujhZprdxVJNE7NDvnmiKn3LuGN32YHxMA4p1UYppump",
+    "first_seen": "2026-08-09T03:55:05.906223+00:00"
+  },
+  "err": {
+    "mint": "CgJmtRPYWHBwgBqqitBkVnysTpz6SHid2t1JXLoDpump",
+    "first_seen": "2026-08-09T03:55:06.632600+00:00"
+  },
+  "licking": {
+    "mint": "4Pfs1cC4qBhibYXaxKFzjfQu2zat2ZKbiBZ3pzxnnHeB",
+    "first_seen": "2026-08-09T03:55:06.767406+00:00"
   }
 }
