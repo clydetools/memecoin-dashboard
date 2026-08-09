@@ -39666,5 +39666,49 @@
   "remus": {
     "mint": "EiKZAWphC65hFKz9kygWgKGcRZUGgdMmH2zSPtbGpump",
     "first_seen": "2026-08-09T05:55:33.999294+00:00"
+  },
+  "mms": {
+    "mint": "8b6Dc3cL4qShHRwPMDThpWoxWDCA2U56P66GwQmFpump",
+    "first_seen": "2026-08-09T06:51:44.884755+00:00"
+  },
+  "gelatos": {
+    "mint": "9rg8u1696voiGoHCNgWZi1eKwKXzKqqtvqE9xNYVpump",
+    "first_seen": "2026-08-09T06:51:45.895340+00:00"
+  },
+  "rhossi": {
+    "mint": "ALJdXqN2EeLzh6mdWMHpHxCSG7csCLb7SnDhfWzGpump",
+    "first_seen": "2026-08-09T06:51:46.372175+00:00"
+  },
+  "drkc": {
+    "mint": "2NMWx32oPwd5EAFLMuJQHDC5a8TU4J5su7ezHC3Gpump",
+    "first_seen": "2026-08-09T06:51:46.866146+00:00"
+  },
+  "chudmax": {
+    "mint": "3SxyZw5WDqtrgVV67ARJ63CzPQoQdm9schauZXY3pump",
+    "first_seen": "2026-08-09T06:51:49.222269+00:00"
+  },
+  "kadu": {
+    "mint": "7FtNxaTmpufnGzitD7BDwbhx6JyPVY8vRCm9FPwxpump",
+    "first_seen": "2026-08-09T06:51:49.743443+00:00"
+  },
+  "reclip": {
+    "mint": "2nvYKXvzGVsGBDezFeVEWk9jAGsNirypRUJTjBhQ4JMh",
+    "first_seen": "2026-08-09T06:51:54.771456+00:00"
+  },
+  "bricked": {
+    "mint": "9BExPXXt5AVBUi8Z6ptRzyAkZH7buFWRW1oLsiispump",
+    "first_seen": "2026-08-09T06:51:54.843294+00:00"
+  },
+  "toadhouse": {
+    "mint": "8cwHMNaTsiGd5YpcFtg8SV6vRdRSDSrAwJ1bQN9Uu9jH",
+    "first_seen": "2026-08-09T06:51:55.894289+00:00"
+  },
+  "saga": {
+    "mint": "3dTtnPaNqbbmJwtzGJymGxnf9LPuLqs7szbS2qieD63C",
+    "first_seen": "2026-08-09T06:51:56.104791+00:00"
+  },
+  "asscoin": {
+    "mint": "G3EDZoS49NRVKP8X1HggHZJueJeR8d2izUHeXdV3pump",
+    "first_seen": "2026-08-09T06:51:57.006824+00:00"
   }
 }
