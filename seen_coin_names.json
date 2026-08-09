@@ -39822,5 +39822,45 @@
   "shgn": {
     "mint": "9kcHAqBcPPURaVincnRrp6tvMXVr2JFEfnT9eRUTpump",
     "first_seen": "2026-08-09T10:49:54.529515+00:00"
+  },
+  "lomito": {
+    "mint": "7unm4uK2Rm7n5yU5h4fX7AmWbeLqo55h6CCrGBvcjzPA",
+    "first_seen": "2026-08-09T11:16:08.929763+00:00"
+  },
+  "tungpac": {
+    "mint": "HbsF7r36o5sai46VTfZnaCDvaAWoV4As3wcnRhq7pump",
+    "first_seen": "2026-08-09T11:16:10.090677+00:00"
+  },
+  "trenchy": {
+    "mint": "5xMjtCcCaf2MnHkBmPXUDU88k9rxNcvDvBXAeyLCpump",
+    "first_seen": "2026-08-09T11:16:10.653085+00:00"
+  },
+  "dajua": {
+    "mint": "5D2Gq3UdHMF9Q5apJjQwaCzCbwW7Mxeao8skF98Ypump",
+    "first_seen": "2026-08-09T11:16:11.184122+00:00"
+  },
+  "simp": {
+    "mint": "9pfnmMt9AouZFyaKx5dACJ1EvA9JJawb26U8xZHapump",
+    "first_seen": "2026-08-09T11:16:11.719314+00:00"
+  },
+  "dankdemoss": {
+    "mint": "DhBhYnJVy1AAVjCVCNdwQYg11o8Jaq1iiUmexw2upump",
+    "first_seen": "2026-08-09T11:16:12.254423+00:00"
+  },
+  "niglock": {
+    "mint": "XgnrmHnBkmYxjGMs8Rmr2TgAssKw71krxET1h3Gpump",
+    "first_seen": "2026-08-09T11:16:14.286100+00:00"
+  },
+  "dankosama": {
+    "mint": "8kE4UEJTehuLNZErZBdCr8ZAe6oEF5fBQnaKoeEapump",
+    "first_seen": "2026-08-09T11:16:15.344817+00:00"
+  },
+  "omen": {
+    "mint": "GZyqN8VmXrfoyyYRob5Lu2xGiXTcg1aLaNmptUpKpump",
+    "first_seen": "2026-08-09T11:16:21.456343+00:00"
+  },
+  "ming": {
+    "mint": "DmSevLDx27zpabUjAYTdmo6rxy8BrfeMn5uENDja8Lpr",
+    "first_seen": "2026-08-09T11:16:22.113331+00:00"
   }
 }
