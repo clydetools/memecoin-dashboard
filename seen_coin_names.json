@@ -40082,5 +40082,33 @@
   "crk": {
     "mint": "86m9XoSbjHmVvAvppNK7CVgzGhnEihXYU7B1NDi2mefG",
     "first_seen": "2026-08-09T15:51:46.475082+00:00"
+  },
+  "foro": {
+    "mint": "5bdgumhM82ziBcJWyW9UpTY6Gssrt38U3wAVDXVGpump",
+    "first_seen": "2026-08-09T16:31:02.286610+00:00"
+  },
+  "coppertoad": {
+    "mint": "AhD6z6pcYrFLvppRZbygVnGsX4r3pbY3ft8Bvs6Ppump",
+    "first_seen": "2026-08-09T16:31:05.865224+00:00"
+  },
+  "asshats": {
+    "mint": "5S4FBVsmbvMRnxKZe3A3w8hTtXECV4qQwE6ttEmpump",
+    "first_seen": "2026-08-09T16:31:06.321052+00:00"
+  },
+  "shoutout": {
+    "mint": "9VAxTpqrUeXxwMrj9dAEvvSfPf3dS9uFbmT6QSZGdwPx",
+    "first_seen": "2026-08-09T16:31:09.159756+00:00"
+  },
+  "fj": {
+    "mint": "AhSkjA6FZk2qqAe1sUrwLK8sb5QSu5vVMvUAeRgHpump",
+    "first_seen": "2026-08-09T16:31:13.288205+00:00"
+  },
+  "eggy": {
+    "mint": "3wdTytXYkoeAu25v5j5idstiHbkvgSUQUHoXyNqhpump",
+    "first_seen": "2026-08-09T16:31:15.043328+00:00"
+  },
+  "blastimals": {
+    "mint": "9fLNGCLpPvW2rcEBzg1ELABNeL1riVzH8BY5SLFYpump",
+    "first_seen": "2026-08-09T16:31:22.735960+00:00"
   }
 }
