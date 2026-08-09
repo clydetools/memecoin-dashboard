@@ -39618,5 +39618,53 @@
   "trump2": {
     "mint": "BqyXGyQ3VYKyZS13HvzeVeUBiyKd4xMYXPDR9KWNpump",
     "first_seen": "2026-08-09T05:01:46.900233+00:00"
+  },
+  "catmoney": {
+    "mint": "A88n8TzzbMyanq2Yw3tQjCvTCCdTc81oRAbquR8pump",
+    "first_seen": "2026-08-09T05:55:19.554123+00:00"
+  },
+  "nada": {
+    "mint": "xvJTKiJyXJC67aSC2rVWHSAYyBrugShY2YgKAvdpump",
+    "first_seen": "2026-08-09T05:55:20.130866+00:00"
+  },
+  "saui": {
+    "mint": "4tYzd1HMkmNuff48dhMaqTVxz6w8mYdmYDMxYh5Dpump",
+    "first_seen": "2026-08-09T05:55:20.699674+00:00"
+  },
+  "toade": {
+    "mint": "FhM2ghWpL64q7ZBApCLyZsbyVm7Domv1vv1cMXCspump",
+    "first_seen": "2026-08-09T05:55:21.241534+00:00"
+  },
+  "catday": {
+    "mint": "CYXkYK45kUqC7185qJFzPfcx8NSKj83mCLnnGPvkpump",
+    "first_seen": "2026-08-09T05:55:21.757374+00:00"
+  },
+  "utah": {
+    "mint": "HgC7ptm26GHUTheCgKbVg4YdRopMrtT8QErVLjR7pump",
+    "first_seen": "2026-08-09T05:55:24.450227+00:00"
+  },
+  "coqu": {
+    "mint": "HfhabweW1pLk5PtjUh14NwmW5FaD7UxzhUsmqdtxpump",
+    "first_seen": "2026-08-09T05:55:25.513027+00:00"
+  },
+  "brian": {
+    "mint": "7C17GMDWxy2wCggRXEKKeTY21B84mT9vv9c6b1vTpump",
+    "first_seen": "2026-08-09T05:55:31.502716+00:00"
+  },
+  "zeny": {
+    "mint": "GsyjVZkKeSowzvpks9gJrznnyHTF21A4cu9TiGBCpump",
+    "first_seen": "2026-08-09T05:55:31.567151+00:00"
+  },
+  "minty": {
+    "mint": "6tfeeBCfQvJTduz3JqE4w2f9rTMNMkgrDKaqfkqRpump",
+    "first_seen": "2026-08-09T05:55:31.651158+00:00"
+  },
+  "pesto": {
+    "mint": "34a8ALsPmbWxp7D3bQ6erERrCLz1ahr6u6o66Udmpump",
+    "first_seen": "2026-08-09T05:55:33.398866+00:00"
+  },
+  "remus": {
+    "mint": "EiKZAWphC65hFKz9kygWgKGcRZUGgdMmH2zSPtbGpump",
+    "first_seen": "2026-08-09T05:55:33.999294+00:00"
   }
 }
