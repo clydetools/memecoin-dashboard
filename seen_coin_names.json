@@ -40170,5 +40170,49 @@
   "suzi": {
     "mint": "A5N1Y1mEjBNnvrZVXd3PKvptBM78YgTqNgbDD1Gkpump",
     "first_seen": "2026-08-09T17:45:38.149447+00:00"
+  },
+  "frogs": {
+    "mint": "EbSKwGk26sPyrZEVQ5W9Qsjc4VGNjShpGvBgREKypump",
+    "first_seen": "2026-08-09T18:16:38.150511+00:00"
+  },
+  "libbit": {
+    "mint": "Gx2ZQdWCDJm2t2uhrPktcnBydok8JiDKk5csAkxLpump",
+    "first_seen": "2026-08-09T18:16:40.044172+00:00"
+  },
+  "hovercar": {
+    "mint": "BskEjHySpdjR2vWrponkk3wNVDzWNLmY3oy34958pump",
+    "first_seen": "2026-08-09T18:16:40.589261+00:00"
+  },
+  "pumpapp": {
+    "mint": "H9Cw89rbkHYJWvH3LNG34vYg2MdEQQzjgCYG8KLDpump",
+    "first_seen": "2026-08-09T18:16:44.278480+00:00"
+  },
+  "nellie": {
+    "mint": "EGsgfMuen37TZGVdo9CLeUekbCy4s6NumwNsKc47pump",
+    "first_seen": "2026-08-09T18:16:44.796908+00:00"
+  },
+  "mooboy": {
+    "mint": "4ckZ4NBr5wDfE1HDm2uuf1cv61pzvgiDxixHnTN7pump",
+    "first_seen": "2026-08-09T18:16:46.792738+00:00"
+  },
+  "moonboys": {
+    "mint": "3rkpMePiuuFeN4hKiutdpxisgeuQ9Ybpke2Mm4sBpump",
+    "first_seen": "2026-08-09T18:16:47.316052+00:00"
+  },
+  "cpmr": {
+    "mint": "CZwHBn6LLqrGEenMx7BgUvstUcab9guHPFYTFQXcpump",
+    "first_seen": "2026-08-09T18:16:48.872456+00:00"
+  },
+  "crazy": {
+    "mint": "3k1XJCwpr9QWKyWvYL5UmBiDfBZV8riAnqEpFtLipump",
+    "first_seen": "2026-08-09T18:16:53.522671+00:00"
+  },
+  "rodri": {
+    "mint": "GAsW5ZCxM3sKTLyNgYq18MDokcPwapM27wCsjfAbpump",
+    "first_seen": "2026-08-09T18:16:53.584779+00:00"
+  },
+  "braxton": {
+    "mint": "C1yJn6yRykgbqaaDYZtThUZoFUMoYhaqkNQKt3iSpump",
+    "first_seen": "2026-08-09T18:16:53.648331+00:00"
   }
 }
