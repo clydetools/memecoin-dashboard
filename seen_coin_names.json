@@ -40062,5 +40062,25 @@
   "theo": {
     "mint": "2N5WjX4sy8W7vovpF4SVHStsYmdHre64aznmoUHApump",
     "first_seen": "2026-08-09T15:16:56.801628+00:00"
+  },
+  "omof": {
+    "mint": "Ftdegk6bUWC89Zd42AFmZdEaJBk5ZxyNUeuJtngJpump",
+    "first_seen": "2026-08-09T15:51:21.351191+00:00"
+  },
+  "junkie": {
+    "mint": "2uBmuBsuTZbSJQqv2MfVAwK3VbUuaG6TJRAQkCmBpump",
+    "first_seen": "2026-08-09T15:51:25.835533+00:00"
+  },
+  "woofy": {
+    "mint": "XgJBJ7vxbVDihZohvQuaHjmQDnunzJsd89nP8ofpump",
+    "first_seen": "2026-08-09T15:51:31.596757+00:00"
+  },
+  "something": {
+    "mint": "H8Nm6E8mjCawToEz3RTQmpnr7oaxtBSLtwBK6PEPXLpz",
+    "first_seen": "2026-08-09T15:51:33.918638+00:00"
+  },
+  "crk": {
+    "mint": "86m9XoSbjHmVvAvppNK7CVgzGhnEihXYU7B1NDi2mefG",
+    "first_seen": "2026-08-09T15:51:46.475082+00:00"
   }
 }
