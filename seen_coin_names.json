@@ -40262,5 +40262,45 @@
   "fam": {
     "mint": "FAMPtu6ghv5m3uTjfX5QSnwhftz1tLqGA1Aydt27aTF",
     "first_seen": "2026-08-09T19:06:16.955344+00:00"
+  },
+  "wagci": {
+    "mint": "H2A3ecWZd17iBEnLC4PMoidAohaMQMSFh7xMnZy8pump",
+    "first_seen": "2026-08-09T19:45:21.847166+00:00"
+  },
+  "fluence": {
+    "mint": "GfUXPKyHsbs8XYL5xgmJ54m94taAvknLpe77YZ1Rpump",
+    "first_seen": "2026-08-09T19:45:22.832029+00:00"
+  },
+  "mi": {
+    "mint": "HS38fNgHScoRBKw74REiXmLghog9kArWqbFmQhhRpump",
+    "first_seen": "2026-08-09T19:45:23.230110+00:00"
+  },
+  "fuuuf": {
+    "mint": "8shBK7sHiUFtUP6UiXDrxM37RLCQZL1SoF1YugC2pump",
+    "first_seen": "2026-08-09T19:45:24.063524+00:00"
+  },
+  "georgie": {
+    "mint": "C9Av5o16DajaxD9pVn5TBKALjgmYHApJohCWrzVHpump",
+    "first_seen": "2026-08-09T19:45:24.510696+00:00"
+  },
+  "goodnarra": {
+    "mint": "CYctKm7vg4F3rSZXmns4zqSoy8EkcCC5atcnX4K5pump",
+    "first_seen": "2026-08-09T19:45:24.989131+00:00"
+  },
+  "graye": {
+    "mint": "BcG5WRgue8WxAMUF5nYwhzJCKWLPvjSXJqAykzdapump",
+    "first_seen": "2026-08-09T19:45:26.237602+00:00"
+  },
+  "glamour": {
+    "mint": "3onizJZHZPRYc8VLi2iggfXTS7fBGbMRu5CaarpTbxSm",
+    "first_seen": "2026-08-09T19:45:26.691416+00:00"
+  },
+  "drakegraye": {
+    "mint": "SxroNfjBGiXZYDxQxJZjaTtbGbkv362oY4eAyhqpump",
+    "first_seen": "2026-08-09T19:45:29.420882+00:00"
+  },
+  "pate": {
+    "mint": "acBLRFQ24LGVC7so4NL9LduvSsDruMugXeMb182pump",
+    "first_seen": "2026-08-09T19:45:36.319328+00:00"
   }
 }
