@@ -40022,5 +40022,45 @@
   "holdc": {
     "mint": "3ybkkbTBs5E5jPMtVQJXkzRV8GTm3K3zhnNF9iMCpump",
     "first_seen": "2026-08-09T14:49:43.427306+00:00"
+  },
+  "example": {
+    "mint": "4e7RLWRoFU7apj6ALp1iM6epnScSzw5zNtif5wWSpump",
+    "first_seen": "2026-08-09T15:16:30.732167+00:00"
+  },
+  "hedgehog": {
+    "mint": "8RaUZFRDMuqxgooQRHw7Qy5kBpVdY1yXipoAJcPKpump",
+    "first_seen": "2026-08-09T15:16:31.357911+00:00"
+  },
+  "ath": {
+    "mint": "6a3jguvrxvGqddiA1hEbaKSeE15fDHH22aHz8i8YBUqA",
+    "first_seen": "2026-08-09T15:16:36.445668+00:00"
+  },
+  "hijabunc": {
+    "mint": "HghC7yxvx9ny6tyZvp8xh6tGc7A9eBm6yHAryT2fpump",
+    "first_seen": "2026-08-09T15:16:44.481950+00:00"
+  },
+  "aircoin": {
+    "mint": "3dKbhYRhVfEuibV2BZ95Ss7hyufFSijwVNBmb31dpump",
+    "first_seen": "2026-08-09T15:16:45.598802+00:00"
+  },
+  "started": {
+    "mint": "CXjathpXuGHkxyKNiPxqeQCmTBRf1h9tJ9ySfgEmpump",
+    "first_seen": "2026-08-09T15:16:49.086454+00:00"
+  },
+  "goth": {
+    "mint": "24Kxg9CH4AY7enPksfXktKMXuQpqGSZs9UYNcUcSpump",
+    "first_seen": "2026-08-09T15:16:50.262904+00:00"
+  },
+  "toadtard": {
+    "mint": "3FneeWKh4bJkPdZS3MwoapcCtmKjaEQwX9EQpVUjpump",
+    "first_seen": "2026-08-09T15:16:56.002580+00:00"
+  },
+  "mortal": {
+    "mint": "Bvz8D4LHcKYo75RM6EHqtR7QNBqEyoLGcP2Fdfnkpump",
+    "first_seen": "2026-08-09T15:16:56.073219+00:00"
+  },
+  "theo": {
+    "mint": "2N5WjX4sy8W7vovpF4SVHStsYmdHre64aznmoUHApump",
+    "first_seen": "2026-08-09T15:16:56.801628+00:00"
   }
 }
