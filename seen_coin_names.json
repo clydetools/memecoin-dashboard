@@ -40554,5 +40554,17 @@
   "layer": {
     "mint": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
     "first_seen": "2026-08-10T00:37:45.107024+00:00"
+  },
+  "madukes": {
+    "mint": "CHoKC2gaTLixZhzQVb4TCjQTgYCj6oALmV3f2a4Spump",
+    "first_seen": "2026-08-10T02:57:14.500804+00:00"
+  },
+  "southpark": {
+    "mint": "GPJS4yioxSHHLKxBfnZYPipjtehQ1Yn65D1eF7U3pump",
+    "first_seen": "2026-08-10T02:57:16.407208+00:00"
+  },
+  "gayticks": {
+    "mint": "CceTAieqqbz7R4VMF35jgopCuL4xGvwM96Rotvs8pump",
+    "first_seen": "2026-08-10T02:57:23.622779+00:00"
   }
 }
