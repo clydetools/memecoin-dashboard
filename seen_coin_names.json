@@ -41174,5 +41174,29 @@
   "machi": {
     "mint": "ATBR4i19gcQ31Rfr7ymA2XvkCQEAkNFGBtVKTmdqpump",
     "first_seen": "2026-08-10T19:59:02.218541+00:00"
+  },
+  "logie": {
+    "mint": "3hwBdbCBUZU7mtLHqQt2aSkjcb9pdHL2LJ9pUNpzpump",
+    "first_seen": "2026-08-10T20:48:50.053519+00:00"
+  },
+  "fiatpanda": {
+    "mint": "GwjhFmUsNULaa2Qr9AEMDwLKZEuBJdafzaMcRTwupump",
+    "first_seen": "2026-08-10T20:48:53.591554+00:00"
+  },
+  "anomali": {
+    "mint": "F2g45dpH3fdMPSQtg8VZXeGjsQdWcnJMXZt6rHjXpump",
+    "first_seen": "2026-08-10T20:48:54.576130+00:00"
+  },
+  "year": {
+    "mint": "EppFD4QeMiKmzYVUCJ8F59jrQPZDqfm2qY7mYRqtpump",
+    "first_seen": "2026-08-10T20:48:57.843722+00:00"
+  },
+  "area": {
+    "mint": "FEfLQRTPQyDh6ERoZSgBtBsztb3zLKzGyaK6S4hRpump",
+    "first_seen": "2026-08-10T20:48:58.841208+00:00"
+  },
+  "meyhem": {
+    "mint": "FKe6jJfvRvaVumz9Uw2haStBGdsag5kBh8zuvRDCpump",
+    "first_seen": "2026-08-10T20:48:59.411392+00:00"
   }
 }
