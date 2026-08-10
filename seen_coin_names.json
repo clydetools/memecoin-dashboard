@@ -41130,5 +41130,49 @@
   "owu": {
     "mint": "CDqmak3Wsr7FGNADFD9W71UVQoWyKMejoWyStVxxpump",
     "first_seen": "2026-08-10T19:06:29.857635+00:00"
+  },
+  "scrban": {
+    "mint": "FZmAUM6kez1zJCiF8dGNo2wxCQ3gbcbvMPad2oiNpump",
+    "first_seen": "2026-08-10T19:58:39.722319+00:00"
+  },
+  "arthur": {
+    "mint": "CwKh7wiz4X8HZFDWPecXLiQw1Ehh3NXsCo7eqBFEpump",
+    "first_seen": "2026-08-10T19:58:40.284681+00:00"
+  },
+  "volroc": {
+    "mint": "AFPGHGJ1hx7nzV9Jj6hKXpYauCCvotUfmmFMnmLspump",
+    "first_seen": "2026-08-10T19:58:44.085284+00:00"
+  },
+  "fomotok": {
+    "mint": "CnNJk9cgcMvgugUnP4rQ3nrLAx8zXZNrNm6C5D7zpump",
+    "first_seen": "2026-08-10T19:58:45.273291+00:00"
+  },
+  "hookcraft": {
+    "mint": "FxotsZTaby4cNg7PkdqESdY1srkfyNu5RmEvfwLgpump",
+    "first_seen": "2026-08-10T19:58:46.629335+00:00"
+  },
+  "doogol": {
+    "mint": "6bQKHrurfuu4r6VVj8j2CFvG4nWBKQSVGfP8zW79pump",
+    "first_seen": "2026-08-10T19:58:47.252617+00:00"
+  },
+  "updoge": {
+    "mint": "8PEf4paCwMsXoLCMiBPUEevgtWU9UWKWtJryWNkNpump",
+    "first_seen": "2026-08-10T19:58:49.016847+00:00"
+  },
+  "monter": {
+    "mint": "ft737newn6ddJG8VWu9zAVEj8PnzRuvVMgnv9cgpump",
+    "first_seen": "2026-08-10T19:58:49.683088+00:00"
+  },
+  "noot": {
+    "mint": "sTXDvewz8RGsEBZE3XKamWXAnxgEFtnSGpX1d8epump",
+    "first_seen": "2026-08-10T19:58:51.941429+00:00"
+  },
+  "acke": {
+    "mint": "FiGo1b6k1DzKcoYSRxfB8UMqhucgDtW8EnynRL6yRur",
+    "first_seen": "2026-08-10T19:59:01.672398+00:00"
+  },
+  "machi": {
+    "mint": "ATBR4i19gcQ31Rfr7ymA2XvkCQEAkNFGBtVKTmdqpump",
+    "first_seen": "2026-08-10T19:59:02.218541+00:00"
   }
 }
