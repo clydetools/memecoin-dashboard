@@ -41822,5 +41822,45 @@
   "millionaire": {
     "mint": "GE8N5cpJPZDUqNpZNYQPy9R8hVCVmQXzbS4dfWkhpump",
     "first_seen": "2026-08-11T15:43:28.686187+00:00"
+  },
+  "pumpja": {
+    "mint": "FRBgvbjjoHhjPV9zCGArN4cJ4WycGnygica4eGgJpump",
+    "first_seen": "2026-08-11T16:40:11.598762+00:00"
+  },
+  "bunfu": {
+    "mint": "6A8LWUEgxs4pfjGrHuPL4H1dN78FdN2dCAwNvjptpump",
+    "first_seen": "2026-08-11T16:40:12.701427+00:00"
+  },
+  "theavatar": {
+    "mint": "ELUd64UvAvQcJ4FU8nwFRnHATm3GiDMj4ix9U55Jpump",
+    "first_seen": "2026-08-11T16:40:13.232861+00:00"
+  },
+  "nietzschdo": {
+    "mint": "2a3g6xA2Z5ytwmpk6uiqU7Mzcdh9njAwqqbwdR5opump",
+    "first_seen": "2026-08-11T16:40:13.854140+00:00"
+  },
+  "rxo": {
+    "mint": "9rpHHUoNqbwwHuosjBMqprb2eRHh2dVc3Zmwozefpump",
+    "first_seen": "2026-08-11T16:40:14.337004+00:00"
+  },
+  "bol": {
+    "mint": "Cy1fw8z5R46oRRa3G7DkjKCPm2AfZoKpPNbGekXopump",
+    "first_seen": "2026-08-11T16:40:16.324366+00:00"
+  },
+  "alxtacos": {
+    "mint": "24Sxd4UBSwbm9NmQqfkZV6LuKG2Wnn7UXsXhwPudpump",
+    "first_seen": "2026-08-11T16:40:16.851878+00:00"
+  },
+  "buk": {
+    "mint": "6pQAeUeCqWVqbdzDCYhMn7JVZSgwsVtWRSFFYyK6pump",
+    "first_seen": "2026-08-11T16:40:18.738994+00:00"
+  },
+  "blast": {
+    "mint": "DHMf1Kmyr99YgtLN8x2kXYA42BKZrN1BDofNDLX7pump",
+    "first_seen": "2026-08-11T16:40:19.283569+00:00"
+  },
+  "rdog": {
+    "mint": "HKY21Aj6KzxD4KzLefpK4hwPnugeEHAdgjFBHiqrpump",
+    "first_seen": "2026-08-11T16:40:23.895325+00:00"
   }
 }
