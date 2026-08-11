@@ -42034,5 +42034,53 @@
   "neur": {
     "mint": "3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump",
     "first_seen": "2026-08-11T20:27:20.508770+00:00"
+  },
+  "oreon": {
+    "mint": "FtP4jx9BLUgZpK2faqkYTPe4aCeoYKZzKGMUwuPHpump",
+    "first_seen": "2026-08-11T21:22:17.699041+00:00"
+  },
+  "kong": {
+    "mint": "24TbAG4VZCkddMoGQdcNZME3ZnD4nSxXfyKS93s6pump",
+    "first_seen": "2026-08-11T21:22:23.435969+00:00"
+  },
+  "skib": {
+    "mint": "GwU4kctwTQ1fGsSr8bHbrP9h98s4kqa6h75YjH6Gpump",
+    "first_seen": "2026-08-11T21:22:24.595416+00:00"
+  },
+  "rgb": {
+    "mint": "J4NyVgvETKPMiM1uB94X12FtKoMewCzm4WqwpbTfpump",
+    "first_seen": "2026-08-11T21:22:25.144123+00:00"
+  },
+  "vcat": {
+    "mint": "2bVxTPCtBtHiroUtw78tk2ZS35wivDDUY6TVcGBKpump",
+    "first_seen": "2026-08-11T21:22:25.774388+00:00"
+  },
+  "wfi": {
+    "mint": "AQhihzemaSWvL9V8KMqAH6XMqaC4o68VpVnomP8ehray",
+    "first_seen": "2026-08-11T21:22:26.328240+00:00"
+  },
+  "perro": {
+    "mint": "G6V96g5qYMAMQNUwQ8JwbZFAyYJviFx9ZsuY2ZSZpump",
+    "first_seen": "2026-08-11T21:22:26.882580+00:00"
+  },
+  "smr": {
+    "mint": "HvX8hTwoc4vuYNGZk9buAke9m3RNHbRnxSe1ov7Fpump",
+    "first_seen": "2026-08-11T21:22:27.942129+00:00"
+  },
+  "citytoad": {
+    "mint": "GrLEfii6zjcBLjGVbAtLiKjrki7jipbvuM2Afoszpump",
+    "first_seen": "2026-08-11T21:22:28.506700+00:00"
+  },
+  "munro": {
+    "mint": "GUQz5TUBbVwB8vuTBMcMykofHF5PBg3DmW9yFUUMpump",
+    "first_seen": "2026-08-11T21:22:29.095956+00:00"
+  },
+  "ghoulified": {
+    "mint": "HAdZXHUiCnkEBd4r9PHCUVrp4wKi511gh9ZQqXTGpump",
+    "first_seen": "2026-08-11T21:22:30.190473+00:00"
+  },
+  "tif": {
+    "mint": "8Y7zoKf3H2BT8TMMLrzgMo55iA7Uk1UixAsNxZFrpump",
+    "first_seen": "2026-08-11T21:22:35.252685+00:00"
   }
 }
