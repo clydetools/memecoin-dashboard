@@ -41354,5 +41354,49 @@
   "solanatoad": {
     "mint": "9zhLTEim7BCSG75vwpAqA3RdRP6rU2h5Fu89DX8dpump",
     "first_seen": "2026-08-10T23:32:26.753673+00:00"
+  },
+  "chin": {
+    "mint": "38G67BxQwi6taatpUP9PDeQFGRghUfn1PScAKaSGpump",
+    "first_seen": "2026-08-11T00:05:01.664448+00:00"
+  },
+  "scrpil": {
+    "mint": "B7tcXPi8hDMFshtge3gmA9BobaBX65cdZndTZUuopump",
+    "first_seen": "2026-08-11T00:05:02.371280+00:00"
+  },
+  "thingy": {
+    "mint": "AVfomZJmib74Qtk9bmkFMRuf8d6eivKLFVeA9VZFVQpf",
+    "first_seen": "2026-08-11T00:05:02.882749+00:00"
+  },
+  "midnight": {
+    "mint": "9BAzxB5Wjm1wopoyiqT8Q2MsCjvRPd3eCWVahdBCpump",
+    "first_seen": "2026-08-11T00:05:03.393654+00:00"
+  },
+  "manefx": {
+    "mint": "4axwpv6Gnrukk7rNkuwRKsCEEKUw1FfzT7jDx2dmpump",
+    "first_seen": "2026-08-11T00:05:03.918907+00:00"
+  },
+  "kazilion": {
+    "mint": "BPPkTBogHXZXnepQeZpK3PCCHR9ZxS5i1ivbfnn6pump",
+    "first_seen": "2026-08-11T00:05:04.455846+00:00"
+  },
+  "doomscrolling": {
+    "mint": "72sh8Zj6zdMMLtT7Qz2gCfEB5xQU55rkLy91Zq3rpump",
+    "first_seen": "2026-08-11T00:05:04.987607+00:00"
+  },
+  "grampster": {
+    "mint": "FmxWX24fKgPe3tN4X8MndmntPbicKkT4sYs48gEjpump",
+    "first_seen": "2026-08-11T00:05:09.533492+00:00"
+  },
+  "mollie": {
+    "mint": "GJPtJfWsHK5jooT2feabr41eTmiutuAmT7zmyirCpump",
+    "first_seen": "2026-08-11T00:05:09.647307+00:00"
+  },
+  "mudwig": {
+    "mint": "EjbK4C7Bfqvw1RFd2ofr1xPYRBKnVMmqZds3koXupump",
+    "first_seen": "2026-08-11T00:05:10.083025+00:00"
+  },
+  "openliving": {
+    "mint": "7icY7J9UfQetmTUPqNtk3Ay4iBZhPUyr6x5yPUowpump",
+    "first_seen": "2026-08-11T00:05:12.679947+00:00"
   }
 }
