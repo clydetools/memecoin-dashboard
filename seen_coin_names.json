@@ -41578,5 +41578,29 @@
   "nemo": {
     "mint": "3dcurTnGaXi7z4QM3nXhs9Fq4Tjc5WRc897H4SSTpump",
     "first_seen": "2026-08-11T07:33:49.975782+00:00"
+  },
+  "beetlejuice": {
+    "mint": "3u8BgYM7DPPV3ZHbxarqVQf2QFvnhRJVP3nFbWpxpump",
+    "first_seen": "2026-08-11T08:34:06.247143+00:00"
+  },
+  "hamazon": {
+    "mint": "EwS3gjtLhqLiy9MP6uRZCytLxDxuSWsVeXYrdmXnpump",
+    "first_seen": "2026-08-11T08:34:09.315075+00:00"
+  },
+  "beetle": {
+    "mint": "AqQnQ8SUKEvmuemnsW5vW8XNZ4DRvoTc7iU9gLVhpump",
+    "first_seen": "2026-08-11T08:34:09.708082+00:00"
+  },
+  "maddog": {
+    "mint": "GhU753aTWKAgWkZegAX9xBT6F4tTmum8DcFoaHsMpump",
+    "first_seen": "2026-08-11T08:34:10.498531+00:00"
+  },
+  "doowiz": {
+    "mint": "CLP59F8mf24sy9EcRz98EphHy5SZs98hS5SDrkhQpump",
+    "first_seen": "2026-08-11T08:34:10.919593+00:00"
+  },
+  "troot": {
+    "mint": "2WD9gyvzQHs44BW8YmfAe5Lr8Ty67vg55oK8rNXHpump",
+    "first_seen": "2026-08-11T08:34:17.973678+00:00"
   }
 }
