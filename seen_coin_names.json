@@ -41994,5 +41994,45 @@
   "arq": {
     "mint": "oEVufzrtcAvuefkbg2iQku9A6UbFh9f4V5kEiPARQEN",
     "first_seen": "2026-08-11T19:42:20.356378+00:00"
+  },
+  "latm": {
+    "mint": "GWkYc9NPXBKTkguaExYV8pLqd3DLKRntBr4Afy2Vpump",
+    "first_seen": "2026-08-11T20:27:04.188974+00:00"
+  },
+  "ceocats": {
+    "mint": "3uybHVACkVVeLMfRqWurHpNpRd52RxcxXN8F8svPpump",
+    "first_seen": "2026-08-11T20:27:04.561330+00:00"
+  },
+  "ig": {
+    "mint": "G43mGq4MpdvHsgB3TGdjApB3Kj9NQRbuDE25y41rpump",
+    "first_seen": "2026-08-11T20:27:05.608843+00:00"
+  },
+  "degenlord": {
+    "mint": "JuqSE8nVTfCPDYc7R7DT8JTrAU9FPPFQwtCE6LXpump",
+    "first_seen": "2026-08-11T20:27:06.475242+00:00"
+  },
+  "avengers": {
+    "mint": "Gu23VWuzEqP52qrmyMyA4dvuK7p8BxQCV8ApwRBqN83m",
+    "first_seen": "2026-08-11T20:27:06.882996+00:00"
+  },
+  "mledger": {
+    "mint": "GRuJRn2Mr1mgu2ozB5T7bSLujvc6kBbHDJnsxK9Ypump",
+    "first_seen": "2026-08-11T20:27:09.469907+00:00"
+  },
+  "fnf": {
+    "mint": "5N95GE6mP6Hou2oKt83TL3vU59nRA5ucm6GNe3PCpump",
+    "first_seen": "2026-08-11T20:27:10.857485+00:00"
+  },
+  "str": {
+    "mint": "8dvsQBjehq3VahiSj9Jg5wRm49P5UM92cVDXZXPepump",
+    "first_seen": "2026-08-11T20:27:11.565513+00:00"
+  },
+  "gallinazo": {
+    "mint": "TBgbHEzpFXPNUGMAU8APV55XDE4q8fLPKtyKBr8pump",
+    "first_seen": "2026-08-11T20:27:12.270268+00:00"
+  },
+  "neur": {
+    "mint": "3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump",
+    "first_seen": "2026-08-11T20:27:20.508770+00:00"
   }
 }
