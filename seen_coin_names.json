@@ -41690,5 +41690,49 @@
   "chillfrog": {
     "mint": "Cp467wsLc1axm5uMtXTLzgRSAmVVgm8eyTpxD9RTpump",
     "first_seen": "2026-08-11T11:26:04.691747+00:00"
+  },
+  "sheperd": {
+    "mint": "7EC2jgn4AjVonQkaS85iFQLsWUwkN2yfCf6vWAXcpump",
+    "first_seen": "2026-08-11T12:09:02.662967+00:00"
+  },
+  "toathy": {
+    "mint": "7spXicMLTapTAHHn5bxpy5WxBVqx6teyc7ZYq2ympump",
+    "first_seen": "2026-08-11T12:09:03.792119+00:00"
+  },
+  "shore": {
+    "mint": "GQ8mPbnuSU1wudc9UeJbmKBsoRdKuSpHKTG74tmRpump",
+    "first_seen": "2026-08-11T12:09:04.961152+00:00"
+  },
+  "niru": {
+    "mint": "61rHCf1eWsgaT5Bp7D7nxbLsSrN7HJtrmc5zhfompump",
+    "first_seen": "2026-08-11T12:09:09.970285+00:00"
+  },
+  "chilldog": {
+    "mint": "b6fPZsJQeFVqaXsMfi71KYVfdSw22a4TuNyjirepump",
+    "first_seen": "2026-08-11T12:09:10.787292+00:00"
+  },
+  "luigi64": {
+    "mint": "4S56ZeqAsRLEMos1J9jMEtStTYoZxhBJz1BucW8Zpump",
+    "first_seen": "2026-08-11T12:09:12.347002+00:00"
+  },
+  "shout": {
+    "mint": "4oheWzoeVdCSQGF2ke7vSvHyfShgqr6sLwmRUW2ppump",
+    "first_seen": "2026-08-11T12:09:17.231606+00:00"
+  },
+  "shepherd": {
+    "mint": "H5QtT828GsRho4fxDr4bqRDDkqWpHbU53tzKzRm2pump",
+    "first_seen": "2026-08-11T12:09:17.847329+00:00"
+  },
+  "trail": {
+    "mint": "BXim8e4ExrLpQHoWE1gD1K3sSYdDMShQn6PQGbrspump",
+    "first_seen": "2026-08-11T12:09:19.289887+00:00"
+  },
+  "yoru": {
+    "mint": "2eYH5qZUz6brL7W95H9o3UShjYKDR9c7U9i4aQtupump",
+    "first_seen": "2026-08-11T12:09:25.448135+00:00"
+  },
+  "mario64": {
+    "mint": "CX2v7JSHJQDcNooubzzvZG8TPaDwbaPgfzcXRSWJpump",
+    "first_seen": "2026-08-11T12:09:25.521312+00:00"
   }
 }
