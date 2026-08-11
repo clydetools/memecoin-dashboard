@@ -42082,5 +42082,73 @@
   "tif": {
     "mint": "8Y7zoKf3H2BT8TMMLrzgMo55iA7Uk1UixAsNxZFrpump",
     "first_seen": "2026-08-11T21:22:35.252685+00:00"
+  },
+  "northkoreafls": {
+    "mint": "Aw6XSkEDgtZDytc767hjSotVkE3aJk9pnvL5dGkspump",
+    "first_seen": "2026-08-11T22:11:39.086192+00:00"
+  },
+  "manroc": {
+    "mint": "9ATn8P8sZPDDw55uStynvWbnmJpuW7FwPcUvHGmRpump",
+    "first_seen": "2026-08-11T22:11:39.676235+00:00"
+  },
+  "star64": {
+    "mint": "9v6tUKRj6y8mqU6NpCBCBMmVaZFeHVsucfuc42q1pump",
+    "first_seen": "2026-08-11T22:11:41.651321+00:00"
+  },
+  "grokker": {
+    "mint": "GiDoYdBfEh1V284Eri3FVCMHoCNyGJDY3Evem4mqy6Au",
+    "first_seen": "2026-08-11T22:11:42.138260+00:00"
+  },
+  "snintendo": {
+    "mint": "FQqEL9GLRfk6Dix2YL2yBBYa48SyLuqh9Cvzp1G8pump",
+    "first_seen": "2026-08-11T22:11:43.599870+00:00"
+  },
+  "broski": {
+    "mint": "fmwyehraSjCnVfq9dyC7PVZwik5vgY4rbfs1Qi6pump",
+    "first_seen": "2026-08-11T22:11:44.120932+00:00"
+  },
+  "koppa64": {
+    "mint": "9jt6JKZ6okJamb3vmouU5mCpJuZaeFRSGoLznfnrpump",
+    "first_seen": "2026-08-11T22:11:44.609884+00:00"
+  },
+  "yellowcoin": {
+    "mint": "CwwKsLJYfpyxgT3e3q7Et4saf8tbynPa3UYKisMqpump",
+    "first_seen": "2026-08-11T22:11:45.136500+00:00"
+  },
+  "trumpwifpengu": {
+    "mint": "3GxEcXmnLFfKPxmz3udpPHu45bQ6bNEroetkjFnSpump",
+    "first_seen": "2026-08-11T22:11:45.704423+00:00"
+  },
+  "frogsuit": {
+    "mint": "4koE7WyCRM1cJgRYwNh3rrZ4apfkjY6BpK6GRDFGpump",
+    "first_seen": "2026-08-11T22:11:46.175956+00:00"
+  },
+  "64": {
+    "mint": "58WQP6bSYbncY5EKVZZAXabLBx2UCbZNaVbfQHp9pump",
+    "first_seen": "2026-08-11T22:11:47.628261+00:00"
+  },
+  "waterbear": {
+    "mint": "FQDBQnVjXwfpVytSQ5Cih7EQN7mQ1VzR5qLe1kbfpump",
+    "first_seen": "2026-08-11T22:11:48.161548+00:00"
+  },
+  "peach64": {
+    "mint": "AfDqo2EP6bVDvMVwTnKpiSXzQsiREKeUbSBpwkAppump",
+    "first_seen": "2026-08-11T22:11:48.673938+00:00"
+  },
+  "koopa64": {
+    "mint": "4K47KCmnT1f5zWm5RcZL9km6Gbb29Ke5wb49oQG2pump",
+    "first_seen": "2026-08-11T22:11:49.618683+00:00"
+  },
+  "jamcat": {
+    "mint": "7RHQbgCA1Z4aBQcHk3aecWshHnK2nPQ7SFRJRGxDpump",
+    "first_seen": "2026-08-11T22:11:52.839917+00:00"
+  },
+  "jimothy20": {
+    "mint": "HBjaduVGUFukW2TT8DSwSdqLbBAW8uSJUxek2GfTpump",
+    "first_seen": "2026-08-11T22:12:00.085388+00:00"
+  },
+  "vdog": {
+    "mint": "DSG9eRi9zeRVRmWa6HQ68Tcyb6WtrdAvLvgFMEAfpump",
+    "first_seen": "2026-08-11T22:12:00.196467+00:00"
   }
 }
