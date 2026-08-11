@@ -42150,5 +42150,85 @@
   "vdog": {
     "mint": "DSG9eRi9zeRVRmWa6HQ68Tcyb6WtrdAvLvgFMEAfpump",
     "first_seen": "2026-08-11T22:12:00.196467+00:00"
+  },
+  "ocarina64": {
+    "mint": "8T8YKaAnSEiPiUeJx2P5VuZzmr3WcBwSv5BV7ZRu6VQU",
+    "first_seen": "2026-08-11T23:06:28.784600+00:00"
+  },
+  "bike": {
+    "mint": "D5ptGkG3jQRntCwPmSzYsCobFgmdaJBz1bz9LDGvvGmD",
+    "first_seen": "2026-08-11T23:06:29.520573+00:00"
+  },
+  "pulp": {
+    "mint": "2XoAYXj9QGsG865qP82bJv29boxKfuq1yBTecNicQsbd",
+    "first_seen": "2026-08-11T23:06:29.931486+00:00"
+  },
+  "c64": {
+    "mint": "7b8DjsCsibPX1wnbgWJW7shJEfHnjGs3pxuVhkGTtTM3",
+    "first_seen": "2026-08-11T23:06:30.318351+00:00"
+  },
+  "starfox64": {
+    "mint": "5ctPF5SECGzXMnWj9gmgUG7tt89SHjUgu3EjixpiwgWW",
+    "first_seen": "2026-08-11T23:06:31.718001+00:00"
+  },
+  "coo": {
+    "mint": "CVbGhaKEn1e82GLu3MdYZjHiGgvGK32xf8zGQ3qaCnbz",
+    "first_seen": "2026-08-11T23:06:32.478912+00:00"
+  },
+  "wsw": {
+    "mint": "7rNwyoks2KfeL3ABfd8WWvxVJHTu3aPv2CQcs7umYURG",
+    "first_seen": "2026-08-11T23:06:32.910531+00:00"
+  },
+  "mario67": {
+    "mint": "59j7n7pQR74A1dovoUzqrMCBnSdmGdRcjikvyggPCY2i",
+    "first_seen": "2026-08-11T23:06:33.283095+00:00"
+  },
+  "pippin64": {
+    "mint": "D3fJ2o2zn1KeU95ZdVWpWAd9nQkdEt5xRvf3Xi8npump",
+    "first_seen": "2026-08-11T23:06:33.671138+00:00"
+  },
+  "pipo": {
+    "mint": "24UCWqikVz7Q9xp2jtYJJton3AjGNGGbwnxS3PZppump",
+    "first_seen": "2026-08-11T23:06:34.024581+00:00"
+  },
+  "kart64": {
+    "mint": "HcdTYFMj7nG4hgGoipiiisnfQDR88cDvpHb8XUzhfBRm",
+    "first_seen": "2026-08-11T23:06:35.730635+00:00"
+  },
+  "prem": {
+    "mint": "7MyiPb9u9z8Eds5CoD2sLwtXWHbDv86vmA1hsqRUMNKP",
+    "first_seen": "2026-08-11T23:06:37.364183+00:00"
+  },
+  "gbbw": {
+    "mint": "5FGs2Nz2qptxqUz7ZXYxmv7Cg5RQ7NNZi2dSxJRkJ2SZ",
+    "first_seen": "2026-08-11T23:06:37.749007+00:00"
+  },
+  "shambo": {
+    "mint": "2Zus7Xye9gmx4W33sfquVukAaeuufUC492FNW3RDocfn",
+    "first_seen": "2026-08-11T23:06:38.104105+00:00"
+  },
+  "gooning": {
+    "mint": "62kLEth7MBa49L7frscHeE6Eh82UXbzWZVHagSCUpump",
+    "first_seen": "2026-08-11T23:06:38.473710+00:00"
+  },
+  "banjo64": {
+    "mint": "7gVjWpZdsfwJNiC3vGv8e4BFJBLYSMfAn2mry2F3WFQh",
+    "first_seen": "2026-08-11T23:06:39.546728+00:00"
+  },
+  "k1k": {
+    "mint": "Beopo1QKZ9BEBiVb4j6nGsv6QHDnTgqrE39Nrm8jxg2A",
+    "first_seen": "2026-08-11T23:06:41.257618+00:00"
+  },
+  "kinda": {
+    "mint": "5tgrgUutpaYes33UmjgotDdjiTu732zosFjqKzrFWVum",
+    "first_seen": "2026-08-11T23:06:41.960565+00:00"
+  },
+  "coop": {
+    "mint": "3iLEze1oVSt714dtvMFW7jz7CMC3uqEK5VwCTefxyDM2",
+    "first_seen": "2026-08-11T23:06:42.668618+00:00"
+  },
+  "wwb": {
+    "mint": "H5tAm75SE7V7VsovGBSQ9CcybYBgzH8SksD7f4YYe6Z3",
+    "first_seen": "2026-08-11T23:06:49.557610+00:00"
   }
 }
