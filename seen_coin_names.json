@@ -41602,5 +41602,33 @@
   "troot": {
     "mint": "2WD9gyvzQHs44BW8YmfAe5Lr8Ty67vg55oK8rNXHpump",
     "first_seen": "2026-08-11T08:34:17.973678+00:00"
+  },
+  "stretchape": {
+    "mint": "6KNPzzUU7HsvpKER5kutb1F4ZeRVy46GmvTd5z1gpump",
+    "first_seen": "2026-08-11T09:37:33.292956+00:00"
+  },
+  "cic": {
+    "mint": "BJ1fNBVfcewArUonw8ukBgb6sHN9PZJvja3uYHJUpump",
+    "first_seen": "2026-08-11T09:37:33.884062+00:00"
+  },
+  "tisuki": {
+    "mint": "ChGcCSVQnSHoJGdfSiGQDmnLiKGE5NgDWickcCwbpump",
+    "first_seen": "2026-08-11T09:37:34.444902+00:00"
+  },
+  "actt": {
+    "mint": "4ifZv3F6SyJfJcK61Heg1ktrwDvvvkZBF9cHkfbVpump",
+    "first_seen": "2026-08-11T09:37:36.835595+00:00"
+  },
+  "wowl": {
+    "mint": "88FXTu153KKA9s4T3LPPGh7ghbY5CYHU2qmCmDmxpump",
+    "first_seen": "2026-08-11T09:37:37.956631+00:00"
+  },
+  "cabal": {
+    "mint": "ACaDFaNh4hk5PzdCeZ5eXsc2Cw9nvSiPKHTNx1pLv3HU",
+    "first_seen": "2026-08-11T09:37:38.524793+00:00"
+  },
+  "dasha": {
+    "mint": "53uxQtB9pcjWvCHguz3JTTndvuKqGxhrD37EetnCpump",
+    "first_seen": "2026-08-11T09:37:44.242595+00:00"
   }
 }
