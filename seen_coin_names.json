@@ -41454,5 +41454,45 @@
   "iphigenia": {
     "mint": "FGo18AEJogkAqdw5otqs5UN2u9k8bFBB54jNB3r7pump",
     "first_seen": "2026-08-11T02:24:11.218301+00:00"
+  },
+  "fwa": {
+    "mint": "dmX5tUH8QDhxeWDzpGvf7VDsFqBkn7ZwJtX9Qwjpump",
+    "first_seen": "2026-08-11T03:59:50.620274+00:00"
+  },
+  "moondog1": {
+    "mint": "8a9pDteyaYVfwJgzuTMpGit5pxfGj34eCLE8L6Yrpump",
+    "first_seen": "2026-08-11T03:59:50.980587+00:00"
+  },
+  "pisscat": {
+    "mint": "ERg8Ujzqm7r2Ehp71jcorra2Pd4yhUXfezWfRBZfpump",
+    "first_seen": "2026-08-11T03:59:51.337272+00:00"
+  },
+  "catbatrat": {
+    "mint": "ATcWd5vweaMs9vLST1mNr8vjn8jbaGsT1ftXSeA7pump",
+    "first_seen": "2026-08-11T03:59:53.469485+00:00"
+  },
+  "baked": {
+    "mint": "56fJRXuwG4i4KAQMTZo1TYAduHg1ajXyunzvPHPDpump",
+    "first_seen": "2026-08-11T03:59:53.856019+00:00"
+  },
+  "usd": {
+    "mint": "ATYMhpYk5nJx7orW2RWtMfvd4cSZ6TKKz4DBvSdVpump",
+    "first_seen": "2026-08-11T03:59:54.231089+00:00"
+  },
+  "regulardud": {
+    "mint": "E9vcLKWLjemTXRX7nahNeLW2VAxv6Fx8yTYFkC9cxh5F",
+    "first_seen": "2026-08-11T03:59:58.489628+00:00"
+  },
+  "leelavati": {
+    "mint": "43NczHgCE5pGMyVfhtMEHrafsbyvouqm6Prt3gYDzA4D",
+    "first_seen": "2026-08-11T03:59:58.573902+00:00"
+  },
+  "teru": {
+    "mint": "ABm8N9xiL7rZSbPLw11oXX8aADzdQmmRaJkZWroopump",
+    "first_seen": "2026-08-11T03:59:58.941247+00:00"
+  },
+  "aibull": {
+    "mint": "GzXbXZhC3BbKrcnbeTWUXyfLEpb33bz5aatQk3eKtGoP",
+    "first_seen": "2026-08-11T03:59:59.321952+00:00"
   }
 }
