@@ -41518,5 +41518,37 @@
   "raybull": {
     "mint": "4BRBeeMtnkZKXwFgBNiZYADaSUwNj8S59goXnU5Apump",
     "first_seen": "2026-08-11T05:16:35.632497+00:00"
+  },
+  "ganges": {
+    "mint": "HkMUcFAqK9aKhnMQjiQ7pRGSYuUTJCpu4bCRHPu6pump",
+    "first_seen": "2026-08-11T06:07:54.961816+00:00"
+  },
+  "kanoko": {
+    "mint": "24Rq9k3G3aB9StZvEAcBtickDyCGA921zDWWCizRpump",
+    "first_seen": "2026-08-11T06:07:55.717139+00:00"
+  },
+  "nestle": {
+    "mint": "ELqPrJhnqNm55LcxbXzrvDQsZE7NsQciygvTjaM5pump",
+    "first_seen": "2026-08-11T06:07:56.195269+00:00"
+  },
+  "hsg": {
+    "mint": "4yCbH7oJbDPCwJre7rqeprWnngXMNLptogPzT6Whpump",
+    "first_seen": "2026-08-11T06:07:57.056641+00:00"
+  },
+  "mowgli": {
+    "mint": "6yr6WgUTSd9SNHmFxvWis1kQ5HrBiVZgoQHYhGDopump",
+    "first_seen": "2026-08-11T06:07:57.508279+00:00"
+  },
+  "plumber": {
+    "mint": "GCa9TZMK9Q3VUSkhZgX76YAQBjqQd1dPxkBnZojFpump",
+    "first_seen": "2026-08-11T06:08:04.031977+00:00"
+  },
+  "heros": {
+    "mint": "3uYVm2KYNGFivFPTM5iaDxjZFgjwdvwTvZ8P8G5qpump",
+    "first_seen": "2026-08-11T06:08:04.113904+00:00"
+  },
+  "ilovepepe": {
+    "mint": "4m6YNteMxquMLSRb4jjYW2kDmJX1vV4XNT9WmmQgHotF",
+    "first_seen": "2026-08-11T06:08:04.722317+00:00"
   }
 }
