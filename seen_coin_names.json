@@ -41494,5 +41494,29 @@
   "aibull": {
     "mint": "GzXbXZhC3BbKrcnbeTWUXyfLEpb33bz5aatQk3eKtGoP",
     "first_seen": "2026-08-11T03:59:59.321952+00:00"
+  },
+  "criban": {
+    "mint": "M21yofhFjk8Vo7RrdoF1nNMeEmKYK84cMpDijZjpump",
+    "first_seen": "2026-08-11T05:16:29.201045+00:00"
+  },
+  "wetodd": {
+    "mint": "ZW7BnffybiBywWyAcnNV5gpFkVmV6t8iCQ7KSXFTRiX",
+    "first_seen": "2026-08-11T05:16:31.166227+00:00"
+  },
+  "gain": {
+    "mint": "6Z1Ri7oE86p3N8QALpy6WX6Bz3qSDLExGUcLp2dwpump",
+    "first_seen": "2026-08-11T05:16:33.281350+00:00"
+  },
+  "helicat": {
+    "mint": "5eBbvEA5DyNsaUk75fvkojQZRfQ7NutsHQQ1AYNVpump",
+    "first_seen": "2026-08-11T05:16:34.384684+00:00"
+  },
+  "bulltime": {
+    "mint": "GECjNpKAWwTuNnPymJP55Dd6KQcft3h221oBPdyJpump",
+    "first_seen": "2026-08-11T05:16:34.764619+00:00"
+  },
+  "raybull": {
+    "mint": "4BRBeeMtnkZKXwFgBNiZYADaSUwNj8S59goXnU5Apump",
+    "first_seen": "2026-08-11T05:16:35.632497+00:00"
   }
 }
