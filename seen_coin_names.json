@@ -41398,5 +41398,61 @@
   "openliving": {
     "mint": "7icY7J9UfQetmTUPqNtk3Ay4iBZhPUyr6x5yPUowpump",
     "first_seen": "2026-08-11T00:05:12.679947+00:00"
+  },
+  "bail": {
+    "mint": "9gBwEwtU4b19sF5aY3wXy5FtuP3xviocn8miaoG5pump",
+    "first_seen": "2026-08-11T02:23:56.989101+00:00"
+  },
+  "skpe": {
+    "mint": "EZZ5xd3GGVpmwW5nZu8zsbxyp1S63ErDWaZiznKvpump",
+    "first_seen": "2026-08-11T02:23:57.531724+00:00"
+  },
+  "sofia": {
+    "mint": "4ZTWGZY4oXjU8VHTtrJKtRoJS3mSCnn5utgYJNrypump",
+    "first_seen": "2026-08-11T02:23:58.138149+00:00"
+  },
+  "toadoge": {
+    "mint": "5jfCr2X286Tj65Ei9k8huHJRN5AVxLijbXbUHiWrpump",
+    "first_seen": "2026-08-11T02:23:58.795590+00:00"
+  },
+  "toxcan": {
+    "mint": "2wzgStb43jfAqQFqHMHHdG3ncFM3WW6Lf4gkegyjpump",
+    "first_seen": "2026-08-11T02:23:59.412447+00:00"
+  },
+  "kid": {
+    "mint": "nMu2imoU8XHponQ4dNbkv4RTR6kjjmTDybs4enjpump",
+    "first_seen": "2026-08-11T02:24:00.038421+00:00"
+  },
+  "sofiaa": {
+    "mint": "8sLR8ZKqi9QDSuPp3FPGAWHixuxYy9WJMXxDWAYRpump",
+    "first_seen": "2026-08-11T02:24:01.095871+00:00"
+  },
+  "numbi": {
+    "mint": "3zR3ExY9nL72JwMQCBv8cKip9DRgvFkXPRyUEVVRt3Qy",
+    "first_seen": "2026-08-11T02:24:03.405530+00:00"
+  },
+  "ruggsey": {
+    "mint": "8bepX92XDz7NtaMCNgaHctuYp9EeGXcD3A4Xga6Mpump",
+    "first_seen": "2026-08-11T02:24:03.971551+00:00"
+  },
+  "lqc": {
+    "mint": "HKv9jA7VREs68BA3PZMREiwuQKzfLUjr9azgrzbNpump",
+    "first_seen": "2026-08-11T02:24:09.076255+00:00"
+  },
+  "regulardude": {
+    "mint": "G6tz2XwqKK6HmYfjos9RLwPNvoEVd4hntbm4PSZapump",
+    "first_seen": "2026-08-11T02:24:09.132600+00:00"
+  },
+  "landlord": {
+    "mint": "43uhykFm8Y9gLvHrWs7r7w1HCKu6vikDi7j394FaSfNz",
+    "first_seen": "2026-08-11T02:24:10.655432+00:00"
+  },
+  "btw": {
+    "mint": "4ytpZgVoNB66bFs6NRCUaAVsLdtYk2fHq4U92Jnjpump",
+    "first_seen": "2026-08-11T02:24:10.820014+00:00"
+  },
+  "iphigenia": {
+    "mint": "FGo18AEJogkAqdw5otqs5UN2u9k8bFBB54jNB3r7pump",
+    "first_seen": "2026-08-11T02:24:11.218301+00:00"
   }
 }
