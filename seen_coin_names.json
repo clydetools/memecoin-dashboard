@@ -42286,5 +42286,41 @@
   "coma": {
     "mint": "9nXRKLNuSnsqLhmyNnm9ZuE6uHXqvrnLPfpmFGmHpump",
     "first_seen": "2026-08-11T23:55:44.629415+00:00"
+  },
+  "cursorpad": {
+    "mint": "Dip1QhknHbPR4kayXomxxzfVKsK1LzpyzdjAZo9Gpump",
+    "first_seen": "2026-08-12T01:41:11.213514+00:00"
+  },
+  "driller": {
+    "mint": "2xsQVawbrZeiFEfpcvP999mw3Cc7AkfMz2u6LeWhpump",
+    "first_seen": "2026-08-12T01:41:11.693216+00:00"
+  },
+  "fudders": {
+    "mint": "HkH2boeq46P4uxkvp91bqBMFnhR2C1GGBvGvYoR4pump",
+    "first_seen": "2026-08-12T01:41:12.243489+00:00"
+  },
+  "jorgu": {
+    "mint": "CkXWACkj8KT8DGFfqQ5FfUrgsFAoACqUzJh44FMVpump",
+    "first_seen": "2026-08-12T01:41:12.688319+00:00"
+  },
+  "rt": {
+    "mint": "6Ah9kBh35Qv5Kz96YnaC456NhDnwYtaM4DTMJwCm7z82",
+    "first_seen": "2026-08-12T01:41:13.178793+00:00"
+  },
+  "juliann": {
+    "mint": "25A9FP8HuYCELpEwQrK3boL7exxnjXyjE968wzD2pump",
+    "first_seen": "2026-08-12T01:41:13.631336+00:00"
+  },
+  "lenny": {
+    "mint": "ApMrbYXQk1j3GV62HnQLR2BPiH8MzAi5ywaW2MYxpump",
+    "first_seen": "2026-08-12T01:41:18.827479+00:00"
+  },
+  "toadguy": {
+    "mint": "6WMszYPHAxEFgstkEpyRRwzaVtA9eM5pWvSf8v7qpump",
+    "first_seen": "2026-08-12T01:41:18.934656+00:00"
+  },
+  "clicking": {
+    "mint": "CqqED7VtRR2LEinPM2ocqkXAJCiT1quf8o9eth8FgLqY",
+    "first_seen": "2026-08-12T01:41:20.027961+00:00"
   }
 }
