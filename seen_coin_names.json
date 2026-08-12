@@ -42378,5 +42378,37 @@
   "mafia": {
     "mint": "DcK63VSmkpFRdvNpBh1947QxF7hHud5TbMmhj4REpump",
     "first_seen": "2026-08-12T06:55:01.094413+00:00"
+  },
+  "aureus": {
+    "mint": "4J2pbx7nt7Ahi7xQU4FrtwN6bV411CeUz1iHeAgfpump",
+    "first_seen": "2026-08-12T08:14:55.583411+00:00"
+  },
+  "bleck": {
+    "mint": "8foRp3DQgRdJpJLpnjZAk4nZHwu93Km7xKTSkHDRpump",
+    "first_seen": "2026-08-12T08:14:56.336428+00:00"
+  },
+  "nana": {
+    "mint": "DtumEP6MrRFeh59Qy7HEfsUFgwswDR2DeAn5ddimpump",
+    "first_seen": "2026-08-12T08:14:56.692370+00:00"
+  },
+  "nano": {
+    "mint": "F2ZYsnn6PqjGZpxpN5Uf6rXb3tVKaBQnVQwAho3Cpump",
+    "first_seen": "2026-08-12T08:14:57.052855+00:00"
+  },
+  "spoderman": {
+    "mint": "DTWVSYNiSti1oEpxy2U65V8HYS9JD8RCyBjb1f3TJuEH",
+    "first_seen": "2026-08-12T08:15:02.857503+00:00"
+  },
+  "gpu": {
+    "mint": "3L7ga6ka3dVuXZeYuX1YRSzmbM5d7SqkBRvCyJKqpump",
+    "first_seen": "2026-08-12T08:15:02.967957+00:00"
+  },
+  "ufc250": {
+    "mint": "FZMpNrhDjBcPzSw7pFvLZYc3GsvM9EYjCiB6QZ3THQa6",
+    "first_seen": "2026-08-12T08:15:03.460946+00:00"
+  },
+  "screamtoad": {
+    "mint": "8DUJk5PFkQmuQU6R5i2rAgHoMXRe2LMJ9RxnB9ojpump",
+    "first_seen": "2026-08-12T08:15:04.098091+00:00"
   }
 }
