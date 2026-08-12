@@ -42546,5 +42546,57 @@
   "kaito": {
     "mint": "5jg3FtvdjukwivFqVkbe3RkzqwzSDcMRCQfR4WcZtK13",
     "first_seen": "2026-08-12T12:29:52.549173+00:00"
+  },
+  "bagdog": {
+    "mint": "5EnxuVfnfw9BUtnZiVbdW5CmmP3eY2KzfYcvKXiSbag",
+    "first_seen": "2026-08-12T13:59:34.662146+00:00"
+  },
+  "volmon": {
+    "mint": "GXWCadmLS37iLmyvZro96ft4eAcTiYzbjWYsCg7Xpump",
+    "first_seen": "2026-08-12T13:59:35.769299+00:00"
+  },
+  "plunger": {
+    "mint": "7FK2dFYieq22cUntpLQoyGrxf2ikwhJdu7s8piyTpump",
+    "first_seen": "2026-08-12T13:59:37.353629+00:00"
+  },
+  "babyody": {
+    "mint": "9MiwkmFEqs8UzbRtmCv4p4kyPRA7VNJsnjFEVxMWpump",
+    "first_seen": "2026-08-12T13:59:37.887927+00:00"
+  },
+  "utd": {
+    "mint": "7XJyYyu7nB1JnX7vprENwAjvWFw2CUMwqZBYTmCTpump",
+    "first_seen": "2026-08-12T13:59:41.565710+00:00"
+  },
+  "insiders": {
+    "mint": "DNHusQFeRNPUVSFqEy1un8G998exnYEi25RbV8Qepump",
+    "first_seen": "2026-08-12T13:59:42.056056+00:00"
+  },
+  "amie": {
+    "mint": "3v9SGNefsDFQno5oGxsLAY7qHRyeZHjhbnsxn11Tpump",
+    "first_seen": "2026-08-12T13:59:43.551402+00:00"
+  },
+  "moses": {
+    "mint": "HsCJrPUSaSe3b5Wbee3b2rMojXgUBW6JzKaEyf7ypump",
+    "first_seen": "2026-08-12T13:59:44.063412+00:00"
+  },
+  "baga": {
+    "mint": "HbabBAxhLCRixeNwdYnaDkWwccpM2r7F519JE6mjpump",
+    "first_seen": "2026-08-12T13:59:44.582651+00:00"
+  },
+  "odysseans": {
+    "mint": "F53XjDtdzJGQCEtspsidBkukQGkRCiRXAhW9KToHpump",
+    "first_seen": "2026-08-12T13:59:49.266415+00:00"
+  },
+  "archer": {
+    "mint": "8vVPD2C1aFARek9f77E5c5z41Y3BdovyTT8tnTEFpump",
+    "first_seen": "2026-08-12T13:59:49.968353+00:00"
+  },
+  "copperpenguin": {
+    "mint": "hsAgiRGvqBD5GeZxed9iDKpvFpwiq7iL7REjsB8pump",
+    "first_seen": "2026-08-12T13:59:50.420609+00:00"
+  },
+  "moonamtok": {
+    "mint": "4GjpX9a68jRUwJGxnuop7F5GY9jZyyEkFLAtsei8pump",
+    "first_seen": "2026-08-12T13:59:50.557065+00:00"
   }
 }
