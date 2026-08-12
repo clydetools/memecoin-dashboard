@@ -42886,5 +42886,53 @@
   "khalifah": {
     "mint": "DD9PaZVxr9K8NrdRzf9RZsiUK3UDhcRAkAamp5jvWojg",
     "first_seen": "2026-08-12T20:06:57.593391+00:00"
+  },
+  "caas": {
+    "mint": "AcgxYhbUDWAhZjF5ehiqryyL1vtpgqSkb5Y72vrpump",
+    "first_seen": "2026-08-12T20:59:46.436375+00:00"
+  },
+  "youngboy": {
+    "mint": "yLir1Gqap6g4gdBpLMSrtxSvJbjkbP6ehPkJHTvpump",
+    "first_seen": "2026-08-12T20:59:46.938334+00:00"
+  },
+  "kitvest": {
+    "mint": "6fTm2v7aExq2zNKBA4BEjuSw7omeWVVDjNmHvPB8pump",
+    "first_seen": "2026-08-12T20:59:47.457641+00:00"
+  },
+  "hodloor": {
+    "mint": "7PRF5a7RgcQSLJESjECrMeya8DdEoywVSv2af2Zzpump",
+    "first_seen": "2026-08-12T20:59:47.974016+00:00"
+  },
+  "thot": {
+    "mint": "24WYp4BtBgfjHz1BWK8nuUx4pdWbvzhRtiM4scDTpump",
+    "first_seen": "2026-08-12T20:59:49.523400+00:00"
+  },
+  "napoleon": {
+    "mint": "ENFQiirohJ7FTkvfx9PM2HtgfCPqSd5VfBcFAR2qpump",
+    "first_seen": "2026-08-12T20:59:50.043766+00:00"
+  },
+  "mister": {
+    "mint": "3GgtDzzSPPmS2ApaBSG8CmnnAF4QvTSaYJD1zVpwe8JG",
+    "first_seen": "2026-08-12T20:59:50.559160+00:00"
+  },
+  "v0ll": {
+    "mint": "FHb4YdFT6Zq3vaJpcXusiFDStkqBBb2uQWs26S1opump",
+    "first_seen": "2026-08-12T20:59:51.067506+00:00"
+  },
+  "3xpl01t": {
+    "mint": "QvfS4nBcsdYsunMZLbptjv8wb8YnxmXurmCaXNTpump",
+    "first_seen": "2026-08-12T20:59:52.615310+00:00"
+  },
+  "called": {
+    "mint": "3TGbToyKPudLwrFcAs1BbcgHFSj2yqZg4XquQPPSpump",
+    "first_seen": "2026-08-12T20:59:58.814954+00:00"
+  },
+  "vol": {
+    "mint": "66ruWUv7KLXkLbHBTnj7PqzEgdue1oZjeA5Z3JMHpump",
+    "first_seen": "2026-08-12T20:59:58.876510+00:00"
+  },
+  "fool": {
+    "mint": "8dLQtUTeDQk5A9dsJiG6AzpEuxZ7RAmbRcDYKRBrpump",
+    "first_seen": "2026-08-12T20:59:59.386359+00:00"
   }
 }
