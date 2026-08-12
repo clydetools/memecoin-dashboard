@@ -42786,5 +42786,45 @@
   "gtavibank": {
     "mint": "BHX3iJAMiCXGpPPPNe98P8xKDTmyqUBDge9kQt44pump",
     "first_seen": "2026-08-12T18:06:02.197929+00:00"
+  },
+  "betoor": {
+    "mint": "5xxVaywSHWxhmGBdEVeFBpCVPzuQUsanpG3Gt7t6pump",
+    "first_seen": "2026-08-12T19:16:31.585721+00:00"
+  },
+  "mikeog": {
+    "mint": "3eTNyKrZbrnB6QtgRnLxJ4nrfMaNiSHoQhibWfhApump",
+    "first_seen": "2026-08-12T19:16:33.889942+00:00"
+  },
+  "ferwiz": {
+    "mint": "3mPkH87Bt8XLQ5LgAyTFkq5FJymi2csdmJpUo4LLpump",
+    "first_seen": "2026-08-12T19:16:34.943712+00:00"
+  },
+  "chubbycat": {
+    "mint": "ALFKiS1AXLK2NH4vdYuLU8tBqBQrZdT8NWp3RYEVpump",
+    "first_seen": "2026-08-12T19:16:35.319315+00:00"
+  },
+  "akitty": {
+    "mint": "2bevQJXs1ugtHPzD5cYC4mWaGW1eCTxtYZPBw4XZpump",
+    "first_seen": "2026-08-12T19:16:35.709998+00:00"
+  },
+  "oblivion": {
+    "mint": "H3TXRdm52ABKKtwGWPPRnXxaToA9icydvXpzkFgdpump",
+    "first_seen": "2026-08-12T19:16:36.769435+00:00"
+  },
+  "zackaddy": {
+    "mint": "stPztccEiGUWtsc7ro13FxSSePpnbZxB5ttdmPwpump",
+    "first_seen": "2026-08-12T19:16:37.507573+00:00"
+  },
+  "shitpad": {
+    "mint": "FkVUppx2HXfHPGozibKGY4rov1pFp9u85NeUbE6wpump",
+    "first_seen": "2026-08-12T19:16:40.549090+00:00"
+  },
+  "rbacha": {
+    "mint": "5DnZAcLMq5kU1yTgg7pvYmKgmaVuoTzSMRn9B5txpump",
+    "first_seen": "2026-08-12T19:16:40.941913+00:00"
+  },
+  "grok46": {
+    "mint": "8Xq6EWkwGh5fq9EPLpkgqnk586QckB2pgdjZWv1jGw2B",
+    "first_seen": "2026-08-12T19:16:46.506948+00:00"
   }
 }
