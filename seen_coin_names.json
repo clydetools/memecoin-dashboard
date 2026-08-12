@@ -42454,5 +42454,49 @@
   "tinkerbull": {
     "mint": "hVha9sExfqchfVA8jsrdwDN4Wczep2o48adCnY6pump",
     "first_seen": "2026-08-12T10:41:05.371610+00:00"
+  },
+  "locklana": {
+    "mint": "6Pin1ozwbimvpxXjR3Z71CvyXhEPg9UBRcjFjGpSBT8S",
+    "first_seen": "2026-08-12T11:33:47.281114+00:00"
+  },
+  "tradfun": {
+    "mint": "APu951KWr35a5pojtLmppQmnu9xUmKeYj9yVjiz37ray",
+    "first_seen": "2026-08-12T11:33:48.014782+00:00"
+  },
+  "molgre": {
+    "mint": "EB2BbY7dQyDJmjcoEtCUFVtaeVDQ71LVxWoXxrmxpump",
+    "first_seen": "2026-08-12T11:33:48.372729+00:00"
+  },
+  "solanacore": {
+    "mint": "HjaXXiyZZWf1PiacSMqCRVDCwwRXqJhSS5cb2RBJpump",
+    "first_seen": "2026-08-12T11:33:49.406794+00:00"
+  },
+  "sedragon": {
+    "mint": "98KsBSnt3XG66n2T1VMqkmq2JcKuiwLh75r5dACCfC9g",
+    "first_seen": "2026-08-12T11:33:49.765189+00:00"
+  },
+  "trumpio": {
+    "mint": "6ePhYSt1J8k9RfkmsJwErsqsd3fdRNf18wmGp2K2pump",
+    "first_seen": "2026-08-12T11:33:50.125287+00:00"
+  },
+  "gamble": {
+    "mint": "6BKrgRfsrbt1qchXUaCCQ8e9gv5zs8c7rKeCCHLZpump",
+    "first_seen": "2026-08-12T11:33:51.152201+00:00"
+  },
+  "potcat": {
+    "mint": "Fdwx4Dh3bnaZxt3JwbiChxiYG4TLAdgBrsSMHXUrpump",
+    "first_seen": "2026-08-12T11:33:51.510412+00:00"
+  },
+  "listed": {
+    "mint": "BeBhGNpScsqVsTddNFK6Wjo7NythFZ36s1uociUypump",
+    "first_seen": "2026-08-12T11:33:52.221218+00:00"
+  },
+  "tpd": {
+    "mint": "DJdbd7ypGMfPVNjQGytRxF1wQNuGWrw27kqZZjMUFGyi",
+    "first_seen": "2026-08-12T11:33:52.935352+00:00"
+  },
+  "eclipse": {
+    "mint": "FkD1S9QujAMouUyvHwowrvoq1uTaJs1WPvT3rby6pump",
+    "first_seen": "2026-08-12T11:33:58.071872+00:00"
   }
 }
