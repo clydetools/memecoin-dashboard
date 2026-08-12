@@ -42362,5 +42362,21 @@
   "fomeow": {
     "mint": "5qHUGTgkRaDrSNGgQg5wQxb5tDrzEW5ewuGpSS3jpump",
     "first_seen": "2026-08-12T05:28:59.176977+00:00"
+  },
+  "grokbot": {
+    "mint": "HMsV97YV2UREpueFRDn6rbP9dKAM6dURpaTX4twEpump",
+    "first_seen": "2026-08-12T06:54:49.631235+00:00"
+  },
+  "tes": {
+    "mint": "9eBb9g9KN7hsG7ErA9NA1ajzWRGTB7r9VgeHHKhLpump",
+    "first_seen": "2026-08-12T06:54:52.572391+00:00"
+  },
+  "basan": {
+    "mint": "7g4x1R7d6UQ1U18sQ3eeuT7DJqRkEirpFrh9F59Kpump",
+    "first_seen": "2026-08-12T06:54:59.571302+00:00"
+  },
+  "mafia": {
+    "mint": "DcK63VSmkpFRdvNpBh1947QxF7hHud5TbMmhj4REpump",
+    "first_seen": "2026-08-12T06:55:01.094413+00:00"
   }
 }
