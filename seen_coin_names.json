@@ -42934,5 +42934,41 @@
   "fool": {
     "mint": "8dLQtUTeDQk5A9dsJiG6AzpEuxZ7RAmbRcDYKRBrpump",
     "first_seen": "2026-08-12T20:59:59.386359+00:00"
+  },
+  "history": {
+    "mint": "DkR1qJJsbKzMsw15ef64S3DWvZS4wH4EaVwZ13yKpump",
+    "first_seen": "2026-08-12T21:54:56.178397+00:00"
+  },
+  "evyrein": {
+    "mint": "3cX6mbPqSXWnJ4mANQNQcuHUeDF9pqYJyPDAPVe7pump",
+    "first_seen": "2026-08-12T21:54:57.228353+00:00"
+  },
+  "tend": {
+    "mint": "AopVzb8pjeTqpZF6JEEv6Kz1YVSMC1CFkS8tvcwopump",
+    "first_seen": "2026-08-12T21:54:57.624842+00:00"
+  },
+  "iacas": {
+    "mint": "CHVnLShTFfEC2w18QLnjXAk7JCNj73grdpVrWYpGpump",
+    "first_seen": "2026-08-12T21:54:58.043901+00:00"
+  },
+  "sushorse": {
+    "mint": "G6xJm4EfDBjkZXH9Y752jBJxoJr54iFGu4NzYuEApump",
+    "first_seen": "2026-08-12T21:54:58.436466+00:00"
+  },
+  "niggachean": {
+    "mint": "8YdyW5vjPrxPyeS8FoAkS5e5Dd6Ji16PkVC2oPq4pump",
+    "first_seen": "2026-08-12T21:54:58.812613+00:00"
+  },
+  "b3t": {
+    "mint": "B3TTvs3UKegN2A85gXovEH1uZeqXF1KwHBZvovE9ABMR",
+    "first_seen": "2026-08-12T21:55:00.809693+00:00"
+  },
+  "valet": {
+    "mint": "BVeEzH4USexqb2A16QQ6sQ7KbzPMkzJwNVjV8m6dpump",
+    "first_seen": "2026-08-12T21:55:05.249126+00:00"
+  },
+  "howie": {
+    "mint": "6uCfKmX5kMcVuKqAeRgxmt83N2RuzMBny9VBifEnpump",
+    "first_seen": "2026-08-12T21:55:05.312419+00:00"
   }
 }
