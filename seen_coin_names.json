@@ -43282,5 +43282,41 @@
   "msvp": {
     "mint": "4h6bS4MUSpE2zdWk2Hg4VTKwoayBSHQyH9su7L2THDqd",
     "first_seen": "2026-08-13T08:57:29.140194+00:00"
+  },
+  "airpod": {
+    "mint": "J487wwbwXap8rbRWxWq33SLsVF1uQzQgis8JL6zipump",
+    "first_seen": "2026-08-13T10:07:16.234889+00:00"
+  },
+  "pidge": {
+    "mint": "GWEWLPLMvFzFzaDfFJRp6jsEbXXuG9h6F6f1w4sFpump",
+    "first_seen": "2026-08-13T10:07:17.146535+00:00"
+  },
+  "hopdog": {
+    "mint": "6zBQ3UU3oYsTAEK1hkTuXru4idVkdt6vntwbT7tRpump",
+    "first_seen": "2026-08-13T10:07:18.042008+00:00"
+  },
+  "maoli": {
+    "mint": "FvP34ndMwuWY9ss5ar2wKrhCjMTmioijekjjRK43pump",
+    "first_seen": "2026-08-13T10:07:19.297914+00:00"
+  },
+  "cuscus": {
+    "mint": "98WqpKLgpnvrY4dEmnmyEosRzSdsHJbEvyznPffVpump",
+    "first_seen": "2026-08-13T10:07:19.699584+00:00"
+  },
+  "ballsackdorkl": {
+    "mint": "GNDfDoYwz8V8trsoNorEqtD1vxABc3PmyMZyEfndpump",
+    "first_seen": "2026-08-13T10:07:20.100048+00:00"
+  },
+  "coingecko": {
+    "mint": "6rDw47NZBr5djQkMXr6Kd8WJHYLVRehfPXgS3ptEr5sb",
+    "first_seen": "2026-08-13T10:07:24.411167+00:00"
+  },
+  "frogversal": {
+    "mint": "3Z1A4FdPkQBoskbkmQcZycasjSzUNie8KYQPXkTipump",
+    "first_seen": "2026-08-13T10:07:25.123333+00:00"
+  },
+  "plumbalon": {
+    "mint": "7CYomkAdToz5wZAhdqNcwC9TaSEnPDHWd1Q6jW3Fpump",
+    "first_seen": "2026-08-13T10:07:25.562008+00:00"
   }
 }
