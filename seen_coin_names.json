@@ -43502,5 +43502,65 @@
   "bottom": {
     "mint": "9cPz9ZP4eMPnPP4AwWrweXajCLTvjP3TqwmW8TdSpump",
     "first_seen": "2026-08-13T15:35:09.080362+00:00"
+  },
+  "gertlepenny": {
+    "mint": "48Uaw9Brf1SL945XeC8BBgR4rrjqMfEQRPFABH9Ypump",
+    "first_seen": "2026-08-13T16:31:05.479698+00:00"
+  },
+  "fffffd": {
+    "mint": "CpkzpBVXJRTzyMkGa2uFDTFLHKGr5pG5XTvhfPSmyo85",
+    "first_seen": "2026-08-13T16:31:07.416892+00:00"
+  },
+  "fffff": {
+    "mint": "B1HYTxdRie7anWMkuP7PDaLzh6EMCUNL681AcnGjRozr",
+    "first_seen": "2026-08-13T16:31:08.031020+00:00"
+  },
+  "perfume": {
+    "mint": "F85Es5v5U5qD8AUjBqWUM99pzsUDmhZFsVdkUAxgpump",
+    "first_seen": "2026-08-13T16:31:09.109708+00:00"
+  },
+  "asdf": {
+    "mint": "2CWdurrF9cv8P7SrM3i4az46n3D2Lmu3d3de7E4SgmDf",
+    "first_seen": "2026-08-13T16:31:09.696235+00:00"
+  },
+  "eclips": {
+    "mint": "5nP1M9xqiP5F9LpwKDuMyDaD3E1WxksnwLLkBaA9pump",
+    "first_seen": "2026-08-13T16:31:10.903547+00:00"
+  },
+  "makka": {
+    "mint": "HFwHwhJ3SRSEmTFmj7EbFgqiukzy7d9Ld8EYv5yXpump",
+    "first_seen": "2026-08-13T16:31:12.048522+00:00"
+  },
+  "snp": {
+    "mint": "9Nm2pRdUXbTUXM4SXXVqttEtLep5CxE8VU4exv7Hpump",
+    "first_seen": "2026-08-13T16:31:14.239215+00:00"
+  },
+  "val": {
+    "mint": "6Kfr7rtXbpWzR1G3eozYRKmJujJvmMHNRYj9CiXUpump",
+    "first_seen": "2026-08-13T16:31:14.804121+00:00"
+  },
+  "resort": {
+    "mint": "DtbSrmk29SXZ8ZsHNpx4sApNGuQMSEdUhnKRweu5pump",
+    "first_seen": "2026-08-13T16:31:19.937431+00:00"
+  },
+  "rogerteam": {
+    "mint": "DYz5hvMhX963K8zk613atuEjNVaTJtaawzsN8isvpump",
+    "first_seen": "2026-08-13T16:31:20.012987+00:00"
+  },
+  "mald1": {
+    "mint": "jCk6WLWc37dz7BpjDiFjqbNSYqNEYKKM5psj9BkBEdw",
+    "first_seen": "2026-08-13T16:31:20.596087+00:00"
+  },
+  "sorajiro": {
+    "mint": "62LUfjwReSmUq9HC3nWTXFvg6rfyiqTg9mVrdsFjmjh3",
+    "first_seen": "2026-08-13T16:31:20.723889+00:00"
+  },
+  "plansem": {
+    "mint": "j8RdRQ8tQRbx62cr46e5LM8ekRDZr1opqmbgsobpump",
+    "first_seen": "2026-08-13T16:31:21.732580+00:00"
+  },
+  "basket": {
+    "mint": "4VnaCje2AUzyWUKJDtwmpFjzewE4bx2B6Ha4HgS4pump",
+    "first_seen": "2026-08-13T16:31:22.821387+00:00"
   }
 }
