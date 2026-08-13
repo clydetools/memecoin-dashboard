@@ -43370,5 +43370,49 @@
   "gregory": {
     "mint": "6XJBR3e5SuKmRAVgPaog3UCb83Br5yzbeBQKYdtjpump",
     "first_seen": "2026-08-13T11:58:32.537393+00:00"
+  },
+  "cleaninglady": {
+    "mint": "FtC4ugVa1Am2Cnw6eX8L296wLMgfXVFTiW5rJwsBpump",
+    "first_seen": "2026-08-13T13:19:03.374835+00:00"
+  },
+  "toxpir": {
+    "mint": "FhXFaoTQdPFssGqtfT3P3VvfRA6cqpRAQBM1BTAypump",
+    "first_seen": "2026-08-13T13:19:04.555888+00:00"
+  },
+  "qant": {
+    "mint": "6XBvrbjMBanrixQqigA3JBxusDyLfQcSmntiGso3pump",
+    "first_seen": "2026-08-13T13:19:05.095843+00:00"
+  },
+  "growth": {
+    "mint": "DfN1g3rj2XrGabYJmzNsq6oVzGKSKjMm8nCerv4FDpef",
+    "first_seen": "2026-08-13T13:19:06.309812+00:00"
+  },
+  "quaunt": {
+    "mint": "6Mu3yc1DqppJg4xiTnQ7FxnQimHfrBfUeP1CSjd5pump",
+    "first_seen": "2026-08-13T13:19:07.465049+00:00"
+  },
+  "rapedog": {
+    "mint": "5P5ABPU1rLSov7qGT1GKKcAE5TdMnzAD2Ebfrak6EbAk",
+    "first_seen": "2026-08-13T13:19:08.632339+00:00"
+  },
+  "otterfam": {
+    "mint": "ALdC48MHBmZHrDUWRzsvJQBeRCcw7kFBb4R1ENgopump",
+    "first_seen": "2026-08-13T13:19:09.157209+00:00"
+  },
+  "gnocchi": {
+    "mint": "3KoE4nrzmnT8KzYoMrxzp2YVWE1r43X7Aq9YupB3pump",
+    "first_seen": "2026-08-13T13:19:14.495470+00:00"
+  },
+  "snipo": {
+    "mint": "2pd65R6x8PDoL4dZFGbA3sZsQpTRPNU2mgvLVjxRpump",
+    "first_seen": "2026-08-13T13:19:15.029576+00:00"
+  },
+  "dammit": {
+    "mint": "G4HrTxyKzLWuyVNJYAKUD3nzm9NW7ADmMUNz4MV3pump",
+    "first_seen": "2026-08-13T13:19:20.408189+00:00"
+  },
+  "modi": {
+    "mint": "SG9vDTQExPUNvmickWboqo1Wkq94bWBFT6rjAzhpump",
+    "first_seen": "2026-08-13T13:19:22.891884+00:00"
   }
 }
