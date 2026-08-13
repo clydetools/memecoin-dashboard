@@ -43062,5 +43062,45 @@
   "fomopad": {
     "mint": "5zkrh3sVdXafNwTxDP1mysKwFpugBePdhBfWxFWZfomo",
     "first_seen": "2026-08-12T23:22:19.978722+00:00"
+  },
+  "west": {
+    "mint": "HbsQT7Rfmq3GLoYbcuUx845XrxHu1iDk8vBpY8ddJ9bQ",
+    "first_seen": "2026-08-13T00:06:33.754002+00:00"
+  },
+  "strategy": {
+    "mint": "Gesxr3UfkDtwt4rcUWdtnPu1eCmTfkE3ABr98DcXpump",
+    "first_seen": "2026-08-13T00:06:38.046038+00:00"
+  },
+  "admiral": {
+    "mint": "13nCkgFGZPAzYG93WYG6AauVBn7gADviN686CUYzpump",
+    "first_seen": "2026-08-13T00:06:39.186646+00:00"
+  },
+  "skater": {
+    "mint": "4feuR79uRAie5KUkqMs1GKAZRQ9uaJGYF3gmzCPfpump",
+    "first_seen": "2026-08-13T00:06:41.377734+00:00"
+  },
+  "poptart": {
+    "mint": "A56J3eLEWQyDFwAWwdL5mPqT2YDrHhmnqSu9BTKBxBrQ",
+    "first_seen": "2026-08-13T00:06:42.466994+00:00"
+  },
+  "safe": {
+    "mint": "FrPo9haVmE83pGRdLMFBDGkAswLjgaA71jx2jy5ypump",
+    "first_seen": "2026-08-13T00:06:43.214996+00:00"
+  },
+  "moondog": {
+    "mint": "DcQubMXwspQDt6nqGdLfdu5pwkrukCu3RxZuudF1pump",
+    "first_seen": "2026-08-13T00:06:44.645482+00:00"
+  },
+  "turwar": {
+    "mint": "EFEvL4L2Jg4sqzUuzvVA4nGPnzR4H2RaFJ25C8aKpump",
+    "first_seen": "2026-08-13T00:06:45.072283+00:00"
+  },
+  "cham": {
+    "mint": "GJaxyLPuZh5U2U4LgAVdGGC6KYRVXZp8t91P2vzaCHAM",
+    "first_seen": "2026-08-13T00:06:51.264090+00:00"
+  },
+  "gemini": {
+    "mint": "GMHmHf6YbUYYaNsi7sfd3JTq1ZGQwkQ2wkHRLKbZCusR",
+    "first_seen": "2026-08-13T00:06:51.323691+00:00"
   }
 }
