@@ -44414,5 +44414,41 @@
   "dew": {
     "mint": "JJeMsbPG5TcvGzhUMQyqDZdHTeC9U9pw4p3PXsypump",
     "first_seen": "2026-08-14T16:24:01.769737+00:00"
+  },
+  "twr": {
+    "mint": "tY3Hn4PUBnoESnYxS2xFbwUzTFWT4yBUwxaX7nfpump",
+    "first_seen": "2026-08-14T17:27:44.145223+00:00"
+  },
+  "phainf": {
+    "mint": "9PdE5q1gi5ZustsHMq37gKxMyjJonB8Ryd4W6LjQpump",
+    "first_seen": "2026-08-14T17:27:44.511811+00:00"
+  },
+  "caleb": {
+    "mint": "HMu5ngJi6b8sunkFLcefvVFBKdgh6bRZ8boSV9mj2sdH",
+    "first_seen": "2026-08-14T17:27:44.895538+00:00"
+  },
+  "flyster": {
+    "mint": "DX4g7J1NE7Qc3t828pynZBPnAPxVvcSbZiAdvtJCpump",
+    "first_seen": "2026-08-14T17:27:45.261364+00:00"
+  },
+  "algopub": {
+    "mint": "ARf2FRfRWGmjTGmwMMppLHCQRiTpNq9QEb1bRHSWpump",
+    "first_seen": "2026-08-14T17:27:46.690701+00:00"
+  },
+  "elonguy": {
+    "mint": "AewakXbTJJfWcVWDrkN1uk8Uvkew6r86VW52uUhNpump",
+    "first_seen": "2026-08-14T17:27:47.055657+00:00"
+  },
+  "gringott": {
+    "mint": "CAGtwKrcnwgLABdg5o16oMczxUV6i1pj973K9XWQpump",
+    "first_seen": "2026-08-14T17:27:52.039057+00:00"
+  },
+  "janitor": {
+    "mint": "DNDWtj2bPvnFzr7iqxAz9u3Crt2L6Y1M1rczseTWWJcV",
+    "first_seen": "2026-08-14T17:27:52.791820+00:00"
+  },
+  "jacksepticeye": {
+    "mint": "HYpXMNDKuqfcAW5wzVaN8VHqPhSYoKtSZF6hXVFapump",
+    "first_seen": "2026-08-14T17:27:53.650682+00:00"
   }
 }
