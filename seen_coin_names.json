@@ -44202,5 +44202,45 @@
   "itir": {
     "mint": "4nBJR1yc9HqPqicuc7Gipcqmg5JcYNxDYy5K8vDwpump",
     "first_seen": "2026-08-14T11:21:07.085852+00:00"
+  },
+  "elondog": {
+    "mint": "HbQXT3UATSgX5p4MfKgJxAXXsppSXvt1AuNhYeU7pump",
+    "first_seen": "2026-08-14T12:07:00.812825+00:00"
+  },
+  "zedog": {
+    "mint": "HQLQzinweAk4vJAWdGVtkeQDAj2mcnc9cqR3V1qWpump",
+    "first_seen": "2026-08-14T12:07:01.267706+00:00"
+  },
+  "rideabull": {
+    "mint": "FFFZacCvhoraDn7hqaipNPPVcnyXeD4GuXcXXeAmpump",
+    "first_seen": "2026-08-14T12:07:01.999204+00:00"
+  },
+  "tahlequah": {
+    "mint": "6WrwMCrrJypcqbm72SHz7cLz877S63cgudu33N9rpump",
+    "first_seen": "2026-08-14T12:07:02.780696+00:00"
+  },
+  "griffi": {
+    "mint": "2nJEmcLf4jVEWqjLFJGvcH8ydeWQZL4o7duaLjhQpump",
+    "first_seen": "2026-08-14T12:07:03.170458+00:00"
+  },
+  "dogenator": {
+    "mint": "AtqguB6JFRXaNvkQmCkPqsXckpQSPL87dAksK4F1pump",
+    "first_seen": "2026-08-14T12:07:03.589293+00:00"
+  },
+  "shunta": {
+    "mint": "Gwhy3ad2FCBzX9EtyyvXYCF23drFcP4YSqTTPHbPpump",
+    "first_seen": "2026-08-14T12:07:03.965145+00:00"
+  },
+  "bsbull": {
+    "mint": "Bxb8pYM675qeNufHvLHufB2yp4WxwjbHZigpaQKVpump",
+    "first_seen": "2026-08-14T12:07:04.660818+00:00"
+  },
+  "ebov": {
+    "mint": "65EzuFv9kAiMhmKSSFMyRekCmhdptbyLqFgvXDAmpump",
+    "first_seen": "2026-08-14T12:07:09.953141+00:00"
+  },
+  "ratio": {
+    "mint": "AzXuLSSRkj3kDCgSx8C3MvHMDSAk8TcUZcjhYciQpump",
+    "first_seen": "2026-08-14T12:07:10.866914+00:00"
   }
 }
