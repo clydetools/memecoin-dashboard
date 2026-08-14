@@ -44278,5 +44278,65 @@
   "robbie": {
     "mint": "EC6As1wCPHS6YxHdUZ6y2q7NZEFroHJ7EpjrNboiEHqi",
     "first_seen": "2026-08-14T13:36:50.681997+00:00"
+  },
+  "curcom": {
+    "mint": "8Me3XRSg6FNVzejBJR1SMY2iP74ZwaZkfFa9aWEQpump",
+    "first_seen": "2026-08-14T14:35:56.603675+00:00"
+  },
+  "roggre": {
+    "mint": "9q1U77EKfY6fTZPnpCYfx1jcL91iePvhScxr93Vypump",
+    "first_seen": "2026-08-14T14:36:00.985123+00:00"
+  },
+  "duko": {
+    "mint": "3Cy5F28RVWHBC5Yriy8FZV9KCmWTsaYySRdiW8YApump",
+    "first_seen": "2026-08-14T14:36:02.218665+00:00"
+  },
+  "wukongcoin": {
+    "mint": "3fh7Ck6Rtd7aTpyPf9AM7aH1EHn9DVKBs4jUwoM7pump",
+    "first_seen": "2026-08-14T14:36:03.494087+00:00"
+  },
+  "school": {
+    "mint": "6KZDFo7kh3zSX6EbnaZw2bqC3FtfZ9TkSLj7gKKNpump",
+    "first_seen": "2026-08-14T14:36:04.041225+00:00"
+  },
+  "pochi": {
+    "mint": "CCaU2fnDonhDx8qg4AAiHvn9B4cK9o9tXc5aPa3jpump",
+    "first_seen": "2026-08-14T14:36:08.013486+00:00"
+  },
+  "fyp": {
+    "mint": "62d51KaLrKaF7yUCfT2n1B9ofxodosPPU11D9UH7pump",
+    "first_seen": "2026-08-14T14:36:09.667407+00:00"
+  },
+  "sus": {
+    "mint": "FYbygjx59Ho88BmBGcn5f6qFepZrxnmDbzfroSaEpump",
+    "first_seen": "2026-08-14T14:36:10.243584+00:00"
+  },
+  "skibidify": {
+    "mint": "8rzieuFbCZZgU1aysieg3FNzb758wdksBdiDdLkxpump",
+    "first_seen": "2026-08-14T14:36:10.798435+00:00"
+  },
+  "bct": {
+    "mint": "8SFpQ1kRbfjbmpnhKzzgd6GA9PZwhiAMQywZh75Dpump",
+    "first_seen": "2026-08-14T14:36:15.675288+00:00"
+  },
+  "alts": {
+    "mint": "A2C5f6oYH2ipGb1mQTRDrUvKtNYtS6jnyaeXDXaZYpj7",
+    "first_seen": "2026-08-14T14:36:15.736578+00:00"
+  },
+  "castcat": {
+    "mint": "2iBGJKYqPuCiQhkZ1iW9tdZPNc9xqNMc5bmtWX5Kpump",
+    "first_seen": "2026-08-14T14:36:16.543689+00:00"
+  },
+  "cashelon": {
+    "mint": "GS2jgH6874i1txo8CUnudz7N1gAuA9CtRHLXN1Npump",
+    "first_seen": "2026-08-14T14:36:17.313413+00:00"
+  },
+  "yeong": {
+    "mint": "DSK6Sb6WnRhSbnC2A35XwR6SRrogPM2crB8P42mnpump",
+    "first_seen": "2026-08-14T14:36:17.590175+00:00"
+  },
+  "weedcoin": {
+    "mint": "21nnfR4TkbZNLwvRrqEseAbz7P3kxKjaV7KuboLJpump",
+    "first_seen": "2026-08-14T14:36:17.737378+00:00"
   }
 }
