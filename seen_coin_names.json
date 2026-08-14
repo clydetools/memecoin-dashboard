@@ -44838,5 +44838,33 @@
   "xw": {
     "mint": "H23mxdpYyyyP9wkjkFpnTAEaFGUbmUcCMLJBhbdMpump",
     "first_seen": "2026-08-14T23:03:20.983106+00:00"
+  },
+  "nikki": {
+    "mint": "EgAikYFFN9UF8XcigL5DnFs3qYQq19dbHwLSu8Xpump",
+    "first_seen": "2026-08-14T23:32:46.658006+00:00"
+  },
+  "trader": {
+    "mint": "24eQHxRjCpVVroXrmkh9NZo6VRDkyi1K9difkPDZpump",
+    "first_seen": "2026-08-14T23:32:48.707244+00:00"
+  },
+  "beryet": {
+    "mint": "99LMurSVz7qezvxVK9F5FA3gaLAu3mqsbZ7Zm1CHpump",
+    "first_seen": "2026-08-14T23:32:50.223164+00:00"
+  },
+  "morgan": {
+    "mint": "DqrdLfUSw2zRnHtzs45ZXkgHya9iANxPVb6tVwdapump",
+    "first_seen": "2026-08-14T23:32:52.291638+00:00"
+  },
+  "bergob": {
+    "mint": "6zQZPM9Tba5KyraoGXGnAUuBZRWgW63ATykN71oqpump",
+    "first_seen": "2026-08-14T23:32:55.742673+00:00"
+  },
+  "leap": {
+    "mint": "5cX1S4bdJf6C2DGNQmGZSCQ5fdYYBWBX7sK2gW1ypump",
+    "first_seen": "2026-08-14T23:33:05.461789+00:00"
+  },
+  "tqh": {
+    "mint": "G7tccXz7xSFsiMbvjJxe8rXLWXYQGvmXZ9nRKjK9pump",
+    "first_seen": "2026-08-14T23:33:07.360627+00:00"
   }
 }
