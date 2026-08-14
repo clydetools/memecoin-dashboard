@@ -44162,5 +44162,45 @@
   "rizzter": {
     "mint": "BwUrTqcaoJUVnKTGPZk7k4iiSdTUeFSQKBh7f8rtpump",
     "first_seen": "2026-08-14T10:28:23.527124+00:00"
+  },
+  "fomohouse": {
+    "mint": "B3E33UXpJGUvrgE5X6Q9UpmPciihjDobB2ueUQaGpump",
+    "first_seen": "2026-08-14T11:20:55.461999+00:00"
+  },
+  "sunflocoin": {
+    "mint": "APymzDVk7Wd1Qu7c7eAfdpCYYuUzMPw67Fiaqsz7u4CY",
+    "first_seen": "2026-08-14T11:20:55.924686+00:00"
+  },
+  "snoost": {
+    "mint": "3Hks6n271RdW1Fbc8BarC78HETVYXP43CAdwcRhSyKuF",
+    "first_seen": "2026-08-14T11:20:56.402143+00:00"
+  },
+  "ken": {
+    "mint": "4WvfAHNT6RNvrHticQ6xJWQNC4CAa7qqBJqMSNhxpump",
+    "first_seen": "2026-08-14T11:20:56.867841+00:00"
+  },
+  "tigerothy": {
+    "mint": "UH4mcge6EJSKWepXDnQiKgmFxVU5VuEwZ83ZgLwpump",
+    "first_seen": "2026-08-14T11:20:57.799074+00:00"
+  },
+  "sharkattack": {
+    "mint": "6RN9wAasJ3K6FAMY6GUnRf2oA2C5JMmacJJnwTrqpump",
+    "first_seen": "2026-08-14T11:20:58.211538+00:00"
+  },
+  "dp": {
+    "mint": "GcWVDkoaBWZYW7bBgqCHDiqAmfnwwPxvbusA3s77pump",
+    "first_seen": "2026-08-14T11:21:04.612675+00:00"
+  },
+  "gmlr": {
+    "mint": "DJdsqnh9dBZyqyxVGcUDLurYE3MGzR5ZU39d4k3ghrQq",
+    "first_seen": "2026-08-14T11:21:04.658904+00:00"
+  },
+  "megatron": {
+    "mint": "CVhRNUtxwvsaGzfQ5Z6kkPSkraK35ykFC456jbsPpump",
+    "first_seen": "2026-08-14T11:21:04.709241+00:00"
+  },
+  "itir": {
+    "mint": "4nBJR1yc9HqPqicuc7Gipcqmg5JcYNxDYy5K8vDwpump",
+    "first_seen": "2026-08-14T11:21:07.085852+00:00"
   }
 }
