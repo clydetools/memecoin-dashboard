@@ -44242,5 +44242,41 @@
   "ratio": {
     "mint": "AzXuLSSRkj3kDCgSx8C3MvHMDSAk8TcUZcjhYciQpump",
     "first_seen": "2026-08-14T12:07:10.866914+00:00"
+  },
+  "111": {
+    "mint": "4XWPELVgfnABysdWR3v5AQ1JeuRvFUSVLtK3JiT4pump",
+    "first_seen": "2026-08-14T13:36:42.525829+00:00"
+  },
+  "djob": {
+    "mint": "HC6vSvrZb1Xrc1NeCSmmBEdSJDbAu42kty1vGmUQpump",
+    "first_seen": "2026-08-14T13:36:42.988637+00:00"
+  },
+  "yoshino": {
+    "mint": "AbncPMFfRJ9ATEPAk1CrEx2jXtrDHHjcdCdgbZp5pump",
+    "first_seen": "2026-08-14T13:36:43.368624+00:00"
+  },
+  "ftr": {
+    "mint": "AKTBbbKHdmjLXkkqQECmHcWvfk5jcrygGVbcifXTpump",
+    "first_seen": "2026-08-14T13:36:43.730313+00:00"
+  },
+  "phytia": {
+    "mint": "F7f2ZWzpC983JnvDBkMgq7XJKabKAR4ktgLoq5Bqpump",
+    "first_seen": "2026-08-14T13:36:44.798082+00:00"
+  },
+  "a71": {
+    "mint": "38d9yqMjtCjycNBYh8Lxrk6Rumg6tkfCcNzpe3AXpump",
+    "first_seen": "2026-08-14T13:36:45.157072+00:00"
+  },
+  "starman": {
+    "mint": "58DW7CaCo5Nq6cJNYQCE1JYCwihfpPyPvNTRVvdZpump",
+    "first_seen": "2026-08-14T13:36:45.871155+00:00"
+  },
+  "betalt": {
+    "mint": "8YGACHFxeXNgMoGgwTWSPo6GmDQDDvMqa8ia4uRDpump",
+    "first_seen": "2026-08-14T13:36:46.249410+00:00"
+  },
+  "robbie": {
+    "mint": "EC6As1wCPHS6YxHdUZ6y2q7NZEFroHJ7EpjrNboiEHqi",
+    "first_seen": "2026-08-14T13:36:50.681997+00:00"
   }
 }
