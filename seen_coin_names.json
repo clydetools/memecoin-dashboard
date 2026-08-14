@@ -44054,5 +44054,37 @@
   "brendan": {
     "mint": "HRxMHrwzKcqwth9EC7UsGDYwMJQX1gmn5H9EHj4fpump",
     "first_seen": "2026-08-14T06:40:33.132071+00:00"
+  },
+  "sen": {
+    "mint": "FqbwZU1PAbXKpzmBsL6x2vrVGZfZLDc5Cg8buQfNpump",
+    "first_seen": "2026-08-14T08:02:09.808449+00:00"
+  },
+  "plawhale": {
+    "mint": "5u6xpvmhTsR2g8MBUyHrwz1vor3cm4eKp9s1iWCLpump",
+    "first_seen": "2026-08-14T08:02:10.348568+00:00"
+  },
+  "chaunacops": {
+    "mint": "75HXpqF8fALHHXGnCBThVzP3ytEv5fxwn43iiGNng65L",
+    "first_seen": "2026-08-14T08:02:10.723082+00:00"
+  },
+  "plawan": {
+    "mint": "F3ijaTDTuq8QpraSNS5QKZWsrUwgpxAaHM2G344Cpump",
+    "first_seen": "2026-08-14T08:02:12.229363+00:00"
+  },
+  "chillcobb": {
+    "mint": "5PWgVtmHkKgoLfnYuXdoNYogXts5zUUjhtZbgTYppump",
+    "first_seen": "2026-08-14T08:02:13.776792+00:00"
+  },
+  "pca": {
+    "mint": "GwoaR1Sac7KGJKkgNjxKFZ9N2WMXF1k1YF2yS2xZpump",
+    "first_seen": "2026-08-14T08:02:19.434930+00:00"
+  },
+  "stonkbot": {
+    "mint": "H3EKcm3BayFEXgBo1njpg3v6FhSUr1FRyQRfuJVYpump",
+    "first_seen": "2026-08-14T08:02:19.807292+00:00"
+  },
+  "fomopepe": {
+    "mint": "3Gp7Fo5mHFpY1jB4spW9vEokjKFJCRUYBc48j4Tqpump",
+    "first_seen": "2026-08-14T08:02:21.009916+00:00"
   }
 }
