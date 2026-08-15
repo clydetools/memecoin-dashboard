@@ -45474,5 +45474,25 @@
   "qutt": {
     "mint": "24Py4d9hgdknCLGyz8di6Xbjioo7cF6tSTFn9RLApump",
     "first_seen": "2026-08-15T12:31:17.601104+00:00"
+  },
+  "mafiaboss": {
+    "mint": "QZLRALNZazyhSCjahGTbsztSQpFQ9RfdN4ZLUiapump",
+    "first_seen": "2026-08-15T13:15:29.197995+00:00"
+  },
+  "5y": {
+    "mint": "87qzop7HUx8yDNFya33HUxznz9kswzThEtoRBfxGpump",
+    "first_seen": "2026-08-15T13:15:29.814416+00:00"
+  },
+  "cask": {
+    "mint": "6vkYoJzerRqiQH7x3qnsyXDDN74YXeFAmkFY7jyfpump",
+    "first_seen": "2026-08-15T13:15:31.998711+00:00"
+  },
+  "shitdog": {
+    "mint": "FUSf62GSEUh8iUo6KtGLXqL22vwZf1rQV2724DsBpump",
+    "first_seen": "2026-08-15T13:15:32.550669+00:00"
+  },
+  "calico": {
+    "mint": "BAQPhMtf6UaXMdEwZLu1BVTSxRz9AYZkkb8FQXncpump",
+    "first_seen": "2026-08-15T13:15:40.065045+00:00"
   }
 }
