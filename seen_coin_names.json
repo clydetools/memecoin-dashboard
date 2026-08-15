@@ -45086,5 +45086,29 @@
   "dcf": {
     "mint": "BSDQBTe4pp42V6GMn4mdZhEuo4pbJdDHpZqyxdSBNekj",
     "first_seen": "2026-08-15T05:57:20.350264+00:00"
+  },
+  "nomagic": {
+    "mint": "nnpz5bywAvjsQk2j6HvS9eiiSUEpvfSYffivPzepump",
+    "first_seen": "2026-08-15T06:38:00.692755+00:00"
+  },
+  "chapil": {
+    "mint": "H5DQ3qobnWNwj7ptmD4kPgR9drCvZ4SKasypRY3Spump",
+    "first_seen": "2026-08-15T06:38:02.262290+00:00"
+  },
+  "qerm": {
+    "mint": "H6ZTjVc8nNtWjyhbuMZ4t9J4vDGKm4hNxGU5MMyHcfh",
+    "first_seen": "2026-08-15T06:38:07.419124+00:00"
+  },
+  "snut": {
+    "mint": "HsnAzENqnAcDzB6zZEKajZHNmqKysN8ucvVgywwXpump",
+    "first_seen": "2026-08-15T06:38:07.460985+00:00"
+  },
+  "tslai": {
+    "mint": "webRWweazsk7DSyRjhAZD8KXMV63HUJg4S8MyQYpump",
+    "first_seen": "2026-08-15T06:38:07.501504+00:00"
+  },
+  "qagina": {
+    "mint": "CoMZ9Q2BDCGZDD2skZ24fRc22rKR1jt6zZFuuyn5pump",
+    "first_seen": "2026-08-15T06:38:08.018233+00:00"
   }
 }
