@@ -45194,5 +45194,37 @@
   "saturni": {
     "mint": "SatE7Za1z2DQfrN2AXNZMnMCNGfsjHW5VVbg9sm5jqN",
     "first_seen": "2026-08-15T08:02:54.933158+00:00"
+  },
+  "2perqkmgcwmrd": {
+    "mint": "9632un88ZpbvS27gesrdZ9HYmH8aBjiReMg1GEMGpump",
+    "first_seen": "2026-08-15T08:42:55.294292+00:00"
+  },
+  "madcat": {
+    "mint": "2ngPyAV69pUnoQ8SJGBs2wGGNkK4QnTordz4BucHoN2q",
+    "first_seen": "2026-08-15T08:42:55.650082+00:00"
+  },
+  "ocil": {
+    "mint": "HmaephJkZZdYnvBrUAt2QUdAsVaaXobpZNv7prDpump",
+    "first_seen": "2026-08-15T08:42:56.008624+00:00"
+  },
+  "yuanhao": {
+    "mint": "5F13hXVG25fzxKjS4311stFU3HSSGxLtdLH5zf2zpump",
+    "first_seen": "2026-08-15T08:42:56.369683+00:00"
+  },
+  "tnn": {
+    "mint": "Edv3QKC4eVHdLSgrXphBGTdaf7pcykMySGJ63w6Zpump",
+    "first_seen": "2026-08-15T08:42:56.748422+00:00"
+  },
+  "octopus": {
+    "mint": "BtepL1cgTSSTrwdpBJVPTkUUWMHSrccZs3pnE6pvpump",
+    "first_seen": "2026-08-15T08:42:57.103691+00:00"
+  },
+  "walder": {
+    "mint": "5cfU2CFqRAsu1GQWVeUoQyh8mYctwwNNeQUUgPxfpump",
+    "first_seen": "2026-08-15T08:42:57.478476+00:00"
+  },
+  "grokcoin": {
+    "mint": "68QF8DkwjTPPTWMh6gKk8KNhfxBMR9AcEJyj3qaDpump",
+    "first_seen": "2026-08-15T08:43:04.173977+00:00"
   }
 }
