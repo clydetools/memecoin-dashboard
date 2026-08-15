@@ -45550,5 +45550,33 @@
   "hotdogs": {
     "mint": "9gxWAt3WZgqqq9r7VEWcETb98ecxbd9DFPFRyM3xpump",
     "first_seen": "2026-08-15T14:35:44.239311+00:00"
+  },
+  "rektcheck": {
+    "mint": "HM5LNmEcD4Uj7e8nfJRD4V7PfKQFrc5eiGduHPDRpump",
+    "first_seen": "2026-08-15T14:55:38.084533+00:00"
+  },
+  "radon": {
+    "mint": "DkdXtygTtjSkZWsQVtA3cBR8pxnVs3XCPAo8Y7Depump",
+    "first_seen": "2026-08-15T14:55:38.570957+00:00"
+  },
+  "ansemcow": {
+    "mint": "Ce14sB3YCkX359CFooq7STCNC1U2R4ebRdanz2PSpump",
+    "first_seen": "2026-08-15T14:55:39.073183+00:00"
+  },
+  "grk": {
+    "mint": "3bpZN6rzhpT1jQmjhkz7SHdmWJ7MBFjVyeafjkwZpump",
+    "first_seen": "2026-08-15T14:55:40.689354+00:00"
+  },
+  "penguins": {
+    "mint": "Foc9TUnm3KJ6m6yu4Qe3vSKJE8V6wjj4XA4jQsNQpump",
+    "first_seen": "2026-08-15T14:55:42.309418+00:00"
+  },
+  "rapper": {
+    "mint": "5wg8deobWZbobA75fUypnbxoDEmqGgnxNpndusEKCUKC",
+    "first_seen": "2026-08-15T14:55:43.922182+00:00"
+  },
+  "beastcoin": {
+    "mint": "6PEoqjRBLdoj7LTcFJjrCRMuwkKyw8vVLDXcpe1jpump",
+    "first_seen": "2026-08-15T14:55:44.548036+00:00"
   }
 }
