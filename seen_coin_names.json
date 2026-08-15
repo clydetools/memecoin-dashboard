@@ -45142,5 +45142,25 @@
   "qalls": {
     "mint": "FS3YbKDpXz6WPqs64dk29DxmQbjZxjyRVULkGNDepump",
     "first_seen": "2026-08-15T07:15:25.291377+00:00"
+  },
+  "xtakeover": {
+    "mint": "55Hhe8vSsDvk96YafVSmo5H2mJiivbTu2AGooyZspump",
+    "first_seen": "2026-08-15T07:46:17.458895+00:00"
+  },
+  "porrta": {
+    "mint": "G3NtMVs7WwSbmoPXYtTnTzJYi3pYf4kt16oMxFnspump",
+    "first_seen": "2026-08-15T07:46:18.104447+00:00"
+  },
+  "nickiminaj": {
+    "mint": "4uAtHVnk1Ms2UJbk3ABXXdMwVuoZTQd65sx51SLEpump",
+    "first_seen": "2026-08-15T07:46:21.245851+00:00"
+  },
+  "hdghoe": {
+    "mint": "J4DxETPgT3PpRtSzBmDeXMSLzvvLijT6PKsAp13qpump",
+    "first_seen": "2026-08-15T07:46:21.772075+00:00"
+  },
+  "brood": {
+    "mint": "8eGmcxEce3xk5oEBYrjBedCeCBGBR8DveqQEaV7Hpump",
+    "first_seen": "2026-08-15T07:46:26.461023+00:00"
   }
 }
