@@ -45874,5 +45874,33 @@
   "deng": {
     "mint": "7GTAcf3Y7WQdgjPXRnBBJNJ5gKoMANXQR12ySuWBpump",
     "first_seen": "2026-08-15T18:24:39.595311+00:00"
+  },
+  "frmpumguy": {
+    "mint": "8GrTFdcKnZ8t71PALoyiDvYZ7EKaMsoXrgdnkF9Spump",
+    "first_seen": "2026-08-15T18:55:42.323639+00:00"
+  },
+  "tkim": {
+    "mint": "24hy5gHoMxQ5akS59QgBaR2iqYtQqYs4kxUDTNqEpump",
+    "first_seen": "2026-08-15T18:55:42.734278+00:00"
+  },
+  "contus": {
+    "mint": "FoNUkDSpBG7B38hWWc7am3A2iTZge1s3FfM9b6hipump",
+    "first_seen": "2026-08-15T18:55:43.145359+00:00"
+  },
+  "trcatpak": {
+    "mint": "4a66CM1VLCiB6WFx7yjgJX7b1RtiBn27RWUp2Y8ypump",
+    "first_seen": "2026-08-15T18:55:46.430232+00:00"
+  },
+  "solanodog": {
+    "mint": "6xVojbpNabvtbwUjugQBUAYynimahjaArEyhUy7Zpump",
+    "first_seen": "2026-08-15T18:55:47.565313+00:00"
+  },
+  "malone": {
+    "mint": "2mdCttGPHyqH3wY5xugtwg7vTkdmvWxU1XaMv9Tkpump",
+    "first_seen": "2026-08-15T18:55:47.982100+00:00"
+  },
+  "toadar": {
+    "mint": "2w2BDHHbzxq5iam4tSi3Bi1XsFTEuGNhZFz7rieqpump",
+    "first_seen": "2026-08-15T18:55:53.496155+00:00"
   }
 }
