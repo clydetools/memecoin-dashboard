@@ -45050,5 +45050,25 @@
   "sduck": {
     "mint": "2R4YDMZSmpUTSHjEygSotvVLs1amwPj1Tb1JxXnApump",
     "first_seen": "2026-08-15T05:00:28.087697+00:00"
+  },
+  "diana": {
+    "mint": "28sUFYD4f5F4YPWctNEobkxfYSYReMYxiProBT1mpump",
+    "first_seen": "2026-08-15T05:32:57.507542+00:00"
+  },
+  "jonesy": {
+    "mint": "GWeFFQrYNptjBxFMnGcYTk4FFqxfLf68n5YeC3HKxFho",
+    "first_seen": "2026-08-15T05:32:59.070083+00:00"
+  },
+  "gauntlet": {
+    "mint": "4yBmS1oYgnR2ftwK4yGQzF4jYSiTt3sGLiHNM8RXpump",
+    "first_seen": "2026-08-15T05:33:09.234161+00:00"
+  },
+  "jessica": {
+    "mint": "63qY5DR4Hv6zmP9HftbQG3z5mhCnW9QactsZiGL3d5jm",
+    "first_seen": "2026-08-15T05:33:10.000817+00:00"
+  },
+  "giko": {
+    "mint": "6X2r2sPRUDznV2giLdfCLEXphNj8UBBghyYoJ8HPzvyY",
+    "first_seen": "2026-08-15T05:33:10.322430+00:00"
   }
 }
