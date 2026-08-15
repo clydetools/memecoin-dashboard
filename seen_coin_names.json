@@ -45494,5 +45494,25 @@
   "calico": {
     "mint": "BAQPhMtf6UaXMdEwZLu1BVTSxRz9AYZkkb8FQXncpump",
     "first_seen": "2026-08-15T13:15:40.065045+00:00"
+  },
+  "korea": {
+    "mint": "HbmZ7RVNHLZHN3c7NTs76H693gZHADdAGbohUs8pump",
+    "first_seen": "2026-08-15T14:01:52.754977+00:00"
+  },
+  "tbcg": {
+    "mint": "NXCrWiksT5kgD9PJuuysDR9nCJYSrJZY1D3XGf4pump",
+    "first_seen": "2026-08-15T14:01:56.485422+00:00"
+  },
+  "flamescoin": {
+    "mint": "Dm8dM6cj15B1PRUh4N2EGcrSzDY9ueyAGGzrKnBCpump",
+    "first_seen": "2026-08-15T14:01:57.122385+00:00"
+  },
+  "bigqenis": {
+    "mint": "23nf7A4nWDahMDRrJ3LZE5PnFf5hvSP6UJDyeGDApump",
+    "first_seen": "2026-08-15T14:02:05.678420+00:00"
+  },
+  "uk": {
+    "mint": "7HGRwn5LfKpYaXTwGr1v2bTNNo8N6tNHffJQfYMhpump",
+    "first_seen": "2026-08-15T14:02:07.220964+00:00"
   }
 }
