@@ -46270,5 +46270,25 @@
   "washed": {
     "mint": "4cCyEZoBVPepCK3MUR1PahCgehF9n9dUDHPJenW4pump",
     "first_seen": "2026-08-15T23:31:51.809698+00:00"
+  },
+  "trumpcat": {
+    "mint": "BnAJkH11uwqhQo8DgFvaSFGVXfeeYVW4hbmtHs4fkwQ4",
+    "first_seen": "2026-08-15T23:53:13.287493+00:00"
+  },
+  "glooper": {
+    "mint": "HzYBzft3TECAM2XaV8qnz1iK7HNavNu5dTZKsoMJpump",
+    "first_seen": "2026-08-15T23:53:14.938040+00:00"
+  },
+  "slippy": {
+    "mint": "DpEvrMbqBprmjX6NuD7qADZZ7vVkdBzKoNWQCjMgpump",
+    "first_seen": "2026-08-15T23:53:15.556942+00:00"
+  },
+  "jamsheed": {
+    "mint": "A9eTD2C4EhPG7HfHq9sr3ar2LGm8QQSVWf22evHjpump",
+    "first_seen": "2026-08-15T23:53:16.679351+00:00"
+  },
+  "emblem": {
+    "mint": "6HHzBVkxtoz86Bjy2duaUw77hVfJzQkuoLizWeEMBLEM",
+    "first_seen": "2026-08-15T23:53:23.603609+00:00"
   }
 }
