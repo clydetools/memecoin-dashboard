@@ -45966,5 +45966,25 @@
   "solanacat": {
     "mint": "AeY92jzksazunhkrAZDHdEEnjkFr6PhWuJXnLHawpump",
     "first_seen": "2026-08-15T19:41:13.871842+00:00"
+  },
+  "regolith": {
+    "mint": "HFtv8sAQ5KSd9M1FPo1Ngyj4BAmasiPnDToGSmcfKW9a",
+    "first_seen": "2026-08-15T19:59:47.094843+00:00"
+  },
+  "mgtr": {
+    "mint": "Dnzjf3L8kDRhu6Ush5tLZdCnojHFvknxfBSj9Axipump",
+    "first_seen": "2026-08-15T19:59:53.077708+00:00"
+  },
+  "tikcat": {
+    "mint": "3x5yNUSFTAAwAsEUvCRRNChnWaEXob6Z4Soay5mRpump",
+    "first_seen": "2026-08-15T19:59:54.454753+00:00"
+  },
+  "berenice": {
+    "mint": "HHDvrb832xAD6WhSxWQCR84PtAE5f87RY3pNMU9AYjAE",
+    "first_seen": "2026-08-15T19:59:58.144328+00:00"
+  },
+  "hornbeam": {
+    "mint": "2UXTC7V9udgX6GCc6p5Q8RDRCCGaKK1mKFXmBrA1pump",
+    "first_seen": "2026-08-15T20:00:06.508236+00:00"
   }
 }
