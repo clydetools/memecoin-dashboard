@@ -45226,5 +45226,37 @@
   "grokcoin": {
     "mint": "68QF8DkwjTPPTWMh6gKk8KNhfxBMR9AcEJyj3qaDpump",
     "first_seen": "2026-08-15T08:43:04.173977+00:00"
+  },
+  "6g": {
+    "mint": "4qmKbetGYpTj9B3gMjoUjbUtcshQ1TXzkMsYAvuepump",
+    "first_seen": "2026-08-15T09:08:13.950498+00:00"
+  },
+  "sandwich": {
+    "mint": "Dw2WQXMHY4WpnZhnXuED9E7q8CAx8UHw5vrxDE1Xpump",
+    "first_seen": "2026-08-15T09:08:14.539247+00:00"
+  },
+  "fry": {
+    "mint": "21XV9aqiCPKth14T49tnviuy6kCmthhMUrHUzzHJpump",
+    "first_seen": "2026-08-15T09:08:16.239908+00:00"
+  },
+  "fgk": {
+    "mint": "9m4FyuveRFFJZqY592k8soH3Uu9G982y1aTLjKtupump",
+    "first_seen": "2026-08-15T09:08:17.313502+00:00"
+  },
+  "edc": {
+    "mint": "iXZgsbC2zfdjspVe1DoJk7FocxVuced1wNP6jWZpump",
+    "first_seen": "2026-08-15T09:08:17.883809+00:00"
+  },
+  "pcpc": {
+    "mint": "PCPCRKLrFLS89pQeHE69BbMtseQWYLEzEBNBTNJYRvW",
+    "first_seen": "2026-08-15T09:08:23.641822+00:00"
+  },
+  "pumptown": {
+    "mint": "4BTyrZoiib5yYVtobHDVsEb4F7x3bemaC8UAnmM4pump",
+    "first_seen": "2026-08-15T09:08:26.560019+00:00"
+  },
+  "manatee": {
+    "mint": "774jh4nUxu8temPmFmmNwPU46pA1zPHEotfxtBCXpump",
+    "first_seen": "2026-08-15T09:08:26.744242+00:00"
   }
 }
