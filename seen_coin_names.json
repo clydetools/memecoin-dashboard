@@ -47494,5 +47494,37 @@
   "mewing": {
     "mint": "9bxaVJmUwSc71j8Z2pvUL3UAr1s5fCnwUpvYhqV9jtmw",
     "first_seen": "2026-08-16T21:32:10.426200+00:00"
+  },
+  "cwaude": {
+    "mint": "3pF6p8ramJnD7EZ6R8T7w49BDmiyzfFV3L1fpmy1pump",
+    "first_seen": "2026-08-16T21:52:47.109321+00:00"
+  },
+  "vrg1": {
+    "mint": "EvCVr1B1cMJ6DccyE5iwjVxd24KBdi6NSCXoWtQvpump",
+    "first_seen": "2026-08-16T21:52:47.800737+00:00"
+  },
+  "bigone": {
+    "mint": "U1bPgKZr5npm44LsSCcv4rvq41ceyFc4GRkbZAnpump",
+    "first_seen": "2026-08-16T21:52:48.177295+00:00"
+  },
+  "sparrowmap": {
+    "mint": "28DwBtCYi273XCnakYTTWYmEEEJB8xiaVdtVBM8hpump",
+    "first_seen": "2026-08-16T21:52:49.199589+00:00"
+  },
+  "supra": {
+    "mint": "DNJ6j7vqwAc4JMqjFF6eihHtF3bcFn9X73AY82AXpump",
+    "first_seen": "2026-08-16T21:52:49.903773+00:00"
+  },
+  "depthcoin": {
+    "mint": "CfVoPzUnB3zncMZAf5dYLQjbC6q7ri7QfcC7fUqRpump",
+    "first_seen": "2026-08-16T21:52:50.581915+00:00"
+  },
+  "tigr": {
+    "mint": "TigR9RwyxBGZGihZcsUmGTW81pZsyVsK7gbz2QWnxCY",
+    "first_seen": "2026-08-16T21:52:55.590422+00:00"
+  },
+  "finu": {
+    "mint": "3roGjzv4TeaWFN8VN6hfUKAsmoVUrYmmB2Dz3NYF1GAA",
+    "first_seen": "2026-08-16T21:52:55.755468+00:00"
   }
 }
