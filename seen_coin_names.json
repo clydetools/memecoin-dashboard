@@ -46874,5 +46874,49 @@
   "blipp": {
     "mint": "92vgKci7gTMtSRDi2gYxVbTmmUXz11PTCqWmxkrQpump",
     "first_seen": "2026-08-16T14:35:32.657468+00:00"
+  },
+  "aristo": {
+    "mint": "DCgsdG7LicBcSEFrmxMcHrJwkhP83xtSu8NdYtGYpump",
+    "first_seen": "2026-08-16T14:56:10.371760+00:00"
+  },
+  "snoofi": {
+    "mint": "34WkVZkogCUVDQpBxUNXps4L5PLLB8uoKiZcVbgspump",
+    "first_seen": "2026-08-16T14:56:11.022773+00:00"
+  },
+  "cachorrinho": {
+    "mint": "8P6p4c58qrH9YtvA3GrytJ1Wkzw1wjbtthrv7vHPpump",
+    "first_seen": "2026-08-16T14:56:11.537422+00:00"
+  },
+  "rouge": {
+    "mint": "EXxmqa9SLwW3ji5VMHPJPocruwaggLsvGVGv8iJepump",
+    "first_seen": "2026-08-16T14:56:12.521056+00:00"
+  },
+  "architects": {
+    "mint": "GrVBFQCyYtpmPbhW2Hy6rZB6JCqhTfTAtvesCtxEEHcR",
+    "first_seen": "2026-08-16T14:56:13.042116+00:00"
+  },
+  "rabbits": {
+    "mint": "DazFjvT4GK6TdZKUNuEpuoa83JxZYYySS9w692AGpump",
+    "first_seen": "2026-08-16T14:56:14.612021+00:00"
+  },
+  "messina": {
+    "mint": "7kZAR5hwGtbtPspdsG53ZhPjYiedEXSsnBg7wJetpump",
+    "first_seen": "2026-08-16T14:56:15.545461+00:00"
+  },
+  "shy": {
+    "mint": "7j79QXVk1ujraTHDX3iePvh7iezjW8wYAeS1FkHYpump",
+    "first_seen": "2026-08-16T14:56:21.171865+00:00"
+  },
+  "f250": {
+    "mint": "9emJ2FJHkWtE8HP5iLr2Ym4vXwFt44prboEwRfazpump",
+    "first_seen": "2026-08-16T14:56:21.275213+00:00"
+  },
+  "kobe": {
+    "mint": "BfcgRwYjQqeEzzKpS1snCGaqVanVKucu43aywnXSpump",
+    "first_seen": "2026-08-16T14:56:21.380035+00:00"
+  },
+  "yesbot": {
+    "mint": "tUgWWjQc6xSszvMdtWvXPYFPX1iv8CsQN8t4XB3pump",
+    "first_seen": "2026-08-16T14:56:22.831157+00:00"
   }
 }
