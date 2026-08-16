@@ -47426,5 +47426,33 @@
   "sodex": {
     "mint": "HjFrDuE3ZnUSXKEFRP8CPxANtp5uw2AB5SQHBr5nkebt",
     "first_seen": "2026-08-16T20:18:39.123633+00:00"
+  },
+  "monx": {
+    "mint": "EdNdxwSWdLYmrsigRzyBDcc6gwQ3v5wYaS3N8qWVpump",
+    "first_seen": "2026-08-16T20:42:48.595514+00:00"
+  },
+  "angler": {
+    "mint": "EtKfm95EbvA8UnaoajUkUxNrtoQBVfvUaCMWt1rMpump",
+    "first_seen": "2026-08-16T20:42:50.321601+00:00"
+  },
+  "cti": {
+    "mint": "MKqJfqNzHcoMFAnsxfoQPUNi8SuKhQpzJoXTMdbpump",
+    "first_seen": "2026-08-16T20:42:54.603461+00:00"
+  },
+  "woowoo": {
+    "mint": "FZVXVbu9sFAjWWkLXb17Y8h8xJMADT6GKH1YYm1Epump",
+    "first_seen": "2026-08-16T20:42:56.665113+00:00"
+  },
+  "loha": {
+    "mint": "24kp8XKJvHJWt2HeSjEmPjVLNCz18KYdnC7Tqchdpump",
+    "first_seen": "2026-08-16T20:42:58.741332+00:00"
+  },
+  "pigeons": {
+    "mint": "BHTLxmRY8N6F1CTm5toVmPDWiMzknaE6Y1M4g5pkx4Hn",
+    "first_seen": "2026-08-16T20:43:03.210883+00:00"
+  },
+  "omnibro": {
+    "mint": "L7hjtyE5w7VfapapUbjT5egDJ59WNU3Z2nri59zpump",
+    "first_seen": "2026-08-16T20:43:03.893308+00:00"
   }
 }
