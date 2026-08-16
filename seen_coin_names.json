@@ -46778,5 +46778,29 @@
   "secretbull": {
     "mint": "E7YAcw5iKUmvwEExc29kVCVpdymqi7WU21Tj6UMYpump",
     "first_seen": "2026-08-16T12:34:08.054489+00:00"
+  },
+  "bagguins": {
+    "mint": "419xrf4GpsxdZK8L9oBLBwuppVHBuxYrFzsJtUZrpump",
+    "first_seen": "2026-08-16T13:16:52.862493+00:00"
+  },
+  "thera": {
+    "mint": "9iXgCmvDvys6fFeZ9HC9dnuPeeXwHXb1k4jvnbyqohKG",
+    "first_seen": "2026-08-16T13:16:56.201113+00:00"
+  },
+  "solpuss": {
+    "mint": "AkjfzHW3rhZYbqAZqnn2DNoAQZJ7oNAhQc9VPaFtpump",
+    "first_seen": "2026-08-16T13:16:56.727918+00:00"
+  },
+  "maro": {
+    "mint": "7VzjTnjiGHrzRyknsjbSC6upxJjKQCsa476HFTucpump",
+    "first_seen": "2026-08-16T13:17:00.046887+00:00"
+  },
+  "bam": {
+    "mint": "HxfoWECuoFkQp4cRPRApXVpCADz5JKtPvpfBvcCCgPms",
+    "first_seen": "2026-08-16T13:17:03.773870+00:00"
+  },
+  "memeseason": {
+    "mint": "aUWH9iX3BKKeMHP6aoAf2r2KPjLq8h9Kim2YC48pump",
+    "first_seen": "2026-08-16T13:17:11.865723+00:00"
   }
 }
