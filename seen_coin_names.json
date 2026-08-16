@@ -46530,5 +46530,21 @@
   "cwg": {
     "mint": "JCRgrMDMAq9FFxik8h1mQSLpDd9HPjGnLd67yvGPpump",
     "first_seen": "2026-08-16T08:03:10.127625+00:00"
+  },
+  "solcoin": {
+    "mint": "AShuG6s6qbK2p3NcdBL5QgTyarKy3TteGeviGQjTpump",
+    "first_seen": "2026-08-16T08:43:56.003048+00:00"
+  },
+  "crackhead": {
+    "mint": "9ATsiXaAkwvR6Yt4XRekgDte5fU92X32q36FVBgjpump",
+    "first_seen": "2026-08-16T08:43:56.983453+00:00"
+  },
+  "takeru": {
+    "mint": "GSrRvWXsB4kCcqefDjFeeC2BgmscGf97aoWYgQLhpump",
+    "first_seen": "2026-08-16T08:44:01.443208+00:00"
+  },
+  "nick": {
+    "mint": "G3q2zUkuxDCXMnhdBPujjPHPw9UTMDbXqzcc2UHM3jiy",
+    "first_seen": "2026-08-16T08:44:02.827483+00:00"
   }
 }
