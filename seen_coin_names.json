@@ -46298,5 +46298,37 @@
   "rexler": {
     "mint": "A9DFFiuCTx4PtrgMLgHew18xvcfGNWc6SaHDep95pump",
     "first_seen": "2026-08-16T01:06:19.874240+00:00"
+  },
+  "kingmonty": {
+    "mint": "5xh9Y5mqoECXhCUp9PPiXbffjh345MGZUuWmMhSppump",
+    "first_seen": "2026-08-16T02:34:28.675388+00:00"
+  },
+  "bitdog": {
+    "mint": "EQcMKyk4zLbFNo1qM4ggVN3YGuSM8tUjZd39YFJ6pump",
+    "first_seen": "2026-08-16T02:34:29.325383+00:00"
+  },
+  "walruse": {
+    "mint": "BsyJB6tavEdswY5evuVxwJDiJFrNtkLKea8UYQ2pump",
+    "first_seen": "2026-08-16T02:34:31.003886+00:00"
+  },
+  "rogcan": {
+    "mint": "7VtgoeAx6gMcivXDBaMZujvvVi5jLg12GEyNvxkXpump",
+    "first_seen": "2026-08-16T02:34:32.961527+00:00"
+  },
+  "oswald": {
+    "mint": "D575j4BmeN3RbJKVEi9GwVGdUWsMcVuveCiwG5Tzpump",
+    "first_seen": "2026-08-16T02:34:33.557894+00:00"
+  },
+  "pgw": {
+    "mint": "DSHgcBQm3pCbnpppmdAoEWXrE1pprRr7pmznQF9kpump",
+    "first_seen": "2026-08-16T02:34:34.141460+00:00"
+  },
+  "yne": {
+    "mint": "7D1iYWfhw2cr9yBZBFE6nZaaSUvXHqG5FizFFEZwpump",
+    "first_seen": "2026-08-16T02:34:40.289170+00:00"
+  },
+  "blueballs": {
+    "mint": "DhmLxPEx5szhj3ZTZPvJWFhEdSAeZBcNcBeg8wJ6NoKc",
+    "first_seen": "2026-08-16T02:34:41.904809+00:00"
   }
 }
