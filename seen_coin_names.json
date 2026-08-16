@@ -46378,5 +46378,25 @@
   "aitrump": {
     "mint": "9UEUfKAiBnQENrD4pp6VUuTpyaTF3b4E6Jnmfh2MXea6",
     "first_seen": "2026-08-16T04:50:08.995668+00:00"
+  },
+  "wally": {
+    "mint": "Gk2zvDRTDqVmUF68SxodbGTMWgc57YYjeEFHmq8Apump",
+    "first_seen": "2026-08-16T05:15:35.522093+00:00"
+  },
+  "again": {
+    "mint": "7fXnHDDd1G2WFRar4jWNpZzeMy194D8igvz1x2Fqpump",
+    "first_seen": "2026-08-16T05:15:36.574916+00:00"
+  },
+  "mob": {
+    "mint": "ubJbqNTxm4G4pRrQHNfu8qeHkfYJkaZ9vbjm2vopump",
+    "first_seen": "2026-08-16T05:15:37.119709+00:00"
+  },
+  "jester": {
+    "mint": "AoeYfaVfeCxZ2Sna2hJfqcf9rfhBEipCZGpDPKZR4a4m",
+    "first_seen": "2026-08-16T05:15:43.418785+00:00"
+  },
+  "sprite": {
+    "mint": "rsL63MW9PnHCAmoH3wbvMvm3Kp7dGW3aVFKPsNipump",
+    "first_seen": "2026-08-16T05:15:43.755518+00:00"
   }
 }
