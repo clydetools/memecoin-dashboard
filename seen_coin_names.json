@@ -47386,5 +47386,45 @@
   "funicorn": {
     "mint": "CMWhKxK8g9A7XZwAoYCXAf44XA5zLuQA5QmkLfudpump",
     "first_seen": "2026-08-16T19:54:15.800615+00:00"
+  },
+  "jlu": {
+    "mint": "GMDjUgoesxGvjRBRJq8Df9bQZU4weqoz6oVGgNMbpump",
+    "first_seen": "2026-08-16T20:18:25.947248+00:00"
+  },
+  "bigtex": {
+    "mint": "BF85YhdaBeq2VSoPGCtqZoHuPuyAHR1DwrV4Gwfdpump",
+    "first_seen": "2026-08-16T20:18:26.597569+00:00"
+  },
+  "pol": {
+    "mint": "D8DU5rDcR5jDqFkEBUJrHHE3efWz2XCXdkY4Zq6Wpump",
+    "first_seen": "2026-08-16T20:18:27.202615+00:00"
+  },
+  "wlizard": {
+    "mint": "2fEetxcy4ifqQQroecvB2tepBNzEuJeADn6vwc1gpump",
+    "first_seen": "2026-08-16T20:18:27.798203+00:00"
+  },
+  "iryna": {
+    "mint": "GB26GJQUXxes4a4RABXwyVVKbAtuMYKvCUt8V28dpump",
+    "first_seen": "2026-08-16T20:18:28.371370+00:00"
+  },
+  "osamu": {
+    "mint": "HhTnZhNa5ha8YPDHNq5uGeL7yvNPpzFhQ9zSvwWMpump",
+    "first_seen": "2026-08-16T20:18:30.507263+00:00"
+  },
+  "blopar": {
+    "mint": "HtWYsE7zpf3KCsaWXo6WMMFt4effPQ1yMiEqy3PUpump",
+    "first_seen": "2026-08-16T20:18:31.581901+00:00"
+  },
+  "intcat": {
+    "mint": "HHM37z6BG4nCdpPwxJvV1MrUqWqpqMVJFRngyuptpump",
+    "first_seen": "2026-08-16T20:18:33.149863+00:00"
+  },
+  "mario": {
+    "mint": "BAaLVF5EEmUZVkeyNuuZnUb5piCJZwNwVSKgSmpwpump",
+    "first_seen": "2026-08-16T20:18:37.912416+00:00"
+  },
+  "sodex": {
+    "mint": "HjFrDuE3ZnUSXKEFRP8CPxANtp5uw2AB5SQHBr5nkebt",
+    "first_seen": "2026-08-16T20:18:39.123633+00:00"
   }
 }
