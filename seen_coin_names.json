@@ -46414,5 +46414,41 @@
   "ferage": {
     "mint": "DkhYxqmYRwNZ8pgBNvMj2a4YFfHbzFVZtAfUFS2Fpump",
     "first_seen": "2026-08-16T05:46:45.042394+00:00"
+  },
+  "yourself": {
+    "mint": "2YDoG9JVPVMwViY52LPesgJh9BndLw9vNc6Ucivmpump",
+    "first_seen": "2026-08-16T06:14:31.336635+00:00"
+  },
+  "msg": {
+    "mint": "ERorDpVi7tcCQhvFKQw59n3tFEBS5d6LkMYi2FuPM1xN",
+    "first_seen": "2026-08-16T06:14:31.778824+00:00"
+  },
+  "wdoge": {
+    "mint": "Ba7qrUSWNXeRKdLLzv1hWZ5XqSmb5txXEKupy3Kipump",
+    "first_seen": "2026-08-16T06:14:32.148297+00:00"
+  },
+  "left": {
+    "mint": "zmDsaBW4KNbE8GwvZS4pw3q7K7aQcthsk9eASmgpump",
+    "first_seen": "2026-08-16T06:14:32.539557+00:00"
+  },
+  "calixto": {
+    "mint": "7vTAv5HPNM98Np1xXNGR11dwnFz5MGidUtyxGotLpump",
+    "first_seen": "2026-08-16T06:14:33.608962+00:00"
+  },
+  "leftist": {
+    "mint": "6svXnbT8bZr73qWVBVjwALc1aj9wHZy8BGkC4Pwtpump",
+    "first_seen": "2026-08-16T06:14:34.320406+00:00"
+  },
+  "librarian": {
+    "mint": "FzAciRhUYKPhs5pM1sYZpW5RBvc872iUxuNXyPtVpump",
+    "first_seen": "2026-08-16T06:14:34.686972+00:00"
+  },
+  "deepseekai": {
+    "mint": "78gZyhk9D6XLyqihn7ZUKaXNdtLVmkyhH42uPtaSRwv7",
+    "first_seen": "2026-08-16T06:14:40.021904+00:00"
+  },
+  "ronin": {
+    "mint": "2JVEVXoRsskapZ8T56MjMNJq6Dk3feEUYSRmzkkipump",
+    "first_seen": "2026-08-16T06:14:41.249219+00:00"
   }
 }
