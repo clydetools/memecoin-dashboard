@@ -46694,5 +46694,49 @@
   "moai": {
     "mint": "2GbE1pq8GiwpHhdGWKUBLXJfBKvKLoNWe1E4KPtbED2M",
     "first_seen": "2026-08-16T11:17:49.974450+00:00"
+  },
+  "spinwin": {
+    "mint": "EuXdF1JuazNZLNC2CR9scN2c26eGX92XXk8E7uAzpump",
+    "first_seen": "2026-08-16T11:39:43.807272+00:00"
+  },
+  "tec": {
+    "mint": "5DnQ8s1GydM9JMD2CWxpnFkTsMcZSQapy7EhsCiNpump",
+    "first_seen": "2026-08-16T11:39:44.846454+00:00"
+  },
+  "unhyet": {
+    "mint": "Fp2ScRPHAKohxRKrUeNDnZntQT9NwaGZzP6WnBeqpump",
+    "first_seen": "2026-08-16T11:39:45.306032+00:00"
+  },
+  "digger": {
+    "mint": "J8NV9kBAtAVWCwxVW3LfUmNZ6DN65GWxN12yjZ5jpump",
+    "first_seen": "2026-08-16T11:39:45.744408+00:00"
+  },
+  "gagcity": {
+    "mint": "C1ULhumAYeAGBYjwK8TDcPoTvdR1b1q5UZNxdgLRpump",
+    "first_seen": "2026-08-16T11:39:46.593070+00:00"
+  },
+  "wifball": {
+    "mint": "CtoktywcWQTdM57PRHqaMuwnJhTmie2gmPmqtaxGpump",
+    "first_seen": "2026-08-16T11:39:47.052051+00:00"
+  },
+  "chacom": {
+    "mint": "2h93j2gs3omj78wbJ6JvKTGFoiJHtWULYMZJT42zpump",
+    "first_seen": "2026-08-16T11:39:47.906850+00:00"
+  },
+  "capuchinai": {
+    "mint": "8UjBh9Bpdr1QKtmvFvXczv6u1ehuyMdcRGTywP8Xpump",
+    "first_seen": "2026-08-16T11:39:52.187809+00:00"
+  },
+  "xiaonian": {
+    "mint": "Hbw2AkEJUqAk9k3ikT8GrdSrGYGsB6UhKAcyYMd8pump",
+    "first_seen": "2026-08-16T11:39:52.251680+00:00"
+  },
+  "tesl": {
+    "mint": "3wyosD1Qt8c6bTWy3FZeD1wpuegvhJLoCD8mVu4KWvGK",
+    "first_seen": "2026-08-16T11:39:52.373502+00:00"
+  },
+  "size": {
+    "mint": "HqLRjru6pD6GFGnQ7TwSSGQRuPhF8UZNey9T4yCsZzuq",
+    "first_seen": "2026-08-16T11:39:53.918094+00:00"
   }
 }
