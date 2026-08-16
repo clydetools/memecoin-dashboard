@@ -47326,5 +47326,29 @@
   "zkfg": {
     "mint": "6pKDTUavWbdHH27nUBeZNGDSmg3gw5XMGq6gAPUf264F",
     "first_seen": "2026-08-16T19:19:54.292325+00:00"
+  },
+  "gooningcat": {
+    "mint": "24kcT5dWNBGctKxsZjqvMdWy2bUVEMvmh2ec65hcpump",
+    "first_seen": "2026-08-16T19:40:05.677608+00:00"
+  },
+  "urfired": {
+    "mint": "DTZn7WTZq2syraPioHJY5akU72x44cmKpKD6nZd2pump",
+    "first_seen": "2026-08-16T19:40:06.226588+00:00"
+  },
+  "frankie": {
+    "mint": "Eyve2tymP8LYK6WnteedP34FTdgB3jDR3nYnjzhdpump",
+    "first_seen": "2026-08-16T19:40:06.780156+00:00"
+  },
+  "doro": {
+    "mint": "Go4eJTCU1aeBz8o1UFxTUQS3mE9N5xK62dqni7tupump",
+    "first_seen": "2026-08-16T19:40:07.319154+00:00"
+  },
+  "sadcoin": {
+    "mint": "GSX93DjpZv3vnMpCzGTbj8WkiLB5m1ow8bfx6VApump",
+    "first_seen": "2026-08-16T19:40:09.892796+00:00"
+  },
+  "surely": {
+    "mint": "58ztCnLm8EUaKKtr7P9d7itnzCP8QgwGRV2XHtsLmnwK",
+    "first_seen": "2026-08-16T19:40:17.124812+00:00"
   }
 }
