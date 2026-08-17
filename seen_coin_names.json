@@ -48146,5 +48146,49 @@
   "shimajiro": {
     "mint": "F2z59EZTpburZbZebsRH3Jzt5sVotP5PENEcu8e2pump",
     "first_seen": "2026-08-17T14:01:48.041684+00:00"
+  },
+  "ranger": {
+    "mint": "HUUkA8PhkjygdVJAUZoQS4bUEsdCVNmnstdtuBVkpump",
+    "first_seen": "2026-08-17T14:39:49.329528+00:00"
+  },
+  "thefatdog": {
+    "mint": "3riTEhSQFkN9AdBXvvkicSdMLhvvE7GDvvkon6Gapump",
+    "first_seen": "2026-08-17T14:39:51.001617+00:00"
+  },
+  "helpcancer": {
+    "mint": "GjQxHmrcdTzewAGF2DLBmrr5thWSzantBGWAeNF4pump",
+    "first_seen": "2026-08-17T14:39:51.553159+00:00"
+  },
+  "nuccan": {
+    "mint": "8RJa5kNYYz6YTBHzjmokrBe4RBjtCfxr9LFKWfTUpump",
+    "first_seen": "2026-08-17T14:39:52.114746+00:00"
+  },
+  "peperoni": {
+    "mint": "HJSckp6e2hRseimqvUPZUqUAUCQb7aW2rBcBFfB6pump",
+    "first_seen": "2026-08-17T14:39:53.192438+00:00"
+  },
+  "excoin": {
+    "mint": "5brgiaLh3PW94HcA2yUjTHPQirLovwG22p8pC6mSpump",
+    "first_seen": "2026-08-17T14:39:57.830441+00:00"
+  },
+  "riphayden": {
+    "mint": "D5YuyTihBeib8HLMZKYWYaKfzU7RbG2eAajKnxchpump",
+    "first_seen": "2026-08-17T14:40:00.540502+00:00"
+  },
+  "bribe": {
+    "mint": "8buo6XPkEuxLEbtfzpDgjbjXofWPidUHNSutmBGrpump",
+    "first_seen": "2026-08-17T14:40:02.118023+00:00"
+  },
+  "gbface": {
+    "mint": "7v9DEqVyCt66cHxeYzBaZomxuArbv4dUCA8gk9n9pump",
+    "first_seen": "2026-08-17T14:40:03.728627+00:00"
+  },
+  "flam": {
+    "mint": "GDbxC8mV21GiFy1Ng5EgJNXZP8A2XMhN5wuY2RGqpump",
+    "first_seen": "2026-08-17T14:40:10.152284+00:00"
+  },
+  "marcus": {
+    "mint": "qsh1EJb3naDChaCS49nSNyMiTpXcCus8KcKAE17pump",
+    "first_seen": "2026-08-17T14:40:10.316585+00:00"
   }
 }
