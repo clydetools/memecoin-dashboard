@@ -48482,5 +48482,37 @@
   "alxjobs": {
     "mint": "CMhENPWSGhXbGeN6AFBgoNJjj2mMBpwASGtjJpAwQGra",
     "first_seen": "2026-08-17T18:34:43.979327+00:00"
+  },
+  "koi": {
+    "mint": "8xZX9QphXPKzh29EtYyzBQD9Q9pxhFpuoXPGUepcpump",
+    "first_seen": "2026-08-17T19:12:13.083962+00:00"
+  },
+  "when": {
+    "mint": "ATqHmUzr1nMeBMcpkVFL4CrCS3jjm7thSv7bFSfopump",
+    "first_seen": "2026-08-17T19:12:13.761745+00:00"
+  },
+  "fakecoin": {
+    "mint": "8ccaBdkq5CHX1pHKKUsc69XwS9e1pg6khsP5TMBqpump",
+    "first_seen": "2026-08-17T19:12:14.350519+00:00"
+  },
+  "poppa": {
+    "mint": "7Ds3SwEo4HRd4KoD5cWD2BxQaCVBoZCCL8cfXFs5pump",
+    "first_seen": "2026-08-17T19:12:14.949866+00:00"
+  },
+  "burritogate": {
+    "mint": "J1t5kxX99e66tB8QWaXA4N5GVbsfBR2DwZJfsXfaMBuG",
+    "first_seen": "2026-08-17T19:12:15.508978+00:00"
+  },
+  "foundation": {
+    "mint": "APSK18n7PftKNuHUCVPN3XJS5b63H6ZJzvSUWf7Cpump",
+    "first_seen": "2026-08-17T19:12:16.717629+00:00"
+  },
+  "neegycat": {
+    "mint": "yxLn2VyQSkSE5wroqebJcRoLh6Hym6yCnXb6Bd4pump",
+    "first_seen": "2026-08-17T19:12:17.276743+00:00"
+  },
+  "cz26": {
+    "mint": "6Hg3hRVgUYzDmDpt7FfBKfhsHTF5mpLoza462nSupump",
+    "first_seen": "2026-08-17T19:12:28.976086+00:00"
   }
 }
