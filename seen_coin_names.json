@@ -47874,5 +47874,21 @@
   "nocbhello": {
     "mint": "CeRC5hnbRLSkcEVNiAZMUsoi5sYLCQ8WXmYNmFsDpump",
     "first_seen": "2026-08-17T07:31:51.406439+00:00"
+  },
+  "fomotd": {
+    "mint": "98cYVqpfvSzp84g4HUbKcFPNK3LiSQqcWBAFzw6Ppump",
+    "first_seen": "2026-08-17T08:21:51.400918+00:00"
+  },
+  "g1": {
+    "mint": "CKD61isHj8LpXLUgCLVfsUcb9cBk1wc1qP4sPfUrpump",
+    "first_seen": "2026-08-17T08:21:51.961750+00:00"
+  },
+  "bomekiln": {
+    "mint": "D72zrgwrjMuzXLHZWET4ibC4hDcnFheM9SzqDrJ3pump",
+    "first_seen": "2026-08-17T08:21:58.511874+00:00"
+  },
+  "turbull": {
+    "mint": "3YVtMtwqXFDd8GZWQGrXCtZHKM679YU2wTM1HGaDpump",
+    "first_seen": "2026-08-17T08:22:00.046165+00:00"
   }
 }
