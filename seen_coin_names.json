@@ -48202,5 +48202,45 @@
   "rogwar": {
     "mint": "5pyMowWS7yKYLo7TArX1DHVyrUFizpmfdzKvwu2pump",
     "first_seen": "2026-08-17T15:00:30.246816+00:00"
+  },
+  "nigcat": {
+    "mint": "G8EC9yoVhCxSp1y29MCFW2P5NbNqp9PScJXyirdqpump",
+    "first_seen": "2026-08-17T15:32:51.297133+00:00"
+  },
+  "braverocker": {
+    "mint": "E3qbMzEFd9gboRPbmtGWXHnZer98tQaakuML9mrupump",
+    "first_seen": "2026-08-17T15:32:52.371339+00:00"
+  },
+  "sn1604": {
+    "mint": "CmSz5WSnP7bfYr7MikXQFiiWhmTs5BxEdv9MLT1Gpump",
+    "first_seen": "2026-08-17T15:32:52.883410+00:00"
+  },
+  "ipod": {
+    "mint": "AtbF6sEgqzAAvhdiexrAcKRvA1zzviG7giu7vuU1pump",
+    "first_seen": "2026-08-17T15:32:53.476740+00:00"
+  },
+  "rudi": {
+    "mint": "86rU8TuTbxi2QkQzriJQqnXe4ejEiqmp8QfgZqzNpump",
+    "first_seen": "2026-08-17T15:32:56.329091+00:00"
+  },
+  "bfp": {
+    "mint": "8E5BmwKWRk1iwT99vG9ThrTz1dNuVHQupcWbewjHpump",
+    "first_seen": "2026-08-17T15:32:56.806525+00:00"
+  },
+  "moncho": {
+    "mint": "GovKazh4GyUtXyttQo9qcsHwD2wpEydHp41RztZ6pump",
+    "first_seen": "2026-08-17T15:33:00.284412+00:00"
+  },
+  "unicorn": {
+    "mint": "GBc4XgjQjY1hTnz7eAtEfdtZ2662uQHw3r7csKAbpump",
+    "first_seen": "2026-08-17T15:33:03.236290+00:00"
+  },
+  "motrix": {
+    "mint": "5rPuiKKbEXLxzssjuKHzGeuKuuHRuJf6aYhVLNtepump",
+    "first_seen": "2026-08-17T15:33:04.628830+00:00"
+  },
+  "onlybulls": {
+    "mint": "DKCz2GeWdNuvJVRmrm15sYxhdsGLNQeSn5ECaVMUpump",
+    "first_seen": "2026-08-17T15:33:12.183896+00:00"
   }
 }
