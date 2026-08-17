@@ -47658,5 +47658,21 @@
   "gulli": {
     "mint": "HTvSiFwJSeYupFEuSwu89LeusnkUJBw7ggGginYepump",
     "first_seen": "2026-08-16T23:48:06.964349+00:00"
+  },
+  "baba": {
+    "mint": "2zKkZ6Z5me6RoD6MK662t1Xg4zoqmLknrGL4x8hxpump",
+    "first_seen": "2026-08-17T00:00:37.982834+00:00"
+  },
+  "turtlecat": {
+    "mint": "87wbbZAGFrErM9FkUzVhYMUx8S39P5vSf3ecn4iWpump",
+    "first_seen": "2026-08-17T00:00:38.699221+00:00"
+  },
+  "qun": {
+    "mint": "9MKJMesNruLZ4Q6X4JhFJtzbNcD3WEvr8wordfiGpump",
+    "first_seen": "2026-08-17T00:00:39.081623+00:00"
+  },
+  "luka": {
+    "mint": "28zguRqsBNMGnTSHeEdT1xB9yA9Tt3RURGgyMYWgpump",
+    "first_seen": "2026-08-17T00:00:45.749204+00:00"
   }
 }
