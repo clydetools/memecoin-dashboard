@@ -47990,5 +47990,45 @@
   "pear": {
     "mint": "Cu3V4rE4PmNxcvMT8T4V7rqmavGkJaDiKsPJh5Pqbo6d",
     "first_seen": "2026-08-17T10:58:50.339202+00:00"
+  },
+  "helloo": {
+    "mint": "AafiqTNLRxcMuZFqKbNDhmXvRQtEtk3E2j9udUM5pump",
+    "first_seen": "2026-08-17T11:53:03.760435+00:00"
+  },
+  "randomcoin": {
+    "mint": "HJadBCvMBahBg5G1u9QvAMZ13zzdJXkrgd7MxYkupump",
+    "first_seen": "2026-08-17T11:53:04.218154+00:00"
+  },
+  "chatppp": {
+    "mint": "Aq1gChhUexMFEkkavnwJS1BTs84pRxoX93qj36Er7EuL",
+    "first_seen": "2026-08-17T11:53:04.696964+00:00"
+  },
+  "corgnelius": {
+    "mint": "Gj79B9hbsfk8dL1t9V35iAep48VdrBtXGuFczv4rpump",
+    "first_seen": "2026-08-17T11:53:05.107087+00:00"
+  },
+  "jimfox": {
+    "mint": "25TJzX61yGFuhUnRybENo3hLLANeg4GoqmNrZQHJpump",
+    "first_seen": "2026-08-17T11:53:05.582959+00:00"
+  },
+  "ultra": {
+    "mint": "Boxf7tnXmk8LyzmNiCaxnLdKUspaKxXX7Ukhm9Yupump",
+    "first_seen": "2026-08-17T11:53:05.998221+00:00"
+  },
+  "rddt": {
+    "mint": "9wjfCUrZGq5n9od9UaZzY44uU5pRsojGJRtSKyTGpump",
+    "first_seen": "2026-08-17T11:53:10.226425+00:00"
+  },
+  "tnbam": {
+    "mint": "5xsvtD4MSZayRZitAFDeaoeojDocnyJHuX3LGN84pump",
+    "first_seen": "2026-08-17T11:53:10.283271+00:00"
+  },
+  "autograph": {
+    "mint": "7SecUUhKVK8qGGFC1vfGytNkxeMhaTPz1eQ8mJMxpump",
+    "first_seen": "2026-08-17T11:53:10.400082+00:00"
+  },
+  "squirrel": {
+    "mint": "APQfuCeuoCqywQJaVNj5CvZuUZ3EE3abGmti9tKjpump",
+    "first_seen": "2026-08-17T11:53:11.416186+00:00"
   }
 }
