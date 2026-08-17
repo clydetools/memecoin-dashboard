@@ -47726,5 +47726,21 @@
   "whitehouse": {
     "mint": "4MDxpKcq3aK7JvbuouL9qQhvVVywv2kDsqkTj211z6eR",
     "first_seen": "2026-08-17T02:48:40.459139+00:00"
+  },
+  "billyog": {
+    "mint": "7t9sNbCyh9goHNmB39Boo2umCfDCgdKeNzb4wrGDpump",
+    "first_seen": "2026-08-17T03:36:23.388242+00:00"
+  },
+  "kimbo": {
+    "mint": "J4on9EKTjY1Nn8KZ6zTyWdo9s7mh6NqJDA2yMtBTpump",
+    "first_seen": "2026-08-17T03:36:24.472542+00:00"
+  },
+  "penguingate": {
+    "mint": "8o5gb3cRT7L3PkdFLKktY4j2c5orHpsoL9HjUp3Xpump",
+    "first_seen": "2026-08-17T03:36:25.586704+00:00"
+  },
+  "basecat": {
+    "mint": "Ag3XPvcPvVKGH1k62JxN2wePkgYeb2nsYuabPV4dav79",
+    "first_seen": "2026-08-17T03:36:34.514909+00:00"
   }
 }
