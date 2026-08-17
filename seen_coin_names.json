@@ -47890,5 +47890,33 @@
   "turbull": {
     "mint": "3YVtMtwqXFDd8GZWQGrXCtZHKM679YU2wTM1HGaDpump",
     "first_seen": "2026-08-17T08:22:00.046165+00:00"
+  },
+  "whalecoin": {
+    "mint": "5h7QnMBAX2RZanmjpu9Dtt3dUmPiA3mMrkuYvN2Upump",
+    "first_seen": "2026-08-17T09:08:44.915363+00:00"
+  },
+  "lumi": {
+    "mint": "G8JxzM9vbqGE8KyghH9iNRFpCjTmUN3mUoS4DQospump",
+    "first_seen": "2026-08-17T09:08:48.872674+00:00"
+  },
+  "jiro": {
+    "mint": "HqZnedMmt7PqiJtHesLYBMY795RfoWS9gkoXfV1tRkT6",
+    "first_seen": "2026-08-17T09:08:55.384028+00:00"
+  },
+  "fitz": {
+    "mint": "4k9VpSGmB1SkoPUwAJRAHxDKExp5VrpFRvgmnreAFF9t",
+    "first_seen": "2026-08-17T09:08:55.443543+00:00"
+  },
+  "yoloer": {
+    "mint": "GYtktDVBRzgZgBEybcJrvmHQziuduBzbXE95BoW9YE9n",
+    "first_seen": "2026-08-17T09:08:55.515027+00:00"
+  },
+  "covercat": {
+    "mint": "9GxWDa8fJoKFgjk7Wbpezxye6KNbVETRrZ7xBMunFG3b",
+    "first_seen": "2026-08-17T09:08:55.575258+00:00"
+  },
+  "sev7n": {
+    "mint": "777aJqLnuaoWc2z4dvsEEvHJrUdmbpT7Wb7ZZgz9swU8",
+    "first_seen": "2026-08-17T09:08:56.215291+00:00"
   }
 }
