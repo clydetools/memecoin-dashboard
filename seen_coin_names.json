@@ -48738,5 +48738,29 @@
   "zoe": {
     "mint": "7n8kRipxAQBfpGQtcGA2AbkM2HASSVCzqZ5F3QEopump",
     "first_seen": "2026-08-17T22:23:24.857595+00:00"
+  },
+  "hayden": {
+    "mint": "5Lm4GYGfKHoXUh7A4ZKd72nz2jSPsJHzhm5g2Gxqr8Pu",
+    "first_seen": "2026-08-17T22:49:41.378501+00:00"
+  },
+  "ears": {
+    "mint": "2bRoqKnhK217WffisAVB1uDqDkJBLDYxuQakPCgJpump",
+    "first_seen": "2026-08-17T22:49:43.575191+00:00"
+  },
+  "mugsey": {
+    "mint": "F2yTMJxPTnZdmqCwT8eGfZdk233JUKx2ue1CEWz8pump",
+    "first_seen": "2026-08-17T22:49:44.179231+00:00"
+  },
+  "effect": {
+    "mint": "8EF9vxMWxtzjiRhM75T774JT88snSRvrRzNNN6gu2UVC",
+    "first_seen": "2026-08-17T22:49:45.263627+00:00"
+  },
+  "arn67": {
+    "mint": "FEt3r3QVYnRV5p5DWKqrDdEuFBRTbGNDz83p9FF7pump",
+    "first_seen": "2026-08-17T22:49:47.525466+00:00"
+  },
+  "gooners": {
+    "mint": "9PkWHzTHss7XcD16ndcpYk3pLNjae3oWH6yq8WFBb9pb",
+    "first_seen": "2026-08-17T22:49:59.898724+00:00"
   }
 }
