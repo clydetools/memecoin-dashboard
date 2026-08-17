@@ -47766,5 +47766,41 @@
   "golddigger": {
     "mint": "BD81TKATxfYcCK1rw1uZBSWC9Yk3nJEFiRsnHpi6pump",
     "first_seen": "2026-08-17T04:23:56.760456+00:00"
+  },
+  "mohoo": {
+    "mint": "2fKWWY5obw4qz1mPYPBTW4RfhxqHczo2UCczwEvPpump",
+    "first_seen": "2026-08-17T05:08:04.445868+00:00"
+  },
+  "crican": {
+    "mint": "52HhBGfrhPVG79sYpzokvZkPZLGxKNCQmvEBgCE2pump",
+    "first_seen": "2026-08-17T05:08:04.901362+00:00"
+  },
+  "confuse": {
+    "mint": "E6aQ1D5KtP5YcWcupF7YWcTfcEfdApKg6wvGqeZfpump",
+    "first_seen": "2026-08-17T05:08:05.787958+00:00"
+  },
+  "phacan": {
+    "mint": "2nzv3ppLTmzZ84qGLXx5Jh2MGRvjtwMmpBYpkkMEpump",
+    "first_seen": "2026-08-17T05:08:06.654199+00:00"
+  },
+  "jerkforkirk": {
+    "mint": "59VUkwJKh8gsYxmnyBrCv1iaYRbAkct8a9CSPc2Epump",
+    "first_seen": "2026-08-17T05:08:07.090071+00:00"
+  },
+  "tdt": {
+    "mint": "8cLiJV9aenYSyh9NVy5XUt5z4yv2bGT3nMhgswhipump",
+    "first_seen": "2026-08-17T05:08:13.360481+00:00"
+  },
+  "shibscen": {
+    "mint": "6VExhFJceQENY2GUgoGf9sXVST75mw4ovXYt8DaNpump",
+    "first_seen": "2026-08-17T05:08:13.452999+00:00"
+  },
+  "alpix": {
+    "mint": "R9JmjbvG31d12H6a5gkmuMoLrmHCYB4xfbRzDjSpump",
+    "first_seen": "2026-08-17T05:08:14.404544+00:00"
+  },
+  "fomopsey": {
+    "mint": "DTciwxGuxGvytDP1wWfk154BRePdsSeP1dU1PNNkpump",
+    "first_seen": "2026-08-17T05:08:15.427744+00:00"
   }
 }
