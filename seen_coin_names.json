@@ -48762,5 +48762,53 @@
   "gooners": {
     "mint": "9PkWHzTHss7XcD16ndcpYk3pLNjae3oWH6yq8WFBb9pb",
     "first_seen": "2026-08-17T22:49:59.898724+00:00"
+  },
+  "z6900": {
+    "mint": "24p7Dk54mk2rogDP4FZbF9HwL1GeL6sy2DTa78wPpump",
+    "first_seen": "2026-08-17T23:09:22.105457+00:00"
+  },
+  "pmc": {
+    "mint": "8Ped2XoNJhPW6ZXjPQPzNw6rGkZELpBana9yCBiJpump",
+    "first_seen": "2026-08-17T23:09:25.466401+00:00"
+  },
+  "marcelo": {
+    "mint": "FBGDyJWHQwYSedQm5pRoBrXQskFY1oAPo4oi9fcgpump",
+    "first_seen": "2026-08-17T23:09:26.081052+00:00"
+  },
+  "catty": {
+    "mint": "24p7rTGAyZcAcLvfM91moght2pvtsmV6LzoZBkRXpump",
+    "first_seen": "2026-08-17T23:09:26.641225+00:00"
+  },
+  "arjun": {
+    "mint": "4WWd9Zjf7cpKnfadNuFUQ8Z1P5fjmr5tiGqjk4Jqpump",
+    "first_seen": "2026-08-17T23:09:30.511416+00:00"
+  },
+  "sgnl": {
+    "mint": "B2A3vdKRkinPqL1bKeT9tT8BETYMPKeKqyjRjNKbpump",
+    "first_seen": "2026-08-17T23:09:32.069096+00:00"
+  },
+  "frosem": {
+    "mint": "2BM7koCQJCBarPWQBWc8R2Y3V8vrr483VtdC11kUTixJ",
+    "first_seen": "2026-08-17T23:09:32.601964+00:00"
+  },
+  "soelberg": {
+    "mint": "4C3RUvfQ5ugX3bnRJ4nzoVYm2QqWuYrjqy2iXhxfpump",
+    "first_seen": "2026-08-17T23:09:35.149555+00:00"
+  },
+  "kot": {
+    "mint": "2rZdvWGpE7B2F8yoWryCyFrF6CwqBmTMAxUyA2wDpump",
+    "first_seen": "2026-08-17T23:09:36.719162+00:00"
+  },
+  "bullmrkt": {
+    "mint": "GY53ctA7NX3LNWQQGM2YgsAPcy6w796rQiDgnsiqpump",
+    "first_seen": "2026-08-17T23:09:42.651314+00:00"
+  },
+  "laotzu": {
+    "mint": "Ev9Dv9fNPRxb1dH9A9UUX2fsgy52syc8woY3JpaJpump",
+    "first_seen": "2026-08-17T23:09:44.551860+00:00"
+  },
+  "calvin": {
+    "mint": "9C2cdz9stP2VtrWBJQs9a4YaLZdRV2tmSuHWN3jAvPXb",
+    "first_seen": "2026-08-17T23:09:44.698129+00:00"
   }
 }
