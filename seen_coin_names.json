@@ -48834,5 +48834,29 @@
   "luckycat": {
     "mint": "ApMfsyTZeu5Wg7thLemgodzmAK8UfVRZVxG4fMWXpump",
     "first_seen": "2026-08-17T23:35:44.148953+00:00"
+  },
+  "0iq": {
+    "mint": "BGoDfsxtHKJccNbdAr5hyxhGNvbV3a9kPEqDCbQDpump",
+    "first_seen": "2026-08-17T23:55:06.922909+00:00"
+  },
+  "task": {
+    "mint": "29NAk5XbHtsFMEdvc7hfXt3Tkr1DPX43ZEeYriMKpump",
+    "first_seen": "2026-08-17T23:55:08.508812+00:00"
+  },
+  "nerdylove": {
+    "mint": "EmjGU36uNidGiioYKkDvfA1Z5zFV8WKtR2uKcocLpump",
+    "first_seen": "2026-08-17T23:55:10.592346+00:00"
+  },
+  "flag": {
+    "mint": "NoVen9m8mRw71ZXdf1VkZXVECrX3WmybGfE7jchpump",
+    "first_seen": "2026-08-17T23:55:11.148610+00:00"
+  },
+  "blackguy": {
+    "mint": "A5vvAaah75pP7wMAdW7prgwMjEdqSc3Hu2fhauPYYBZX",
+    "first_seen": "2026-08-17T23:55:17.776439+00:00"
+  },
+  "friction": {
+    "mint": "9bbcJbPUEP3Fk1iu2qm6jWSWQi6vG11r6V5T7XzG6EaN",
+    "first_seen": "2026-08-17T23:55:18.498753+00:00"
   }
 }
