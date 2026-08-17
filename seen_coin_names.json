@@ -47830,5 +47830,33 @@
   "ganadi": {
     "mint": "GKHkvy91JSnxyrxovoMbczVszJkJdvrdBBjXmsTDpump",
     "first_seen": "2026-08-17T05:48:14.886241+00:00"
+  },
+  "marieanne": {
+    "mint": "9cjehBXL291cFMr9aY6dAQZJw1uatRGikYkv6kxwpump",
+    "first_seen": "2026-08-17T06:23:10.878145+00:00"
+  },
+  "dofemon": {
+    "mint": "DxG7WWKWMTQL2NUX1VEjEVMtqae7BSd7XHKw5jM8pump",
+    "first_seen": "2026-08-17T06:23:11.449773+00:00"
+  },
+  "amelie": {
+    "mint": "ByQxJPmJ1fRvgtpTPE1eCkutgah5m58BJfLmTdtppump",
+    "first_seen": "2026-08-17T06:23:12.007996+00:00"
+  },
+  "turroc": {
+    "mint": "Gzv2yAN3Yr9cwge7Q4zYxQT6nxFdDmaDpxCxvb1ppump",
+    "first_seen": "2026-08-17T06:23:12.558711+00:00"
+  },
+  "gdx": {
+    "mint": "3FirFytd7WbtQgFSrgnyQhA7bRkk6ucUAf2hcHzDw5CQ",
+    "first_seen": "2026-08-17T06:23:18.125138+00:00"
+  },
+  "zktc": {
+    "mint": "9ff2oAAf642FAA3zf5TWyB4iYrZe4Yw62bULDrfVfSCn",
+    "first_seen": "2026-08-17T06:23:18.202696+00:00"
+  },
+  "animals": {
+    "mint": "8jVZDAGth2iJH2xpTtqeiD3fbSVsuGmmkCyLTjNUTMMX",
+    "first_seen": "2026-08-17T06:23:18.916491+00:00"
   }
 }
