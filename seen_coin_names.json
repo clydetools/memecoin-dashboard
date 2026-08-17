@@ -48810,5 +48810,29 @@
   "calvin": {
     "mint": "9C2cdz9stP2VtrWBJQs9a4YaLZdRV2tmSuHWN3jAvPXb",
     "first_seen": "2026-08-17T23:09:44.698129+00:00"
+  },
+  "timetraveler": {
+    "mint": "HRyURJnXxPGosJJnHngCGct33JBQubVJ4JMyDfqypump",
+    "first_seen": "2026-08-17T23:35:39.868852+00:00"
+  },
+  "bullcall": {
+    "mint": "AnmCqzUgjMVxZ1xqipz5hEh3dTRAq9PmLtcLPf9Acjsu",
+    "first_seen": "2026-08-17T23:35:40.956664+00:00"
+  },
+  "hyena": {
+    "mint": "76H7qWpB3KWYAjX3efBx18tKfG5vyZtDT4pbQic9pump",
+    "first_seen": "2026-08-17T23:35:41.349840+00:00"
+  },
+  "ac": {
+    "mint": "GKGkKqdooUSXFccmE1M8QhkXxRMzhWEck2SLGy7e1xRG",
+    "first_seen": "2026-08-17T23:35:43.055514+00:00"
+  },
+  "chunky": {
+    "mint": "4mBSAjEq7xK6SFK2vyfU5Wx9DWBFhopz9gK7FVRFpump",
+    "first_seen": "2026-08-17T23:35:43.449911+00:00"
+  },
+  "luckycat": {
+    "mint": "ApMfsyTZeu5Wg7thLemgodzmAK8UfVRZVxG4fMWXpump",
+    "first_seen": "2026-08-17T23:35:44.148953+00:00"
   }
 }
