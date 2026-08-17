@@ -47742,5 +47742,29 @@
   "basecat": {
     "mint": "Ag3XPvcPvVKGH1k62JxN2wePkgYeb2nsYuabPV4dav79",
     "first_seen": "2026-08-17T03:36:34.514909+00:00"
+  },
+  "spacad": {
+    "mint": "FCJXwiA9VVRJzZkc4E7y9o7QUjAJxQqwTrrgVYcBpump",
+    "first_seen": "2026-08-17T04:23:47.677527+00:00"
+  },
+  "fomofrog": {
+    "mint": "H67As2DpDjERhy1f6J9FCuy5hyCQBJLuaUgvuFcTpump",
+    "first_seen": "2026-08-17T04:23:48.843718+00:00"
+  },
+  "angelt": {
+    "mint": "FTzbBu2MqmbX8Bgfo7n18J7v8PE23F74uP3GVKhqpump",
+    "first_seen": "2026-08-17T04:23:49.461951+00:00"
+  },
+  "ziao": {
+    "mint": "5epQfVLw1XAaQTZsx1GihY8treBHzzfXrr7iq4q2pump",
+    "first_seen": "2026-08-17T04:23:49.975139+00:00"
+  },
+  "doorea": {
+    "mint": "EzPVqUh5U48VQccCiviSBUgeYaxwCjjdNssD49btpump",
+    "first_seen": "2026-08-17T04:23:50.476114+00:00"
+  },
+  "golddigger": {
+    "mint": "BD81TKATxfYcCK1rw1uZBSWC9Yk3nJEFiRsnHpi6pump",
+    "first_seen": "2026-08-17T04:23:56.760456+00:00"
   }
 }
