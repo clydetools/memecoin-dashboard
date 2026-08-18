@@ -49202,5 +49202,25 @@
   "zshit": {
     "mint": "Gkiw8GFD19XtvNmGKDKGeVFRASDRCYpYG8np38JUpump",
     "first_seen": "2026-08-18T11:44:38.935690+00:00"
+  },
+  "curiouscrab": {
+    "mint": "EpXc19efVgFTTfk2GA9vr42rwYwe8Egs8Gs6cjQ5pump",
+    "first_seen": "2026-08-18T12:03:57.157048+00:00"
+  },
+  "kraken": {
+    "mint": "3V4gu61hitSxugyDCSm5S9zy1YVRx8qiqnuC9fqqpump",
+    "first_seen": "2026-08-18T12:03:59.349191+00:00"
+  },
+  "sot": {
+    "mint": "EhnRxxwpBYhPYXeCaChxNQ1jew4bmhgG6rqNMHN9pump",
+    "first_seen": "2026-08-18T12:04:00.401365+00:00"
+  },
+  "darkcrown": {
+    "mint": "MADAKiRS6MzgtwGvmq44LE5SmTKKPCfeL9iesUeHVH7",
+    "first_seen": "2026-08-18T12:04:08.004041+00:00"
+  },
+  "mindvirus": {
+    "mint": "BTuxcD46tm8c8EmPbqJKzrwRk5GRVwUmTJtysMhRpump",
+    "first_seen": "2026-08-18T12:04:08.395835+00:00"
   }
 }
