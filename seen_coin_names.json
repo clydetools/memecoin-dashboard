@@ -50138,5 +50138,45 @@
   "dccc": {
     "mint": "Cyubo96sFj8y9pXJLbud16jnUGgctgTSBTP1Jeb6GFcB",
     "first_seen": "2026-08-18T22:58:37.334861+00:00"
+  },
+  "freeiran": {
+    "mint": "GJnsBfdgSFU7mXSFGMw9AcmJUgamGpGevk3CGT7vpump",
+    "first_seen": "2026-08-18T23:25:38.186928+00:00"
+  },
+  "doospe": {
+    "mint": "MoGEmSDgR72CgGYwEs2sCWUsBQHb1FbgxsZHpmSpump",
+    "first_seen": "2026-08-18T23:25:39.960170+00:00"
+  },
+  "shiver": {
+    "mint": "3jfzTasgD5igLBYMrCTx9idCtEXrqNExG8weznNcpump",
+    "first_seen": "2026-08-18T23:25:40.788127+00:00"
+  },
+  "disc": {
+    "mint": "CsF5GEYp2GgyUZiypWeo2UPqzEEobb3Zxa6ywvQ7pump",
+    "first_seen": "2026-08-18T23:25:42.918786+00:00"
+  },
+  "cheech": {
+    "mint": "CakDdykTwyyckGAw3TkHoo8Mh1EYjxtf4XiBmzdppump",
+    "first_seen": "2026-08-18T23:25:43.442564+00:00"
+  },
+  "rilly": {
+    "mint": "3TnXVKM8VcC3xcwfRQqArjmBGdSzxzYZDuKJ5ucfpump",
+    "first_seen": "2026-08-18T23:25:43.970011+00:00"
+  },
+  "catrun": {
+    "mint": "9UW2DKbNM271gdzKHxef9gZWGEJAhEjUTB6mK4xPpump",
+    "first_seen": "2026-08-18T23:25:44.571064+00:00"
+  },
+  "discman": {
+    "mint": "CCbQxXayHvR3QeVJmNxm1D7j25xoV5kkPeNaQiuuswZa",
+    "first_seen": "2026-08-18T23:25:45.132667+00:00"
+  },
+  "foho": {
+    "mint": "3Ze47YjdChhdPFthkEiinDdkE9tKtPDLZ6jFgUWNpump",
+    "first_seen": "2026-08-18T23:25:50.542636+00:00"
+  },
+  "gore": {
+    "mint": "EH5scbBRuDnFLWnzJC91sCQ382TVg1qBgb5FzSQ9pump",
+    "first_seen": "2026-08-18T23:25:50.640342+00:00"
   }
 }
