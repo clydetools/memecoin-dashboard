@@ -49518,5 +49518,57 @@
   "elonbot": {
     "mint": "736AdBj9CzjyPfb7AdXMK5fk27fxbHwxzPovTFDztgiB",
     "first_seen": "2026-08-18T16:12:20.089864+00:00"
+  },
+  "clavicular": {
+    "mint": "6yU6RVLTjBBbrbr8RvPvrNnywVSY3ZeJFnmVikzvpump",
+    "first_seen": "2026-08-18T16:51:16.252299+00:00"
+  },
+  "craig": {
+    "mint": "Duaka22xokw1m7YQ1dEaCB4UupUNkFbTHdNEwWFVsq2Z",
+    "first_seen": "2026-08-18T16:51:16.756560+00:00"
+  },
+  "angoras": {
+    "mint": "9KLdvEWWN5TsAewCRhuwcM5NbNgGQd4zgmm68k3bpump",
+    "first_seen": "2026-08-18T16:51:18.798084+00:00"
+  },
+  "martypartybot": {
+    "mint": "REL4NvvnnSwvTnf7pgRiTNzguNLnCPUFnNQQxU6pump",
+    "first_seen": "2026-08-18T16:51:19.615509+00:00"
+  },
+  "easy": {
+    "mint": "55DGHTKf4QkfyyUNRwBDtNGnNjCkgXcvsXhXZhs8pump",
+    "first_seen": "2026-08-18T16:51:20.026584+00:00"
+  },
+  "eloncash": {
+    "mint": "D738ejL7d8gDnN14JCmrqRGoCKcj5mVgYsfiVLWkMGjJ",
+    "first_seen": "2026-08-18T16:51:21.874528+00:00"
+  },
+  "nmr": {
+    "mint": "6keNTAvs7X2EqmpQDDzQeAzqAC3VKpQ7EuoAny9epump",
+    "first_seen": "2026-08-18T16:51:22.265511+00:00"
+  },
+  "pepebonk": {
+    "mint": "Bu1BfJt2LCfm3gK3pJ38HXzJxcEnxMD7g1VGGMrsLobE",
+    "first_seen": "2026-08-18T16:51:22.679954+00:00"
+  },
+  "mav": {
+    "mint": "62KyGmjk7XXXwR8U2FTgrX8vwzBh7eW5RFkUpebNpump",
+    "first_seen": "2026-08-18T16:51:23.459348+00:00"
+  },
+  "same": {
+    "mint": "5SMSCfxWrRb86ug3QxmUZf8fao9oAhK1dsxBLmV8pump",
+    "first_seen": "2026-08-18T16:51:24.558841+00:00"
+  },
+  "bitburger": {
+    "mint": "FKrxikMunyxeEnEeKJyParSGd5kQ47jqwVV5efrVYbnX",
+    "first_seen": "2026-08-18T16:51:26.412269+00:00"
+  },
+  "martyparty": {
+    "mint": "HKZaU5CcBh2s5uE83K6NEiG1k1CYfFRrUYbUcCDPpump",
+    "first_seen": "2026-08-18T16:51:27.514253+00:00"
+  },
+  "character": {
+    "mint": "mgHoz8YJS8fmrTB4B68kfC9H9zFoPY7Ut7uYdZDpump",
+    "first_seen": "2026-08-18T16:51:31.884873+00:00"
   }
 }
