@@ -49042,5 +49042,13 @@
   "uszc": {
     "mint": "DyT9Q9TPqUM4UfJnK2Pndh7rUArD4bMhBe99hQAppump",
     "first_seen": "2026-08-18T07:09:55.037809+00:00"
+  },
+  "rastaclat": {
+    "mint": "6Y66komoEUFnHuAbk4v1ZebDydXCD1FUGEpsoEkWpump",
+    "first_seen": "2026-08-18T07:52:55.354359+00:00"
+  },
+  "quantdev": {
+    "mint": "FgnGMabosZgpZmtigmLVd972uz3uo3mmochTmtH6DvLi",
+    "first_seen": "2026-08-18T07:53:01.949386+00:00"
   }
 }
