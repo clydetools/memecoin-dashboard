@@ -50066,5 +50066,45 @@
   "ores": {
     "mint": "3qhVNtt5osW94BMtsbFEEhmNNeZgib1UzMBrb6jNpump",
     "first_seen": "2026-08-18T22:02:01.695607+00:00"
+  },
+  "youneedtodie": {
+    "mint": "3UgjSxqb4r68CRAdmCCERM4Ey2xFPmQ9pKKnJWiupump",
+    "first_seen": "2026-08-18T22:37:29.483171+00:00"
+  },
+  "techworking": {
+    "mint": "4SbRTSZ5j3EFDZDaQwuMqrBGhu7vqqT41gwqaFhwpump",
+    "first_seen": "2026-08-18T22:37:30.037739+00:00"
+  },
+  "pupto": {
+    "mint": "EuTiu648M58gLrcFVESjredVpcVNFqzqtVz3Smuzpump",
+    "first_seen": "2026-08-18T22:37:32.701911+00:00"
+  },
+  "gmonkey": {
+    "mint": "ARSZWvLhkKxJk1yjGBY5DCSd3PDTDo7JpSKib8fqpump",
+    "first_seen": "2026-08-18T22:37:33.774948+00:00"
+  },
+  "pardon": {
+    "mint": "3i8nD16VEt8MNRqrTrE89GaWTt8CkUYWVK4NsGXVpump",
+    "first_seen": "2026-08-18T22:37:34.327058+00:00"
+  },
+  "snuko": {
+    "mint": "12j1qG96kwXVGLoQHbrHHw2SjDmXEPRpWKERZJTFpump",
+    "first_seen": "2026-08-18T22:37:35.474291+00:00"
+  },
+  "trumpfc": {
+    "mint": "8hSenUR4UkzYBPrhivnkixDUY2mQNvjjdunpBCK9pump",
+    "first_seen": "2026-08-18T22:37:39.285759+00:00"
+  },
+  "8ball": {
+    "mint": "C1J11VTozPiDWJKeqGQYB7eU7AYcoQKYSZdN1sscpump",
+    "first_seen": "2026-08-18T22:37:44.434569+00:00"
+  },
+  "tucote": {
+    "mint": "Gm9o5TSvYz3Uwf7JyZLzwF5z7Es96N5c1DD7jqYgpump",
+    "first_seen": "2026-08-18T22:37:48.178859+00:00"
+  },
+  "memedream": {
+    "mint": "99M3MdbQVZGe4hvHyakobZEHyMSAJKTAZNVRfbBTpump",
+    "first_seen": "2026-08-18T22:37:49.238310+00:00"
   }
 }
