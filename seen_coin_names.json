@@ -49982,5 +49982,57 @@
   "mossboss": {
     "mint": "2diUc6WN1DPsVZHLovYdApc3Ark3VRiVhinyGj4Lpump",
     "first_seen": "2026-08-18T21:23:44.476766+00:00"
+  },
+  "anymalc": {
+    "mint": "7zMwVR9xnJSqXyvEeZyZ54GLvGkSS9Rvh8M6j7oMigNA",
+    "first_seen": "2026-08-18T21:47:25.381197+00:00"
+  },
+  "gate": {
+    "mint": "7V4g2rmBD5q4fFtc3D98mYjLGK8ka1nyFn3cENtYpump",
+    "first_seen": "2026-08-18T21:47:26.087971+00:00"
+  },
+  "skills": {
+    "mint": "24rqPi26akZ533uunFEYns5ydW2i4rjRTK8G8rerpump",
+    "first_seen": "2026-08-18T21:47:26.715262+00:00"
+  },
+  "ls3": {
+    "mint": "9WaxhkZNhbnuePXDrXBerFvgW1CxitUusa7NVm6bj3xB",
+    "first_seen": "2026-08-18T21:47:27.889350+00:00"
+  },
+  "magapill": {
+    "mint": "AcamwKBeqC65AaLmV9LrCvttHKHnSuB3XH22xZbppump",
+    "first_seen": "2026-08-18T21:47:29.509562+00:00"
+  },
+  "wildcat": {
+    "mint": "2PGSqreTt3o7ryfKmp8qUH21tucBEmcoxJKxfCkbV1P1",
+    "first_seen": "2026-08-18T21:47:30.074162+00:00"
+  },
+  "magafun": {
+    "mint": "4a3KfH1dfYgDd19fHe8HiRk8q6zQtwJ5RgCSeiB9pump",
+    "first_seen": "2026-08-18T21:47:31.614214+00:00"
+  },
+  "rhex": {
+    "mint": "8dSQv1Xeu4aSH7m2fKzPLiijdnNwgXZV7ZxkZArBuqNy",
+    "first_seen": "2026-08-18T21:47:32.642249+00:00"
+  },
+  "inds": {
+    "mint": "2L92e9WLijbbEiW7NCHBgbEFxmFN6XEE25wvzoKCpump",
+    "first_seen": "2026-08-18T21:47:33.195618+00:00"
+  },
+  "tacobell": {
+    "mint": "Fv86JPDYCKeZoTW21uyUNaHF8rDiVSzVDjfrpzsrpump",
+    "first_seen": "2026-08-18T21:47:33.735990+00:00"
+  },
+  "quantgirl": {
+    "mint": "Gi5NHxjPLTHe3DEDQ7kCxBy8JxCtUK2erQVSZ2b5pump",
+    "first_seen": "2026-08-18T21:47:34.287614+00:00"
+  },
+  "airflow": {
+    "mint": "4BnsFKdK2cDuruGHYXfitLB25CPEES7B7inz7Bampump",
+    "first_seen": "2026-08-18T21:47:37.892394+00:00"
+  },
+  "wing": {
+    "mint": "J3N9aCoyFfsDFVoe8ySm52KmCqi2Qsv5idxZrHGUpump",
+    "first_seen": "2026-08-18T21:47:43.801641+00:00"
   }
 }
