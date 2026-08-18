@@ -49066,5 +49066,21 @@
   "bull500": {
     "mint": "HKMK9zw7uCV2D24mpnmdR5491nCyrWBGhUuTQEVZpump",
     "first_seen": "2026-08-18T08:32:57.783051+00:00"
+  },
+  "sstep": {
+    "mint": "7acxG5b5443pVVAhqWeAgsGDMAbbpmqe6aTRsPr3pump",
+    "first_seen": "2026-08-18T09:06:59.110438+00:00"
+  },
+  "fresno": {
+    "mint": "2mUf2NW9miquGXdqg2kgbhsFRFvCFvLAyFQZNXUjpump",
+    "first_seen": "2026-08-18T09:06:59.781633+00:00"
+  },
+  "derekdead": {
+    "mint": "DcwpzpPivNmgCdaRDZHHMyTLkWsLEWVoDo1acqjmpump",
+    "first_seen": "2026-08-18T09:07:01.939267+00:00"
+  },
+  "derek": {
+    "mint": "C6yFHaXLEXbn6akw9e9kjw6jeHtCdi7b6yKWyYj3pump",
+    "first_seen": "2026-08-18T09:07:03.092463+00:00"
   }
 }
