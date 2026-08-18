@@ -49170,5 +49170,17 @@
   "ekos": {
     "mint": "CwubepDFJndzSKFmAMAm9u8Xx3PrizAwSq8hcGimpump",
     "first_seen": "2026-08-18T10:49:45.084693+00:00"
+  },
+  "scmr": {
+    "mint": "46JfujS3NPK75k7oWnnfZjvYzSNr5iojp8aTGpP9pump",
+    "first_seen": "2026-08-18T11:11:53.004530+00:00"
+  },
+  "boobcoin": {
+    "mint": "C2iFbkK22K2RM8UWhZmSgWihHqMkfGhMQyPcSr3rpump",
+    "first_seen": "2026-08-18T11:11:53.372151+00:00"
+  },
+  "sweet": {
+    "mint": "GsXJDLwKiK5986hPVLgA1RqB8CibFXE9CKM1m2Vimg14",
+    "first_seen": "2026-08-18T11:12:00.149091+00:00"
   }
 }
