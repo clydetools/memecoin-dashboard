@@ -50178,5 +50178,41 @@
   "gore": {
     "mint": "EH5scbBRuDnFLWnzJC91sCQ382TVg1qBgb5FzSQ9pump",
     "first_seen": "2026-08-18T23:25:50.640342+00:00"
+  },
+  "doocom": {
+    "mint": "2i5ZDxFmu8nBSCBGf4FXWd4dGheBfTHtvFVxPx35pump",
+    "first_seen": "2026-08-18T23:46:24.919655+00:00"
+  },
+  "starship40": {
+    "mint": "3Hf6FYTDAHeAhxTVtfPFsDAdSFgJVe1kNBv8pQEtPXoX",
+    "first_seen": "2026-08-18T23:46:27.347410+00:00"
+  },
+  "franck": {
+    "mint": "8rZUdVWaGfDsPo6Y71x648kvGpkVP6V4PeDTiMLcpump",
+    "first_seen": "2026-08-18T23:46:28.380995+00:00"
+  },
+  "brockmccle": {
+    "mint": "9fxpwnuKtgyRhwaPeVm7J5zG65qkza5GK7ZMvw9Xpump",
+    "first_seen": "2026-08-18T23:46:28.750358+00:00"
+  },
+  "enter": {
+    "mint": "GUJkwQ8yM1uJKhz5BMW6nojCB8FJqdd6DvJTDm7Jpump",
+    "first_seen": "2026-08-18T23:46:29.804265+00:00"
+  },
+  "mmu": {
+    "mint": "B6VwAW7JLztVmcPwXU9hq6GhEcHKqrkDNJv5tVFHpump",
+    "first_seen": "2026-08-18T23:46:30.821463+00:00"
+  },
+  "keith": {
+    "mint": "8ARAwb7vYp1ZCsAtc8ZpXdAhpefF7ZG6qANvKmUKpump",
+    "first_seen": "2026-08-18T23:46:31.502636+00:00"
+  },
+  "00075": {
+    "mint": "Ddag5LZ6yWzqabNE5DgCmLL6aZ6BLqt7RXNDnvcEpump",
+    "first_seen": "2026-08-18T23:46:32.515005+00:00"
+  },
+  "axius": {
+    "mint": "EZA5ncFF3XtYYpzFYyxcXjLPovJoxkQbFfDGSRQxpump",
+    "first_seen": "2026-08-18T23:46:39.401082+00:00"
   }
 }
