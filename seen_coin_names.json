@@ -48998,5 +48998,13 @@
   "breakpoint": {
     "mint": "GSGWo6vfWDcjnpF4YMofXct9f3rDj9QammMp2TPEpump",
     "first_seen": "2026-08-18T05:48:53.901771+00:00"
+  },
+  "shark": {
+    "mint": "5PFxbdTAN6y9EELhnwmFAJGK7uf3Tg12opNYzKE2pump",
+    "first_seen": "2026-08-18T06:18:04.987277+00:00"
+  },
+  "qrackhole": {
+    "mint": "AtatRJ4Hy4JXXinVBNQiu29Nsab1GTBHf9hLSjncpump",
+    "first_seen": "2026-08-18T06:18:05.694580+00:00"
   }
 }
