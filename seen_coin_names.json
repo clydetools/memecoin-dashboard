@@ -49726,5 +49726,41 @@
   "wispo": {
     "mint": "67SxQgFzirhuafwyqCs6iyn4XRbYVEeAzqCJawkgpump",
     "first_seen": "2026-08-18T18:33:43.956200+00:00"
+  },
+  "susan": {
+    "mint": "9yvmtkDE9pZDnSb3oPXiQi1DdhFDE3HLATEyUEMNpump",
+    "first_seen": "2026-08-18T19:12:20.853788+00:00"
+  },
+  "cereal": {
+    "mint": "8BeQY3PLJS6wpzps9yTJiYHvzqKSUWeykaPTL3Lipump",
+    "first_seen": "2026-08-18T19:12:21.505157+00:00"
+  },
+  "pale": {
+    "mint": "E51aLBzHKuGh9Pgn8xdBmAogesUXBW96ysTqPGRKpump",
+    "first_seen": "2026-08-18T19:12:21.997769+00:00"
+  },
+  "memecrisis": {
+    "mint": "5nN6NjE87FrYPA2sDwDegZjQ2efWCGLFhbvcYoMUpump",
+    "first_seen": "2026-08-18T19:12:23.373318+00:00"
+  },
+  "moniup": {
+    "mint": "CghRVrdkYjPUNE6WqYtQUBUT8XrbBjr3EnmyNFT9pump",
+    "first_seen": "2026-08-18T19:12:24.777770+00:00"
+  },
+  "ngl": {
+    "mint": "BfiTJceUzJDvT1TnrBykHWkEnCrVcgojzJTJhKRKpump",
+    "first_seen": "2026-08-18T19:12:26.548718+00:00"
+  },
+  "actc": {
+    "mint": "24qrSGU6DGMiCjWXhhUT9Zb1D9j34ZtfFGJZJWbspump",
+    "first_seen": "2026-08-18T19:12:28.179398+00:00"
+  },
+  "meemers": {
+    "mint": "9nsLQvJSMBdfcYwnGRE5StSxjyRqUTG7RqCT7weipump",
+    "first_seen": "2026-08-18T19:12:30.526624+00:00"
+  },
+  "moggers": {
+    "mint": "CTVymPvNMqkRGnAX9zUggkkegDo1RQkZXohjW2HJpump",
+    "first_seen": "2026-08-18T19:12:31.921774+00:00"
   }
 }
