@@ -50034,5 +50034,37 @@
   "wing": {
     "mint": "J3N9aCoyFfsDFVoe8ySm52KmCqi2Qsv5idxZrHGUpump",
     "first_seen": "2026-08-18T21:47:43.801641+00:00"
+  },
+  "tunion": {
+    "mint": "G6pezSP9Cmsgi7wEcThET4UrKSbpmUBofXo2yGHtpump",
+    "first_seen": "2026-08-18T22:01:52.044736+00:00"
+  },
+  "pisscoin": {
+    "mint": "GyWeAQ8pMBuEa5fgAbHwikC2v8ntifsDh2BUB1WWpump",
+    "first_seen": "2026-08-18T22:01:53.079555+00:00"
+  },
+  "peecenter": {
+    "mint": "HYP194P1bsQgNMRMGQphWYn7Z6Pncdy82Y49VydZpump",
+    "first_seen": "2026-08-18T22:01:53.613675+00:00"
+  },
+  "molkblam": {
+    "mint": "A4gPFpS1hijvhahqqkQPvJinLBa4uWe4tdH67pwgpump",
+    "first_seen": "2026-08-18T22:01:54.602616+00:00"
+  },
+  "stm": {
+    "mint": "Fcm3TsmbwDuuq2tJoSyizb2GtSbmaCGqrvDZH2uGpump",
+    "first_seen": "2026-08-18T22:01:56.078795+00:00"
+  },
+  "pbullion": {
+    "mint": "H2m1rrC42hCjMpob5ZegW2oGhFLH1XtyVkM6x2yqpump",
+    "first_seen": "2026-08-18T22:01:56.570356+00:00"
+  },
+  "adhd": {
+    "mint": "7NyKwkap7yUgoLvcM7pnaXtvXGYZdueHf3Vnx31Qpump",
+    "first_seen": "2026-08-18T22:01:57.043950+00:00"
+  },
+  "ores": {
+    "mint": "3qhVNtt5osW94BMtsbFEEhmNNeZgib1UzMBrb6jNpump",
+    "first_seen": "2026-08-18T22:02:01.695607+00:00"
   }
 }
