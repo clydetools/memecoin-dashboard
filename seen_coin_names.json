@@ -49438,5 +49438,41 @@
   "lodz": {
     "mint": "1EaGq2PtdsxhZicYsrMXcVMLXMdyqpbUNQJjfZBpump",
     "first_seen": "2026-08-18T15:04:20.744330+00:00"
+  },
+  "aca": {
+    "mint": "4L3JjmSj8deiu3Jrd88LaWTNSujiJUffPXE9XZjLPwEN",
+    "first_seen": "2026-08-18T15:43:27.165860+00:00"
+  },
+  "iac": {
+    "mint": "B7Y46MRDWjeT9q7ptcxHmM1j3zHhxDfyzzWSWCbGpump",
+    "first_seen": "2026-08-18T15:43:27.999875+00:00"
+  },
+  "how": {
+    "mint": "58tm3x5P697agd6Rr3cR2rbAfjtonYUHbmz5bMjmpump",
+    "first_seen": "2026-08-18T15:43:29.987224+00:00"
+  },
+  "patty": {
+    "mint": "6W7HE5uyNSUVmzTtsGx4QE1Q2suCLxkJysqNct3bpump",
+    "first_seen": "2026-08-18T15:43:32.222494+00:00"
+  },
+  "doomers": {
+    "mint": "8DgjbmA5nRvELZkVErmYbF7C363DbmkXcRU2GpArpump",
+    "first_seen": "2026-08-18T15:43:33.346012+00:00"
+  },
+  "ansemszn": {
+    "mint": "5gkuTAKAskEhhc1D6ACtF6mmstfCg2Ldm5qT4C84pump",
+    "first_seen": "2026-08-18T15:43:38.323892+00:00"
+  },
+  "67bull": {
+    "mint": "GepVkouMVapm62pd5KzC5pxVh7j451n9jQJtEZjTpump",
+    "first_seen": "2026-08-18T15:43:38.376077+00:00"
+  },
+  "z67": {
+    "mint": "CR9vFRAbC6m3enGP7bTtoqEE12zetkwHbkFg95Dvpump",
+    "first_seen": "2026-08-18T15:43:38.427241+00:00"
+  },
+  "image": {
+    "mint": "Bapyr2ew7jZ4tqjpS8pth7aNXCvQtnhuiNMwK3xxE4Zm",
+    "first_seen": "2026-08-18T15:43:38.492631+00:00"
   }
 }
