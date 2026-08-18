@@ -49050,5 +49050,21 @@
   "quantdev": {
     "mint": "FgnGMabosZgpZmtigmLVd972uz3uo3mmochTmtH6DvLi",
     "first_seen": "2026-08-18T07:53:01.949386+00:00"
+  },
+  "ripley": {
+    "mint": "87ag2hMQ87bcUNUz1nkAwAGFkXRdki57rivceEixpump",
+    "first_seen": "2026-08-18T08:32:49.057131+00:00"
+  },
+  "jito": {
+    "mint": "7rimLuA19PeFHo7c7mkvV8vHttV4ZsmdnZLq1WndhaK7",
+    "first_seen": "2026-08-18T08:32:50.838774+00:00"
+  },
+  "bullqenis": {
+    "mint": "EyJA1DwSvCwDsNbn2g85ZvKVn34eqqRRYMSC5Kfepump",
+    "first_seen": "2026-08-18T08:32:51.415415+00:00"
+  },
+  "bull500": {
+    "mint": "HKMK9zw7uCV2D24mpnmdR5491nCyrWBGhUuTQEVZpump",
+    "first_seen": "2026-08-18T08:32:57.783051+00:00"
   }
 }
