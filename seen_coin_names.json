@@ -49278,5 +49278,29 @@
   "cryptoad": {
     "mint": "4SU5ZMCrfgmZYw6HhTFcxA9MfRs1NzGYgRrXDtL2pump",
     "first_seen": "2026-08-18T13:05:01.077118+00:00"
+  },
+  "flop": {
+    "mint": "7taoijtH4SvhLqL16W1f1gtk82WPozAALhT6QRvmpump",
+    "first_seen": "2026-08-18T13:54:15.632794+00:00"
+  },
+  "readrobinhood": {
+    "mint": "GbEZ4kgBnAob1pi1oSRPfSFTww4rARt2VwXbADCnpump",
+    "first_seen": "2026-08-18T13:54:18.235290+00:00"
+  },
+  "bndl4": {
+    "mint": "7m4dqAJe64yzobkTBwSaLnJLcvX9RwxpcgL4X9DM3Rhi",
+    "first_seen": "2026-08-18T13:54:19.766341+00:00"
+  },
+  "feed": {
+    "mint": "EpDRQ9xBrnXFQcGSZvU8sUVLv5bpwbR2YYBtku3wpump",
+    "first_seen": "2026-08-18T13:54:21.302691+00:00"
+  },
+  "catdough": {
+    "mint": "7HLTNZHU84WwpCiscbnWjGZ8LqjWQRqrvfgkkZfnpump",
+    "first_seen": "2026-08-18T13:54:22.657839+00:00"
+  },
+  "cashapp": {
+    "mint": "HJvNXZ64yZeB2aZWyFEP7D35W8eRLfLDcbfUKRyHpump",
+    "first_seen": "2026-08-18T13:54:30.092875+00:00"
   }
 }
