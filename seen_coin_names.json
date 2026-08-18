@@ -49154,5 +49154,21 @@
   "noise": {
     "mint": "HCB29smN9EfHnENE9kSaHAfDSQcvLs4i3i8RFw3Dpump",
     "first_seen": "2026-08-18T10:11:48.787512+00:00"
+  },
+  "daostonk": {
+    "mint": "BDctYLZmwduuxHwraF9gwA5BnKjFKEwaM2zosENopump",
+    "first_seen": "2026-08-18T10:49:37.579693+00:00"
+  },
+  "shill": {
+    "mint": "5yYixTdPidahBVcse7t7bctG3fnqQfkpZoCse8Napump",
+    "first_seen": "2026-08-18T10:49:38.994592+00:00"
+  },
+  "yashka": {
+    "mint": "3ZwmvjKY19i3WUThtE2CLVFdtkHDBwB211UPjrwXpump",
+    "first_seen": "2026-08-18T10:49:39.718363+00:00"
+  },
+  "ekos": {
+    "mint": "CwubepDFJndzSKFmAMAm9u8Xx3PrizAwSq8hcGimpump",
+    "first_seen": "2026-08-18T10:49:45.084693+00:00"
   }
 }
