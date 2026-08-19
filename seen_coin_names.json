@@ -51218,5 +51218,25 @@
   "chauvin": {
     "mint": "6h8yFnuU7YJd8WjefZN18eFj8ahfsrQ1nyFLQTw6pump",
     "first_seen": "2026-08-19T19:56:13.048636+00:00"
+  },
+  "fillhercoi": {
+    "mint": "55iQgnVME7C6d3dGdV23SXqMcyYNvk9rZjf532H6pump",
+    "first_seen": "2026-08-19T20:23:08.346950+00:00"
+  },
+  "cub": {
+    "mint": "DgBii56dFBM6LYhugck2KxdKEPaMoTMXGjARDdHBpump",
+    "first_seen": "2026-08-19T20:23:08.908000+00:00"
+  },
+  "ffive": {
+    "mint": "8kuTRDhUjVYo4XAhhgSiaCaBmYBaYZVSLnwFnNXfpump",
+    "first_seen": "2026-08-19T20:23:09.477727+00:00"
+  },
+  "dgfrigor": {
+    "mint": "BKYWmdk84uKNdSY3WTPYdM2rL5kMriL3YXHybtNspump",
+    "first_seen": "2026-08-19T20:23:10.041405+00:00"
+  },
+  "cognition": {
+    "mint": "zxeaqJKtfQR3rL7fNgwENnC1DddYBCAH3MGrkhzpump",
+    "first_seen": "2026-08-19T20:23:11.723829+00:00"
   }
 }
