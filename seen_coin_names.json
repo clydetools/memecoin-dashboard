@@ -50254,5 +50254,41 @@
   "onda": {
     "mint": "CJRXkuaDcnXpPB7yEYw5uRp4F9j57DdzmmJyp37upump",
     "first_seen": "2026-08-19T01:49:57.364977+00:00"
+  },
+  "baojin": {
+    "mint": "D1Pfjp4e5xkLHaGXgNRjRZBNPSxRqJXNPpznJeZ1pump",
+    "first_seen": "2026-08-19T02:45:48.954076+00:00"
+  },
+  "netmog": {
+    "mint": "J9RmNQPgVFgN591vHPN755CnRcVKTAgTqgbFgrsUhGaE",
+    "first_seen": "2026-08-19T02:45:49.468110+00:00"
+  },
+  "vosk": {
+    "mint": "2xbBTHCTmTrH2RH2natVLHwh7ymPgzVUsu7xNoq5ac8c",
+    "first_seen": "2026-08-19T02:45:51.548779+00:00"
+  },
+  "cd": {
+    "mint": "6QX4bJCbPbN1eQYyYoYBCucmzQbTRiy9iQVgytiRktuS",
+    "first_seen": "2026-08-19T02:45:54.865070+00:00"
+  },
+  "cattective": {
+    "mint": "FP1wfZpth9SnWHij5Ltr9hu1Eass7y9XKTeAKQveysAb",
+    "first_seen": "2026-08-19T02:45:55.556253+00:00"
+  },
+  "cbros64": {
+    "mint": "EmmbvEPJyr7ri3MpsKKm7LD8TEcd2TSawUx1cVW2v2JC",
+    "first_seen": "2026-08-19T02:45:59.558161+00:00"
+  },
+  "bullheart": {
+    "mint": "CTsDeDUgep8boQGKwoa2e1SXomn479Bw7XE35SUFpump",
+    "first_seen": "2026-08-19T02:45:59.949855+00:00"
+  },
+  "ssc": {
+    "mint": "CVqmiEZwPVscUeSSuRYRMH7sD1J2Rz6eb37b2Zwbpump",
+    "first_seen": "2026-08-19T02:46:01.937618+00:00"
+  },
+  "newbie": {
+    "mint": "4Xg9qDuEP1vMEwqMr2yWo92Yn9a7xZu5BNQBbXVfpump",
+    "first_seen": "2026-08-19T02:46:07.527966+00:00"
   }
 }
