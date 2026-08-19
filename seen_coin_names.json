@@ -51358,5 +51358,21 @@
   "70k": {
     "mint": "9YiwY9UVM9FS1njXMhyhCmss3MZ9eHQDXjMgDRQqpump",
     "first_seen": "2026-08-19T21:50:42.353271+00:00"
+  },
+  "breaddog": {
+    "mint": "HYFn4n58DjdZvA8jcVE97dayuJBXNuGfHihcki7PMJKN",
+    "first_seen": "2026-08-19T22:10:50.019695+00:00"
+  },
+  "apos": {
+    "mint": "2qPDSv2JhiM9dDDzx2vorYmAPZeiEr9uFzap7xrqpump",
+    "first_seen": "2026-08-19T22:10:51.655989+00:00"
+  },
+  "waffles": {
+    "mint": "8doS8nzmgVZEaACxALkbK5fZtw4UuoRp4Yt8NEaXfDMb",
+    "first_seen": "2026-08-19T22:10:56.814377+00:00"
+  },
+  "hyperworld": {
+    "mint": "B2LzKgXFkDCEnoNcfsAyFEgZWCehYvQMi1u5SgDtpump",
+    "first_seen": "2026-08-19T22:10:56.873098+00:00"
   }
 }
