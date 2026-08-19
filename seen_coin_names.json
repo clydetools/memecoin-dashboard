@@ -50970,5 +50970,41 @@
   "jabulani": {
     "mint": "FitRPV7tdpqhXjXaGjsKzy6oGLK8oBnnibH96Smbpump",
     "first_seen": "2026-08-19T17:01:25.902984+00:00"
+  },
+  "crown": {
+    "mint": "C5SKBctMXahvcdeo26tCAnw4vRgNaCDemN5c5bC4pump",
+    "first_seen": "2026-08-19T17:34:11.774920+00:00"
+  },
+  "dfas": {
+    "mint": "21GaWtXbYykZ4Fdfar22BeHVjUKrvegiMX5gDXA9pump",
+    "first_seen": "2026-08-19T17:34:12.219143+00:00"
+  },
+  "chimpjak": {
+    "mint": "FGbvL5cKYzAY7JxJk6vG6yePwWu7joL97APZV9jDpump",
+    "first_seen": "2026-08-19T17:34:14.279572+00:00"
+  },
+  "hind": {
+    "mint": "qMbc9tJjQf3J5wnFD9fCXwo5uJwvn1DFRm1eYxDpump",
+    "first_seen": "2026-08-19T17:34:14.667193+00:00"
+  },
+  "trumppad": {
+    "mint": "54J5G2fMXM3QKA6ThwnZ3ZqLyDc6ZUweqHFcNsHWpump",
+    "first_seen": "2026-08-19T17:34:15.412850+00:00"
+  },
+  "lilygo": {
+    "mint": "29kv8UnZZfVXkkPLrSQrxkyVv1e2kFthfxD3EWwkVEwv",
+    "first_seen": "2026-08-19T17:34:15.795275+00:00"
+  },
+  "molcan": {
+    "mint": "J3Z6PmdNJyYHyao7iS5ZqiQNyXKZzsPmnq7saMCpump",
+    "first_seen": "2026-08-19T17:34:16.175015+00:00"
+  },
+  "honeypain": {
+    "mint": "24trizDm2a2JEPUfK3tLkR4CSoaXxHVxpUbz2E1Kpump",
+    "first_seen": "2026-08-19T17:34:16.545374+00:00"
+  },
+  "science": {
+    "mint": "mTGy9x41LQvF1r6uKMUZyeH8nykRoXtUyYJbciJAoGb",
+    "first_seen": "2026-08-19T17:34:21.562749+00:00"
   }
 }
