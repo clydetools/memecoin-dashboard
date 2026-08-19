@@ -50882,5 +50882,37 @@
   "cryptcoin": {
     "mint": "JEJYN4H2mFAfLvq59gVqMpP3SbrpN8LhXwmqnsgmpump",
     "first_seen": "2026-08-19T15:59:23.742072+00:00"
+  },
+  "bube": {
+    "mint": "F2Ad2EHgVaaHjvb6iUfHtMCnP5FwCATW5VBdWDP9Gti7",
+    "first_seen": "2026-08-19T16:37:01.774624+00:00"
+  },
+  "innovators": {
+    "mint": "9sDk9hrytYHYQ8VMEg7efCfjN5bj4bdKHMZjbCGJpump",
+    "first_seen": "2026-08-19T16:37:02.717453+00:00"
+  },
+  "weevil": {
+    "mint": "DszJVzKoHJLQTbNv2ATQdt66uheJxhP7qq4A1fq2pump",
+    "first_seen": "2026-08-19T16:37:03.162505+00:00"
+  },
+  "starcoins": {
+    "mint": "HQe2key2qpGnvjb8xNGqWgJpdmxQJNfmTUGGqJ77tKBT",
+    "first_seen": "2026-08-19T16:37:03.601613+00:00"
+  },
+  "savgol": {
+    "mint": "FafVkjo7yW6amHN9sToUEDNBHVBTgNvuEucf4pukpump",
+    "first_seen": "2026-08-19T16:37:04.043657+00:00"
+  },
+  "zerella": {
+    "mint": "Do3MFXPaHQAwRpbmg2ygcKu7PoDZNP9tP8rGxggQpump",
+    "first_seen": "2026-08-19T16:37:10.503810+00:00"
+  },
+  "hut": {
+    "mint": "9XehbuycPZCVFoidhxwCSudXdcgoE7QNnS1X5pYzpump",
+    "first_seen": "2026-08-19T16:37:12.381019+00:00"
+  },
+  "remmy": {
+    "mint": "ErhNoj3o94CquyHzibnTLxFBmeSWhm9BrUyapbkLpump",
+    "first_seen": "2026-08-19T16:37:12.809991+00:00"
   }
 }
