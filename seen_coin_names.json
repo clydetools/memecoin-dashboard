@@ -51238,5 +51238,45 @@
   "cognition": {
     "mint": "zxeaqJKtfQR3rL7fNgwENnC1DddYBCAH3MGrkhzpump",
     "first_seen": "2026-08-19T20:23:11.723829+00:00"
+  },
+  "lvl3": {
+    "mint": "79rW7GyLScYQDxiD9ze7AT1sWMrK6S2dQr5b2dEopump",
+    "first_seen": "2026-08-19T20:54:16.895014+00:00"
+  },
+  "sazzle64": {
+    "mint": "F5GEvqXHitFXKFnFxQFhdSpQfemp2x3EZa4LsgQbjSjS",
+    "first_seen": "2026-08-19T20:54:18.477341+00:00"
+  },
+  "trumplion": {
+    "mint": "8FrEG9THpULsMWn6yxum8XuDeBCurt6CEjDytDAtpump",
+    "first_seen": "2026-08-19T20:54:19.000133+00:00"
+  },
+  "lionald": {
+    "mint": "Cyk3VQcA59r32jty59qxogpWUcnG5jUPSXh7stUKpump",
+    "first_seen": "2026-08-19T20:54:23.169844+00:00"
+  },
+  "gliwiz": {
+    "mint": "9bZrK3SZ1KYpN2mBjCADoLiBYJUNfbU7c4U1R6rupump",
+    "first_seen": "2026-08-19T20:54:25.217990+00:00"
+  },
+  "hyperliquid": {
+    "mint": "GcNzUEoB4KiJFCJrmC6h6ycRDEQjgXmTjdt3SrfZpump",
+    "first_seen": "2026-08-19T20:54:25.837128+00:00"
+  },
+  "rae": {
+    "mint": "9AwvEiRGzQLCZJzKRNEf5EEsFbNt6mtWwzWjF8yupump",
+    "first_seen": "2026-08-19T20:54:30.870901+00:00"
+  },
+  "laimoo": {
+    "mint": "B5JtRrqimfMBroUqP3vnKppF4N7NVvUiUQLVFYY2pump",
+    "first_seen": "2026-08-19T20:54:33.020750+00:00"
+  },
+  "trenchbot": {
+    "mint": "28jVEFdeTVBrEdJ6FaGZxRbhsjaj3oJ7ywfWwjp1pump",
+    "first_seen": "2026-08-19T20:54:36.224065+00:00"
+  },
+  "pepeai": {
+    "mint": "2wqkw3idoEYFV8fyM54PvS5BYHieT8rAZqzdHg6aqZby",
+    "first_seen": "2026-08-19T20:54:45.563620+00:00"
   }
 }
