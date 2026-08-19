@@ -50550,5 +50550,25 @@
   "ispcx": {
     "mint": "CPq9uJqoufwm9iEcatco2EuVfHjbENfY4hChYLt2pump",
     "first_seen": "2026-08-19T09:30:44.826122+00:00"
+  },
+  "bullover": {
+    "mint": "3corZp7Gyvnvksf2yMm1G81HUFJiLCDYf8V5v7njhmuh",
+    "first_seen": "2026-08-19T10:01:18.075849+00:00"
+  },
+  "loud": {
+    "mint": "9g53qtDkV9RhruqURCuSv9NierqXfp5cJXMmqudppump",
+    "first_seen": "2026-08-19T10:01:19.129610+00:00"
+  },
+  "narrative": {
+    "mint": "EaQT7R3VeYJT6DkyuQUSHHT1v9r4zNusb8Prhr3cErtG",
+    "first_seen": "2026-08-19T10:01:20.131948+00:00"
+  },
+  "leafdog": {
+    "mint": "4hVgeS1F8o7bisiNWJpmfyeUUHYwk9s1PNcgdaMjpump",
+    "first_seen": "2026-08-19T10:01:21.133380+00:00"
+  },
+  "phaspe": {
+    "mint": "EGjZpPsvLrMHpRxKPPTGngk8aThQEoALYwuz3YPrpump",
+    "first_seen": "2026-08-19T10:01:21.667763+00:00"
   }
 }
