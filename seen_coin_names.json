@@ -50502,5 +50502,33 @@
   "walmart": {
     "mint": "oqKrCABdiPDwzLDNJfHxoT7kqjfuhSE58gUCijBpump",
     "first_seen": "2026-08-19T08:07:26.369161+00:00"
+  },
+  "iqbal": {
+    "mint": "5Psfd82DiJQjBoWoh7ivt3T1PefVT3fwNP9WkE5fpump",
+    "first_seen": "2026-08-19T08:52:10.017949+00:00"
+  },
+  "cattier": {
+    "mint": "2AA3cfwcSruevhmwu2JptuhaatZbHST52aWqRyJepump",
+    "first_seen": "2026-08-19T08:52:12.163183+00:00"
+  },
+  "cripil": {
+    "mint": "HREKwxuH9V8NrbEqZew5F3MXmZgqccsjkENqebdXpump",
+    "first_seen": "2026-08-19T08:52:13.281898+00:00"
+  },
+  "trumpcar": {
+    "mint": "9iL2n5dYhQsvMt1p5zPJXJWb6xPRcnL1o74EV7AJpump",
+    "first_seen": "2026-08-19T08:52:19.813272+00:00"
+  },
+  "scruffo": {
+    "mint": "6hiAbZLCsJtuYwoJNMGAqee4CzC3xA1msPz6K1QiQ2b9",
+    "first_seen": "2026-08-19T08:52:19.899480+00:00"
+  },
+  "cgx": {
+    "mint": "48DXMdvLixsSpjcxqC9gkxV7PiWsqji4FrSUNrxUpump",
+    "first_seen": "2026-08-19T08:52:20.831463+00:00"
+  },
+  "solug": {
+    "mint": "FJBWgfc8wdEeUc2n7BN9EcmEJQUauvvpp9ZXvmF2pump",
+    "first_seen": "2026-08-19T08:52:22.149549+00:00"
   }
 }
