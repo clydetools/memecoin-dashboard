@@ -51006,5 +51006,37 @@
   "science": {
     "mint": "mTGy9x41LQvF1r6uKMUZyeH8nykRoXtUyYJbciJAoGb",
     "first_seen": "2026-08-19T17:34:21.562749+00:00"
+  },
+  "saitoshi": {
+    "mint": "GMhjJHnUjtEAowmF5RBynrvzR1ZDZSjaG5MDwN6Tpump",
+    "first_seen": "2026-08-19T17:56:22.633340+00:00"
+  },
+  "satoshai": {
+    "mint": "GDE3w1iJXeA5bL6bBkdp779TakH764vzYwAmngE87zKX",
+    "first_seen": "2026-08-19T17:56:23.686194+00:00"
+  },
+  "satoshiai": {
+    "mint": "GwPdkxj1G4eNKyZRtNkr39RZ1dQHdJ78rFaw6d8PubFa",
+    "first_seen": "2026-08-19T17:56:24.474381+00:00"
+  },
+  "tikit": {
+    "mint": "5tQEdrShBZUiLk1SxuHK9VNUdAeNUcbwG7ZcSFynpump",
+    "first_seen": "2026-08-19T17:56:25.669458+00:00"
+  },
+  "machine": {
+    "mint": "4Ypyxo9iixqa8anRUpvSF9yCVEeZTqbgJ5DEcfKJpump",
+    "first_seen": "2026-08-19T17:56:26.054532+00:00"
+  },
+  "visbit": {
+    "mint": "H2KUr1zstcMPZ5jZ1t5Ky3M2fXGKdRgWQoNTYENjpump",
+    "first_seen": "2026-08-19T17:56:28.294740+00:00"
+  },
+  "diamondhanded": {
+    "mint": "EGfh8xchrjtaxRk1bEgQRUee1nqwgoSASwjnqM8rZAxZ",
+    "first_seen": "2026-08-19T17:56:28.682380+00:00"
+  },
+  "snipycat": {
+    "mint": "CuoAS9ipyuysr5bP1iZvA9sXNmvhk3pLHgu2SBx8pump",
+    "first_seen": "2026-08-19T17:56:33.881539+00:00"
   }
 }
