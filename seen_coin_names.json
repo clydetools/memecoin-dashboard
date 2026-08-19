@@ -50570,5 +50570,25 @@
   "phaspe": {
     "mint": "EGjZpPsvLrMHpRxKPPTGngk8aThQEoALYwuz3YPrpump",
     "first_seen": "2026-08-19T10:01:21.667763+00:00"
+  },
+  "fishbone": {
+    "mint": "8KZhSTCKSLLMuBRAZDT4FohNmBBhdSS1aJT6DfrQpump",
+    "first_seen": "2026-08-19T10:42:22.396756+00:00"
+  },
+  "try": {
+    "mint": "35vSQU8vmjMmq8cvqU1P1R6r1ZBgYXrNM3224EEdpump",
+    "first_seen": "2026-08-19T10:42:22.942818+00:00"
+  },
+  "canada": {
+    "mint": "Fzk1bDXH1YCSr72BzHKCCcZzxh8Ss5eLvbCH9Kbxpump",
+    "first_seen": "2026-08-19T10:42:23.501467+00:00"
+  },
+  "ville": {
+    "mint": "GQtkE43EQawVtWZ5UGmQbhfJ3r5ABvGeS2NUjYcRHP7V",
+    "first_seen": "2026-08-19T10:42:32.368251+00:00"
+  },
+  "norman": {
+    "mint": "3uuWyPHJhtGdeWKYWJLAtjv6J8Z2WSw3mnFpugU6pump",
+    "first_seen": "2026-08-19T10:42:35.076931+00:00"
   }
 }
