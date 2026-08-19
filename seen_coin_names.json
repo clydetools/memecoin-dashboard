@@ -50826,5 +50826,37 @@
   "nope": {
     "mint": "3uwbGezazzZRG1siTGjYvUfrL7iCQmUWXkBa6rmGpump",
     "first_seen": "2026-08-19T14:56:10.864474+00:00"
+  },
+  "hayday": {
+    "mint": "HEUE3vokGSuPEWun5yt5rxTph8Aa8oVXzSbzAeDfpump",
+    "first_seen": "2026-08-19T15:28:29.561310+00:00"
+  },
+  "lawn": {
+    "mint": "22TAhUhRt4JrQJTTMizQfhCjiGCuubgH4LERMCuZpump",
+    "first_seen": "2026-08-19T15:28:30.106979+00:00"
+  },
+  "cline": {
+    "mint": "5maY1LQAhs32vhQnmXmhjDzquzJxUESgxynWUaCtpump",
+    "first_seen": "2026-08-19T15:28:31.293373+00:00"
+  },
+  "utc": {
+    "mint": "5z1aGN5QxVkFWdkFYJThXUjWseMRfQD2KwShSxnAaJ7E",
+    "first_seen": "2026-08-19T15:28:35.512641+00:00"
+  },
+  "solacc": {
+    "mint": "H9t4451i5fDwypPS6y7HCbTtQwhPXpTvDa63aUmpump",
+    "first_seen": "2026-08-19T15:28:36.538517+00:00"
+  },
+  "namofazil": {
+    "mint": "CofpaBD84Df4BUQQm7LW5b6qHWCiaVtZwgBmojgVpump",
+    "first_seen": "2026-08-19T15:28:38.657364+00:00"
+  },
+  "clawsup": {
+    "mint": "CrNCikV29sQMgdyAQyJw6frGgXe1GoFjVY3Rt3QWpump",
+    "first_seen": "2026-08-19T15:28:39.692883+00:00"
+  },
+  "colors": {
+    "mint": "DCmeU6DAdNqMNamxw4Uw4Zp6rdVwwRcJDDpbPVJCULT",
+    "first_seen": "2026-08-19T15:28:48.043381+00:00"
   }
 }
