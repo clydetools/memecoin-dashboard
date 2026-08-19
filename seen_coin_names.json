@@ -51410,5 +51410,41 @@
   "pumpwoo": {
     "mint": "FYWd37pLLWTncwYLwxtWASea1tWNfQymP1qR7n8Rpump",
     "first_seen": "2026-08-19T22:40:28.722192+00:00"
+  },
+  "dday": {
+    "mint": "BHZLp7h1sncBkAEQY7qAh9qjRkWBsog2YFtQDH7mpump",
+    "first_seen": "2026-08-19T23:00:14.022563+00:00"
+  },
+  "bulltrap": {
+    "mint": "D438CpQRsmwyyTLAHETPYiXhQ4K27TAXfSio2pr2pump",
+    "first_seen": "2026-08-19T23:00:14.431558+00:00"
+  },
+  "r4t": {
+    "mint": "3QCeL5KPBLiSxeSZcSKLC3AP9XavVabXKuWX489tL7uU",
+    "first_seen": "2026-08-19T23:00:14.932521+00:00"
+  },
+  "fomonboard": {
+    "mint": "FdzRsGsigMaAH4UAS3jfG7oUzKr4AeisCP7Zqkrtpump",
+    "first_seen": "2026-08-19T23:00:15.956711+00:00"
+  },
+  "kivub": {
+    "mint": "8hYeNvJEBzyLsnxY5B729EJHYbcrpBe8Z35TaCyPpump",
+    "first_seen": "2026-08-19T23:00:16.651724+00:00"
+  },
+  "rhythm": {
+    "mint": "88WeSXaTVSj6cFWr1pUNMCQ6cnZi7iyNhNUY6P74pump",
+    "first_seen": "2026-08-19T23:00:17.023316+00:00"
+  },
+  "tcs": {
+    "mint": "4vL8zghxbVgHnZP7S5U8tATnBXxLYQ429ChJy4Nnpump",
+    "first_seen": "2026-08-19T23:00:17.725982+00:00"
+  },
+  "buffish": {
+    "mint": "9vr2vWKQQViySKT3s7nw42skwPJg28Y3ZGwE71sxpump",
+    "first_seen": "2026-08-19T23:00:18.439876+00:00"
+  },
+  "tbtc": {
+    "mint": "9m5nwkpKjyv8SRY7M1cTVCbMVv38j97YQqS4iwtvpump",
+    "first_seen": "2026-08-19T23:00:24.666786+00:00"
   }
 }
