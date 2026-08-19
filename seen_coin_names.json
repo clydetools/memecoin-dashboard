@@ -51446,5 +51446,65 @@
   "tbtc": {
     "mint": "9m5nwkpKjyv8SRY7M1cTVCbMVv38j97YQqS4iwtvpump",
     "first_seen": "2026-08-19T23:00:24.666786+00:00"
+  },
+  "pal": {
+    "mint": "BY8gTjvLYkaEyp4VRHRiFVxr6mkRB9dN1HNti1wepump",
+    "first_seen": "2026-08-19T23:30:18.116956+00:00"
+  },
+  "bazooka": {
+    "mint": "9sD1kEbyCfgbk3myRiwzHLguuF1wLUj7g6upTK3Rpump",
+    "first_seen": "2026-08-19T23:30:18.705960+00:00"
+  },
+  "olive": {
+    "mint": "8D1YjiiWhN9iVXp3D5BHiU7Ak7UubFz7wCQSQhg8pump",
+    "first_seen": "2026-08-19T23:30:20.300019+00:00"
+  },
+  "ekuke": {
+    "mint": "3E9RfRebokryUz7XKoNgGeCietyfK8RcJXujy1Krpump",
+    "first_seen": "2026-08-19T23:30:22.028287+00:00"
+  },
+  "crustussy": {
+    "mint": "B4rMtDqcHJA6kXbZeBKtcXBNoiRvkhP4vJwf1APspump",
+    "first_seen": "2026-08-19T23:30:22.591008+00:00"
+  },
+  "crustacean": {
+    "mint": "9sAxs8AZeN2eedBsF88a46Edp4jBxuFPUwuu5hRspump",
+    "first_seen": "2026-08-19T23:30:24.161062+00:00"
+  },
+  "mimers": {
+    "mint": "CK3ZJYF977HmxF2DTRtCnbBx6LdvjkQXhG7EVqJ3pump",
+    "first_seen": "2026-08-19T23:30:24.716607+00:00"
+  },
+  "wasr": {
+    "mint": "BYG2EJixCy8cemfJekshTgwsrz5orFWPDTpiS9XZpump",
+    "first_seen": "2026-08-19T23:30:25.306864+00:00"
+  },
+  "comai": {
+    "mint": "B7LFdnxfGLxqNJQgpbP2BvUeaox4MYBiZEVZzUVkpump",
+    "first_seen": "2026-08-19T23:30:25.853822+00:00"
+  },
+  "mrib": {
+    "mint": "BZnQ9buNDucCqfNec7Ms9uBLr3YDEgwBQYPGQoddpump",
+    "first_seen": "2026-08-19T23:30:27.431405+00:00"
+  },
+  "twins": {
+    "mint": "HN28ThWisgVYQJzaifmXFGVsQakHaDPoBZrwaYvtpump",
+    "first_seen": "2026-08-19T23:30:29.523901+00:00"
+  },
+  "hypme": {
+    "mint": "GvbNmWo599KeBnDUZsTP8VZUEZfqvnk2KCHe1igZpump",
+    "first_seen": "2026-08-19T23:30:32.120120+00:00"
+  },
+  "solya": {
+    "mint": "4G8quJMbbLAFELEkxEb7LtzKVUoP2TDtAni1mjbyU3ry",
+    "first_seen": "2026-08-19T23:30:39.738386+00:00"
+  },
+  "slimey": {
+    "mint": "8pYYvPGC4SmGAQkHbDvpsjyBBtGqbiZ66ZTh1TMppump",
+    "first_seen": "2026-08-19T23:30:39.813947+00:00"
+  },
+  "usws": {
+    "mint": "8BeWGcjerYjZxgLNEGcFUPyZA8vY8voPGGMN32q5ZUz5",
+    "first_seen": "2026-08-19T23:30:40.581107+00:00"
   }
 }
