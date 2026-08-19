@@ -50682,5 +50682,45 @@
   "bullz": {
     "mint": "7XWZDMVv5oSFVuVky9w6yy7aPHQcRfcAenvpjxPCpump",
     "first_seen": "2026-08-19T11:57:40.723750+00:00"
+  },
+  "cleanbull": {
+    "mint": "Ax19MG8utNd3CPsb74mRZ1A54yThUU3c56yuN3supump",
+    "first_seen": "2026-08-19T12:48:53.087527+00:00"
+  },
+  "mrk": {
+    "mint": "CYG1CtVVAjNrjVwb42H8qja4Zyt6cwLbALY9amvMpump",
+    "first_seen": "2026-08-19T12:48:53.730563+00:00"
+  },
+  "zcoin": {
+    "mint": "Feo9mQYqgfWncL3u5pCKUhC1SsmyGYB2ZdKiDqJRpump",
+    "first_seen": "2026-08-19T12:48:54.321102+00:00"
+  },
+  "pumpbird": {
+    "mint": "EQUU1n6gpXccFqK9jN3UNkCAQS8Kc6qo2LEz75Mmpump",
+    "first_seen": "2026-08-19T12:48:54.968078+00:00"
+  },
+  "journal": {
+    "mint": "CtStskey2P23fPfd3e4EPRaEW9ovSAbEXnmRUjLipump",
+    "first_seen": "2026-08-19T12:48:56.243074+00:00"
+  },
+  "vaccine": {
+    "mint": "9bZ3CjhHfe4ZtpjG2ZUozhqsRYVpRuUxx5j9Ddrbpump",
+    "first_seen": "2026-08-19T12:48:56.858586+00:00"
+  },
+  "bullol": {
+    "mint": "91RU69gfxyfqXBjoVbzDp3xKfUfwbDDPeS6kyyUVpump",
+    "first_seen": "2026-08-19T12:49:00.262866+00:00"
+  },
+  "cricom": {
+    "mint": "Hz2aXiRtkySWFEroAu4gpfPFAwtGa7278QXeiF6rpump",
+    "first_seen": "2026-08-19T12:49:01.441594+00:00"
+  },
+  "intismeran": {
+    "mint": "FtXH4AAgR8KMBR8zDfTfHnYdSStw2Am3iwq8TpoHpump",
+    "first_seen": "2026-08-19T12:49:07.704211+00:00"
+  },
+  "mrna": {
+    "mint": "5DQwhyBRkjSyEZDCRqsvfA1n8BnDcJAHpxy6EokQjcra",
+    "first_seen": "2026-08-19T12:49:08.741557+00:00"
   }
 }
