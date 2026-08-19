@@ -51506,5 +51506,41 @@
   "usws": {
     "mint": "8BeWGcjerYjZxgLNEGcFUPyZA8vY8voPGGMN32q5ZUz5",
     "first_seen": "2026-08-19T23:30:40.581107+00:00"
+  },
+  "exile": {
+    "mint": "4fcd94LmeQ5tJfqWX7R9MV5ted8f3v8MfM3B7JgKpump",
+    "first_seen": "2026-08-19T23:50:50.904544+00:00"
+  },
+  "autocoin": {
+    "mint": "bZ4TZUcAypYbb5Br3XRsVhum5Ep1jQ8uUtZGBy5pump",
+    "first_seen": "2026-08-19T23:50:51.605708+00:00"
+  },
+  "cblol": {
+    "mint": "7CthHkgBwA9Vva55sPtsf6HvemDS75NV9ULPmKripump",
+    "first_seen": "2026-08-19T23:50:51.996755+00:00"
+  },
+  "pepwhale": {
+    "mint": "H8DDWtjsxyiebxNWFNnAL6WeV7v3t1YV593461Xxpump",
+    "first_seen": "2026-08-19T23:50:52.728699+00:00"
+  },
+  "berroc": {
+    "mint": "GFyGLYdZpFRWJv9C7nD4VsbBjMKLCJQQuNEqn4Erpump",
+    "first_seen": "2026-08-19T23:50:53.097019+00:00"
+  },
+  "lgn": {
+    "mint": "CGbfNBDQ314ctqCg9354dTtJ48ZYZ53Rozq4ZNUmpump",
+    "first_seen": "2026-08-19T23:50:54.870394+00:00"
+  },
+  "montes": {
+    "mint": "87atzbiZNHeQAtpg7RdnipEUAjgWVYhrgWJBehrzpump",
+    "first_seen": "2026-08-19T23:50:55.240829+00:00"
+  },
+  "amorfati": {
+    "mint": "5TqHZqbFGxoDyqYvVM6E6mdHAGhig1YB3kBXrM44pump",
+    "first_seen": "2026-08-19T23:50:55.620643+00:00"
+  },
+  "firkin": {
+    "mint": "EtM1UaMUMsXwkJAg45R1s2ED5bsWn1vYAiFGdVZEpump",
+    "first_seen": "2026-08-19T23:51:00.201721+00:00"
   }
 }
