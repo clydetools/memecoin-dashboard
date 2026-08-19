@@ -50406,5 +50406,25 @@
   "poe": {
     "mint": "2Hqr9b4HHwSbkg6UHu2EJJu86sf6muuDoN5fy3U2pump",
     "first_seen": "2026-08-19T05:30:16.679514+00:00"
+  },
+  "tungp": {
+    "mint": "7KhVks7LvGFSsb9HmPzf7xrJT6G8wJZaj5opfzU3pump",
+    "first_seen": "2026-08-19T05:58:34.400332+00:00"
+  },
+  "ansemartin": {
+    "mint": "4GiomY9AiHMALharfLpLbV8Zb5CdoS82CEtVVGDVpump",
+    "first_seen": "2026-08-19T05:58:34.958540+00:00"
+  },
+  "judge": {
+    "mint": "CWqyjYUHPV1yRiBGck5jeBX8pFTLqkFTX6NFSqqApump",
+    "first_seen": "2026-08-19T05:58:35.468216+00:00"
+  },
+  "anserdes": {
+    "mint": "B8SWBUgHeDiVpwygznoTt711HVkCPJMz6iPK758Bpump",
+    "first_seen": "2026-08-19T05:58:35.972864+00:00"
+  },
+  "mertcedes": {
+    "mint": "6jRTP7MWb8ihnXLJc3R58i5ExrMvAxV9CybXPvYepump",
+    "first_seen": "2026-08-19T05:58:41.500646+00:00"
   }
 }
