@@ -50290,5 +50290,57 @@
   "newbie": {
     "mint": "4Xg9qDuEP1vMEwqMr2yWo92Yn9a7xZu5BNQBbXVfpump",
     "first_seen": "2026-08-19T02:46:07.527966+00:00"
+  },
+  "cdstits": {
+    "mint": "BQaM7RsQewTeuFKRDn5LPhTxwTevg3jXjpSpdTYwpump",
+    "first_seen": "2026-08-19T03:32:33.206091+00:00"
+  },
+  "livelyai": {
+    "mint": "8uEeUeHyqeDs25QNd3xHzDre8s86otKagbdafQNYpump",
+    "first_seen": "2026-08-19T03:32:33.675430+00:00"
+  },
+  "gura": {
+    "mint": "FxvnNb6MwvePLAkpu3j5ChYFcNxuehkiBcMbMCfupump",
+    "first_seen": "2026-08-19T03:32:34.187128+00:00"
+  },
+  "deep": {
+    "mint": "5E2B4RYqZniwkvjdKJjJtdf18K968sKG4pRJPfLfYvEg",
+    "first_seen": "2026-08-19T03:32:34.691829+00:00"
+  },
+  "tosu": {
+    "mint": "ArWSQtbtvzhGDvwcPWqxYumPWo8oQz7J93zjticBpump",
+    "first_seen": "2026-08-19T03:32:36.782503+00:00"
+  },
+  "cashpig": {
+    "mint": "Cd5mLqsqYVyHtX4N67ehNahrY4v7oha2Pv1e8Xbkpump",
+    "first_seen": "2026-08-19T03:32:37.325351+00:00"
+  },
+  "88": {
+    "mint": "7GyjyWpXNzfHptdYYjyqVw96Fx6ZudnUXB4o92ypump",
+    "first_seen": "2026-08-19T03:32:38.793429+00:00"
+  },
+  "eyes": {
+    "mint": "Fasavknnk6WRPeQDYnWqTe1p7YGGMCiDS3YzDaXupump",
+    "first_seen": "2026-08-19T03:32:41.069357+00:00"
+  },
+  "ansemug": {
+    "mint": "GefrsGtADEcb8uyKcgyb8YcEmuWDDhWuki5wi1Whpump",
+    "first_seen": "2026-08-19T03:32:46.354826+00:00"
+  },
+  "lucerito": {
+    "mint": "7gsnzZJKqGJWtk7nXiDH66kYuV5oqdRLP4daf3Rfpump",
+    "first_seen": "2026-08-19T03:32:46.958776+00:00"
+  },
+  "bananaguy": {
+    "mint": "BANANEcQx72LrK5YeCz6xsdKXbS8zgNbkEseUeJ8Torr",
+    "first_seen": "2026-08-19T03:32:47.376763+00:00"
+  },
+  "grokkler": {
+    "mint": "C9tYZXSUT1aVncoT1sgm3916ZsCDEAzFpJU7MWQ3pump",
+    "first_seen": "2026-08-19T03:32:47.522772+00:00"
+  },
+  "moltid": {
+    "mint": "moLtguTf84g34S34PbnJDRKR1FXb5di1UCRsnB7hKjE",
+    "first_seen": "2026-08-19T03:32:48.336414+00:00"
   }
 }
