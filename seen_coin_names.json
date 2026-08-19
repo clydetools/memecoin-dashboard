@@ -50426,5 +50426,25 @@
   "mertcedes": {
     "mint": "6jRTP7MWb8ihnXLJc3R58i5ExrMvAxV9CybXPvYepump",
     "first_seen": "2026-08-19T05:58:41.500646+00:00"
+  },
+  "boogiebomb": {
+    "mint": "AU5XXwNFdUf1NVcWjo2HPVdpUECBRGrWu58G2gHmpump",
+    "first_seen": "2026-08-19T06:51:30.863565+00:00"
+  },
+  "minicoopsey": {
+    "mint": "9cJczaU8G1AFy65eWxWhDEfHoJB8HkHxF6Bx44v8pump",
+    "first_seen": "2026-08-19T06:51:31.332340+00:00"
+  },
+  "peporsche": {
+    "mint": "7nyW4FmUHbqrowptSLKFuv8EKy3t6ZqbmKeAvrqkpump",
+    "first_seen": "2026-08-19T06:51:33.106487+00:00"
+  },
+  "bdk": {
+    "mint": "58GBkSvywQ6sDY1ES8TErKanc8EAsi3efQhHqXWApump",
+    "first_seen": "2026-08-19T06:51:39.069561+00:00"
+  },
+  "ainstein": {
+    "mint": "5sfGFPo7YUuZHGu367YE4eB7DhuK8woQ2VJKLLBVpump",
+    "first_seen": "2026-08-19T06:51:39.142838+00:00"
   }
 }
