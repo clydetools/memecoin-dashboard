@@ -50590,5 +50590,33 @@
   "norman": {
     "mint": "3uuWyPHJhtGdeWKYWJLAtjv6J8Z2WSw3mnFpugU6pump",
     "first_seen": "2026-08-19T10:42:35.076931+00:00"
+  },
+  "olcanocon": {
+    "mint": "FZcBYYGhvztf2hKuMWYraYPp4RfSynDptaJmUjaapump",
+    "first_seen": "2026-08-19T11:06:11.083159+00:00"
+  },
+  "spermcoin": {
+    "mint": "H531DGKbURUbUJAabSXYEhRoPbJUPvqjnfVvJNMvpump",
+    "first_seen": "2026-08-19T11:06:11.642567+00:00"
+  },
+  "err404": {
+    "mint": "dQ5rcoXVYrEFHN1DbfNFquJMk75k6BUhsmhEWpApump",
+    "first_seen": "2026-08-19T11:06:12.173274+00:00"
+  },
+  "sherwoodde": {
+    "mint": "9prYjne1vbphZcTe9VaUYsm9x1YgfoixR4VQWMxpDgUw",
+    "first_seen": "2026-08-19T11:06:13.144157+00:00"
+  },
+  "coin67": {
+    "mint": "H41E6s873e16zLX1smokpzkUTuHbYkT3yYNeErZKpump",
+    "first_seen": "2026-08-19T11:06:13.720508+00:00"
+  },
+  "hmpc": {
+    "mint": "D41E4SYckrMKrxXWTPrEUdS51pxGobbMWinWGewQpump",
+    "first_seen": "2026-08-19T11:06:15.653797+00:00"
+  },
+  "spyc": {
+    "mint": "6bQcRmsEjgdz1e23hsGxMyjtSAXQxxKiBqmtf97FwTPj",
+    "first_seen": "2026-08-19T11:06:20.647682+00:00"
   }
 }
