@@ -51374,5 +51374,41 @@
   "hyperworld": {
     "mint": "B2LzKgXFkDCEnoNcfsAyFEgZWCehYvQMi1u5SgDtpump",
     "first_seen": "2026-08-19T22:10:56.873098+00:00"
+  },
+  "testicide": {
+    "mint": "9t96zUX6hq25Ei8N8k5mQyRsECtbYSYSDv96yxZxpump",
+    "first_seen": "2026-08-19T22:40:19.816698+00:00"
+  },
+  "uzi": {
+    "mint": "9z9HFrynTgLYPHUDEsj4NUR6h5SESdGJd2T1SNWupump",
+    "first_seen": "2026-08-19T22:40:21.408146+00:00"
+  },
+  "cocahipo": {
+    "mint": "93y8Hiwsq2K5X8HbcPq23rQXHUhZVg5opDJTMizXpump",
+    "first_seen": "2026-08-19T22:40:21.778159+00:00"
+  },
+  "nihilist": {
+    "mint": "FMtxEQvARu7GrAYL5KntqEgVRpmre7v1TghdgZdkpump",
+    "first_seen": "2026-08-19T22:40:22.154872+00:00"
+  },
+  "diesel": {
+    "mint": "5iUMKKB9YE2gekbQFCcacthhqRevb3Kg5kUZVjKwpump",
+    "first_seen": "2026-08-19T22:40:22.533358+00:00"
+  },
+  "gfaucet": {
+    "mint": "EJfJzr1e4auSMe4psTBSXx6nRsqPgv2LV7W4xfMdpump",
+    "first_seen": "2026-08-19T22:40:22.916570+00:00"
+  },
+  "testicles": {
+    "mint": "BovUS8CDD8nZrhH7wrP3C1HAKHic52MQdDM79PH3pump",
+    "first_seen": "2026-08-19T22:40:23.651295+00:00"
+  },
+  "derdaku": {
+    "mint": "HRiLLm6hYiSdniFGjvcSvQ7XJrA8YSoktcqFbWjmpump",
+    "first_seen": "2026-08-19T22:40:28.638058+00:00"
+  },
+  "pumpwoo": {
+    "mint": "FYWd37pLLWTncwYLwxtWASea1tWNfQymP1qR7n8Rpump",
+    "first_seen": "2026-08-19T22:40:28.722192+00:00"
   }
 }
