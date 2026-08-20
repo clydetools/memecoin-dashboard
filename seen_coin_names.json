@@ -52566,5 +52566,65 @@
   "kathylon": {
     "mint": "6rB9dQ8iWDx8j72zeZfa7Yd2PYHeWH7rVxHJ39DQpump",
     "first_seen": "2026-08-20T21:46:51.619579+00:00"
+  },
+  "solo": {
+    "mint": "AMxmoFytU7HyP4pCQrVnc4tmFfiTcnLUCerHS5wopump",
+    "first_seen": "2026-08-20T22:07:06.469329+00:00"
+  },
+  "sugar": {
+    "mint": "EVAnpZGTc5UkjHpKpt6bEENT5Ya7kptwdpbPt3Cz2Z2v",
+    "first_seen": "2026-08-20T22:07:07.409493+00:00"
+  },
+  "dxy": {
+    "mint": "9XcWdngfnLqBKJjqrmjsUVHhxGdEtg9MUGGzWUiCpump",
+    "first_seen": "2026-08-20T22:07:11.130932+00:00"
+  },
+  "hypergamy": {
+    "mint": "21Cbx8crdEM8qy6eaLZv7sLAKpXSWfdgDDo5ohnfpump",
+    "first_seen": "2026-08-20T22:07:12.073613+00:00"
+  },
+  "leeker": {
+    "mint": "65aRRpm6F1FQLphJMMVESbormMwPC8wRewinVdzKj5on",
+    "first_seen": "2026-08-20T22:07:16.610592+00:00"
+  },
+  "shroobies": {
+    "mint": "4U7v8X5n6st9U6ieZ4Nuv9Va5ngxzfP6SE6YaQaYpump",
+    "first_seen": "2026-08-20T22:07:18.264327+00:00"
+  },
+  "brainfart": {
+    "mint": "2tFMfy8fDEF2MtrpkTKraEXiSrnYSwPZc8KHj8QHpump",
+    "first_seen": "2026-08-20T22:07:19.571279+00:00"
+  },
+  "cyberleekario": {
+    "mint": "7PLGjHHjUGYgMtoCMyr3ZdmBSQmV8fkYxk8unZkQpump",
+    "first_seen": "2026-08-20T22:07:20.035178+00:00"
+  },
+  "darthvader": {
+    "mint": "5Cwca9EBv5wqiwbT62RdJommPfPC4bH8V7nrUJaYB6Hv",
+    "first_seen": "2026-08-20T22:07:25.150126+00:00"
+  },
+  "flockvader": {
+    "mint": "7eCi14yGFwKqjie5iUespNJVVoRhE6eZfifuoEFppump",
+    "first_seen": "2026-08-20T22:07:25.255947+00:00"
+  },
+  "worldflare": {
+    "mint": "5WhQcRezVve1Zyy5Zugv56NvNueGqopsESvqCsBzpump",
+    "first_seen": "2026-08-20T22:07:25.817617+00:00"
+  },
+  "chubz": {
+    "mint": "AHTGvaWAmR3Fm7LrPRt6Y5g8KqSmB3YtH1bnFy8wpump",
+    "first_seen": "2026-08-20T22:07:26.650077+00:00"
+  },
+  "pixbull": {
+    "mint": "5uathxH2JgQ5yaUsWEy6A1qrGPeVKVyrMHxxFa4epump",
+    "first_seen": "2026-08-20T22:07:26.848487+00:00"
+  },
+  "ship": {
+    "mint": "4mszZhc5NckH4xp1HeNJw4K4VZqxoAySMjnecFkUpump",
+    "first_seen": "2026-08-20T22:07:27.804896+00:00"
+  },
+  "usbc": {
+    "mint": "DgRphhLmctWfymig9YCggLAYmxn1iuzPxKrYRApupump",
+    "first_seen": "2026-08-20T22:07:28.343300+00:00"
   }
 }
