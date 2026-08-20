@@ -52434,5 +52434,45 @@
   "cez": {
     "mint": "DWrrbYP65oo33Fk83iaQVHQhytntFM1uooyJHjaxpump",
     "first_seen": "2026-08-20T20:13:33.907430+00:00"
+  },
+  "addiction": {
+    "mint": "2hKazRVoFLG2a16yXhSFR8d4KgFW41AnLYNYt1yVpump",
+    "first_seen": "2026-08-20T20:49:31.222805+00:00"
+  },
+  "mlg2": {
+    "mint": "H2P6LRkm7KoubKJVrLRyDhWuFGqbzid3RFy3T1CMpump",
+    "first_seen": "2026-08-20T20:49:33.622823+00:00"
+  },
+  "tlastinmo": {
+    "mint": "8ezTMc4yktPKfLXUdnedNc9XfgFiFaYxEeZgrK9Wpump",
+    "first_seen": "2026-08-20T20:49:34.174012+00:00"
+  },
+  "killme": {
+    "mint": "8D1KJaN6Y8oSx9LiANKbjCnsaZk3KpN4sfE45VHQpump",
+    "first_seen": "2026-08-20T20:49:34.775125+00:00"
+  },
+  "chief": {
+    "mint": "AvLBsDgiMk2nPCjNo6jfYbyLoRwGqESoRENwgyjWpump",
+    "first_seen": "2026-08-20T20:49:35.928771+00:00"
+  },
+  "nuke": {
+    "mint": "DsHkaDMceqNR3wwAKXXYPEPhoYAHyKFweZHM8SWppump",
+    "first_seen": "2026-08-20T20:49:36.542127+00:00"
+  },
+  "checklink": {
+    "mint": "C4biRzxP749pAwFpdmiC414JL6MXnYsscUHwKgYXpump",
+    "first_seen": "2026-08-20T20:49:37.641208+00:00"
+  },
+  "freemock": {
+    "mint": "2LjV1uSrVtHnq8ARhFv4fkRp9QWFNMLzaokrC3XDVPgx",
+    "first_seen": "2026-08-20T20:49:39.730593+00:00"
+  },
+  "egglon": {
+    "mint": "F4HiCMZmB6mpUgxxqpxyydfrgDxxyK8yvRdSVJhCpump",
+    "first_seen": "2026-08-20T20:49:40.341910+00:00"
+  },
+  "squishies": {
+    "mint": "DF1C36v9U3nTibVB91Cw7nq1YizggBy9zXf4rVACpump",
+    "first_seen": "2026-08-20T20:49:46.979169+00:00"
   }
 }
