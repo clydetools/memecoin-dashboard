@@ -52382,5 +52382,37 @@
   "keibull": {
     "mint": "HXD5YL3rwv1mrHC4giBkAb1pxW6ohCQppJsxrzJZpump",
     "first_seen": "2026-08-20T19:18:05.020736+00:00"
+  },
+  "frd": {
+    "mint": "CZwPaVudQrTeCqUP3a9JjoE5wCu33pryvm6D9D1opump",
+    "first_seen": "2026-08-20T19:49:49.166574+00:00"
+  },
+  "newcoin": {
+    "mint": "7JHb8nVEXWt2JAaB4gRauBiHWLZxeWPeLhZ8xMeNpump",
+    "first_seen": "2026-08-20T19:49:50.376366+00:00"
+  },
+  "toadking": {
+    "mint": "E6wjoHMurzFhQvnxjEmnwARqU2XfuVMBBDKFbr3Tpump",
+    "first_seen": "2026-08-20T19:49:50.971112+00:00"
+  },
+  "fakesell": {
+    "mint": "F2Qto8JkXuUrdYvEDqHKFAiFt8WcGPHxMV5gAptXpump",
+    "first_seen": "2026-08-20T19:49:51.572310+00:00"
+  },
+  "neiro": {
+    "mint": "4MqovCiq8wCVnrYi6MpGfDNxmZhJUnmfknmQrUZ7pump",
+    "first_seen": "2026-08-20T19:49:52.657770+00:00"
+  },
+  "fsd": {
+    "mint": "AcBC4xauZxpwbLwp7hk6ooHRg6Dd4cZ2rpekpYavpump",
+    "first_seen": "2026-08-20T19:49:53.275640+00:00"
+  },
+  "ftfa": {
+    "mint": "7P6GzpFSa8DrTkqrRAeEbuGvic6PZSPMg4QF6332pump",
+    "first_seen": "2026-08-20T19:49:54.423382+00:00"
+  },
+  "betr": {
+    "mint": "7ocFJpxwnMpQkTN5K1FtvYAMBmxdYsswP165BPVupump",
+    "first_seen": "2026-08-20T19:49:55.005564+00:00"
   }
 }
