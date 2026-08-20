@@ -51874,5 +51874,45 @@
   "hotchip": {
     "mint": "9waYyHfxaQgEpN5P3gqJNyi4NEx3rKJ4um1WE6mUpump",
     "first_seen": "2026-08-20T09:19:59.431447+00:00"
+  },
+  "xusd": {
+    "mint": "53qMiow1oQv1HTBZhrojZFzLhEYDVwfsvnGJTG5KjmnP",
+    "first_seen": "2026-08-20T09:54:41.962683+00:00"
+  },
+  "xsdt": {
+    "mint": "ANWqXSN15fQhpd1w8F8PPRs3ALqrDsviipxBzzqVpump",
+    "first_seen": "2026-08-20T09:54:42.554847+00:00"
+  },
+  "glipil": {
+    "mint": "DVQWDFWtscnka8wUowzzp6TzLLnXVJiutWmNnzHzpump",
+    "first_seen": "2026-08-20T09:54:44.165648+00:00"
+  },
+  "usdx": {
+    "mint": "3xyZbG5h5fQyLDLW89ebk3Bn6PQMgBHmbjNA9Jiypump",
+    "first_seen": "2026-08-20T09:54:45.788043+00:00"
+  },
+  "batz": {
+    "mint": "3gPoiVKxsFHHSJw3ZwZ3c5BSLPyRNYzkLx7TgVxBcKt3",
+    "first_seen": "2026-08-20T09:54:46.344003+00:00"
+  },
+  "inverse": {
+    "mint": "5TwTgEqyZh1oud3sFujfgrfodqFFXXmT1GBneCjbpump",
+    "first_seen": "2026-08-20T09:54:46.915574+00:00"
+  },
+  "ratita": {
+    "mint": "BaHYocGM8dVHdNFPA2V7TXVj6tgZvwBDrySMe1q8tuYp",
+    "first_seen": "2026-08-20T09:54:47.997401+00:00"
+  },
+  "usxd": {
+    "mint": "24vHTmMDhmUQ6RKzuDE8YVqnnmxGeLixrrG5Ca74pump",
+    "first_seen": "2026-08-20T09:54:49.028547+00:00"
+  },
+  "test1": {
+    "mint": "2d8qggRqfVxkHZ7TVNvkQeCk97FjKrSDLRY44SnDpump",
+    "first_seen": "2026-08-20T09:54:49.586547+00:00"
+  },
+  "leia": {
+    "mint": "9EPYaNqzJLSPSFH9aKSxn2EaJoxHS1oqt7pVBR3yivt",
+    "first_seen": "2026-08-20T09:54:54.824570+00:00"
   }
 }
