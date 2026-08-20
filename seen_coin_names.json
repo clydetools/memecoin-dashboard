@@ -52746,5 +52746,29 @@
   "badkol": {
     "mint": "3hqsoW4DWHDy87HTREMRMuepDzaX4fQshVhfDdfvpump",
     "first_seen": "2026-08-20T23:38:56.785839+00:00"
+  },
+  "travis": {
+    "mint": "AG2Fqk2PQrn1aiSQLUXxRvdu2CKsLDCWsDUkcgfJpump",
+    "first_seen": "2026-08-20T23:58:34.644839+00:00"
+  },
+  "bulldick": {
+    "mint": "5wxfmykbur78CJ7DYowRgM5sQYBwptF62uEXzZxHpump",
+    "first_seen": "2026-08-20T23:58:35.267393+00:00"
+  },
+  "pupfolio": {
+    "mint": "FBHSTXiDumFTtUigEe5mv9TxaXwp57ByNeXkPLw1pump",
+    "first_seen": "2026-08-20T23:58:37.768975+00:00"
+  },
+  "video": {
+    "mint": "EG6cxhddYUTmvmukw4t2uXibuX5A7wTWFcQNGZVdpump",
+    "first_seen": "2026-08-20T23:58:38.502612+00:00"
+  },
+  "wsy": {
+    "mint": "BXf8Lkc9y4EFiTLnp4qfmHmEgLfpwZXLfGoLLPRhAsP1",
+    "first_seen": "2026-08-20T23:58:40.167375+00:00"
+  },
+  "streamguy": {
+    "mint": "WhaR9VU1mkB4puuePuny1sSEg9CCMQjyrvnwyEnpump",
+    "first_seen": "2026-08-20T23:58:43.471725+00:00"
   }
 }
