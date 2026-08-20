@@ -51914,5 +51914,9 @@
   "leia": {
     "mint": "9EPYaNqzJLSPSFH9aKSxn2EaJoxHS1oqt7pVBR3yivt",
     "first_seen": "2026-08-20T09:54:54.824570+00:00"
+  },
+  "fibs": {
+    "mint": "9sCD2apG4offGysiPkL6qjh3vdYJeW88QcD34miSpump",
+    "first_seen": "2026-08-20T10:26:00.010794+00:00"
   }
 }
