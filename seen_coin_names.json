@@ -52118,5 +52118,49 @@
   "jos": {
     "mint": "GrAs31PptyTSVfTabfTbJBQZCcuKQCZjZZK5z96Wpump",
     "first_seen": "2026-08-20T15:00:02.703180+00:00"
+  },
+  "solddog": {
+    "mint": "FxCTRa6hZ7oQcEg8MSAy6MMmaFbgz84x8YToPciYpump",
+    "first_seen": "2026-08-20T15:41:04.818217+00:00"
+  },
+  "phoenixc": {
+    "mint": "fdACZ8yWwsBfstRZNv7cPTdx96akTWte8AddCvapump",
+    "first_seen": "2026-08-20T15:41:05.201440+00:00"
+  },
+  "clss": {
+    "mint": "CLSSbPrKUhQpkwGweP5y46RjwRHwCVKqPs9ysBhUvApp",
+    "first_seen": "2026-08-20T15:41:05.605766+00:00"
+  },
+  "pheonix": {
+    "mint": "Dr1R3eeqLMQesfWJgrGheA9R4Z2PTbepa9oYrNApXhzN",
+    "first_seen": "2026-08-20T15:41:06.662687+00:00"
+  },
+  "aoe": {
+    "mint": "E4jQXmWAzgZXSViEipVdpX5v6FZ3i94h1fAAhAyJpump",
+    "first_seen": "2026-08-20T15:41:08.080310+00:00"
+  },
+  "hr": {
+    "mint": "4TevEcC7fgtT93zfVUMqNoVnoRuzcwtannpsAQ6EwzsX",
+    "first_seen": "2026-08-20T15:41:10.114426+00:00"
+  },
+  "copilot": {
+    "mint": "CfCgBxv6EchNek2wxtqx1VE3d4GbCREr5kGHGMJfpump",
+    "first_seen": "2026-08-20T15:41:10.510531+00:00"
+  },
+  "rcake": {
+    "mint": "2rNdJ8aYPdsoK1Hb48XdBm7YuoeQ5xQwk1DibjPbtray",
+    "first_seen": "2026-08-20T15:41:10.882697+00:00"
+  },
+  "engine": {
+    "mint": "tAjP8NfsUJDp4LcqmAPMRzhhD9BRpesGvuosSXypump",
+    "first_seen": "2026-08-20T15:41:15.195056+00:00"
+  },
+  "mmc": {
+    "mint": "GBTju8jxb9ERfPS9XoigotoYzxr8iBPSMYibLxKaHRQR",
+    "first_seen": "2026-08-20T15:41:16.470912+00:00"
+  },
+  "breaking": {
+    "mint": "VJdpSDDLof7HuZiNmsRUSL4YCncsk1FGiVoHyAJpump",
+    "first_seen": "2026-08-20T15:41:17.230372+00:00"
   }
 }
