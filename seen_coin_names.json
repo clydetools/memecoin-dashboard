@@ -52338,5 +52338,49 @@
   "rugsy": {
     "mint": "7A9TJAsZm6yjmuq94bgDZqjX1f8CsKFg17KDKPbApump",
     "first_seen": "2026-08-20T18:36:49.411917+00:00"
+  },
+  "coltcoin": {
+    "mint": "B7WABx7Lt97M3xLV9VRcLwwWPdVwSEAkK69ZYai4pump",
+    "first_seen": "2026-08-20T19:17:46.524658+00:00"
+  },
+  "michele": {
+    "mint": "GzZ5zQsNJYM9t62umCEcm2ZBh4fbyqigWRyEKyAwpump",
+    "first_seen": "2026-08-20T19:17:47.158333+00:00"
+  },
+  "opus": {
+    "mint": "G3SAFZB4HxDVCg64PkoTk3dUPxxydFJoZvPErufqpump",
+    "first_seen": "2026-08-20T19:17:47.770880+00:00"
+  },
+  "testtt": {
+    "mint": "2hYccVmdzQWfTDto2q5Q4GzXVkXoEfdunDGYPLH9pump",
+    "first_seen": "2026-08-20T19:17:48.365589+00:00"
+  },
+  "trumpchan": {
+    "mint": "7nBxysSHrwma2LwQzX46QcRu8SPrXCgjuZ37JZR2w9Sc",
+    "first_seen": "2026-08-20T19:17:48.929213+00:00"
+  },
+  "folio": {
+    "mint": "7SH8cmBkdTmh7PtnqtCi5wFTjWfAbcoapi6FzB7rpump",
+    "first_seen": "2026-08-20T19:17:49.525075+00:00"
+  },
+  "directory": {
+    "mint": "9hWET4o7raJhWcMsYyojKc87Sz3t7RJzekFLZ2ABpump",
+    "first_seen": "2026-08-20T19:17:51.207616+00:00"
+  },
+  "runninggoat": {
+    "mint": "Gvi18xkik8P1bYiY3tw7sVK7bpDiYy7jEqaH3Zj3pump",
+    "first_seen": "2026-08-20T19:17:52.934770+00:00"
+  },
+  "pixels": {
+    "mint": "DwxFHLjyjtrJcYCHiRkHzuRejVoummWhwnwHgML6pump",
+    "first_seen": "2026-08-20T19:18:04.306502+00:00"
+  },
+  "made6900": {
+    "mint": "732RG7f3fjshrTvvoddtq5xLbz6aFVJV2yAo4jydpump",
+    "first_seen": "2026-08-20T19:18:04.653015+00:00"
+  },
+  "keibull": {
+    "mint": "HXD5YL3rwv1mrHC4giBkAb1pxW6ohCQppJsxrzJZpump",
+    "first_seen": "2026-08-20T19:18:05.020736+00:00"
   }
 }
