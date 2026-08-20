@@ -52674,5 +52674,57 @@
   "lingo": {
     "mint": "dDBmmBdVmiEMeu6HpMuzVPaaLdY5jnZPUnkwYhb219V",
     "first_seen": "2026-08-20T22:41:46.109885+00:00"
+  },
+  "dao": {
+    "mint": "8TUniy5MzK9DmCryVVbwhSYvbdnfeXjE8Xjwanvapump",
+    "first_seen": "2026-08-20T23:10:11.682480+00:00"
+  },
+  "dfranke": {
+    "mint": "AcUNS4CovBWqR8vtYFwYmMYaKFCffnAhLZRGYfG4pump",
+    "first_seen": "2026-08-20T23:10:12.359201+00:00"
+  },
+  "quitter": {
+    "mint": "Cp1vzvvFfdSaodFN69K9mbuZFwcwCmpjLdap38KMpump",
+    "first_seen": "2026-08-20T23:10:13.024642+00:00"
+  },
+  "whimsy": {
+    "mint": "CMVMuE4gS8yLiM17K4MdsWLcx8fb5k9g2NpfSER4pump",
+    "first_seen": "2026-08-20T23:10:13.603331+00:00"
+  },
+  "freebeta": {
+    "mint": "C1xQvXcjf9NJdtBcbgofvzYZdpf2fhHpKLA3WhWtpump",
+    "first_seen": "2026-08-20T23:10:14.218337+00:00"
+  },
+  "igetrugged": {
+    "mint": "NgzYVzfW3jPGjonsTSPQgtdwdDLC5dqMM7royshpump",
+    "first_seen": "2026-08-20T23:10:19.041507+00:00"
+  },
+  "cockpussy": {
+    "mint": "6EAsYMwzTLZBHZez4fJUa2UyxGJbWHRdRMA5yXLzpump",
+    "first_seen": "2026-08-20T23:10:19.734606+00:00"
+  },
+  "scene": {
+    "mint": "DoS9k99PPbcE7c42bmJLZzvafBwke3oMwzWufb2jpump",
+    "first_seen": "2026-08-20T23:10:21.479570+00:00"
+  },
+  "2yog": {
+    "mint": "7vWm249jzHpRXVqZbZoWCS2EyZYSmJw9fMctFpnjpump",
+    "first_seen": "2026-08-20T23:10:22.666231+00:00"
+  },
+  "kancler": {
+    "mint": "FiDNTyuVE3V89DXRyoEWj1Gv4bycDL9Hub9tGmoHpump",
+    "first_seen": "2026-08-20T23:10:36.667601+00:00"
+  },
+  "egld": {
+    "mint": "BuPyJ8cQ7nfUgwG3Vi5Hqz8M3YXsJ4HNAjpW7Tw5Avq2",
+    "first_seen": "2026-08-20T23:10:36.739338+00:00"
+  },
+  "spu": {
+    "mint": "G8FMb99PyHSvW7uQvdRCMfkeZgcGBwexR6BiaMxfpump",
+    "first_seen": "2026-08-20T23:10:37.290012+00:00"
+  },
+  "cigol": {
+    "mint": "25EDYHRPkywy4X8aE1s6iNTztGRbsaRMMwBEerompump",
+    "first_seen": "2026-08-20T23:10:37.491428+00:00"
   }
 }
