@@ -52090,5 +52090,33 @@
   "20s": {
     "mint": "B3nWNJv8kfq36jqPY8RqYRBv2jvphSVpmDVMhM2rpump",
     "first_seen": "2026-08-20T14:19:04.544995+00:00"
+  },
+  "neurons": {
+    "mint": "HDDSPEpiRH6vrw6H1g6mB67HLoPdhv7TAjSwG86Rpump",
+    "first_seen": "2026-08-20T14:59:50.734489+00:00"
+  },
+  "fomoscan": {
+    "mint": "1AAgCHcB8kwTAM4GSU1zKqj4FNumvtfxsGi9fNrpump",
+    "first_seen": "2026-08-20T14:59:52.448893+00:00"
+  },
+  "kintara": {
+    "mint": "9JgRLytGaACU4ju3fWGCuFV5bMu3HQSXhu6s13F7pump",
+    "first_seen": "2026-08-20T14:59:53.007802+00:00"
+  },
+  "pam": {
+    "mint": "3PHP3cWQzw5DZerfHEbWb38t46NMMfXT3HLm9zJNpump",
+    "first_seen": "2026-08-20T14:59:53.541806+00:00"
+  },
+  "tipbull": {
+    "mint": "3LxEyHATE851XhbvM9N362cDLFMxCZZQa1XqCm3zEJSu",
+    "first_seen": "2026-08-20T14:59:54.554681+00:00"
+  },
+  "airacism": {
+    "mint": "4sJnUZoUryXP2NRSgBV7jbfDuvsLJrtYGhHsBp8wpump",
+    "first_seen": "2026-08-20T14:59:55.058140+00:00"
+  },
+  "jos": {
+    "mint": "GrAs31PptyTSVfTabfTbJBQZCcuKQCZjZZK5z96Wpump",
+    "first_seen": "2026-08-20T15:00:02.703180+00:00"
   }
 }
