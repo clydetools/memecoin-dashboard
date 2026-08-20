@@ -52414,5 +52414,25 @@
   "betr": {
     "mint": "7ocFJpxwnMpQkTN5K1FtvYAMBmxdYsswP165BPVupump",
     "first_seen": "2026-08-20T19:49:55.005564+00:00"
+  },
+  "motivation": {
+    "mint": "5U46E1nL61nyW3Ugf9QapTNFVEokDQVd5hnqbvgopump",
+    "first_seen": "2026-08-20T20:13:25.635555+00:00"
+  },
+  "top": {
+    "mint": "GFiT2gDQDWhvhYFBk5qnBq7gBwFfMb9VaePdJbBopump",
+    "first_seen": "2026-08-20T20:13:27.026724+00:00"
+  },
+  "millie": {
+    "mint": "987AMr6dTWDaQwxZFRhtcii3B71W4SXTJrLanYYtpump",
+    "first_seen": "2026-08-20T20:13:28.295534+00:00"
+  },
+  "mra": {
+    "mint": "4P7Vas2EysrkHUNj9cRpi5tHB4XWN1cRvr6LgBUppump",
+    "first_seen": "2026-08-20T20:13:29.335246+00:00"
+  },
+  "cez": {
+    "mint": "DWrrbYP65oo33Fk83iaQVHQhytntFM1uooyJHjaxpump",
+    "first_seen": "2026-08-20T20:13:33.907430+00:00"
   }
 }
