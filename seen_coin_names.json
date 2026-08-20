@@ -51990,5 +51990,45 @@
   "greensem": {
     "mint": "GhAqJ8fs3Ce3MPmYfTri9khorDXEdc3jGk5PXoTupump",
     "first_seen": "2026-08-20T11:54:20.181429+00:00"
+  },
+  "bork": {
+    "mint": "Hm1mJE4uSW5LotEAoJjQU5vvkuTfgxjfNQumFf92hZxo",
+    "first_seen": "2026-08-20T12:41:16.682144+00:00"
+  },
+  "chibineko": {
+    "mint": "GZMm2DJ6GMUNpTqMMT2J5c4Dq6rntAkHYM1ggQZxpump",
+    "first_seen": "2026-08-20T12:41:17.326374+00:00"
+  },
+  "kitte": {
+    "mint": "9tbgjkdEPppu7DirtLeY6ALcZaAuGndG6CMYNMbYpump",
+    "first_seen": "2026-08-20T12:41:18.474482+00:00"
+  },
+  "smolcate": {
+    "mint": "8eGPxRckLQcT6pF5izKAjo9AgqrUhqcVgpqyMkGNpump",
+    "first_seen": "2026-08-20T12:41:20.258164+00:00"
+  },
+  "icarus": {
+    "mint": "ArYuYaukvRkMr6tWJhaH2i5ytnVEW4FA3JZrp4fMpump",
+    "first_seen": "2026-08-20T12:41:20.851510+00:00"
+  },
+  "solpay": {
+    "mint": "TmvEAyt3oZnPkTGp6AtHGj37KjUh2FYUMzThxsjpump",
+    "first_seen": "2026-08-20T12:41:26.555016+00:00"
+  },
+  "opera": {
+    "mint": "3TZobXcmYnDoqHpFoqUzifBTreTFWeVaQJpg1kkWpump",
+    "first_seen": "2026-08-20T12:41:26.640400+00:00"
+  },
+  "genx": {
+    "mint": "6cn91w7LaRUARJJKAtD8hjZGzpcFtJZyBAr9devmbMV5",
+    "first_seen": "2026-08-20T12:41:27.556430+00:00"
+  },
+  "xrps": {
+    "mint": "7XLu71Wvq7zuNU7TP5qjYY8kqg9zxtrsb7sJEEF6pump",
+    "first_seen": "2026-08-20T12:41:28.848052+00:00"
+  },
+  "chrgbull": {
+    "mint": "3is5vKhH667c2nqL6SSMGz2nRY1qd4dFt6zJmt1dpump",
+    "first_seen": "2026-08-20T12:41:29.217296+00:00"
   }
 }
