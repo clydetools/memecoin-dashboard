@@ -53110,5 +53110,29 @@
   "memefi": {
     "mint": "86JF1S58ZNT7rHhpgjzDuNxcC1PMYkECDuoRQoj5Scy5",
     "first_seen": "2026-08-21T08:51:45.032336+00:00"
+  },
+  "mimo": {
+    "mint": "6RWwWsBKGNXTL5zep3uCTC9CZ5VLoZVNEBHaXqEBpump",
+    "first_seen": "2026-08-21T09:33:22.250793+00:00"
+  },
+  "smuckers": {
+    "mint": "BpLt5Hewzgf9fkfU9P1deBkkD1isp6hXfLwTFRcfpump",
+    "first_seen": "2026-08-21T09:33:24.436349+00:00"
+  },
+  "squigga": {
+    "mint": "zxTUsfMJ42LYRs15LWYW8S8GgC3cPMYi7M9pqyFpump",
+    "first_seen": "2026-08-21T09:33:24.986526+00:00"
+  },
+  "miffy": {
+    "mint": "5bknYsvLYhvM31tyUEGD1seKHcEEx1gGszhhyogopump",
+    "first_seen": "2026-08-21T09:33:25.589067+00:00"
+  },
+  "grompany": {
+    "mint": "EVA2K6vSg4Fg11NfcqVKJbsVgiSxby68qLfcpn5bpump",
+    "first_seen": "2026-08-21T09:33:31.056539+00:00"
+  },
+  "capa": {
+    "mint": "6AGkCEcEspchEFWkHyComJV39KjrWBLCUwSxaDzQRv81",
+    "first_seen": "2026-08-21T09:33:32.099085+00:00"
   }
 }
