@@ -53998,5 +53998,29 @@
   "bagworkr": {
     "mint": "B34sxLa1xGD94MRTFTB2dpfMAnChwz2N2nCwv5Vopump",
     "first_seen": "2026-08-21T22:59:04.384613+00:00"
+  },
+  "horses": {
+    "mint": "FWGDoypwtA9WNiuzk5bfzhp6dXL6trHF8yqpd5KKpump",
+    "first_seen": "2026-08-21T23:28:38.382936+00:00"
+  },
+  "supermegaultr": {
+    "mint": "Ah7xLmNjATvwkTsxTVKMCrFYc1r5D5kSEzCHeoVRpump",
+    "first_seen": "2026-08-21T23:28:40.468859+00:00"
+  },
+  "rabwar": {
+    "mint": "EEG4smuW7uc9ABLB1dTBW8PbHEji5trinQmw2kdupump",
+    "first_seen": "2026-08-21T23:28:41.086060+00:00"
+  },
+  "bcomp": {
+    "mint": "FCYQq2Bp9ozW4E5hMXw9juikUuxjw1xNU64ygtfHpump",
+    "first_seen": "2026-08-21T23:28:42.232070+00:00"
+  },
+  "jasmy": {
+    "mint": "7F2dASJo6e3axxjmWYEN4agFS77aQTNuFk4de44rU7S9",
+    "first_seen": "2026-08-21T23:28:47.999836+00:00"
+  },
+  "4k": {
+    "mint": "AP4p5Drdk4yHWFg9tG9s5ZYPndjoBWLNJuZTt5UGpump",
+    "first_seen": "2026-08-21T23:28:49.353756+00:00"
   }
 }
