@@ -53970,5 +53970,33 @@
   "noera": {
     "mint": "Fqbiai4eZiVgFWigfKXFzP5wndAD9HRyd3VyCwVxxuYm",
     "first_seen": "2026-08-21T22:38:34.199933+00:00"
+  },
+  "ccf": {
+    "mint": "3fFZthJaDK2EGbd64DMCY9LVmLH42mKDwVPRLjS1BULL",
+    "first_seen": "2026-08-21T22:58:51.563627+00:00"
+  },
+  "pumpwallet": {
+    "mint": "CFiMQ4DuZzqVEdFQBGooShH7gD7qChai31uZCw5Dpump",
+    "first_seen": "2026-08-21T22:58:52.190103+00:00"
+  },
+  "lucid": {
+    "mint": "Eigs1RxiZvw4qWkeVMQcc9BVJ7UbtnTCr13oa94Tpump",
+    "first_seen": "2026-08-21T22:58:53.808914+00:00"
+  },
+  "goh": {
+    "mint": "BGhpe7aW3omjPjmm7PA7PSTX25BFV8MXpkxG8Uovpump",
+    "first_seen": "2026-08-21T22:58:56.564428+00:00"
+  },
+  "pledgesco": {
+    "mint": "7zEGabbWPEfT3eJthK24hP97hXVRsFS1oNb2KMYDpump",
+    "first_seen": "2026-08-21T22:58:58.149270+00:00"
+  },
+  "idao": {
+    "mint": "HTQvi6ZQKVXyzCHwMxeV3jcmT8y5KJpoBS3Yik8upump",
+    "first_seen": "2026-08-21T22:58:58.715294+00:00"
+  },
+  "bagworkr": {
+    "mint": "B34sxLa1xGD94MRTFTB2dpfMAnChwz2N2nCwv5Vopump",
+    "first_seen": "2026-08-21T22:59:04.384613+00:00"
   }
 }
