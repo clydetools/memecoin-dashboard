@@ -53898,5 +53898,37 @@
   "ruecat": {
     "mint": "AMKKkovbUqr5cxmsg22KxTgaRXq6z4f8umrze4JKpump",
     "first_seen": "2026-08-21T21:49:28.263546+00:00"
+  },
+  "mgs": {
+    "mint": "AnjSo7exsABAbyPASgNpKJPSxWP2KMmf2b3EL37bpump",
+    "first_seen": "2026-08-21T22:06:56.138556+00:00"
+  },
+  "rugpolice": {
+    "mint": "orwZLe6YExHk4f78SBxpPfSDnRD1YuDLxX3cgmPpump",
+    "first_seen": "2026-08-21T22:06:56.659107+00:00"
+  },
+  "rome": {
+    "mint": "8j8yR1cbV5biKDC88f7yYcNC32U8YVgFieGZvStSpump",
+    "first_seen": "2026-08-21T22:06:58.842278+00:00"
+  },
+  "qkcn": {
+    "mint": "8Q5ENdyt69gpua8uEc5UEXrFGSn1EPEcSegS596Bpump",
+    "first_seen": "2026-08-21T22:07:05.796308+00:00"
+  },
+  "zbcns": {
+    "mint": "6Bxbce73GkTjfbX5tWVQdPfyd18KgW2Ui4rihgcjpump",
+    "first_seen": "2026-08-21T22:07:06.804360+00:00"
+  },
+  "feg": {
+    "mint": "DDwQPr3mQYaVZdwKSQa3kKSvUpS5d1swEJzteWfNpump",
+    "first_seen": "2026-08-21T22:07:07.612976+00:00"
+  },
+  "ravi": {
+    "mint": "Bn1Wy74owcLz85BAmb5VVHh22Rf7BDuSf9JJKdvypump",
+    "first_seen": "2026-08-21T22:07:08.115774+00:00"
+  },
+  "mememan": {
+    "mint": "AwMXfmYXrFZeJhAYSVuJHVBXzrztFVeiV4ng8S5mpump",
+    "first_seen": "2026-08-21T22:07:09.075249+00:00"
   }
 }
