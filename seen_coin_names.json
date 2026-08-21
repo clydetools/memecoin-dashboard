@@ -53442,5 +53442,45 @@
   "pumpire": {
     "mint": "EaBqbGuAum75JSmAAz69bFyce16sP5aVyCgc9ELypump",
     "first_seen": "2026-08-21T16:29:55.026715+00:00"
+  },
+  "manwar": {
+    "mint": "8Xxs7vVEyu7YeC2QxBQ4YSnm886mCmuFns5U7W7rpump",
+    "first_seen": "2026-08-21T17:03:27.581557+00:00"
+  },
+  "1mpx": {
+    "mint": "9Hn7dz7UZYy5cjVmpLFP3ex18fFoPt8o81GhrLNkpump",
+    "first_seen": "2026-08-21T17:03:28.254462+00:00"
+  },
+  "px": {
+    "mint": "6Gopmzg6jMQvE8Uc8QQNMnfLpg8SYgxH5bJr8gKBpump",
+    "first_seen": "2026-08-21T17:03:30.059860+00:00"
+  },
+  "bullfun": {
+    "mint": "t6DVcv2sKJAoNbMMdFFrQ7MUG5FvyT31MFXzgjfpump",
+    "first_seen": "2026-08-21T17:03:31.768792+00:00"
+  },
+  "dorse": {
+    "mint": "AkUMUNyNTAGGZRxXgKpRdYtDtDaGaLzfdMrSgC2ypump",
+    "first_seen": "2026-08-21T17:03:33.498986+00:00"
+  },
+  "helpme": {
+    "mint": "AfY18ak2Zup4isPWhQM7c44xsmqc4EreWyFufijXpump",
+    "first_seen": "2026-08-21T17:03:35.170072+00:00"
+  },
+  "tunkirk": {
+    "mint": "7rXAGPB3r6vGvPEwjUxCsM1CHxxZYHRs4ADch1cspump",
+    "first_seen": "2026-08-21T17:03:45.055623+00:00"
+  },
+  "esee": {
+    "mint": "46dxW3fBTEJDoWbZGwM6MT8ZM5ksEhnw2nANJ1Cqpump",
+    "first_seen": "2026-08-21T17:03:46.145948+00:00"
+  },
+  "solbid": {
+    "mint": "D5tVZNGZzT9C1yiT4j2iPsmP8pMDqr4Eo4mt8KAhpump",
+    "first_seen": "2026-08-21T17:03:48.303641+00:00"
+  },
+  "momentum": {
+    "mint": "5vTzYtcUMJvWKMxweLuiyiAoLhXuhWHy8H57F1UPpump",
+    "first_seen": "2026-08-21T17:03:55.945640+00:00"
   }
 }
