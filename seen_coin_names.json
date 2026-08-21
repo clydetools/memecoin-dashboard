@@ -53226,5 +53226,25 @@
   "exemployee": {
     "mint": "AN6fym8k6uyx1dPttmPGza5f8FsqG6jCXfM3BH7xpump",
     "first_seen": "2026-08-21T12:15:22.667924+00:00"
+  },
+  "planu": {
+    "mint": "Bv7hoQqqrjXdj9FTA2CTARaHu3sQ3CHhqbaJEgJgpump",
+    "first_seen": "2026-08-21T13:14:24.225753+00:00"
+  },
+  "goatlon": {
+    "mint": "3prq29X8oRJCbhE6AMuXSRagdeAmUDbrto6jdMh8Dh36",
+    "first_seen": "2026-08-21T13:14:24.810201+00:00"
+  },
+  "margaretq": {
+    "mint": "DbrXAA976E2fgJEoVEMmxzaizb6PfJewjWAmbqaVpump",
+    "first_seen": "2026-08-21T13:14:31.837426+00:00"
+  },
+  "kolbro": {
+    "mint": "Dpey9a5DY5rgsL1LZ8qmFCVJKvbK26QSVqBWKAELpump",
+    "first_seen": "2026-08-21T13:14:35.014903+00:00"
+  },
+  "juliano": {
+    "mint": "22TEmBxE6CgmcmkvMJUBGvJTVjV6sdWTCJggg4sVpump",
+    "first_seen": "2026-08-21T13:14:41.888135+00:00"
   }
 }
