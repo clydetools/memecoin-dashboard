@@ -53022,5 +53022,33 @@
   "kinako": {
     "mint": "21JdqREz5YTyNFZKzLTVg3G1xNdjEciyvKJzrR91pump",
     "first_seen": "2026-08-21T05:45:17.880400+00:00"
+  },
+  "leslie": {
+    "mint": "6WtfGpwZQXfpAS6T1mDiGeSqeFkjJvQJWJWfe1wzpump",
+    "first_seen": "2026-08-21T06:19:09.750798+00:00"
+  },
+  "applecat": {
+    "mint": "285HbcxEEcKRdRSn9Pce2iaTKtgdtjb9rGSoZx1caqJg",
+    "first_seen": "2026-08-21T06:19:12.636520+00:00"
+  },
+  "yusuke": {
+    "mint": "ALHQZfN3i7kJ6VFNMbZpDxitapkEbabGxgUs8gJjpump",
+    "first_seen": "2026-08-21T06:19:14.208673+00:00"
+  },
+  "rexbt": {
+    "mint": "J7cENeeQs1XUgfruGNTEjXAAa54Rut8VYdDuMmmBvirt",
+    "first_seen": "2026-08-21T06:19:20.075106+00:00"
+  },
+  "milkbean": {
+    "mint": "2jsu8yizTg8xpFZTovDHEWwZah9FPPP8jJsxwU2Rpump",
+    "first_seen": "2026-08-21T06:19:20.168787+00:00"
+  },
+  "fugcat": {
+    "mint": "GPRsiA8ocy6u97e6wo985pFYxNnGPnDAYXetMdq6doQN",
+    "first_seen": "2026-08-21T06:19:20.236848+00:00"
+  },
+  "mcdc": {
+    "mint": "EcS1z9LuGYTV9pLptQxjNbZcCUy1BpgvyRU3N24Lgjuz",
+    "first_seen": "2026-08-21T06:19:20.776844+00:00"
   }
 }
