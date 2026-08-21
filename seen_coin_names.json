@@ -53078,5 +53078,25 @@
   "atc": {
     "mint": "4PzJw655TdpmbGFWTPgVHWLs1v79WCaaPrqaBi3fpump",
     "first_seen": "2026-08-21T07:13:06.907877+00:00"
+  },
+  "korilakkuma": {
+    "mint": "5m2trhyP6s8PEwsZZ7V9pCaE9ecuoLMAjj2pYQMTpump",
+    "first_seen": "2026-08-21T08:00:35.019509+00:00"
+  },
+  "maple": {
+    "mint": "75VFWADpaFJEQN6MhRot9BMUzy9F3wkAtDEMnSjgpump",
+    "first_seen": "2026-08-21T08:00:36.446662+00:00"
+  },
+  "lepus": {
+    "mint": "GoDLxfpqpYkdYDfLagLMALnPGZ8ZesaieR7UsA9kpump",
+    "first_seen": "2026-08-21T08:00:36.829725+00:00"
+  },
+  "luckycharm": {
+    "mint": "GU9YMVoHEUGtogv1Sv7q7xyhcZygvdSphDrWy1CPpump",
+    "first_seen": "2026-08-21T08:00:37.864395+00:00"
+  },
+  "tapcat": {
+    "mint": "7RuKSuywEi3S4urccQXHgUZRGVYdspwQS9CD4KCJpump",
+    "first_seen": "2026-08-21T08:00:38.579187+00:00"
   }
 }
