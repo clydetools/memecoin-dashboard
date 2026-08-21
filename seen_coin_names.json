@@ -52874,5 +52874,49 @@
   "brainless": {
     "mint": "4H3KjxdCwZ5dKAtHy6uBukDEi4QAuVEnzq6mHR8NTRPY",
     "first_seen": "2026-08-21T02:49:00.466317+00:00"
+  },
+  "naives": {
+    "mint": "6rfaAhjFrBxnRTaXXH39ESYrapbgoFazn2ZYFdbopump",
+    "first_seen": "2026-08-21T03:38:08.783434+00:00"
+  },
+  "bullzo": {
+    "mint": "ENDWGBQN5UdpkTHYgLdNzUDdYnWQd5uVPxGW6caHpump",
+    "first_seen": "2026-08-21T03:38:09.355408+00:00"
+  },
+  "60s": {
+    "mint": "8Yu7j4XySSEFDxrEx9DUgWp68VnXYWXGTWmn9Baspump",
+    "first_seen": "2026-08-21T03:38:09.930025+00:00"
+  },
+  "nucpir": {
+    "mint": "6V1LDUQbBQ4J3kqD1ymua2DRRfWBvypPc6rokwoipump",
+    "first_seen": "2026-08-21T03:38:10.491420+00:00"
+  },
+  "keystone": {
+    "mint": "2kBSjYFc2vMC5WcCtoBdMGPhW7YZ4h39TsWAACJppump",
+    "first_seen": "2026-08-21T03:38:11.046991+00:00"
+  },
+  "drillnald": {
+    "mint": "EwMeyRU71Q4HRFzUREm7YkRyK4cou4N22QyktcszLVEJ",
+    "first_seen": "2026-08-21T03:38:14.246430+00:00"
+  },
+  "drollnald": {
+    "mint": "Ew6kK6J9rWcFJ4JjTHJCLoZhmBrW6tDaCn6aNoCjSbsx",
+    "first_seen": "2026-08-21T03:38:15.337257+00:00"
+  },
+  "drillnaldd": {
+    "mint": "F7HZaDgHWcKK4pwTC1EXRTTspAYPgRxQfVDJ5UQA6yPe",
+    "first_seen": "2026-08-21T03:38:16.942488+00:00"
+  },
+  "trumpkey": {
+    "mint": "FHMN1S3rJ2ij3XJKVUdeZv3MB2LULZittEJtJwS5pump",
+    "first_seen": "2026-08-21T03:38:18.023776+00:00"
+  },
+  "rogpir": {
+    "mint": "AqkvWywSU4rwhYKgEMgatz5v9ewKMUSFGxSXenaApump",
+    "first_seen": "2026-08-21T03:38:19.621489+00:00"
+  },
+  "lge": {
+    "mint": "GQNLw1M5b8uF42GZFj2xuCQvPNtrMxm52Ycwma7rpump",
+    "first_seen": "2026-08-21T03:38:25.782980+00:00"
   }
 }
