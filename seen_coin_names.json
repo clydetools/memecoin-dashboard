@@ -53858,5 +53858,45 @@
   "rogspe": {
     "mint": "EQDk5ztTLa8gDcAFg3AuUeBfAuWtbx6dqXKj3HrWpump",
     "first_seen": "2026-08-21T21:26:26.003067+00:00"
+  },
+  "ut": {
+    "mint": "EnTFSqJPjMJYpqhQqLfPbZDJm6MWUMDvCSJHaNAopump",
+    "first_seen": "2026-08-21T21:49:14.711733+00:00"
+  },
+  "grocs": {
+    "mint": "H4cuGZPeJRoJJhSxfxgBCNX32z9qRH8gZaXofDqpump",
+    "first_seen": "2026-08-21T21:49:15.299298+00:00"
+  },
+  "trans": {
+    "mint": "2zCCcnFyusR5Q5wVeJcAW4JDZmofg4ign3Sxn7gGpump",
+    "first_seen": "2026-08-21T21:49:16.751042+00:00"
+  },
+  "mamdani": {
+    "mint": "BBcuPuNgtqBRMmKC5d9JygGtxCaGXREJuScqBAWBpump",
+    "first_seen": "2026-08-21T21:49:17.293645+00:00"
+  },
+  "natalie": {
+    "mint": "CmNEjUM6dcWyTvD1qWFnNVz1zN8Aa9TDtywy7h1Apump",
+    "first_seen": "2026-08-21T21:49:18.284157+00:00"
+  },
+  "private": {
+    "mint": "Em2UsWF5JP6owzuQgW1wEcbEkHZQBu7BUCGfUp9Vpump",
+    "first_seen": "2026-08-21T21:49:19.699250+00:00"
+  },
+  "tato": {
+    "mint": "9Khj4yZxfscaAyikNWkDH74YCiXr1Si96cYoPKz9pump",
+    "first_seen": "2026-08-21T21:49:21.172626+00:00"
+  },
+  "arcfroggy": {
+    "mint": "Ff93RT439bU8fXM584FRVXZDdmpoNMQS8ouWhYBnpump",
+    "first_seen": "2026-08-21T21:49:22.291173+00:00"
+  },
+  "cbcatp": {
+    "mint": "3ksk6NXsoeuwoHUhkbU4ibjUdu4biB1SnZBm1sgBpump",
+    "first_seen": "2026-08-21T21:49:22.820166+00:00"
+  },
+  "ruecat": {
+    "mint": "AMKKkovbUqr5cxmsg22KxTgaRXq6z4f8umrze4JKpump",
+    "first_seen": "2026-08-21T21:49:28.263546+00:00"
   }
 }
