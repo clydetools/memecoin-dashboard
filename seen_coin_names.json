@@ -52826,5 +52826,53 @@
   "alpaca": {
     "mint": "FfgtU4bMte3JRZGX7kcNVywxiGoSqUTga8eZxTSFpump",
     "first_seen": "2026-08-21T01:36:57.499441+00:00"
+  },
+  "rogecoin": {
+    "mint": "9opzwbJpFLaKwZkVrrjFiVBowvCZE99Teia2fhNQpump",
+    "first_seen": "2026-08-21T02:48:47.980382+00:00"
+  },
+  "ainofea": {
+    "mint": "A8t4cks42F4JYh2MycYAs3ubZfCS5vUhhLQB3Ucxpump",
+    "first_seen": "2026-08-21T02:48:48.964477+00:00"
+  },
+  "cactus": {
+    "mint": "6hchYmZ2QmL2dLMT2mGKXHCzb8VfWAfeJcJDVCsVpump",
+    "first_seen": "2026-08-21T02:48:49.429034+00:00"
+  },
+  "manrea": {
+    "mint": "JBbnodxswVLjkpUDHznkYJ4KoW3MiembUxLSiKSjpump",
+    "first_seen": "2026-08-21T02:48:51.679260+00:00"
+  },
+  "mrtcedes": {
+    "mint": "5fpJPQoQDYWZJStFYLz6M4z4DJPEsmeCukPUZqBypump",
+    "first_seen": "2026-08-21T02:48:52.119246+00:00"
+  },
+  "terrible": {
+    "mint": "DX2FLXDiy11vdQRNiLyjseCwTxXrv6FkDWQsVCKcpump",
+    "first_seen": "2026-08-21T02:48:52.541730+00:00"
+  },
+  "orb": {
+    "mint": "GZwxnBW1f3PZZMN78mnefxzxJZ6d8tbKuyDnbRM5pump",
+    "first_seen": "2026-08-21T02:48:53.038938+00:00"
+  },
+  "kawaiicactus": {
+    "mint": "53xFSFutp9wsnHGu4TPEyk3NzjoWyFyK13XwGJoBpump",
+    "first_seen": "2026-08-21T02:48:53.500837+00:00"
+  },
+  "bowlslop": {
+    "mint": "92SqPw5HuTyCr65tm6LA3D84f1gbEPp6Z48GNgRopump",
+    "first_seen": "2026-08-21T02:48:53.920980+00:00"
+  },
+  "courage": {
+    "mint": "Dveq2rabHNdZW1YR5ZSECSnPkrcV5ZVGjKSMXD6Bpump",
+    "first_seen": "2026-08-21T02:48:58.621277+00:00"
+  },
+  "veronica": {
+    "mint": "FakAefqpn5bjz6byoR1WUh84SivugJFA45gpj1Cdpump",
+    "first_seen": "2026-08-21T02:48:58.754616+00:00"
+  },
+  "brainless": {
+    "mint": "4H3KjxdCwZ5dKAtHy6uBukDEi4QAuVEnzq6mHR8NTRPY",
+    "first_seen": "2026-08-21T02:49:00.466317+00:00"
   }
 }
