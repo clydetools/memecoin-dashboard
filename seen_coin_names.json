@@ -53482,5 +53482,49 @@
   "momentum": {
     "mint": "5vTzYtcUMJvWKMxweLuiyiAoLhXuhWHy8H57F1UPpump",
     "first_seen": "2026-08-21T17:03:55.945640+00:00"
+  },
+  "sasquatch": {
+    "mint": "EY97ceMPqg87VQg2tfJ9FUs4uW4ctFJviM39H76rpump",
+    "first_seen": "2026-08-21T17:39:56.324269+00:00"
+  },
+  "raccoins": {
+    "mint": "HZmV2cxk1kJVdS2TPzM7gCVPALhieWKQaRjhUwCnpump",
+    "first_seen": "2026-08-21T17:39:57.621247+00:00"
+  },
+  "pceneegy": {
+    "mint": "BXVdyztWmMCo626mrWTjHMNdzJCHXSDP7ZFSEjHFpump",
+    "first_seen": "2026-08-21T17:40:00.515549+00:00"
+  },
+  "pel": {
+    "mint": "AK9Yr3hNa93xs7pV1hKH2KSsA6hKNBeX8Ga6HVvPpump",
+    "first_seen": "2026-08-21T17:40:03.348027+00:00"
+  },
+  "auralaura": {
+    "mint": "HHdc1KkCKLx15C2LVcrPmmgdyuTs19XgnoZBPDSppump",
+    "first_seen": "2026-08-21T17:40:03.830430+00:00"
+  },
+  "duckwifhat": {
+    "mint": "HWqS49QmoD4333esHzTW7K9vSepTURa313ZdDT8biFnK",
+    "first_seen": "2026-08-21T17:40:05.477768+00:00"
+  },
+  "fde": {
+    "mint": "FXXowMgJg7g5ujGsDoWeHv3UFY6LJ9YULU97Er3pump",
+    "first_seen": "2026-08-21T17:40:06.402651+00:00"
+  },
+  "101": {
+    "mint": "8hnBjQKQa89mzCtTC5S2ipo5CB8ZQGHEV37VoZwypump",
+    "first_seen": "2026-08-21T17:40:06.815997+00:00"
+  },
+  "papaw": {
+    "mint": "3f1bCXqy8soMqE6ic9p5tWVKDgTg1gQX3LW81tUppump",
+    "first_seen": "2026-08-21T17:40:09.058355+00:00"
+  },
+  "dwh": {
+    "mint": "CkSXMqhojUNhJRMx6zFnt9NkJE8TJorStFA6C4z8pump",
+    "first_seen": "2026-08-21T17:40:12.197666+00:00"
+  },
+  "bayc": {
+    "mint": "ArUyEVWGCzZMtAxcPmNH8nDFZ4kMjxrMbpsQf3NEpump",
+    "first_seen": "2026-08-21T17:40:17.057069+00:00"
   }
 }
