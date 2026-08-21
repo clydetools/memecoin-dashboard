@@ -52918,5 +52918,41 @@
   "lge": {
     "mint": "GQNLw1M5b8uF42GZFj2xuCQvPNtrMxm52Ycwma7rpump",
     "first_seen": "2026-08-21T03:38:25.782980+00:00"
+  },
+  "squish": {
+    "mint": "AgU4yW4xqDcgkpHfXts4m7b986J5FenibQysR8PPpump",
+    "first_seen": "2026-08-21T04:22:18.863065+00:00"
+  },
+  "bullyst": {
+    "mint": "H2qJGj9aY9ypggzDTUoZKKK4qkvGfbf97ioq8qvCpump",
+    "first_seen": "2026-08-21T04:22:19.359613+00:00"
+  },
+  "futasan": {
+    "mint": "AsU2M1XBMWhD5T9Doee1SoPL2SG2MBpLNXUwXLySpump",
+    "first_seen": "2026-08-21T04:22:19.773179+00:00"
+  },
+  "riders": {
+    "mint": "9zs7Yvt6ZxR9qs9JL12uVGZ3QtBMX7N3cgSsFGqApump",
+    "first_seen": "2026-08-21T04:22:20.525814+00:00"
+  },
+  "monkeys": {
+    "mint": "Bqifu3P4M9y5JL7fJHtPDo7XNvPQ3wptao6KHu3Kpump",
+    "first_seen": "2026-08-21T04:22:21.320154+00:00"
+  },
+  "sato": {
+    "mint": "28qK5EDy7RrUxNmXFi94hqhWUpQeftccaLQuMZ5iGQqv",
+    "first_seen": "2026-08-21T04:22:26.101036+00:00"
+  },
+  "elonbucks": {
+    "mint": "CMPnisvuCD7Z82NHPfKTnKExVUiQL58SZ3f9o2LpJc5w",
+    "first_seen": "2026-08-21T04:22:26.191931+00:00"
+  },
+  "msftx": {
+    "mint": "XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX",
+    "first_seen": "2026-08-21T04:22:26.748880+00:00"
+  },
+  "reinvest": {
+    "mint": "QY5tHAnGgDjq62L4Ch61oFEeEUHF83H8sFS2yZLpump",
+    "first_seen": "2026-08-21T04:22:28.005768+00:00"
   }
 }
