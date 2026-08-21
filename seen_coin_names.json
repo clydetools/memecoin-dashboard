@@ -53274,5 +53274,53 @@
   "pepesora": {
     "mint": "8yes8ybDikwgFkEko7ZDPLkXK6PLQ6XQyNsr435KaQzL",
     "first_seen": "2026-08-21T14:00:48.295920+00:00"
+  },
+  "1090f": {
+    "mint": "CP9xTCxKxqayrpHtAvWyFCer2UrBw3esbxDMLqtTpump",
+    "first_seen": "2026-08-21T14:44:43.941414+00:00"
+  },
+  "megacap": {
+    "mint": "9AKedypzE7XfjK96ZnpDAzMZpYdjozUW11XTCLGapump",
+    "first_seen": "2026-08-21T14:44:44.968011+00:00"
+  },
+  "nanocap": {
+    "mint": "9Ni3WYP2NqrJtS5TS1SKX8WceHqHX3JomxPdcV6Bpump",
+    "first_seen": "2026-08-21T14:44:45.479836+00:00"
+  },
+  "tuff": {
+    "mint": "5gQJ48ck7vtwH7Q1w58dWafgeJzVnK5fXth49cQGpump",
+    "first_seen": "2026-08-21T14:44:46.365677+00:00"
+  },
+  "hambo": {
+    "mint": "B77tzCVmwJMP1ATgMLgzptU6aWH4Si2f9yCYANqUpump",
+    "first_seen": "2026-08-21T14:44:48.216475+00:00"
+  },
+  "kimichi": {
+    "mint": "DC9x1o9HcyKiwgbGFvJtaq8ce6KrGXkC5HYytoa7HYtg",
+    "first_seen": "2026-08-21T14:44:48.632562+00:00"
+  },
+  "aeon": {
+    "mint": "w3WPpTyAYJWBynjAauA9C4wQ3LUeL3qZzu531sppump",
+    "first_seen": "2026-08-21T14:44:51.076057+00:00"
+  },
+  "ebachotko": {
+    "mint": "24yUmK6fefgfKobJMKhZ6SBCah5rmjRRUDu9GbYspump",
+    "first_seen": "2026-08-21T14:44:55.878293+00:00"
+  },
+  "osu": {
+    "mint": "6KFmKFsKc7bxnhD6t6sx7SYYrRQA4rzq7oegmM7Zpump",
+    "first_seen": "2026-08-21T14:44:56.333818+00:00"
+  },
+  "fed": {
+    "mint": "DmeQ1Crmksedu8vHLHeXzWUADYF8Cyic2ccZb39Apump",
+    "first_seen": "2026-08-21T14:44:56.793953+00:00"
+  },
+  "lilbuck": {
+    "mint": "C3K3vCyncS1hRaYSFfVpejXpPyae9ubo4LTRa4Pipump",
+    "first_seen": "2026-08-21T14:44:57.235191+00:00"
+  },
+  "brella": {
+    "mint": "4HoUp5FkWNs69hoCNx7kEYJLFGN5KHSyw5xejfv7pump",
+    "first_seen": "2026-08-21T14:45:03.368298+00:00"
   }
 }
