@@ -54958,5 +54958,45 @@
   "zods": {
     "mint": "J1ow1c3ExcJYQmgNFRPfCp1LMYRf6P3A33isDcBmpump",
     "first_seen": "2026-08-22T19:24:35.777947+00:00"
+  },
+  "dns": {
+    "mint": "8BFgxtkNz3zdYfMhnfoCa9E2qpJVS3956bqef12spump",
+    "first_seen": "2026-08-22T19:45:51.396422+00:00"
+  },
+  "priss": {
+    "mint": "E4CNJFYCicaFC4AwNzWon6437LvmXN8vjZ5ZigA4pump",
+    "first_seen": "2026-08-22T19:45:52.370714+00:00"
+  },
+  "casai": {
+    "mint": "By4TbDLEyn58enqjqRxupKbeDNSqynKD16xYRtHVpump",
+    "first_seen": "2026-08-22T19:45:52.879944+00:00"
+  },
+  "phd": {
+    "mint": "6KLPok1hhadCQSkKDSvaDreh8T2ASXutZ7BzXYg2pump",
+    "first_seen": "2026-08-22T19:45:53.332829+00:00"
+  },
+  "akagi": {
+    "mint": "Dz28T66QzmqhKE228kpw8rmsLZvmkwdyreTFiagmpump",
+    "first_seen": "2026-08-22T19:45:53.798378+00:00"
+  },
+  "cakes": {
+    "mint": "415pEfSiaBrAtSRGKiR2feyHQ1f9DUgXBrAbTAaSpump",
+    "first_seen": "2026-08-22T19:45:54.901369+00:00"
+  },
+  "trenchnald": {
+    "mint": "FVTeQ7zpn3AoMfhXKiDHJoGFgh1hxxpkAKJZ1AoNpump",
+    "first_seen": "2026-08-22T19:45:55.456892+00:00"
+  },
+  "puss": {
+    "mint": "9mcmtXTQU4Mzr483XL4wF1UEAip8zevJkTNoBSnCpump",
+    "first_seen": "2026-08-22T19:45:56.865315+00:00"
+  },
+  "elms": {
+    "mint": "EDNBQSEjhsdFfZL3GTwFzMhB8GTYJW2YKaBMEFKGpump",
+    "first_seen": "2026-08-22T19:45:57.808483+00:00"
+  },
+  "security": {
+    "mint": "BmWhJsWDbwd8J8VH7Ekv7o5yGMLg7Fyoc19yLrnGpump",
+    "first_seen": "2026-08-22T19:45:58.328185+00:00"
   }
 }
