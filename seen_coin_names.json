@@ -54154,5 +54154,49 @@
   "catszn": {
     "mint": "918p2GRyDLkhsRvtAHaKZg8yrP5kXSe6CYustqTcpump",
     "first_seen": "2026-08-22T02:55:50.566747+00:00"
+  },
+  "catfather": {
+    "mint": "Ab1D3ocK6gKCBWxVj6qPitfxbArY7dqs2warsXS8pump",
+    "first_seen": "2026-08-22T03:39:04.151477+00:00"
+  },
+  "chonkers": {
+    "mint": "3Ne3kaJGSbxxxthGcLVXGMf7ywcQdhkGpm1yTn8Apump",
+    "first_seen": "2026-08-22T03:39:04.721143+00:00"
+  },
+  "mwh": {
+    "mint": "4oigFFGsMuwh84uA9MKX4XXu66kGRsEZCd7vz8wypump",
+    "first_seen": "2026-08-22T03:39:05.385571+00:00"
+  },
+  "nucinf": {
+    "mint": "79zxMGsoRFJJ1hUTTjLbmq4rbTmvVMossjq5MTvPpump",
+    "first_seen": "2026-08-22T03:39:05.965698+00:00"
+  },
+  "thank": {
+    "mint": "831WNJXR2mhfeQZM9J4Uo2g9L8yt91UXJNwNPheC8VeN",
+    "first_seen": "2026-08-22T03:39:07.184177+00:00"
+  },
+  "grurple": {
+    "mint": "4euDAGcUU2gVhHQAqzFEMS3mkidArD1CGDm7ZDLRpump",
+    "first_seen": "2026-08-22T03:39:08.256726+00:00"
+  },
+  "suptember": {
+    "mint": "4xjF3zSwm3UmTX5o64vbF3HpSTvswfHNwpvQW3U3pump",
+    "first_seen": "2026-08-22T03:39:10.377058+00:00"
+  },
+  "awesome": {
+    "mint": "7G5USYKaqHG9zMYoh4U78NXGyRNoW2Qv7w4nty9223fD",
+    "first_seen": "2026-08-22T03:39:11.466983+00:00"
+  },
+  "boolean": {
+    "mint": "6RxQtFbrKCpYxuFSePVMWs7DFobAVTJc6VgBjXz57Cnj",
+    "first_seen": "2026-08-22T03:39:12.032418+00:00"
+  },
+  "theseus": {
+    "mint": "4RzUYtZgtcNqsfb69vJLvoVu9jcLg5jrz1Kwwuk6pump",
+    "first_seen": "2026-08-22T03:39:12.594749+00:00"
+  },
+  "eyex": {
+    "mint": "C39Eeuq2hFbFP6Qr6zQNiPtDjrk7chDLjkg7WPsJpump",
+    "first_seen": "2026-08-22T03:39:13.156824+00:00"
   }
 }
