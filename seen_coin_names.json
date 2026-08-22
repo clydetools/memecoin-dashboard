@@ -54694,5 +54694,29 @@
   "pawifi": {
     "mint": "FxoSCwn1bBi3PvmHMmxHEyAnzJ1K1KXqWNyaxHXRpump",
     "first_seen": "2026-08-22T15:40:41.970376+00:00"
+  },
+  "thesiscat": {
+    "mint": "7wboonvUgS263Ej7SfbL5YCZTffKweSBZ5BqGK4Mpump",
+    "first_seen": "2026-08-22T15:56:53.210212+00:00"
+  },
+  "barkcoin": {
+    "mint": "4LadF1Ayqi1m2cx9a9Y3doywXnnStRtSXdAF7PDypump",
+    "first_seen": "2026-08-22T15:56:54.611063+00:00"
+  },
+  "mft": {
+    "mint": "Ermy3aGiFV9hfSnNUdXyoUjxnWc4daCU2VFrP2ga1Fcz",
+    "first_seen": "2026-08-22T15:56:57.938709+00:00"
+  },
+  "mcat": {
+    "mint": "ByXtAT4ZQacwissGVnjPLyLMRuRDai8P7BDWwL8Jpump",
+    "first_seen": "2026-08-22T15:56:58.311545+00:00"
+  },
+  "vv": {
+    "mint": "ADSK2uepnhcmzrfyCnm8Be6fgiSY4avJiam7yiFRpump",
+    "first_seen": "2026-08-22T15:56:59.673038+00:00"
+  },
+  "peacko": {
+    "mint": "9vUN2AAkYMvH3onkLfv5V6RBbduFVxbEjaRd2t7ipump",
+    "first_seen": "2026-08-22T15:57:01.073844+00:00"
   }
 }
