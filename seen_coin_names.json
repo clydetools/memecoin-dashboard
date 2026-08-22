@@ -54370,5 +54370,17 @@
   "bdx": {
     "mint": "3UN4rkWgQvnJu85Sdhusoo1o7pvNSZsUjRTxg2vhtKrg",
     "first_seen": "2026-08-22T08:51:09.120771+00:00"
+  },
+  "polarbear": {
+    "mint": "CvUDqYuY5fTuDfCYiM4HUBrtGVqdHoymHkBi4iTWpump",
+    "first_seen": "2026-08-22T09:23:48.392934+00:00"
+  },
+  "kikuchiyo": {
+    "mint": "252PmoABNG8z5QDn7C4mwZNbbwAvbFj9VnyqhTyNpump",
+    "first_seen": "2026-08-22T09:23:49.141034+00:00"
+  },
+  "tnl": {
+    "mint": "CcEKiLpG2tPGztzYnwExtkF1CTTNS2by7t4qom1Bpump",
+    "first_seen": "2026-08-22T09:23:49.555205+00:00"
   }
 }
