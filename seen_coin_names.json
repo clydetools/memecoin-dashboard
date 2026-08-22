@@ -54350,5 +54350,25 @@
   "spinner": {
     "mint": "DEby7vj61CSFFmVmi6JB3K2LEnuZLRn1xc78oc12pump",
     "first_seen": "2026-08-22T08:13:00.461697+00:00"
+  },
+  "nudaeng": {
+    "mint": "24eFMQMfhykdPsxFsusbKB36frNLHfSQC7EmfY8hpump",
+    "first_seen": "2026-08-22T08:51:02.215625+00:00"
+  },
+  "litt": {
+    "mint": "FbbqyucLz87vNpxK4T6eo2sRvXfyLLcQZZQ1hdKxpump",
+    "first_seen": "2026-08-22T08:51:02.871090+00:00"
+  },
+  "vell": {
+    "mint": "EPBk5rh1iXYpGjPF6Aw5sHJHUVoTSGAHCErePXVxpump",
+    "first_seen": "2026-08-22T08:51:03.971108+00:00"
+  },
+  "reactor": {
+    "mint": "6J5NkjiUWYKuynH4qTHgr4wX38m4NwgqKJ14jfuNpump",
+    "first_seen": "2026-08-22T08:51:04.526747+00:00"
+  },
+  "bdx": {
+    "mint": "3UN4rkWgQvnJu85Sdhusoo1o7pvNSZsUjRTxg2vhtKrg",
+    "first_seen": "2026-08-22T08:51:09.120771+00:00"
   }
 }
