@@ -54546,5 +54546,33 @@
   "luny": {
     "mint": "654ZBNYZ2oFgvvwkdQYa9e5s1jeQNHRjSvocEy1Dpump",
     "first_seen": "2026-08-22T13:17:05.159634+00:00"
+  },
+  "veloxcity": {
+    "mint": "FyPuQmmoufZ5JRoHrCNSzmKJVLNtDZP36sg8C1kspump",
+    "first_seen": "2026-08-22T13:47:10.607384+00:00"
+  },
+  "nutgooning": {
+    "mint": "EJQFiimxvRRm8WDaBptvuTcdmQXtynjLtnbzE1ZGpump",
+    "first_seen": "2026-08-22T13:47:11.757288+00:00"
+  },
+  "rpc": {
+    "mint": "HGi4GK7oKF2C8zAcWNWLv92pBbB8QXBQRSpVcJd4pump",
+    "first_seen": "2026-08-22T13:47:12.162736+00:00"
+  },
+  "hypnobags": {
+    "mint": "DhbouzzY3ieYfda61rWBqdzdCuQ3mXyxVYQ3Jn4Cpump",
+    "first_seen": "2026-08-22T13:47:12.945239+00:00"
+  },
+  "qr": {
+    "mint": "55SxAGxr3AZB23c1RqMuF7zRitERVJdZb8prkHVapump",
+    "first_seen": "2026-08-22T13:47:13.698802+00:00"
+  },
+  "rup": {
+    "mint": "AyySbjn1tAhvhvGrzsv6fwmZczYyLWS65kzu2FfPpump",
+    "first_seen": "2026-08-22T13:47:14.481512+00:00"
+  },
+  "rstintel": {
+    "mint": "68jXwPU4vY3rYwJeg7HCMCRfNctHD9xcojBYiF5opump",
+    "first_seen": "2026-08-22T13:47:14.880858+00:00"
   }
 }
