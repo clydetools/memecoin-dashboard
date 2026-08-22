@@ -55110,5 +55110,17 @@
   "pawfessor": {
     "mint": "HZgFzAxh8tgdkQ7ebrqYNp3U1XS6KMyX8L1Mo2BPpump",
     "first_seen": "2026-08-22T21:41:31.488730+00:00"
+  },
+  "snooted": {
+    "mint": "GugK76WfUnarXJQPnSdDtmewZ2A2djAhC2YSX3AYpump",
+    "first_seen": "2026-08-22T22:00:52.990729+00:00"
+  },
+  "claudish": {
+    "mint": "9ViLpfVspRWF8ZfTmpB9VTx933fKxMyKMVhg4mPapump",
+    "first_seen": "2026-08-22T22:00:55.208202+00:00"
+  },
+  "jess": {
+    "mint": "E81xJRd5G4VAtM863eSCJMa7p17CLPC4hr5x9dRTpump",
+    "first_seen": "2026-08-22T22:01:00.133309+00:00"
   }
 }
