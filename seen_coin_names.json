@@ -55182,5 +55182,29 @@
   "veyr": {
     "mint": "AUFDDhfp3tGbat7YVmc6iJPR2YDNUTQf24H6mLQXsL7m",
     "first_seen": "2026-08-22T23:17:47.041624+00:00"
+  },
+  "jfa": {
+    "mint": "AT3uwvcva2o4xbsmqBucPVgEPh1bYoaE6zrXab8Qpump",
+    "first_seen": "2026-08-22T23:39:52.841001+00:00"
+  },
+  "miniu": {
+    "mint": "FqqdtU5gxk4omkC2hr3gZAiGEjhUGwDSV6KnAT81pump",
+    "first_seen": "2026-08-22T23:40:01.216999+00:00"
+  },
+  "aifi": {
+    "mint": "Dr98AWPR2CQJ3DGLqrtpiPvebjM92mLLjyWP4Hc3qJyk",
+    "first_seen": "2026-08-22T23:40:08.359653+00:00"
+  },
+  "kabusocoin": {
+    "mint": "7e9MLPULcF81JnudtEgv9ajbvRNgFYsCheaxyambpump",
+    "first_seen": "2026-08-22T23:40:08.725675+00:00"
+  },
+  "wofi": {
+    "mint": "D2hY6xaXxBqyw3P1a25mqRydVYvPb6NsV6wHmS1pump",
+    "first_seen": "2026-08-22T23:40:11.479524+00:00"
+  },
+  "tjhc": {
+    "mint": "2dzEcGhZL9ncjDUJdqkrxRppNFA74hwqf7Md7Y5ppump",
+    "first_seen": "2026-08-22T23:40:11.849937+00:00"
   }
 }
