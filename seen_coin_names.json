@@ -54718,5 +54718,25 @@
   "peacko": {
     "mint": "9vUN2AAkYMvH3onkLfv5V6RBbduFVxbEjaRd2t7ipump",
     "first_seen": "2026-08-22T15:57:01.073844+00:00"
+  },
+  "eyed": {
+    "mint": "7WxriU6BYL2dYbpHNZjz6HayLFcvgxHmtALDfhEjpump",
+    "first_seen": "2026-08-22T16:23:04.834781+00:00"
+  },
+  "thermalify": {
+    "mint": "UUeR3GqzyDpPHDLCk23hV4DYxDekSmPQkX46w8Ypump",
+    "first_seen": "2026-08-22T16:23:07.108000+00:00"
+  },
+  "moons": {
+    "mint": "7wRQCi2uci1BGPrCVGGbvULk35uhEXUwyq7MNYruKzdD",
+    "first_seen": "2026-08-22T16:23:07.514138+00:00"
+  },
+  "rektd": {
+    "mint": "81LS25iG38AVfnmTo92bcvw3FhyHAsXYB44vAxRLpump",
+    "first_seen": "2026-08-22T16:23:08.961019+00:00"
+  },
+  "scientist": {
+    "mint": "8xh2fBopXCmVswhbYpkpG9sPznnFDT7PKwLYHDaVpump",
+    "first_seen": "2026-08-22T16:23:09.362707+00:00"
   }
 }
