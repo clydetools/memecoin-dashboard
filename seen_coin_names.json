@@ -54790,5 +54790,41 @@
   "coai": {
     "mint": "5TmgHFcmnmQQqDPLatYRrCrVeuGqnp5UNe9pujjACYfZ",
     "first_seen": "2026-08-22T16:49:23.908292+00:00"
+  },
+  "jjwetherholt": {
+    "mint": "BqSrQyybeqRuSdKNMCsDXUcbRtnSWS7kDPFpRzF1pump",
+    "first_seen": "2026-08-22T17:06:55.332387+00:00"
+  },
+  "catesem": {
+    "mint": "UQA2nak58xLnEBQ1tANNbxPDaVmZZHBfwdFFZVKpump",
+    "first_seen": "2026-08-22T17:06:55.948866+00:00"
+  },
+  "catetrump": {
+    "mint": "E69b4wz6QC91A4s9NNuzqVAB2oT8QE8gRmAb5hBCpump",
+    "first_seen": "2026-08-22T17:06:56.563203+00:00"
+  },
+  "kt": {
+    "mint": "BrKkVDQXqpM6vXbyVFytJt1XizbN3QygzCiAPZBKpump",
+    "first_seen": "2026-08-22T17:06:57.692644+00:00"
+  },
+  "krybon": {
+    "mint": "GTuwy8BuhQ3F9pDBWBf2FB7To5ySN57BDhvrxeKryboN",
+    "first_seen": "2026-08-22T17:06:58.223080+00:00"
+  },
+  "mct": {
+    "mint": "EqE7arTgySUCkSsA7joAPZzcPPZSrxbJcvxK1DGnpump",
+    "first_seen": "2026-08-22T17:07:05.180812+00:00"
+  },
+  "yield": {
+    "mint": "BaNEuxFzwYFB6NbgwKeESJcE7LUMixNoHDpngATTpump",
+    "first_seen": "2026-08-22T17:07:05.753869+00:00"
+  },
+  "bercan": {
+    "mint": "9i4oDxX5GHzk7coMUgLHgPmFCEt4V9QyoHHhRnP7pump",
+    "first_seen": "2026-08-22T17:07:06.271024+00:00"
+  },
+  "solsnake": {
+    "mint": "Cmq6zG1Q8zMyqJheiDZowQFMLDxFBYQ5pu82RgZLpump",
+    "first_seen": "2026-08-22T17:07:06.839803+00:00"
   }
 }
