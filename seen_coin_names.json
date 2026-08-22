@@ -54482,5 +54482,29 @@
   "glowpaw": {
     "mint": "2Wg5e9F2wjaV1Qdu75WRxTtTNRyhdkqy1aBJ3jDxpump",
     "first_seen": "2026-08-22T11:32:08.733595+00:00"
+  },
+  "coniglio": {
+    "mint": "6LJAbuvLAAqWwUabmFwGKYJ7EYhZ1KENHW9kaQwBpump",
+    "first_seen": "2026-08-22T11:54:31.980218+00:00"
+  },
+  "yoshi": {
+    "mint": "EnUKV2JCow8VXof3hraJT9wMLT4PAGVAv8bJ3pVvpump",
+    "first_seen": "2026-08-22T11:54:32.485560+00:00"
+  },
+  "mani": {
+    "mint": "38wzoEGPGRQUmm16byq65mnUkgqp69inYC4fJ7Cipump",
+    "first_seen": "2026-08-22T11:54:34.411495+00:00"
+  },
+  "pdm": {
+    "mint": "6cTfQdrA46dPNMd1Fv5VxQUs7XbreRfXFYmnNx9ipump",
+    "first_seen": "2026-08-22T11:54:35.208828+00:00"
+  },
+  "ustf": {
+    "mint": "bxwjh9eoCgvvvy8hXUUWBWWCkbDXvqz33WR7Zj4pump",
+    "first_seen": "2026-08-22T11:54:35.611638+00:00"
+  },
+  "wolv": {
+    "mint": "7Eg9HJmHFTCJxuEsqL6uJXzNdF5EBpaR3m434KnFpump",
+    "first_seen": "2026-08-22T11:54:36.002986+00:00"
   }
 }
