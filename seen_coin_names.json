@@ -56442,5 +56442,33 @@
   "bor": {
     "mint": "3hZYC5ck2yF1TxJ7o1GfoYpt7ukXVdihY3sayqtDpump",
     "first_seen": "2026-08-23T23:01:50.041959+00:00"
+  },
+  "shivers": {
+    "mint": "3etwBt6CSKxSfFH517dTnSG4wm6LGvxPtZf3odmTpump",
+    "first_seen": "2026-08-23T23:32:34.022190+00:00"
+  },
+  "maxcoin": {
+    "mint": "8bNXrgFkp55bvbdor3DvzSp59fwxuvJPzVmwSVMYpump",
+    "first_seen": "2026-08-23T23:32:34.587964+00:00"
+  },
+  "ppepe": {
+    "mint": "GiEbvKhZkffQhkRxHf8kPpyJ5WoxZbqBCeFpJHvhpump",
+    "first_seen": "2026-08-23T23:32:35.223124+00:00"
+  },
+  "amazingcat": {
+    "mint": "3igK1teeGpu2WZ6mhcz9tJ2ZeuyW7ioYhJEEjyKPpump",
+    "first_seen": "2026-08-23T23:32:38.510760+00:00"
+  },
+  "hornz": {
+    "mint": "HB3UDuEPCXcUAu46QuKiFMWBiRPhGmbduC4ZHpuTpump",
+    "first_seen": "2026-08-23T23:32:39.576935+00:00"
+  },
+  "tappy": {
+    "mint": "Hpep8QPnzZ45XFKzzTWaaNTH6S5Aha8RKTatSCy5bvV3",
+    "first_seen": "2026-08-23T23:32:45.747878+00:00"
+  },
+  "goblincoin": {
+    "mint": "FC8D5Hs59Dx8dJpxdYjqcosk5XNcLaSqFMGqxaGgpump",
+    "first_seen": "2026-08-23T23:32:46.530008+00:00"
   }
 }
