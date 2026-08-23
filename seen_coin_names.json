@@ -55726,5 +55726,49 @@
   "tripleq": {
     "mint": "GtNEgH3c9VkEUKjPf9vCyEzqotEX7ansLtUxnbYkpump",
     "first_seen": "2026-08-23T15:25:43.755823+00:00"
+  },
+  "paulie": {
+    "mint": "72uN7mdTTpMrYGhZGuYENufN81Kc2EF1s44m8gBSpump",
+    "first_seen": "2026-08-23T15:46:34.856011+00:00"
+  },
+  "atom": {
+    "mint": "yeNveZtqsmqoQx4ZJFYdAUKzK58cfJpRefKtstppump",
+    "first_seen": "2026-08-23T15:46:36.166226+00:00"
+  },
+  "ccn": {
+    "mint": "HkhReSYGFVMC8WJ86nhMG46FKZKMqe18GphbCoyPEaDo",
+    "first_seen": "2026-08-23T15:46:36.765791+00:00"
+  },
+  "antisocial": {
+    "mint": "3ahNaDgZRvpXaFKBQN8gQ8AuLb8p6C5Skh8YXeLJVDo4",
+    "first_seen": "2026-08-23T15:46:37.380908+00:00"
+  },
+  "wuflo": {
+    "mint": "311hiQu5nRqXdQ7Pk4r9JgvdYLAX6x9y2tYhUGfEpump",
+    "first_seen": "2026-08-23T15:46:37.983617+00:00"
+  },
+  "fuccyberl": {
+    "mint": "J7bQ9Lhng4GG2rxrAnPrWJSQ4BHHdsh6NDVKmLbepump",
+    "first_seen": "2026-08-23T15:46:38.594170+00:00"
+  },
+  "joseph": {
+    "mint": "6cWAz2gFKr1MiCVzW8BmShBz15hNU26QyRodbkyfpump",
+    "first_seen": "2026-08-23T15:46:39.164738+00:00"
+  },
+  "dn": {
+    "mint": "64aZEbjKE65G23mGHKV5S7HTSg3K2fyAMrYgCzkgpump",
+    "first_seen": "2026-08-23T15:46:39.731692+00:00"
+  },
+  "fluffy": {
+    "mint": "EF25yLG8ERkXy6aAe887d73vVhf4rXLA14pJKgHXpump",
+    "first_seen": "2026-08-23T15:46:40.313574+00:00"
+  },
+  "808mafia": {
+    "mint": "GRCMcE3Kx9V2jYaBGE4kCy1TE7PsUftDsvg3mz8epump",
+    "first_seen": "2026-08-23T15:46:53.206331+00:00"
+  },
+  "watti": {
+    "mint": "HTPZ8KgU2TAXKc72iGyYWTpMCDw5gYp4hjEdgVsLpump",
+    "first_seen": "2026-08-23T15:46:53.410800+00:00"
   }
 }
