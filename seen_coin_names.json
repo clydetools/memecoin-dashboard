@@ -55246,5 +55246,29 @@
   "needsol": {
     "mint": "9va2zBnaBGFaDDXuMfQAugPN21mweth1R5BKpHwnpump",
     "first_seen": "2026-08-23T01:15:22.856116+00:00"
+  },
+  "cfi": {
+    "mint": "DyjFDbAmyJmKevHt3jV5t37cp3P7ZELX2Myu8pMapump",
+    "first_seen": "2026-08-23T02:38:43.437545+00:00"
+  },
+  "tsutsuji": {
+    "mint": "7z9VHRPhHbgPWHSBC7NMrH2w4AtYdcg2ENvPuDbEpump",
+    "first_seen": "2026-08-23T02:38:44.430504+00:00"
+  },
+  "littlereg": {
+    "mint": "AoZ121BXaSRzRDVtCwkDXpRmRUtC2cLmYMsWwFBppump",
+    "first_seen": "2026-08-23T02:38:45.294028+00:00"
+  },
+  "boggy": {
+    "mint": "GMEhF4sFXd9PRR9KJo7hyPjeHdcdg5yxTNP22KKNyWvZ",
+    "first_seen": "2026-08-23T02:38:50.883357+00:00"
+  },
+  "yomogi": {
+    "mint": "4978aTN9W3CDuUREGxAQaBYqhPXt8142N4o4Sfgzpump",
+    "first_seen": "2026-08-23T02:38:50.967554+00:00"
+  },
+  "michael": {
+    "mint": "HTn6f5nuzSAxC6Pp7zNgSyHzvjQMigdSSMfXeQN8r3t8",
+    "first_seen": "2026-08-23T02:38:51.512724+00:00"
   }
 }
