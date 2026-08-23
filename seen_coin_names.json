@@ -55634,5 +55634,21 @@
   "vor": {
     "mint": "7rj3WNZLK1iU1uR4YmH8xTLTq8FGSw2a9tQwdwqQjedN",
     "first_seen": "2026-08-23T13:49:23.320017+00:00"
+  },
+  "ninja": {
+    "mint": "8dkTQuBREiknS89UmHuuZUGkNEfKonJ5EVPGD4h6pump",
+    "first_seen": "2026-08-23T14:09:45.760454+00:00"
+  },
+  "pawheelie": {
+    "mint": "9gNQWBdGB3ae8YQheYCSZjfstvm6x3QmSHYjCn1zpump",
+    "first_seen": "2026-08-23T14:09:49.280298+00:00"
+  },
+  "hashdog": {
+    "mint": "FwhzgCiRaNDtnQhTY8wE4zw8W8w2zxKkaySZTnmf2n8Z",
+    "first_seen": "2026-08-23T14:09:56.480360+00:00"
+  },
+  "stonkdex": {
+    "mint": "FFT4bgyrvzyB5TKAziLkAzBj8mboduzJeDdZ27TU4FHm",
+    "first_seen": "2026-08-23T14:09:57.144630+00:00"
   }
 }
