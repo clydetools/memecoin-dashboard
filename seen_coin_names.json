@@ -55814,5 +55814,45 @@
   "cyberdog": {
     "mint": "D3KxoUnQdZZUnQcpmxb9Ktb26rDndURseog6DPsVpump",
     "first_seen": "2026-08-23T16:02:42.523970+00:00"
+  },
+  "bigbugai": {
+    "mint": "69NhBpzcFWSXHpYdKG6PB9HPicQr8BVooZEZBJvApump",
+    "first_seen": "2026-08-23T16:38:40.042686+00:00"
+  },
+  "green90s": {
+    "mint": "Fiw2ioP9GMr2pSdZnwom7r749ovbYwT4HeER5JFFpump",
+    "first_seen": "2026-08-23T16:38:40.995086+00:00"
+  },
+  "veera": {
+    "mint": "FfE4ds1NRKEt86wTPjkEiu5HJbuPLUz7G8ZGCMbqpump",
+    "first_seen": "2026-08-23T16:38:41.912244+00:00"
+  },
+  "cfm": {
+    "mint": "BH5XapxF4vrdUB4kdswj15PauMF46LpxaH4hsMCTpump",
+    "first_seen": "2026-08-23T16:38:42.336467+00:00"
+  },
+  "poteto": {
+    "mint": "2s65R6VtmCR3ouSmw4RcsZBN1P78HMhPSewuhQGzpump",
+    "first_seen": "2026-08-23T16:38:45.056129+00:00"
+  },
+  "demo": {
+    "mint": "HDGACGi7jsCPuuuW5Y9Vt1AACRMf2Lf1fKjKbZ5tiMmZ",
+    "first_seen": "2026-08-23T16:38:45.483311+00:00"
+  },
+  "trafish": {
+    "mint": "24zxJp5EwPsZdZxo2PxPvNanA6RPfKN351MQqXn4pump",
+    "first_seen": "2026-08-23T16:38:46.089799+00:00"
+  },
+  "cybergrok": {
+    "mint": "HQVgPDfLPGq69xzqYzH5revb9os9GNrthVuTsufypump",
+    "first_seen": "2026-08-23T16:38:48.168691+00:00"
+  },
+  "stpm": {
+    "mint": "HbvurnE36wEDUHqta1DZQSkSCQDKf6LBzExD99YLpump",
+    "first_seen": "2026-08-23T16:38:49.384868+00:00"
+  },
+  "esper": {
+    "mint": "EgreRFQrBk9mRsjAkBwkqybQuXqHX8gGouL6RnVQpump",
+    "first_seen": "2026-08-23T16:38:56.094272+00:00"
   }
 }
