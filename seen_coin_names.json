@@ -55890,5 +55890,53 @@
   "stonkcat": {
     "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
     "first_seen": "2026-08-23T16:59:53.992796+00:00"
+  },
+  "tripleg": {
+    "mint": "9ZmnPV1nw7KcfENgLBhcsPXJj3kpntbf7x5e9thw21Yt",
+    "first_seen": "2026-08-23T17:26:22.924855+00:00"
+  },
+  "pi402": {
+    "mint": "EJU8J5JQA38n6UB9D2xBdLEJ778GR528PkxPJTgZpump",
+    "first_seen": "2026-08-23T17:26:23.702054+00:00"
+  },
+  "lsp": {
+    "mint": "5gkC8btmnWxfLxXreDZgqda9ZGLMu6ZrF85EryZrpump",
+    "first_seen": "2026-08-23T17:26:24.245016+00:00"
+  },
+  "coflix": {
+    "mint": "D3Vm1bZfMhrWpVbMorSxof8dnkLmJtm9S9Rf9Eynpump",
+    "first_seen": "2026-08-23T17:26:24.800463+00:00"
+  },
+  "quadg": {
+    "mint": "6BjiscBQhwzAgZDoHHc4kgutQD27A4aHGLW4HuDBpump",
+    "first_seen": "2026-08-23T17:26:26.850268+00:00"
+  },
+  "feed1earth": {
+    "mint": "8JV1b38wUorFgPhvBtZ2QjG8HuKUhv2AXpU4vKCRpump",
+    "first_seen": "2026-08-23T17:26:27.393010+00:00"
+  },
+  "gameplay": {
+    "mint": "D4MjtSs1cMReHUAsjgDWHgyM3TGiUKQuSSvDQ7eppump",
+    "first_seen": "2026-08-23T17:26:27.943670+00:00"
+  },
+  "nihil": {
+    "mint": "DXqKpmmS9yCDEWZ1zkCqP12HDojRjr1k8Df8CXoJpump",
+    "first_seen": "2026-08-23T17:26:29.033605+00:00"
+  },
+  "garfield": {
+    "mint": "8HG23ocf2HvuQcxcKoeVFWQ4CbwqBczTWHW4pxAFdgxy",
+    "first_seen": "2026-08-23T17:26:29.573411+00:00"
+  },
+  "quadrupleg": {
+    "mint": "HvG6UKQ8UHMcuHu5iLwgqr3bM9fCjWoEKC2zyBXCMaWc",
+    "first_seen": "2026-08-23T17:26:30.660197+00:00"
+  },
+  "nexora": {
+    "mint": "25catQg3wdH2w9jJsrEixM79zthQxGGyZgzK42Ykpump",
+    "first_seen": "2026-08-23T17:26:31.210820+00:00"
+  },
+  "cybercoin": {
+    "mint": "ErWFD2gFDxxvvo2bVY9PLS6cNqP5EZtRz8PjBp7Epump",
+    "first_seen": "2026-08-23T17:26:36.302000+00:00"
   }
 }
