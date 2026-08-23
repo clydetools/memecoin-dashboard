@@ -55698,5 +55698,33 @@
   "bitmine": {
     "mint": "6No3VzLHB4rK7Xu4iMmZnTLvPeJMnewvPvgfnY2HHFNs",
     "first_seen": "2026-08-23T14:58:21.915059+00:00"
+  },
+  "leona": {
+    "mint": "sd7HWb3mRuvyzPaJxb5291qBhZKMjjxGr7aE6pNpump",
+    "first_seen": "2026-08-23T15:25:37.872661+00:00"
+  },
+  "solid": {
+    "mint": "8fF5f3rvBvqzwiF3WMztNdeDrLPkfZwzkPqGWYAkpump",
+    "first_seen": "2026-08-23T15:25:38.541899+00:00"
+  },
+  "solanachicken": {
+    "mint": "Bzt53tDi8jTimTU7bBgsyFRyy4deNzFkNdgNNfXfpump",
+    "first_seen": "2026-08-23T15:25:39.532648+00:00"
+  },
+  "dogsem": {
+    "mint": "DVQw7a9mq3FkP1sTH9x7VxUmGHXTpE7j85FZ25hYpump",
+    "first_seen": "2026-08-23T15:25:40.023442+00:00"
+  },
+  "copytrador": {
+    "mint": "EkhQHqLyYrHJkuUz8tN9J76aXEND2JqisvXQwm85pump",
+    "first_seen": "2026-08-23T15:25:41.003253+00:00"
+  },
+  "ghostrider": {
+    "mint": "4yU5xCxEBybBzmZpx6eopFM9ukcTQAPhVFnkXn5fpump",
+    "first_seen": "2026-08-23T15:25:42.421407+00:00"
+  },
+  "tripleq": {
+    "mint": "GtNEgH3c9VkEUKjPf9vCyEzqotEX7ansLtUxnbYkpump",
+    "first_seen": "2026-08-23T15:25:43.755823+00:00"
   }
 }
