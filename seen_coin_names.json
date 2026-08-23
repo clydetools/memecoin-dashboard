@@ -55386,5 +55386,17 @@
   "moneycat": {
     "mint": "FpgyXFTkmBFECHxAVMXexUjd9XVQyLkPsFSaLZoEpump",
     "first_seen": "2026-08-23T07:21:50.923634+00:00"
+  },
+  "babyfour": {
+    "mint": "F6Q7mv7Ujrejthoyzz1cs23aiwWbaD9JptD3NSnypump",
+    "first_seen": "2026-08-23T07:56:08.115830+00:00"
+  },
+  "shep": {
+    "mint": "Ft2E4vpbRab75utnY9cUfmsKAX16rAnt44wq3e6Xpump",
+    "first_seen": "2026-08-23T07:56:08.823617+00:00"
+  },
+  "pepebot": {
+    "mint": "4JbptXa7fpvcDPFDeZcA9WMi6iT8JiKx4wTyZZnhpump",
+    "first_seen": "2026-08-23T07:56:09.964715+00:00"
   }
 }
