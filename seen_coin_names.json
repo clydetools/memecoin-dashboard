@@ -55378,5 +55378,13 @@
   "ckc": {
     "mint": "5pves3xebK9Yn6otbZsXecg2WjASgh3voSSk7eJTpump",
     "first_seen": "2026-08-23T06:43:58.168094+00:00"
+  },
+  "pen": {
+    "mint": "26SUgbV6QiVGYNLqCfBoKxzkTxMnwP88NiqBanZBpump",
+    "first_seen": "2026-08-23T07:21:42.674027+00:00"
+  },
+  "moneycat": {
+    "mint": "FpgyXFTkmBFECHxAVMXexUjd9XVQyLkPsFSaLZoEpump",
+    "first_seen": "2026-08-23T07:21:50.923634+00:00"
   }
 }
