@@ -56106,5 +56106,37 @@
   "solism": {
     "mint": "EbhVNzWcRiLFYXdnQ3iHqaLyyY7tmKBcuA1WWcPUpump",
     "first_seen": "2026-08-23T18:41:00.352294+00:00"
+  },
+  "solaners": {
+    "mint": "86UmMMcyEFNrVA7qNirpoy9DYSJqZvvohSQ7Fiejpump",
+    "first_seen": "2026-08-23T19:03:30.564219+00:00"
+  },
+  "paxtonog": {
+    "mint": "5JTyrGE9MfjdEq8yn15wMor4SY9ZiuhJqm3juVfBpump",
+    "first_seen": "2026-08-23T19:03:31.382360+00:00"
+  },
+  "looplet": {
+    "mint": "2G76curJeGo9wf2fQQcATSnAKwL7EP1ZV9Pa6odQpump",
+    "first_seen": "2026-08-23T19:03:31.825796+00:00"
+  },
+  "catboobs": {
+    "mint": "69PGWcbJQQboscPXEDV49acKMYYVacA8Z7ZL2A6Vpump",
+    "first_seen": "2026-08-23T19:03:33.917039+00:00"
+  },
+  "olav": {
+    "mint": "Cwd1YCvVBFLwmyEGQANQNDvyZZzaK9PJ4NZU2ocLpump",
+    "first_seen": "2026-08-23T19:03:34.308412+00:00"
+  },
+  "cyberdoge": {
+    "mint": "G4D4V3RNFZV74k21JZwTmLK4AzXwGDEivGtWq4Q7pump",
+    "first_seen": "2026-08-23T19:03:35.094865+00:00"
+  },
+  "nils": {
+    "mint": "kx6Recur63G4jebD48TafxyCZJqg33cCDtN8mxppump",
+    "first_seen": "2026-08-23T19:03:35.501418+00:00"
+  },
+  "cyberchud": {
+    "mint": "2ohKySZNhdD8aFw5a6fmTyyDHL2cb6TMRfAneQ78pump",
+    "first_seen": "2026-08-23T19:03:36.646509+00:00"
   }
 }
