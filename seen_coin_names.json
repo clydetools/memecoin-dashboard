@@ -55438,5 +55438,17 @@
   "damn": {
     "mint": "2Fk7n3WfzpQryfnQ1RYeSmsXWk1TjKtE8uiBMz3ZBR5G",
     "first_seen": "2026-08-23T09:53:45.028373+00:00"
+  },
+  "kittpidd": {
+    "mint": "CCKuFzvELxSKvrDyMtZ4LAniWyhEws43Z6Fcq7Cepump",
+    "first_seen": "2026-08-23T10:20:15.491847+00:00"
+  },
+  "gocoin": {
+    "mint": "J26Mj3Jcc6GmNeapjo7Fk644m17jguK8mbUHFrUMpump",
+    "first_seen": "2026-08-23T10:20:17.228761+00:00"
+  },
+  "mememory": {
+    "mint": "9RuUCPqgyePaB7kiRSqtzmDbomhY2TmUEivsoEUzpump",
+    "first_seen": "2026-08-23T10:20:18.310291+00:00"
   }
 }
