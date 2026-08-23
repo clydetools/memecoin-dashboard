@@ -55362,5 +55362,21 @@
   "pokeahoe": {
     "mint": "HRvw81mktEraX9gZLTHKeYGaFygCSNKuAwNLVE6Tpump",
     "first_seen": "2026-08-23T05:58:04.046078+00:00"
+  },
+  "isa": {
+    "mint": "ETr4gwKKGQy27kJG24Chx8AvVTT61C34DHrwcxPYpump",
+    "first_seen": "2026-08-23T06:43:53.680220+00:00"
+  },
+  "gtamenu": {
+    "mint": "2TZgDJ32CXL3DhBzxonXiRba3qYy4q9XMBggp9hbpump",
+    "first_seen": "2026-08-23T06:43:54.432389+00:00"
+  },
+  "shitcoins": {
+    "mint": "C9XhF68KmX9cqwHYAV8m8UMtkxfvfBGAtrsN8Afjpump",
+    "first_seen": "2026-08-23T06:43:56.351097+00:00"
+  },
+  "ckc": {
+    "mint": "5pves3xebK9Yn6otbZsXecg2WjASgh3voSSk7eJTpump",
+    "first_seen": "2026-08-23T06:43:58.168094+00:00"
   }
 }
