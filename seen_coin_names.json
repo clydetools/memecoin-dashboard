@@ -57082,5 +57082,49 @@
   "ruganon": {
     "mint": "9RtxKX9Xw59wfZ4e2YAZXrhHhyHSEN6Zt1YCJqw9pump",
     "first_seen": "2026-08-24T17:58:50.287675+00:00"
+  },
+  "jm": {
+    "mint": "F5xqGEcyy3oigCU96c4RHhML2qD2GRS9NRYsoWZmpump",
+    "first_seen": "2026-08-24T18:47:10.062093+00:00"
+  },
+  "bogus": {
+    "mint": "FXYa4mCUGyyNYDphDgkhXEDg2vSJESh31SU6eP5xpump",
+    "first_seen": "2026-08-24T18:47:10.501552+00:00"
+  },
+  "duffy": {
+    "mint": "Gd8HdWFeSREcDjRJDn2fBaWiF6HEEP3kbaFqJ9brpump",
+    "first_seen": "2026-08-24T18:47:10.879906+00:00"
+  },
+  "49ers": {
+    "mint": "GscBbn23Ak5trS4818iS7v95SctCmftnRhefxPqppump",
+    "first_seen": "2026-08-24T18:47:11.252762+00:00"
+  },
+  "pumpedin": {
+    "mint": "FNM49EyKtx1kSfGLhRDoRdA4bgP9pHFY5DthzRFhpump",
+    "first_seen": "2026-08-24T18:47:11.667286+00:00"
+  },
+  "perplexkitty": {
+    "mint": "Cd265UbJUdw3cP4aWHMahfY3tSQx42BYwd83pum2pump",
+    "first_seen": "2026-08-24T18:47:12.063003+00:00"
+  },
+  "reece": {
+    "mint": "3zRCt5eoQ2D1G4ppp9U2aaxZ51A4PwEXeDQUDtAXpump",
+    "first_seen": "2026-08-24T18:47:13.172287+00:00"
+  },
+  "rcs": {
+    "mint": "dMBXwNNLTrsNfcgrrZvKie6nhppXdZKEvBQp6KRpump",
+    "first_seen": "2026-08-24T18:47:14.257030+00:00"
+  },
+  "toyify": {
+    "mint": "Fef3aUbnBE5zxqdJ6g4GF94wsbymYP1WezFetZbtpump",
+    "first_seen": "2026-08-24T18:47:16.004120+00:00"
+  },
+  "125": {
+    "mint": "3nLznbzEwnVWK5W9oxHhf3k9A7ekE7Mwyvq6pCvJpump",
+    "first_seen": "2026-08-24T18:47:16.441660+00:00"
+  },
+  "allocate": {
+    "mint": "6XPcEY6XbhjKmfnrvA3y6QQvNp4rYLV6v3Hm5b4Mpump",
+    "first_seen": "2026-08-24T18:47:21.512495+00:00"
   }
 }
