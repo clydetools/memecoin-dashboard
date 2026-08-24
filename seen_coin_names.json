@@ -57042,5 +57042,45 @@
   "architecture": {
     "mint": "AP8Wnu37Gf9RHgugPKGvpHe6LcTE2yp5GDy7pL5Upump",
     "first_seen": "2026-08-24T17:28:03.164435+00:00"
+  },
+  "miniso": {
+    "mint": "9zKuPEeL4Pi8PnjeBEgbQoviRq9oaxdpfLdzd5X6pump",
+    "first_seen": "2026-08-24T17:58:42.058861+00:00"
+  },
+  "quincy": {
+    "mint": "CJsfn5sdhnD5zjxtN744FVGt5KsoXEZ1BpyuQaSnpump",
+    "first_seen": "2026-08-24T17:58:42.773748+00:00"
+  },
+  "chouchou": {
+    "mint": "8EGHXE9Qm1cA1TeE4FP8cvvhEop6Q68nQVpa37prpump",
+    "first_seen": "2026-08-24T17:58:43.409729+00:00"
+  },
+  "ceiling": {
+    "mint": "CbRQD6U4qiynnQQJqZdmbJmZiLqndcCBvd8BwkrTpump",
+    "first_seen": "2026-08-24T17:58:44.677535+00:00"
+  },
+  "tenderheart": {
+    "mint": "5ng9g9MToDtUUbcCL7o1YTEpyeYfe1eVHiCdXQuupump",
+    "first_seen": "2026-08-24T17:58:45.259079+00:00"
+  },
+  "matarla": {
+    "mint": "HxtZd2UtA1GanvFLjbwxy6PB4yEzz6xZK3985LxvULbe",
+    "first_seen": "2026-08-24T17:58:45.828425+00:00"
+  },
+  "wumbo": {
+    "mint": "Ct48hr6F938EVBbyGc5EvtrdwREseRuYXzDv11dnpump",
+    "first_seen": "2026-08-24T17:58:46.399435+00:00"
+  },
+  "chiwawa": {
+    "mint": "HYu1fUKF31sCTLWkucGWbP7yf9VmS1bcjWyE1uJKpump",
+    "first_seen": "2026-08-24T17:58:47.506100+00:00"
+  },
+  "giftbear": {
+    "mint": "C47ygMMqJJuKtepxJVsMhmPsv1TFyAUwc49cgjigfzjM",
+    "first_seen": "2026-08-24T17:58:49.711247+00:00"
+  },
+  "ruganon": {
+    "mint": "9RtxKX9Xw59wfZ4e2YAZXrhHhyHSEN6Zt1YCJqw9pump",
+    "first_seen": "2026-08-24T17:58:50.287675+00:00"
   }
 }
