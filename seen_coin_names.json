@@ -57254,5 +57254,29 @@
   "ahts": {
     "mint": "CxThkADKK4DDYqB8GBPaEAgRBzwxyPyUhFcBUmiAzN6N",
     "first_seen": "2026-08-24T20:13:46.227127+00:00"
+  },
+  "gucciansem": {
+    "mint": "C5VWSEVebzndLw7gJYhmm6D2YSNpg64rCRL9Acdbpump",
+    "first_seen": "2026-08-24T20:51:39.490065+00:00"
+  },
+  "lfjeet": {
+    "mint": "5mc8yaE29bRQksbWs2rjbyHxXuE4vakPWjYawzUzpump",
+    "first_seen": "2026-08-24T20:51:40.888722+00:00"
+  },
+  "animesem": {
+    "mint": "8mkzbc5kqKocpLKocXFwZncex9ZxVRXRZRfTTaw8kCFd",
+    "first_seen": "2026-08-24T20:51:44.001667+00:00"
+  },
+  "bard": {
+    "mint": "ksg7pUYgAfwxTUwR4377QJg6gf28XyevnyGYUfQpump",
+    "first_seen": "2026-08-24T20:51:44.623876+00:00"
+  },
+  "tm": {
+    "mint": "5UoMi3f1p5NSdbFQ9k6Z62CNEPVnSFB6GnmqE3BJpump",
+    "first_seen": "2026-08-24T20:51:48.369562+00:00"
+  },
+  "paper": {
+    "mint": "4gfeUvEU7uhgZAc68Gtq1bMp9qa9stSnWubnH3L2g5YZ",
+    "first_seen": "2026-08-24T20:51:48.995025+00:00"
   }
 }
