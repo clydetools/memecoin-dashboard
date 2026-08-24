@@ -57278,5 +57278,69 @@
   "paper": {
     "mint": "4gfeUvEU7uhgZAc68Gtq1bMp9qa9stSnWubnH3L2g5YZ",
     "first_seen": "2026-08-24T20:51:48.995025+00:00"
+  },
+  "hour": {
+    "mint": "C66LnxQLDaJ7wqLT7feGNPY7c81wydpMJdpg2imtpump",
+    "first_seen": "2026-08-24T21:25:32.814796+00:00"
+  },
+  "slopcannon": {
+    "mint": "9sboHxzvLKZH4pC212dpz3JAk5HonqEKg8596TSfpump",
+    "first_seen": "2026-08-24T21:25:34.655748+00:00"
+  },
+  "myers": {
+    "mint": "GyQiZJt9xCuYSuNkkauBpgEKpZQgrZQpzPA3Svfdpump",
+    "first_seen": "2026-08-24T21:25:35.075956+00:00"
+  },
+  "farokh": {
+    "mint": "BgXynDbbkEXDZHP6WQeBFp2i7srKgRGo5zLVNEYmpump",
+    "first_seen": "2026-08-24T21:25:35.821172+00:00"
+  },
+  "autistico": {
+    "mint": "Afz4gWf7kKg2LgXZgNvR27TjKBdYaUAm7ViRET9kpump",
+    "first_seen": "2026-08-24T21:25:36.221796+00:00"
+  },
+  "lofi": {
+    "mint": "9QeWYri9AyD5kEo7GW5QBXg9gujAHxGpU8HC1rQXpump",
+    "first_seen": "2026-08-24T21:25:36.620649+00:00"
+  },
+  "nuvik": {
+    "mint": "4Mg8jgbFLSRk93xdGNySZaykZqwN5MNYSMemFkEdpump",
+    "first_seen": "2026-08-24T21:25:37.025007+00:00"
+  },
+  "fomohour": {
+    "mint": "4MMCR8EUmdCpMkQss9kVoU6xioRC5RFKH86xDhKDpump",
+    "first_seen": "2026-08-24T21:25:38.252234+00:00"
+  },
+  "fruitpups": {
+    "mint": "AMRFh6bXT7ZwhDX1T4RNSHRj91aHJaG1FqoTypJQpump",
+    "first_seen": "2026-08-24T21:25:38.629866+00:00"
+  },
+  "yodo": {
+    "mint": "FLpP7q7i6CDU1wX2Xn9kekYEcXEvDSwFjpQRo32BjzK6",
+    "first_seen": "2026-08-24T21:25:40.785650+00:00"
+  },
+  "chew": {
+    "mint": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
+    "first_seen": "2026-08-24T21:25:42.149503+00:00"
+  },
+  "otcdex": {
+    "mint": "uyqXpgf8sk1K8pV1s4QCVLL9SPWndmR8NDAfD7Zpump",
+    "first_seen": "2026-08-24T21:25:43.834275+00:00"
+  },
+  "pumparello": {
+    "mint": "3dTFyDi2XPEiyX3acUjgLqYuhNDFUiDiAGG9tEijTTDv",
+    "first_seen": "2026-08-24T21:25:44.553643+00:00"
+  },
+  "quantbot": {
+    "mint": "CgkcGf6au3ZgwnV9R3J3hX5dWQpZgmtuFuSg7gyvpump",
+    "first_seen": "2026-08-24T21:25:45.350908+00:00"
+  },
+  "openhuman": {
+    "mint": "VugrPT7Fpp7R8P5zzVxqT1ivhojEfqko59SN3SP233k",
+    "first_seen": "2026-08-24T21:25:45.728127+00:00"
+  },
+  "fckstr": {
+    "mint": "Epep3Fc1TJY5nEJzyzNtKyGguSuQjgnF9eE3G2PX7wpp",
+    "first_seen": "2026-08-24T21:25:51.664931+00:00"
   }
 }
