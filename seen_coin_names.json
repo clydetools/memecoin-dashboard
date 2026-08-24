@@ -57434,5 +57434,29 @@
   "take2": {
     "mint": "AoKz8FAx6kU2CqHiUpS6cUBtEz1romekEBs6R3xRpump",
     "first_seen": "2026-08-24T22:22:28.644788+00:00"
+  },
+  "catstr": {
+    "mint": "8F2U4MAkDAmgCwmVYikGER5rhBxZKtxBrmv8sD27pump",
+    "first_seen": "2026-08-24T22:53:03.954609+00:00"
+  },
+  "kulie": {
+    "mint": "AfRh5G7yNHy1Q4kmej7qn7hwVhfUP8f7FJE5oujCpump",
+    "first_seen": "2026-08-24T22:53:04.359695+00:00"
+  },
+  "lilbit": {
+    "mint": "8KW9hXXSnCCoAPfQk5N3DfuwduQnYgXk62Kwuuurpump",
+    "first_seen": "2026-08-24T22:53:05.516919+00:00"
+  },
+  "sharkcoin": {
+    "mint": "BFJpByEUwEQPto7pUXjyoMWViBtvBDedHhmnT8Srpump",
+    "first_seen": "2026-08-24T22:53:06.221443+00:00"
+  },
+  "nat": {
+    "mint": "HtnSDLGN8eLjBtHuJt7ysNx23W6yVwanPRZ8Kfc4pump",
+    "first_seen": "2026-08-24T22:53:07.911975+00:00"
+  },
+  "flurry": {
+    "mint": "B1Qh8WJ8v9vVfXPWmZrZyDoJeHVnwQqMbARz4iemibyf",
+    "first_seen": "2026-08-24T22:53:13.175720+00:00"
   }
 }
