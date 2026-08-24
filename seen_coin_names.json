@@ -57478,5 +57478,29 @@
   "hatch": {
     "mint": "9JydyXyoXCssdFPkm6nTEYzK5KDoxy5LSg7E8EYLpump",
     "first_seen": "2026-08-24T23:20:15.794924+00:00"
+  },
+  "waffle": {
+    "mint": "6t1kqX49rcLwV5dwx5hH2oqQ1vbqG2VXZayysz7Dpump",
+    "first_seen": "2026-08-24T23:41:49.857587+00:00"
+  },
+  "bigcat": {
+    "mint": "2ySv8WG92P6G1zzB2xHzzyRpyEmdVRdWT2VJ4hYGpump",
+    "first_seen": "2026-08-24T23:41:55.201380+00:00"
+  },
+  "dripwarts": {
+    "mint": "B6dKG3BooN1E4GLu1rNMadC4q2rPh99A6mbEUsHCpump",
+    "first_seen": "2026-08-24T23:41:56.599989+00:00"
+  },
+  "grokvival": {
+    "mint": "BowKf3gybmCfXRD1NYjav5DJiwXq6FoxVdxmqYJ7LDRT",
+    "first_seen": "2026-08-24T23:41:57.011665+00:00"
+  },
+  "bad": {
+    "mint": "2572aVz1gGStHsSGKGcemQDFUcpEKkhmZmHjDu9hpump",
+    "first_seen": "2026-08-24T23:42:02.255810+00:00"
+  },
+  "lorenborde": {
+    "mint": "999HMH5DHzitpNNopYgijf4ozTG7jW3WJAyF2tm8pump",
+    "first_seen": "2026-08-24T23:42:02.982289+00:00"
   }
 }
