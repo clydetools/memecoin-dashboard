@@ -58646,5 +58646,65 @@
   "terminus": {
     "mint": "FNEjQfGKBRm45JUBSaF1aLDgxoe8HRJrYgDbN9Gpump",
     "first_seen": "2026-08-25T22:03:42.903550+00:00"
+  },
+  "kuroneko": {
+    "mint": "8bg9zEYvHsgzb2Euf5yNzNHvBwKpzVmR97saQRrVpump",
+    "first_seen": "2026-08-25T22:41:00.552349+00:00"
+  },
+  "youex": {
+    "mint": "3HFtAF8wBgtBYfW6cbyvTp6nw5REE5Tw8onWyoYdpump",
+    "first_seen": "2026-08-25T22:41:02.083642+00:00"
+  },
+  "fumble": {
+    "mint": "CqzUzgTZPjXT6ABnVAogtCndFKSYnMyQTjTnPJZppump",
+    "first_seen": "2026-08-25T22:41:05.170934+00:00"
+  },
+  "14kcap": {
+    "mint": "7SEN2ZkpgddAAqEXWmwzTPwZpVT537ZX7nVZoif9pump",
+    "first_seen": "2026-08-25T22:41:08.102619+00:00"
+  },
+  "infrocoin": {
+    "mint": "3u83xzrUugVw55TebtsYL3uedHQVRYo3mWH7aXHEpump",
+    "first_seen": "2026-08-25T22:41:09.277954+00:00"
+  },
+  "tagit": {
+    "mint": "3fVm1xv7pEgcTtt8CLuNhH3spMr5ppJ8zygkuUtRpump",
+    "first_seen": "2026-08-25T22:41:09.690635+00:00"
+  },
+  "baos": {
+    "mint": "DoSQ5iCSsM5o91q7qy4ayQ2KewaY2kDtP2PyHAX7pump",
+    "first_seen": "2026-08-25T22:41:10.134365+00:00"
+  },
+  "opossum": {
+    "mint": "Fw1MBHq7HMaEwRMfNXyqd761q4ETnQnnEhBtTo3tpump",
+    "first_seen": "2026-08-25T22:41:10.919213+00:00"
+  },
+  "vsp": {
+    "mint": "H4zm2JVbGHSQicDLKGAAbGaZgyppNrVtJPUEW4yBd2aP",
+    "first_seen": "2026-08-25T22:41:11.342189+00:00"
+  },
+  "doowar": {
+    "mint": "ASAg7k5TtwFUmZfsPjrXSv7e2T4TEEcSrU5A5siRpump",
+    "first_seen": "2026-08-25T22:41:11.742217+00:00"
+  },
+  "habib": {
+    "mint": "8cuAWimK7esKCbLdwDjGvKyKtZNrCN4WUvmRmbXTpump",
+    "first_seen": "2026-08-25T22:41:12.135761+00:00"
+  },
+  "fatbitch": {
+    "mint": "7Jc5wn5oYNXwRvvfx81XtKddSHEeKCPP7LWKxYUfpump",
+    "first_seen": "2026-08-25T22:41:12.534745+00:00"
+  },
+  "ghunt": {
+    "mint": "8tAn24C6z2skPLoJcXRZcsiWfh3jBTFjWVGxAYASpump",
+    "first_seen": "2026-08-25T22:41:12.955015+00:00"
+  },
+  "dampe": {
+    "mint": "5d2RzVV9YhcY3FHEg3YGoZaub4ruoCWCTuhi1UYTpump",
+    "first_seen": "2026-08-25T22:41:18.795004+00:00"
+  },
+  "wave": {
+    "mint": "4AGxpKxYnw7g1ofvYDs5Jq2a1ek5kB9jS2NTUaippump",
+    "first_seen": "2026-08-25T22:41:19.502131+00:00"
   }
 }
