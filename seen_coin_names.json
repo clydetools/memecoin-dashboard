@@ -58758,5 +58758,41 @@
   "bond": {
     "mint": "Ca3HCojfwZN4fYPaDye5kGCx2QEX78CJ9kKPzuHrpump",
     "first_seen": "2026-08-25T23:10:17.842896+00:00"
+  },
+  "chudded": {
+    "mint": "LYtm2VBLdWJ5DgCuaY16W16WyqJgKHoPBgmNHigpump",
+    "first_seen": "2026-08-25T23:36:40.121018+00:00"
+  },
+  "triplek": {
+    "mint": "6NcDhePAqxSTh7Fyeh2xRWk91b5b55bN7nj7iQtXcoRh",
+    "first_seen": "2026-08-25T23:36:41.563354+00:00"
+  },
+  "testtesttestt": {
+    "mint": "5RxDmyMsGVmDwAx9RvfyhprfXacXgCWUY4muJTSARXrz",
+    "first_seen": "2026-08-25T23:36:42.240304+00:00"
+  },
+  "bomw": {
+    "mint": "5xT6VafP7sW2i6sZCkugZmjWtkemjmkE7LycMtSPpump",
+    "first_seen": "2026-08-25T23:36:43.407685+00:00"
+  },
+  "pumpg": {
+    "mint": "fmJzicx4gEVno8Lx9LrgFEo2yqFU9WyQ5WNJEhzpump",
+    "first_seen": "2026-08-25T23:36:45.721654+00:00"
+  },
+  "chrog": {
+    "mint": "5gxyC9BbhuDng1LSLcXg6KUNavTRVNd4HsFca5L2pump",
+    "first_seen": "2026-08-25T23:36:46.361238+00:00"
+  },
+  "kerokero": {
+    "mint": "GTFU7TuuuGUtkBJ8J5QZgGEQHCFWUhEw86YJhd2Zpump",
+    "first_seen": "2026-08-25T23:36:47.545606+00:00"
+  },
+  "choad": {
+    "mint": "8wpWpXtXgiGqRYERWa4Ns3Ydu8mzu2u18sqqHsJCpump",
+    "first_seen": "2026-08-25T23:36:48.155820+00:00"
+  },
+  "nofe": {
+    "mint": "D3nK8u4onZUydi3XSa3CKdSxV2sthDzp2KMAUHkbpump",
+    "first_seen": "2026-08-25T23:36:48.756164+00:00"
   }
 }
