@@ -57642,5 +57642,65 @@
   "silverwhale": {
     "mint": "GLBV9FAMhULQpD6iQMGBSchD9s1Hdzd79VqetVjgpump",
     "first_seen": "2026-08-25T04:21:04.775195+00:00"
+  },
+  "hardhat": {
+    "mint": "DfzhPXe94EFYN6Y2mBhDVAaD6oQVwQaoE2yuEcjCpump",
+    "first_seen": "2026-08-25T05:04:40.858728+00:00"
+  },
+  "meowism": {
+    "mint": "4W7dXTjGBH15oapV3LajLUaenqw1Dzvz4tgYAbnXpump",
+    "first_seen": "2026-08-25T05:04:41.432632+00:00"
+  },
+  "rc2": {
+    "mint": "CUxTCLWx9gK3FZxWVwF33pR4Qgyz9q9CcMuRwbyBpump",
+    "first_seen": "2026-08-25T05:04:42.923678+00:00"
+  },
+  "zorb": {
+    "mint": "9nvrL3BJThipyitSoND4ym6QwcDvCSnLvaJfqPShpump",
+    "first_seen": "2026-08-25T05:04:43.469902+00:00"
+  },
+  "chayet": {
+    "mint": "omYdbT8v6ist3YbaC2pWFNdwiu78JAhQF4gxcwApump",
+    "first_seen": "2026-08-25T05:04:44.129930+00:00"
+  },
+  "web30": {
+    "mint": "J8gYyr36NM35qGTUhrXhgbbuZkMzaGoLN7T8nn7zpump",
+    "first_seen": "2026-08-25T05:04:45.129241+00:00"
+  },
+  "sqblox": {
+    "mint": "GAjHaKVNDSbUd9vYUZzV7oir4Hd7Jy7MHjS4rrrzpump",
+    "first_seen": "2026-08-25T05:04:45.597654+00:00"
+  },
+  "trashy": {
+    "mint": "7CNaeQpDoQ3gbVfABpRXHbxCgie8W2vLF2io5b6spump",
+    "first_seen": "2026-08-25T05:04:46.084383+00:00"
+  },
+  "trumpmaxx": {
+    "mint": "DQdouEAJtLxRbLfjVDztaSAWcJDmgn5yhYWR3obApump",
+    "first_seen": "2026-08-25T05:04:47.072933+00:00"
+  },
+  "glenn": {
+    "mint": "5JDAc3qoEAE1fkc85SqPNVje9Uuxdc2xYLsZc1fapump",
+    "first_seen": "2026-08-25T05:04:48.532181+00:00"
+  },
+  "together": {
+    "mint": "E6pKHyHpHhEWzT2Ja3rvyBLTPGypXcdLeMEr2ikdpump",
+    "first_seen": "2026-08-25T05:04:49.038584+00:00"
+  },
+  "adhdt": {
+    "mint": "Gebr5rgxQrteR64fmmENeVfZWGB1HNxDVWfvBGe4pump",
+    "first_seen": "2026-08-25T05:04:49.544138+00:00"
+  },
+  "nico": {
+    "mint": "8Ji49xXXZuEWX7ttePqEfQNxPXegHved96TMfKQpump",
+    "first_seen": "2026-08-25T05:04:54.300783+00:00"
+  },
+  "mrcate": {
+    "mint": "52ZzDVDPk8S4T1rfKNWSvtDnzhLN8omMK1xLCBBWpump",
+    "first_seen": "2026-08-25T05:04:55.187327+00:00"
+  },
+  "mcu": {
+    "mint": "GeHaZrjKgd5MeFvXxb2GsGFtdwqfbG9K6EjGDoA6pump",
+    "first_seen": "2026-08-25T05:04:56.213223+00:00"
   }
 }
