@@ -57794,5 +57794,21 @@
   "valth": {
     "mint": "24UTLvU1597NmAhQBPrhNfe3hJyXzxxjLtUiVJtJpump",
     "first_seen": "2026-08-25T08:01:56.068988+00:00"
+  },
+  "genocide": {
+    "mint": "4QeNZbGpb5iJJykGyTcw1YtNqxEX3x3GCzEHR2Pcpump",
+    "first_seen": "2026-08-25T08:56:13.829217+00:00"
+  },
+  "banger": {
+    "mint": "qpLWinLnRTmKVsxjYqVZfjBUKktciD7v7cAk6gEpump",
+    "first_seen": "2026-08-25T08:56:14.766184+00:00"
+  },
+  "ethbank": {
+    "mint": "EHjmS13MEC8wbgrqGCqYrCrGjgfDR12UcLmGf8e7pump",
+    "first_seen": "2026-08-25T08:56:15.232419+00:00"
+  },
+  "sigoli": {
+    "mint": "CF2L22TR6oJNLTLN1QWbkoCFyvj3z6qm5VhX7z5F7LJ9",
+    "first_seen": "2026-08-25T08:56:15.711849+00:00"
   }
 }
