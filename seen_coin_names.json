@@ -57810,5 +57810,41 @@
   "sigoli": {
     "mint": "CF2L22TR6oJNLTLN1QWbkoCFyvj3z6qm5VhX7z5F7LJ9",
     "first_seen": "2026-08-25T08:56:15.711849+00:00"
+  },
+  "stripper": {
+    "mint": "EmAK8Lecanw1UzmkySpZPNfU7TMCLXTuKVrXrooBpump",
+    "first_seen": "2026-08-25T09:33:05.700254+00:00"
+  },
+  "bobogng": {
+    "mint": "3E1H9iA3tsrc3PEKQRWxa13nUF3nznxwzGhCLs1jpump",
+    "first_seen": "2026-08-25T09:33:06.257293+00:00"
+  },
+  "ludwig": {
+    "mint": "Abpmxr6wetEBcarcWEruTv3WMQuyYge2zhyd884Vpump",
+    "first_seen": "2026-08-25T09:33:07.321312+00:00"
+  },
+  "duckson": {
+    "mint": "3nhqHTsYrTjj7nRdyMoLQv4QT2L2LRVEw33zae8bpump",
+    "first_seen": "2026-08-25T09:33:08.376936+00:00"
+  },
+  "adrien": {
+    "mint": "2JR99wiHuF3sgRWqcYSE6ZmLECaiSkvJxHSp5ihRwt1c",
+    "first_seen": "2026-08-25T09:33:08.938892+00:00"
+  },
+  "cryptoe": {
+    "mint": "4K4TcWwyZHE4vfEjcxZbiWbFU9mF9czTaAxVpAhSpump",
+    "first_seen": "2026-08-25T09:33:09.501906+00:00"
+  },
+  "glitchbug": {
+    "mint": "5LiGszJaoyfvA3JWB9dHKW9npruhtzTg1LrJ64JQpump",
+    "first_seen": "2026-08-25T09:33:10.108582+00:00"
+  },
+  "doggotile": {
+    "mint": "D8UTYEupWcYKuG9L7qsusPYhHfERbCkTfgJh4THVpump",
+    "first_seen": "2026-08-25T09:33:10.693803+00:00"
+  },
+  "hoops": {
+    "mint": "3h4hQRFEqK7X7VeggKmFE9GmWbmyJnGhgNFmys1hpump",
+    "first_seen": "2026-08-25T09:33:15.416389+00:00"
   }
 }
