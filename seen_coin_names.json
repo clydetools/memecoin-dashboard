@@ -58446,5 +58446,41 @@
   "govc": {
     "mint": "AytcqQK6RBjDq1gP3fgtrhrU4tb5iT9REdYQouQ1pump",
     "first_seen": "2026-08-25T20:04:24.394502+00:00"
+  },
+  "pumpnutspf": {
+    "mint": "5dgVAeSHj8MVWu26eY16vP13JGvRwA6iMs3BV2Q4pump",
+    "first_seen": "2026-08-25T20:41:35.821418+00:00"
+  },
+  "fwwrn": {
+    "mint": "twuPcFFCocEnBbfCLSLdsTMyXBe9ERJMuLD9eXCpump",
+    "first_seen": "2026-08-25T20:41:37.397530+00:00"
+  },
+  "pumpnuts": {
+    "mint": "3PagWWXx1Fr3jQ62Wweyg9PgTsNu7zNd62YCMNHqpump",
+    "first_seen": "2026-08-25T20:41:38.005820+00:00"
+  },
+  "lowkeyman": {
+    "mint": "BCqrKEcWwjJqC6MB6fyc89wpmPdncEqCKggkKerQpump",
+    "first_seen": "2026-08-25T20:41:39.573731+00:00"
+  },
+  "mills": {
+    "mint": "2dXKvLxqEJkvPH7PCX17tgDewJevhACQ9vZb5G7mpump",
+    "first_seen": "2026-08-25T20:41:42.185034+00:00"
+  },
+  "4bitpad": {
+    "mint": "7PuqMWEe27vgjBtZcPYUuWqqmmrobieF1azAREa6hrnH",
+    "first_seen": "2026-08-25T20:41:44.332854+00:00"
+  },
+  "pnuts": {
+    "mint": "AdJ3pEGcU4Uu2NzuswKWAaf8u2bwwHUQFkoTfa1Dpump",
+    "first_seen": "2026-08-25T20:41:45.940946+00:00"
+  },
+  "rugbulltok": {
+    "mint": "ERcaHsmgay3NEGy13qc4qgMgcbWjdv38y8UWDVP2pump",
+    "first_seen": "2026-08-25T20:41:46.561392+00:00"
+  },
+  "boogl": {
+    "mint": "DDn93hF8rJuwMsWFTfUBnvsmExzBnKfg4gULd1Kpump",
+    "first_seen": "2026-08-25T20:41:51.437598+00:00"
   }
 }
