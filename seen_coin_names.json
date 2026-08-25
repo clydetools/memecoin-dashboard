@@ -57502,5 +57502,49 @@
   "lorenborde": {
     "mint": "999HMH5DHzitpNNopYgijf4ozTG7jW3WJAyF2tm8pump",
     "first_seen": "2026-08-24T23:42:02.982289+00:00"
+  },
+  "gaymoney": {
+    "mint": "XkgqvzF9nAWvPa8yu3MzWbN18onx8b22xpuafzgpump",
+    "first_seen": "2026-08-25T00:01:44.445176+00:00"
+  },
+  "danielo": {
+    "mint": "6KEnegTs4BHMEpd4d4D7MU6UugqkuAAcLostgybLpump",
+    "first_seen": "2026-08-25T00:01:45.076973+00:00"
+  },
+  "vrick": {
+    "mint": "Fu1XHXDi8mVtQVR5u7svuMnsUzPf3kXipDdLgoHqpump",
+    "first_seen": "2026-08-25T00:01:46.152276+00:00"
+  },
+  "pfirm": {
+    "mint": "8paMecDARb3vchvxDMimN3216ejPyqFy2yQjsySEpump",
+    "first_seen": "2026-08-25T00:01:46.683444+00:00"
+  },
+  "3years": {
+    "mint": "BBh2wN7Fs6TgJjfoEWR46fbwPxbVx14AcTmGQCy2pump",
+    "first_seen": "2026-08-25T00:01:48.139490+00:00"
+  },
+  "moa": {
+    "mint": "g59hGA28cXR7TjccNvqdDEKhUKgcMrWufjqspUcpump",
+    "first_seen": "2026-08-25T00:01:49.179535+00:00"
+  },
+  "sircat": {
+    "mint": "D6RrevyRq1JHfd4VoJR1z5FsfPaCNMTuRxAyUaSLpump",
+    "first_seen": "2026-08-25T00:01:50.579156+00:00"
+  },
+  "dogeceo": {
+    "mint": "G9hwsNzMVXPU3x7XwqhLwUjPFgggrJXA8uwSGCvYpump",
+    "first_seen": "2026-08-25T00:01:51.111927+00:00"
+  },
+  "bodo": {
+    "mint": "3xQxQ71Rx8Rw5kH4r5pnpawz2ykVtezF3xZv5oavpump",
+    "first_seen": "2026-08-25T00:01:52.608799+00:00"
+  },
+  "babygoblin": {
+    "mint": "6FC5S7UeGFwjpKhTKcM4T5d5e2RaSc5urswc31Gjpump",
+    "first_seen": "2026-08-25T00:01:53.969566+00:00"
+  },
+  "carry": {
+    "mint": "7in5jgs8SoxQeKYpecMGanuPiz1vHKf3rS4SkcVBpump",
+    "first_seen": "2026-08-25T00:01:55.430182+00:00"
   }
 }
