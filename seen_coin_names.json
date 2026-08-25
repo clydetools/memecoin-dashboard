@@ -57874,5 +57874,25 @@
   "homse": {
     "mint": "YFbVSEABdzSuaPZNDcv6NWAJCG1iQkJuNsWNH79pump",
     "first_seen": "2026-08-25T10:04:43.497604+00:00"
+  },
+  "toadcoinyes": {
+    "mint": "BzJpCXSaV9ZoQRr6QcWALwwExymJa2MfQGm5hdTSpump",
+    "first_seen": "2026-08-25T10:46:13.571869+00:00"
+  },
+  "cursor": {
+    "mint": "9EsWdQ33189JHFbMmKz1kigXLhsqaBe8eWKDVYSkkSHd",
+    "first_seen": "2026-08-25T10:46:14.206578+00:00"
+  },
+  "socialfi": {
+    "mint": "BPhxgrFrREdYQmmhjsaSitDTd54k5dqZYMRLxfXBpump",
+    "first_seen": "2026-08-25T10:46:15.310961+00:00"
+  },
+  "swiss": {
+    "mint": "5kbHXe6ha9AUpfoQ8ByyQSR36ozENWCQWjS7Bmn3pump",
+    "first_seen": "2026-08-25T10:46:16.488536+00:00"
+  },
+  "solsol": {
+    "mint": "71CoHonhewsqLVDe9GjZPMMK7xd9SorQrdPAEeaypump",
+    "first_seen": "2026-08-25T10:46:17.037144+00:00"
   }
 }
