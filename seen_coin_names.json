@@ -57726,5 +57726,29 @@
   "maya": {
     "mint": "2vLZz5EGx7CjVRqxjvdm6138aVX2M3mqZjZGBjUFpump",
     "first_seen": "2026-08-25T05:43:53.010508+00:00"
+  },
+  "trumpgoat": {
+    "mint": "6w5qcEwj9VmYs6FCChowFVqqH4L9LAvT42JZ5p18pump",
+    "first_seen": "2026-08-25T06:19:00.443008+00:00"
+  },
+  "via": {
+    "mint": "CCakYr8ujJxUao3n9SWkWMYWXuK22d9yEcKqFRg1pump",
+    "first_seen": "2026-08-25T06:19:01.277128+00:00"
+  },
+  "viacoin": {
+    "mint": "6RYdLJDjH1KZeUD5gdvozuEeLgs31uE4M99eZ1Fzpump",
+    "first_seen": "2026-08-25T06:19:01.682306+00:00"
+  },
+  "owlfn": {
+    "mint": "DKKcmpLBxpGewvggihnFcrrKWCTMf8DpaJgfMjTVpump",
+    "first_seen": "2026-08-25T06:19:02.088920+00:00"
+  },
+  "mingji": {
+    "mint": "CmjgB1D4Qik4txeruiFEA2YefrCpFmdv1FiX8E9Hpump",
+    "first_seen": "2026-08-25T06:19:02.477928+00:00"
+  },
+  "yzi": {
+    "mint": "2PcoFQu3YEahjV85iF6kuxykoM7WCxmMNyBrPDuwtnMQ",
+    "first_seen": "2026-08-25T06:19:07.266584+00:00"
   }
 }
