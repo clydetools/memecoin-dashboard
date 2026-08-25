@@ -57610,5 +57610,37 @@
   "paul": {
     "mint": "4DTx7wajNkEaCwJhMUooHMnU6Ta5vT2Dgks4CjRzpump",
     "first_seen": "2026-08-25T03:35:43.588089+00:00"
+  },
+  "krknp": {
+    "mint": "FBFQGwSWmEmie25uDN6kmrBRWnHhdtJagdEa43Z5pump",
+    "first_seen": "2026-08-25T04:20:58.134243+00:00"
+  },
+  "godres": {
+    "mint": "Dezw26Sc9NzXYUxcXAEBNqEmLihJTvtMxqD1A1u4pump",
+    "first_seen": "2026-08-25T04:20:58.575110+00:00"
+  },
+  "ghodl": {
+    "mint": "8GuakKiDGNj8GfDFFCqTMye6XgchUNwpuUdiXdTApump",
+    "first_seen": "2026-08-25T04:20:59.034801+00:00"
+  },
+  "solscat": {
+    "mint": "CCLHBZJP4d428Ny21fg4noh4fn3oUBxYfCn15Xt1pump",
+    "first_seen": "2026-08-25T04:20:59.471448+00:00"
+  },
+  "bnotb": {
+    "mint": "4kjbqqHquETYECAEYi2qJ3isAZDAR2grR2iuAc2fpump",
+    "first_seen": "2026-08-25T04:20:59.901252+00:00"
+  },
+  "fre": {
+    "mint": "ARLMnQhWDY8Vy87t3gMq6NRmNyRtqEGozkjfwpeypump",
+    "first_seen": "2026-08-25T04:21:04.600143+00:00"
+  },
+  "memelon": {
+    "mint": "FNrwxRPRTtrRtFjogkJXxgY6mB5S71kgiEvjj4UgwV3K",
+    "first_seen": "2026-08-25T04:21:04.688602+00:00"
+  },
+  "silverwhale": {
+    "mint": "GLBV9FAMhULQpD6iQMGBSchD9s1Hdzd79VqetVjgpump",
+    "first_seen": "2026-08-25T04:21:04.775195+00:00"
   }
 }
