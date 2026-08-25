@@ -58182,5 +58182,41 @@
   "10kdog": {
     "mint": "C9HwNWaVVecVm35raAaZBXEa4sQF3hGXszhGKpy3pump",
     "first_seen": "2026-08-25T16:33:59.009546+00:00"
+  },
+  "pimpmydoge": {
+    "mint": "EwkTP1uxCpeMTCYsNB95z9dbCkuKKDsWnMiX68Upump",
+    "first_seen": "2026-08-25T17:09:02.364619+00:00"
+  },
+  "mgts3": {
+    "mint": "GMNnGEUjt3UFwt1MTewo5iphWBsCpsTUcq6aGkTcpump",
+    "first_seen": "2026-08-25T17:09:04.324798+00:00"
+  },
+  "masters": {
+    "mint": "GDhVw1Utx4LrcVMKEXY8Qsb5PCL5briZq5DnDPTkpump",
+    "first_seen": "2026-08-25T17:09:05.430185+00:00"
+  },
+  "lockcat": {
+    "mint": "2u49sWvjjE7BqQMmv4XvfdvPyVWAXZKMoTAMiHybpump",
+    "first_seen": "2026-08-25T17:09:07.701420+00:00"
+  },
+  "happyseb": {
+    "mint": "FG1wH1ajhdG6JMAnWusvQjjGXstC8iXb3FsGPTeNpump",
+    "first_seen": "2026-08-25T17:09:08.268125+00:00"
+  },
+  "porko": {
+    "mint": "G9bnrK5zrmkh2pjA31B8aqTpwbjUogC3cRR5GpYHpump",
+    "first_seen": "2026-08-25T17:09:08.830821+00:00"
+  },
+  "softpaws": {
+    "mint": "6XVpTf8h4SzfvFMwtAqiX8bcG66ykyMutckupycF8e79",
+    "first_seen": "2026-08-25T17:09:09.428132+00:00"
+  },
+  "seb": {
+    "mint": "2J8dfHAFLUpobWTCfo6CrsGzcNBWJG7ibekWtczLpump",
+    "first_seen": "2026-08-25T17:09:12.132013+00:00"
+  },
+  "lik": {
+    "mint": "PgiMb9wk39UCJZMsV2MTqGThSkmnAA4VDF7JikRpump",
+    "first_seen": "2026-08-25T17:09:12.719863+00:00"
   }
 }
