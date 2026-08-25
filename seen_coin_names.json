@@ -57946,5 +57946,45 @@
   "proxy": {
     "mint": "ZqXb9qfoUwM2W8QEXGmhsdYiphHHRtoERY8vMhHpump",
     "first_seen": "2026-08-25T11:12:15.689610+00:00"
+  },
+  "fatbread": {
+    "mint": "2Gqs8xAx4ypujBbJeWLZcKvkntcUbnV4qL1g7YvJpump",
+    "first_seen": "2026-08-25T11:47:04.594509+00:00"
+  },
+  "lip": {
+    "mint": "MUCrrKEbSDN8fmNMnTyYb9wLLmxnSxdTuYhcvkjpump",
+    "first_seen": "2026-08-25T11:47:05.323792+00:00"
+  },
+  "matis": {
+    "mint": "HWJeU5koVC6HEd7FeV9H4avh2VjKEvkgXJkzqFumpump",
+    "first_seen": "2026-08-25T11:47:05.713422+00:00"
+  },
+  "tpp": {
+    "mint": "7BYkwtNBivBAg7TPKqednYtMorkyvguAm4ciYNzXpump",
+    "first_seen": "2026-08-25T11:47:06.463266+00:00"
+  },
+  "proof": {
+    "mint": "2SYQmqFpdSEpEnQccT18obURKCNudaLTCYRAzu61pump",
+    "first_seen": "2026-08-25T11:47:06.852281+00:00"
+  },
+  "yait": {
+    "mint": "5dDTxqg38NUY6ZKKGXXjaopWHt2xc3zSPoKhKmEEpump",
+    "first_seen": "2026-08-25T11:47:11.808398+00:00"
+  },
+  "svmai": {
+    "mint": "Cpzvdx6pppc9TNArsGsqgShCsKC9NCCjA2gtzHvUpump",
+    "first_seen": "2026-08-25T11:47:11.872463+00:00"
+  },
+  "sentai": {
+    "mint": "CXPLyc3EX8WySgEXLbjhuA7vy8EKQokVJYQuJm2jpump",
+    "first_seen": "2026-08-25T11:47:11.943985+00:00"
+  },
+  "daige": {
+    "mint": "HsNx7RirehVMy54xnFtcgCBPDMrwNnJKykageqdWpump",
+    "first_seen": "2026-08-25T11:47:12.031463+00:00"
+  },
+  "soai": {
+    "mint": "2uic5Siiu6kwPoHZDHnhvH1MySx1vmLkVmzUTkc3pump",
+    "first_seen": "2026-08-25T11:47:12.150387+00:00"
   }
 }
