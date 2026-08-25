@@ -57894,5 +57894,57 @@
   "solsol": {
     "mint": "71CoHonhewsqLVDe9GjZPMMK7xd9SorQrdPAEeaypump",
     "first_seen": "2026-08-25T10:46:17.037144+00:00"
+  },
+  "catx": {
+    "mint": "3MwQhwNSmcMxz6CssWYTvDf6wK4eN3eXcjjz7Qvgpump",
+    "first_seen": "2026-08-25T11:12:01.508123+00:00"
+  },
+  "tradeonx": {
+    "mint": "33kvBeM3HLE3RE68Pitivddmct1kY3jqv4J8KBA9pump",
+    "first_seen": "2026-08-25T11:12:02.027801+00:00"
+  },
+  "elm": {
+    "mint": "4WEgDcGsHA5x3xnkWXdQ4FvFFpUgQHz9B9FLjuiUpump",
+    "first_seen": "2026-08-25T11:12:02.537836+00:00"
+  },
+  "scrwar": {
+    "mint": "DrEynUDjoqdWyE9sgJU7NRtqyvtEHxjiZbM3HZnEpump",
+    "first_seen": "2026-08-25T11:12:03.515714+00:00"
+  },
+  "helia": {
+    "mint": "CsNwKrab3SmqEHmBH8zETgpoataPgNSDzTLSC38Cpump",
+    "first_seen": "2026-08-25T11:12:04.174570+00:00"
+  },
+  "meowjong": {
+    "mint": "Es6YDvjtheYMwPdXa9QfhtVjBXiMaw7XwVpVj2vypump",
+    "first_seen": "2026-08-25T11:12:04.742682+00:00"
+  },
+  "thugshaker": {
+    "mint": "3Wgs5mu4xvao3UiR2wcod4oZcnEhAk1UtD2CsY1Bpump",
+    "first_seen": "2026-08-25T11:12:07.195056+00:00"
+  },
+  "binance": {
+    "mint": "FBa53u5AEA3Bzb32MJyBqTXyxVwvaWiVEPMmocVUpump",
+    "first_seen": "2026-08-25T11:12:07.695566+00:00"
+  },
+  "thanks": {
+    "mint": "9ghhqyH9V1i8yJGFcnfhQcYBQ8PTbWVBTsa1ce9Lpump",
+    "first_seen": "2026-08-25T11:12:08.185856+00:00"
+  },
+  "jerk": {
+    "mint": "9Rya6WFnvVvg4oEnweT6vsDqxkqD21AvHYzah8gjpump",
+    "first_seen": "2026-08-25T11:12:08.667604+00:00"
+  },
+  "makhachev": {
+    "mint": "2CMkkaAn1zePNeXt9g2MPVdukLSuC9okPo8X8mq1pump",
+    "first_seen": "2026-08-25T11:12:09.139845+00:00"
+  },
+  "noachan": {
+    "mint": "8gdXk3R7aLJ4N9ME8Lg15pjpfDsWzECADhnyxGspump",
+    "first_seen": "2026-08-25T11:12:15.064144+00:00"
+  },
+  "proxy": {
+    "mint": "ZqXb9qfoUwM2W8QEXGmhsdYiphHHRtoERY8vMhHpump",
+    "first_seen": "2026-08-25T11:12:15.689610+00:00"
   }
 }
