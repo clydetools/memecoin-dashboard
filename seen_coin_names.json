@@ -58218,5 +58218,49 @@
   "lik": {
     "mint": "PgiMb9wk39UCJZMsV2MTqGThSkmnAA4VDF7JikRpump",
     "first_seen": "2026-08-25T17:09:12.719863+00:00"
+  },
+  "perplexity": {
+    "mint": "CYaYCiDN8zGUMayW5ipdJ5xs4mQFkRoqVMFUTSoypump",
+    "first_seen": "2026-08-25T17:44:29.428680+00:00"
+  },
+  "gco": {
+    "mint": "FoVVUKRRNJfMP2LG919AHCHxGXCvGsukoPFV1z4pump",
+    "first_seen": "2026-08-25T17:44:32.440074+00:00"
+  },
+  "etherpump": {
+    "mint": "Dqu1pppAXjujEjzHZXGwJbJekKsYCxnjgp9r1mDBpump",
+    "first_seen": "2026-08-25T17:44:36.177914+00:00"
+  },
+  "scrcan": {
+    "mint": "3TwXLmz57H7QZghrJvsCS59CqcmBn34ePtFbWnDEpump",
+    "first_seen": "2026-08-25T17:44:39.842436+00:00"
+  },
+  "arthro": {
+    "mint": "Gd53NrHnT9tAWs7BDZxjwovw8W4meWh7q6P4phV5pump",
+    "first_seen": "2026-08-25T17:44:44.520932+00:00"
+  },
+  "unhrap": {
+    "mint": "Azk7wB133WPQxtpdUmKaDowTZPRFqD5KUd72dV89pump",
+    "first_seen": "2026-08-25T17:44:45.708201+00:00"
+  },
+  "sirape": {
+    "mint": "pWLac3XWAyFuVcV65GTKWRcXXhRei3qxLDffZsJpump",
+    "first_seen": "2026-08-25T17:44:47.392023+00:00"
+  },
+  "wif2": {
+    "mint": "2VYhwN9AafqfmiEhEmo6so4PWxBn2axVt5w5UvwTpump",
+    "first_seen": "2026-08-25T17:44:47.971647+00:00"
+  },
+  "bait": {
+    "mint": "J5Fs4BgTgNzqXgo6zMcG2JaUjUWQCCr2ahUqyNetpump",
+    "first_seen": "2026-08-25T17:44:49.727274+00:00"
+  },
+  "dubvideoinope": {
+    "mint": "5v9XKmnwfj7tRMLLHXKWQN2ZWqb2eHsRedduUkVApump",
+    "first_seen": "2026-08-25T17:44:50.329671+00:00"
+  },
+  "pumpfolio": {
+    "mint": "J4iSX8U2YaE9tU4G2oJmEacjT5EK9tzAm7kcuKX16CMS",
+    "first_seen": "2026-08-25T17:44:55.939694+00:00"
   }
 }
