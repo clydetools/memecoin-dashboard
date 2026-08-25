@@ -58310,5 +58310,45 @@
   "priapus": {
     "mint": "J6UR4ncv3oEZ7jMo6f7bkDnanbZb41CynbZvQgfGpump",
     "first_seen": "2026-08-25T18:16:26.606266+00:00"
+  },
+  "openbot": {
+    "mint": "dc8RszC2CzyYeWS9sT5NJiFRMLMG8X7fdvQB1HUpump",
+    "first_seen": "2026-08-25T19:01:17.493813+00:00"
+  },
+  "joln": {
+    "mint": "H34NS3XJJry2QxQTkBvxDYHA9YYMfQsVbzFhdBBYpump",
+    "first_seen": "2026-08-25T19:01:18.608397+00:00"
+  },
+  "cambrian": {
+    "mint": "hrjrqQJymGMpbsDdwMXj5nf6zf7sYpWzWGMbx9apump",
+    "first_seen": "2026-08-25T19:01:19.857693+00:00"
+  },
+  "2themoon": {
+    "mint": "2YZgzcau2TNGBm6K5U8aWWYGpwqt1yLWY5KFexSnpump",
+    "first_seen": "2026-08-25T19:01:22.469137+00:00"
+  },
+  "aicat": {
+    "mint": "8jYaRRRqt7SRqC3p31cu84dLoxb8dyZUPyb8fNvHpump",
+    "first_seen": "2026-08-25T19:01:22.998865+00:00"
+  },
+  "webmcp": {
+    "mint": "EvJm4UvoiZTy8vJ3RKt7sy57EoHLQKPjzMzDWEMtpump",
+    "first_seen": "2026-08-25T19:01:23.567344+00:00"
+  },
+  "grokularity": {
+    "mint": "Gi48qDhuYDa13ov15yVTMaou1yx7xzqaxdN26tirpump",
+    "first_seen": "2026-08-25T19:01:25.119244+00:00"
+  },
+  "realbro": {
+    "mint": "KcjDKTb2pEdjjXF465JFW8omzMPAEALNoDJ3wkMNmCo",
+    "first_seen": "2026-08-25T19:01:26.152766+00:00"
+  },
+  "moonbid": {
+    "mint": "ELoidLsGgTtmWbXcZkga9EdiN6tTv223iP2T9741YcLz",
+    "first_seen": "2026-08-25T19:01:26.746229+00:00"
+  },
+  "moltic": {
+    "mint": "GnkitxfvNLGGsXKGckU2Bw9uEnzwmVmJKzTaHpp1pump",
+    "first_seen": "2026-08-25T19:01:32.153909+00:00"
   }
 }
