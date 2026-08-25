@@ -57702,5 +57702,29 @@
   "mcu": {
     "mint": "GeHaZrjKgd5MeFvXxb2GsGFtdwqfbG9K6EjGDoA6pump",
     "first_seen": "2026-08-25T05:04:56.213223+00:00"
+  },
+  "hedgex": {
+    "mint": "6Htj3UHgrRmxLxrGRWPugqhBvdSDACNfiVDHxTQ8pump",
+    "first_seen": "2026-08-25T05:43:44.117877+00:00"
+  },
+  "dtk": {
+    "mint": "BrJLe1duhFANkcTS7vH6r2FhH3S4h2ELD9YvyJuJpump",
+    "first_seen": "2026-08-25T05:43:44.643267+00:00"
+  },
+  "10p": {
+    "mint": "BFazgromD3jhbW9SnvRZbaCEERWWPSGWW51T3VRhYysQ",
+    "first_seen": "2026-08-25T05:43:47.034430+00:00"
+  },
+  "elx": {
+    "mint": "3dwE3SyLLySkyuaCEq6iSs9yJEywTL9AE9oJRTnEpump",
+    "first_seen": "2026-08-25T05:43:47.961561+00:00"
+  },
+  "seyongpark": {
+    "mint": "39fNg98hhpyiRTGD8Gf8y5MwFVgJJZEnDyTMKdDZpump",
+    "first_seen": "2026-08-25T05:43:52.916612+00:00"
+  },
+  "maya": {
+    "mint": "2vLZz5EGx7CjVRqxjvdm6138aVX2M3mqZjZGBjUFpump",
+    "first_seen": "2026-08-25T05:43:53.010508+00:00"
   }
 }
