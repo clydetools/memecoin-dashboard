@@ -59086,5 +59086,25 @@
   "trumppista": {
     "mint": "EumP1q4oc1DVcZAJ4mRBeXpbTRtvkyr8xRrLL4qApump",
     "first_seen": "2026-08-26T05:47:03.154961+00:00"
+  },
+  "phapil": {
+    "mint": "77N5bY8UKNArty1aaWXDBJt5dQ3RSZ6TwqC3Se3Gpump",
+    "first_seen": "2026-08-26T06:21:16.393614+00:00"
+  },
+  "bcyc": {
+    "mint": "5FSSdCvziKdjDbD5YzxknrMGCxJj4sQjuFXByHNppump",
+    "first_seen": "2026-08-26T06:21:22.904487+00:00"
+  },
+  "stressed": {
+    "mint": "69za1bYCSXm3WVEcLyhrBbWriLCXo3XR9j7vvBPBpump",
+    "first_seen": "2026-08-26T06:21:23.637100+00:00"
+  },
+  "cesarr": {
+    "mint": "B2uScJEyvbo2puTkySi9roBEbz97HuFeMaFVWjBvpump",
+    "first_seen": "2026-08-26T06:21:24.040375+00:00"
+  },
+  "nori": {
+    "mint": "Fy4RjVG1WC5MakfdE69psa1LqX4W4AEoRsLZzM9Lpump",
+    "first_seen": "2026-08-26T06:21:24.430964+00:00"
   }
 }
