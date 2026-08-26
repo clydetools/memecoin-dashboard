@@ -59382,5 +59382,49 @@
   "trumpacio": {
     "mint": "DiSMPvKJMJMFsmb1ThZ8vrvF1NcDy79idrkE2SVipump",
     "first_seen": "2026-08-26T14:07:21.274502+00:00"
+  },
+  "wnut": {
+    "mint": "4oqqxDqzD2z5toetw6jEZ3puuVNuS9FAy2wvMyW4pump",
+    "first_seen": "2026-08-26T14:58:47.321462+00:00"
+  },
+  "tbs": {
+    "mint": "HNKXhy8p15boEFj2F5v7h9h8hW3Ls6Z9QXKJxE7tpump",
+    "first_seen": "2026-08-26T14:58:47.791818+00:00"
+  },
+  "evilcat": {
+    "mint": "2jJWarHG7RkDo9Zt5M9eiFcfxyWZSiUc96N8NGYxpump",
+    "first_seen": "2026-08-26T14:58:48.149369+00:00"
+  },
+  "byus": {
+    "mint": "2d2RCD4DtapKBJ3EyVJbkeYn3KoErsWbiJMgDi3Rpump",
+    "first_seen": "2026-08-26T14:58:51.036151+00:00"
+  },
+  "bknuggs": {
+    "mint": "3bm8jk889zcAb9VzfmK9YwgsrYcJMGYqTeWk6Dtepump",
+    "first_seen": "2026-08-26T14:58:51.413364+00:00"
+  },
+  "liuhai": {
+    "mint": "5SY9fms6PnabgqF6zZXaLvLVAT6iwJNSoB1ts2dfpump",
+    "first_seen": "2026-08-26T14:58:51.795573+00:00"
+  },
+  "caulde": {
+    "mint": "GVndTVECi1b6Hkg9ZDJyqS5VRniekwCi9uB1a4Kfpump",
+    "first_seen": "2026-08-26T14:58:52.542904+00:00"
+  },
+  "pipoken": {
+    "mint": "7b5RkwzJL58xzeBdyiD4ibMUkpYt3fshRv3i1i1epump",
+    "first_seen": "2026-08-26T14:58:53.278673+00:00"
+  },
+  "skibi": {
+    "mint": "AWssUSaVsMZMVLxUTUZKJHXaGXLa1XodHNKR11odpump",
+    "first_seen": "2026-08-26T14:58:53.659239+00:00"
+  },
+  "bullu": {
+    "mint": "26sN5EXFpsGvQUZ1iJWzFsdUDdtiRJoKL2MoFRzopump",
+    "first_seen": "2026-08-26T14:58:54.010979+00:00"
+  },
+  "nancy": {
+    "mint": "5q1s61U65sgZ3RJLA5Smp4exqvrc1CMULJ7Bj32Cpump",
+    "first_seen": "2026-08-26T14:58:54.393527+00:00"
   }
 }
