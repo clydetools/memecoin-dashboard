@@ -59158,5 +59158,33 @@
   "gpd": {
     "mint": "VkGwWUW2wCmTkWreyE8eNAXENNrD46EVf9i27LHpump",
     "first_seen": "2026-08-26T08:08:14.373869+00:00"
+  },
+  "fbk": {
+    "mint": "F8jQszSsbPEUB27Sbj3E1Hn6q3ndBEZtQw116yAqpump",
+    "first_seen": "2026-08-26T08:59:39.285135+00:00"
+  },
+  "wittgensteine": {
+    "mint": "C4kivWbN6ELiRVcUdxS153ZtD4R7Zh9yvcCBB997pump",
+    "first_seen": "2026-08-26T08:59:40.138183+00:00"
+  },
+  "rab": {
+    "mint": "9S8rDrqQB9cgFYY5w3EUVAjcSjRxSjhiqL4jV9DQpump",
+    "first_seen": "2026-08-26T08:59:40.545384+00:00"
+  },
+  "hailey": {
+    "mint": "7t6DTMe14GF1krnMF2W6HfKK8WJbsKanKLguqjgopump",
+    "first_seen": "2026-08-26T08:59:40.940519+00:00"
+  },
+  "minions": {
+    "mint": "fsPfU1TgTxk9J67ByVj7a3GSwJi6mMaQcDineMLpump",
+    "first_seen": "2026-08-26T08:59:42.064881+00:00"
+  },
+  "dubai": {
+    "mint": "8qUsBudP6dzCHd6urvdFQnHxsWYHHHRe8F3HGCoPpump",
+    "first_seen": "2026-08-26T08:59:42.454447+00:00"
+  },
+  "wittgenstein": {
+    "mint": "68rG18jMKdKxqqjW4SZV4Qx72yYZ4bhHjzP6jm8Fpump",
+    "first_seen": "2026-08-26T08:59:43.171887+00:00"
   }
 }
