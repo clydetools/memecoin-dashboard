@@ -59186,5 +59186,29 @@
   "wittgenstein": {
     "mint": "68rG18jMKdKxqqjW4SZV4Qx72yYZ4bhHjzP6jm8Fpump",
     "first_seen": "2026-08-26T08:59:43.171887+00:00"
+  },
+  "human": {
+    "mint": "FMoLQBzb5s2F2WWiBRX6ELHy3JDqCpoRv9rtqsjcpump",
+    "first_seen": "2026-08-26T09:51:11.225930+00:00"
+  },
+  "st": {
+    "mint": "GKDuD5UnnULyQJ91fmgT2D81GvVhke8MbFTvWuVspump",
+    "first_seen": "2026-08-26T09:51:13.967749+00:00"
+  },
+  "freya": {
+    "mint": "4cv81HsoF9zpacmra4uajj13Qumf5aSGfF3wt3dcpump",
+    "first_seen": "2026-08-26T09:51:15.615279+00:00"
+  },
+  "freyja": {
+    "mint": "6jZ6StjGAS3oJgSA57Q75L1HtH7ubv2ePd4yBiCNfPgV",
+    "first_seen": "2026-08-26T09:51:16.173507+00:00"
+  },
+  "frug": {
+    "mint": "FzJ1Cm4kwEjiPmfna8WXWwjC7i41KnB9oi9wz3nHpump",
+    "first_seen": "2026-08-26T09:51:23.442388+00:00"
+  },
+  "giraflux": {
+    "mint": "2DDKvWKVJLwuJPHdn97KHyGSeYwjt7Tp7VqtP7EHpump",
+    "first_seen": "2026-08-26T09:51:24.197304+00:00"
   }
 }
