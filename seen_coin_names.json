@@ -58902,5 +58902,65 @@
   "sabl": {
     "mint": "DaPayqzdCXcrmvgz9Wx7MySipXxcSofGPtkMgVdqpump",
     "first_seen": "2026-08-26T01:14:17.547998+00:00"
+  },
+  "manjug": {
+    "mint": "DsTroB4pcLtRRkAL8ZVGm1nW1e7vmpkF9R6joZ7Ppump",
+    "first_seen": "2026-08-26T02:40:46.876027+00:00"
+  },
+  "wih": {
+    "mint": "vk2HiCL83DuaFgXMp8d7n7UhL8fuKkTMY3pg3mXpump",
+    "first_seen": "2026-08-26T02:40:47.275647+00:00"
+  },
+  "fuku": {
+    "mint": "24tbAaMucLPy56sz7LCfS2p4baewL1aAzr3SA7Lbpump",
+    "first_seen": "2026-08-26T02:40:47.650211+00:00"
+  },
+  "ih": {
+    "mint": "Fea85U1Gemz3Mug7BuZ4b4mKzbGdkE9G48NTWZVmpump",
+    "first_seen": "2026-08-26T02:40:48.024890+00:00"
+  },
+  "13000": {
+    "mint": "217SbGxvwmh3vYyrywKwBkJeWnCWMiYpstUJWHwxpump",
+    "first_seen": "2026-08-26T02:40:48.935882+00:00"
+  },
+  "mainstock": {
+    "mint": "DxVxTv3bTqzcq5wfdt2xdTSP7Zcar9gV9mfm6Hfvpump",
+    "first_seen": "2026-08-26T02:40:49.346948+00:00"
+  },
+  "topbuy": {
+    "mint": "9WvLHvbuEFFbxhAmfnFRbDNQ8rZqJNL1xPCvXwQNpump",
+    "first_seen": "2026-08-26T02:40:49.747615+00:00"
+  },
+  "robodoge": {
+    "mint": "78Ye3dzBqY4EMHW4sGHuNMUpaEC7Kar3cMd4iVF1pump",
+    "first_seen": "2026-08-26T02:40:50.129598+00:00"
+  },
+  "badgers": {
+    "mint": "2rr2nb6ULqtgSPxWGSEe3dbpWzcfYU2dg1ANLNY7G8TG",
+    "first_seen": "2026-08-26T02:40:55.209103+00:00"
+  },
+  "bleeter": {
+    "mint": "EvryHzcZvErrg3rivWcoEngV18KzAEUKphAf7MYDpump",
+    "first_seen": "2026-08-26T02:40:57.252737+00:00"
+  },
+  "neth": {
+    "mint": "AB1A18CYsr7PGDTqVkmJJmyCV5w3KwC3xGRdjFe8pump",
+    "first_seen": "2026-08-26T02:40:58.932442+00:00"
+  },
+  "wellwell": {
+    "mint": "GAfYnCBGi1XT2xTio9JUEcHDVuRCXWaLNoMuJUcPpump",
+    "first_seen": "2026-08-26T02:40:59.310870+00:00"
+  },
+  "redleek": {
+    "mint": "6Hd3q4WMq1uPyzfPwu6govfsbof3xERoRck9uG2jpump",
+    "first_seen": "2026-08-26T02:40:59.696810+00:00"
+  },
+  "didid": {
+    "mint": "8E5pw1g1nQpmgVyeS1vZx8LokAZvuZgL6G1Uhr4iVbAB",
+    "first_seen": "2026-08-26T02:41:03.963364+00:00"
+  },
+  "catetacio": {
+    "mint": "CSZnMhi3MLu5Z2W3unxgMjZM4usKC7eNspXiZfgQpump",
+    "first_seen": "2026-08-26T02:41:04.773538+00:00"
   }
 }
