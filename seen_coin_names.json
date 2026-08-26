@@ -59586,5 +59586,57 @@
   "mcdx": {
     "mint": "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
     "first_seen": "2026-08-26T20:08:00.326743+00:00"
+  },
+  "trumppower": {
+    "mint": "C64DiJr4GJb5WLvcYRDHSiiydcnFrH6Fc1bufb3Apump",
+    "first_seen": "2026-08-26T23:28:45.582262+00:00"
+  },
+  "beagle": {
+    "mint": "4dNpieU3wmn1zy7vZ4Zk53anyAZvA8KxJiv1caNHpump",
+    "first_seen": "2026-08-26T23:28:46.513892+00:00"
+  },
+  "perchi": {
+    "mint": "Edz412SG336x3jeDdC6mRRCr6zo2osncDbtN5Yeipump",
+    "first_seen": "2026-08-26T23:28:48.046269+00:00"
+  },
+  "indira": {
+    "mint": "eZxx6vyKDuCY1v9BvXyd9vcgJPqK1Ey4vBNVjnWpump",
+    "first_seen": "2026-08-26T23:28:48.830985+00:00"
+  },
+  "charoc": {
+    "mint": "2YwW6oMSEQoazWs22PqijiUio6PjWuPdykFiw6Yrpump",
+    "first_seen": "2026-08-26T23:28:50.701416+00:00"
+  },
+  "michibip": {
+    "mint": "GS9npBXc9aTbVxe8DCKcTt1DYo7cRL2F4zB1nJB3pump",
+    "first_seen": "2026-08-26T23:28:51.097141+00:00"
+  },
+  "gliage": {
+    "mint": "C2gymEZZDRPEbeWYk2rbcAKDavnEYqk1k6z9x3T8pump",
+    "first_seen": "2026-08-26T23:28:51.874807+00:00"
+  },
+  "morphi": {
+    "mint": "8HWxdiXBxtTNKhhrUCjsR8wgrAzcf26yaJnPaLuNpump",
+    "first_seen": "2026-08-26T23:28:52.655399+00:00"
+  },
+  "beagles": {
+    "mint": "9FmLFrvQFKiQSHU9CdVtnWMQCsRo5FGcmj6tGYX6pump",
+    "first_seen": "2026-08-26T23:28:53.371473+00:00"
+  },
+  "nucspe": {
+    "mint": "Hi2tUmLqyQAUyj6W916oMHZ5R1bDw59v5YUDqMgFpump",
+    "first_seen": "2026-08-26T23:28:54.089937+00:00"
+  },
+  "dod": {
+    "mint": "3aTpfof6xw6GZAxKXFdX4fGn5BBK2MXdPT8rS4WUpump",
+    "first_seen": "2026-08-26T23:28:59.316126+00:00"
+  },
+  "poopings": {
+    "mint": "EpSnqeJ1n2yaugCZT7hkqr7QvVQamduuB3A2yZMmpump",
+    "first_seen": "2026-08-26T23:28:59.910169+00:00"
+  },
+  "twitter": {
+    "mint": "2pAL1orRGyYTmfxw7SmdXCNyb3b9pvmuyFYoon8ppump",
+    "first_seen": "2026-08-26T23:29:01.263226+00:00"
   }
 }
