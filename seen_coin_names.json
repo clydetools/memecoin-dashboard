@@ -59106,5 +59106,37 @@
   "nori": {
     "mint": "Fy4RjVG1WC5MakfdE69psa1LqX4W4AEoRsLZzM9Lpump",
     "first_seen": "2026-08-26T06:21:24.430964+00:00"
+  },
+  "criwiz": {
+    "mint": "6N5koW3DXRCo4UPrDer6Mqd15RdniuWSPdaGDuKEpump",
+    "first_seen": "2026-08-26T07:25:30.137521+00:00"
+  },
+  "laffir": {
+    "mint": "9wUxESyjsSde4EivkDDD56ErgoZs4wsvcTE6v6frpump",
+    "first_seen": "2026-08-26T07:25:30.632014+00:00"
+  },
+  "toxwar": {
+    "mint": "2QHPicYB3w7boJerarquaEBmZM4yHBSGUENc6YS9pump",
+    "first_seen": "2026-08-26T07:25:31.058442+00:00"
+  },
+  "dogstacio": {
+    "mint": "DwzCfYeV1TnBf63RobaUy9irLrxfGa2fJshZqXPspump",
+    "first_seen": "2026-08-26T07:25:31.825606+00:00"
+  },
+  "dfdvx": {
+    "mint": "Xs2yquAgsHByNzx68WJC55WHjHBvG9JsMB7CWjTLyPy",
+    "first_seen": "2026-08-26T07:25:36.479944+00:00"
+  },
+  "hezbollah": {
+    "mint": "7d34BMyizTuS6PaTU4zfgMC3WMqGsiRuWpJKa1ttUPrb",
+    "first_seen": "2026-08-26T07:25:36.580697+00:00"
+  },
+  "rcl": {
+    "mint": "GwgD26JUPRwGs44HDDoDBNvdAjpXrgsDwB6VN5Zdpump",
+    "first_seen": "2026-08-26T07:25:36.675620+00:00"
+  },
+  "meowzart": {
+    "mint": "kwmFrypdhdGvcGduaBWwMwPy5qa3v6TTkX7VJc7pump",
+    "first_seen": "2026-08-26T07:25:37.048404+00:00"
   }
 }
