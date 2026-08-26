@@ -59554,5 +59554,37 @@
   "holycoin": {
     "mint": "HaBLedy6wxJwxUmkRvcmYPkKBPqJ1mqUYfeH8geLpump",
     "first_seen": "2026-08-26T18:14:18.690488+00:00"
+  },
+  "savmon": {
+    "mint": "6oyYzCNH9BjYtss74ux35aRNSnYDDwELKsYhk2T8pump",
+    "first_seen": "2026-08-26T20:07:43.622788+00:00"
+  },
+  "snp500": {
+    "mint": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+    "first_seen": "2026-08-26T20:07:44.731417+00:00"
+  },
+  "chimi": {
+    "mint": "72yBgVVq3XUUVepVSfatHPUcgxoDKp8cHamPeMskGyXE",
+    "first_seen": "2026-08-26T20:07:46.299398+00:00"
+  },
+  "5050": {
+    "mint": "F58cK1DqYPBnkeD24KT5wjvzDjD87ToSCJ2RB3NZpump",
+    "first_seen": "2026-08-26T20:07:46.874251+00:00"
+  },
+  "mayhemgod": {
+    "mint": "BBW6ZM5Ja7XWG7NvWocL75stHeDha52ozD4VpnRRpump",
+    "first_seen": "2026-08-26T20:07:51.116664+00:00"
+  },
+  "doggystyle": {
+    "mint": "HmiYC7GJkieX77Ad8FbfzvKZLV8mUPFErT4iihjApump",
+    "first_seen": "2026-08-26T20:07:57.212814+00:00"
+  },
+  "cybertrump": {
+    "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
+    "first_seen": "2026-08-26T20:07:58.237638+00:00"
+  },
+  "mcdx": {
+    "mint": "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
+    "first_seen": "2026-08-26T20:08:00.326743+00:00"
   }
 }
