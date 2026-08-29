@@ -59954,5 +59954,45 @@
   "meowsaurus": {
     "mint": "28aewpMQ8xzDeVbEWVDP2qx8Ft44hR1gFsEAqY8tpump",
     "first_seen": "2026-08-29T03:48:29.060904+00:00"
+  },
+  "uft": {
+    "mint": "2kDPKbuZtdZEZk3cKMHYUGNe72y83f2A4kNXNHNepump",
+    "first_seen": "2026-08-29T10:28:36.601146+00:00"
+  },
+  "oneshot": {
+    "mint": "8Hsvb6DyC96oAForahezY9ixyMW21xmoHfQTcWG4pump",
+    "first_seen": "2026-08-29T10:28:37.476035+00:00"
+  },
+  "sdawg": {
+    "mint": "FyEYXu4kAA1nPphZ9T7vzdSZRP53vsmNzJEY6gjGpump",
+    "first_seen": "2026-08-29T10:28:38.516203+00:00"
+  },
+  "euro2": {
+    "mint": "Bx5Finbkt3Ce8Uqze91xgev2Ugxf4qApLjRjy4kxpump",
+    "first_seen": "2026-08-29T10:28:40.004344+00:00"
+  },
+  "cable": {
+    "mint": "AzT8TpUEFYGxxozTUKLeygdRXTZwvsbb69Nw65eZpump",
+    "first_seen": "2026-08-29T10:28:41.134860+00:00"
+  },
+  "floodhouse": {
+    "mint": "88yoe1kYDvuMwpzfVujsp8B7u8LdrhfVNDvtLkj4pump",
+    "first_seen": "2026-08-29T10:28:42.288495+00:00"
+  },
+  "bluehouse": {
+    "mint": "DJ83eyBTEzBehmpz8jdmXqrGgpgCsJoN15RC53Wcpump",
+    "first_seen": "2026-08-29T10:28:46.825893+00:00"
+  },
+  "chillape": {
+    "mint": "5mFZZzyUawGknigAxf3zkQQtSpnYqSGUg5bRz3b3pump",
+    "first_seen": "2026-08-29T10:28:46.929755+00:00"
+  },
+  "daejon": {
+    "mint": "4eHuQcGJY9QP5zUPMwUV4r2ECr1DRgJoHbMBnPKRpump",
+    "first_seen": "2026-08-29T10:28:47.030663+00:00"
+  },
+  "rehanfal": {
+    "mint": "4GCmJ87xRchBREMVpgZWiyJPUgzkhkyzt8MbddsDULx7",
+    "first_seen": "2026-08-29T10:28:48.915995+00:00"
   }
 }
