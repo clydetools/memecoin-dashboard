@@ -60194,5 +60194,25 @@
   "azure": {
     "mint": "BvPsRv4yWjazNdJFkoGCenupgnMaABY82EhucxqTkRSN",
     "first_seen": "2026-08-29T23:24:07.969677+00:00"
+  },
+  "shytcoin": {
+    "mint": "uc46HBVMVmRPZm4iM6bL1foBHnHQRqpEghUUindpump",
+    "first_seen": "2026-08-30T01:27:02.325227+00:00"
+  },
+  "kiffindor": {
+    "mint": "6A3n7Q7tHeYFJfHLL9H16dougS5U8fCFJ5DmRCtWpump",
+    "first_seen": "2026-08-30T01:27:17.742357+00:00"
+  },
+  "gfi": {
+    "mint": "5jpdDGs7WnNNHLTQ8WNs6Ex6YuwwDd4a35g2FFxdpump",
+    "first_seen": "2026-08-30T01:28:34.641173+00:00"
+  },
+  "blackman": {
+    "mint": "8zcuVmu7bEvp3nYx5qayoLiNu6heqFocUzbrd8kApump",
+    "first_seen": "2026-08-30T01:28:47.712399+00:00"
+  },
+  "tako": {
+    "mint": "HGsR3hAw1ch7ZvQUzYRkKBYxBy3dzCEceikif6typump",
+    "first_seen": "2026-08-30T01:29:58.300467+00:00"
   }
 }
