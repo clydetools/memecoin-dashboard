@@ -60274,5 +60274,49 @@
   "trumpstacy": {
     "mint": "59iQSbZvRcGb67FLVRPDWekRTELjq7ykC98UJbPipump",
     "first_seen": "2026-08-30T12:50:16.390583+00:00"
+  },
+  "sd3": {
+    "mint": "C1XQpBD7jacX3vrNGiNU5oH5pbYHDieWQhLRADMxpump",
+    "first_seen": "2026-08-30T17:00:50.362978+00:00"
+  },
+  "fartcorner": {
+    "mint": "8T19qnpkgM6MUJPbkk4baLnUNKeivG5gPfgdYFRxpump",
+    "first_seen": "2026-08-30T17:00:51.331451+00:00"
+  },
+  "m6paow": {
+    "mint": "B2r2fSZSQGpJtQZqLmM9R2PDaVyKTrasqw3L3mndpump",
+    "first_seen": "2026-08-30T17:00:52.306816+00:00"
+  },
+  "4ds": {
+    "mint": "EAuExbVYBQWtqToxErKCWSNQTVfxW1GSU9Re4sLApump",
+    "first_seen": "2026-08-30T17:00:52.871143+00:00"
+  },
+  "bernese": {
+    "mint": "CFDiDHY1uTTdub53eyS4pEpNtXzMaGXjUhS5aqKtpump",
+    "first_seen": "2026-08-30T17:00:54.353074+00:00"
+  },
+  "mook": {
+    "mint": "G5bM55XmGscgMzUQLJYcRKFwy3zSMo93B9WYWvLEpump",
+    "first_seen": "2026-08-30T17:00:54.824654+00:00"
+  },
+  "lastdance": {
+    "mint": "HyTNKTL53ai4LkLLsHjVCRG6QZswFEbTw7tVyVGgpump",
+    "first_seen": "2026-08-30T17:00:56.254883+00:00"
+  },
+  "ramcoin": {
+    "mint": "Femuy4XPWMumb1L8ErHiWuXGweXCyqCyfrZxxxxqpump",
+    "first_seen": "2026-08-30T17:01:04.043611+00:00"
+  },
+  "sora": {
+    "mint": "92exKiyaUAwdyWRZnWqjivHYcc1g6Gp352W64YjFpump",
+    "first_seen": "2026-08-30T17:01:04.104991+00:00"
+  },
+  "skolly": {
+    "mint": "6hVgJiDYx5NF124MQqoCaxcBLx5Yi3T9ScSYN1ucpump",
+    "first_seen": "2026-08-30T17:01:04.952557+00:00"
+  },
+  "quackd": {
+    "mint": "GMogeMjrWFaEceasCPathoibjAh8qwhTC3Chw4Bfpump",
+    "first_seen": "2026-08-30T17:01:05.804872+00:00"
   }
 }
