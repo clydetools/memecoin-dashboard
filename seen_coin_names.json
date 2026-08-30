@@ -60246,5 +60246,33 @@
   "pinu": {
     "mint": "25NtaXA44vwHcXL32QrS1S1AazoPf7MTXB6aMfMZpump",
     "first_seen": "2026-08-30T07:06:41.919639+00:00"
+  },
+  "buug": {
+    "mint": "AMPb8JyLefUhoT47WCLtiU6kdWxsM9M5rb8CAsZFtgN9",
+    "first_seen": "2026-08-30T12:49:58.498753+00:00"
+  },
+  "bongopadpa": {
+    "mint": "4yivLvA5DhcdJtUYMwYzPPAwRU5b7xZtvkHNFnfgpump",
+    "first_seen": "2026-08-30T12:49:59.260792+00:00"
+  },
+  "oink": {
+    "mint": "8uErURFxqTBbQaPw1huhAGFLpRmcKBawr1Tg3capump",
+    "first_seen": "2026-08-30T12:50:03.469713+00:00"
+  },
+  "scrcom": {
+    "mint": "D58oTJhqv1XHcwfpLV2qBkY99U9gwej3H4QwNNKTpump",
+    "first_seen": "2026-08-30T12:50:04.031227+00:00"
+  },
+  "doxa": {
+    "mint": "F4fzoSvJAQ4E7qg83VRcfSGKsi82Z3gs2otF2JgKPzTx",
+    "first_seen": "2026-08-30T12:50:12.286188+00:00"
+  },
+  "stonkape": {
+    "mint": "tbhtBAwZ4B7H6J3tjUCNq7rtUdq8LP36Wq38N2Upump",
+    "first_seen": "2026-08-30T12:50:14.652330+00:00"
+  },
+  "trumpstacy": {
+    "mint": "59iQSbZvRcGb67FLVRPDWekRTELjq7ykC98UJbPipump",
+    "first_seen": "2026-08-30T12:50:16.390583+00:00"
   }
 }
