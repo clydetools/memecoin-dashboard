@@ -60318,5 +60318,41 @@
   "quackd": {
     "mint": "GMogeMjrWFaEceasCPathoibjAh8qwhTC3Chw4Bfpump",
     "first_seen": "2026-08-30T17:01:05.804872+00:00"
+  },
+  "qzero": {
+    "mint": "6YPaaooJ9M7UkvgXHPmXEr5N6migUpPHJtSYDANkpump",
+    "first_seen": "2026-08-30T19:44:17.684824+00:00"
+  },
+  "gerco": {
+    "mint": "BRNGTPRTQMEtaaE3ZHYF2C3PRs9ZHej9do3zF3NJpump",
+    "first_seen": "2026-08-30T19:44:19.001598+00:00"
+  },
+  "euro": {
+    "mint": "FfuJ1j5GgfzAfx1CkgDvY4tkrXUY5mFKGPZjGVLDpump",
+    "first_seen": "2026-08-30T19:44:20.040784+00:00"
+  },
+  "lite": {
+    "mint": "6LRL46jndaUq7MLr5oeor2sm7Jkqq3tFKXA1PxFhpump",
+    "first_seen": "2026-08-30T19:44:21.039856+00:00"
+  },
+  "barking": {
+    "mint": "4y8GVKZuSre5dpPf4yVTUn9bYfhVone5ghM5NaCspump",
+    "first_seen": "2026-08-30T19:44:21.521573+00:00"
+  },
+  "layman": {
+    "mint": "4V54KKzAwXdAKEMrUMRzMJ9xM7e7FujEkS1MNgfTpump",
+    "first_seen": "2026-08-30T19:44:22.498237+00:00"
+  },
+  "toxgre": {
+    "mint": "7qFYKKLkNcmyjS7xzR3vitZ19wr1Ju6ZBT1oMWxRpump",
+    "first_seen": "2026-08-30T19:44:23.009669+00:00"
+  },
+  "escape": {
+    "mint": "8yzcRN2qDnxA3XqWarSzwrnxjdW4Tf7C2LCxf23epump",
+    "first_seen": "2026-08-30T19:44:23.921130+00:00"
+  },
+  "heehaw": {
+    "mint": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump",
+    "first_seen": "2026-08-30T19:44:30.669951+00:00"
   }
 }
