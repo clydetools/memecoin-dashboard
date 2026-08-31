@@ -60486,5 +60486,53 @@
   "agenthq": {
     "mint": "FnLox4hs8zB3YefUyBdwFtTmZm7cMaNSHr5utV4Yswrm",
     "first_seen": "2026-08-31T06:05:07.035886+00:00"
+  },
+  "lionessaffai": {
+    "mint": "Bt1jhgYEncM3WArAABmCbzzVXEPYBR3ajpuMbgmVadie",
+    "first_seen": "2026-08-31T13:37:12.390576+00:00"
+  },
+  "gibbon": {
+    "mint": "EDPjCm2hq2HQaFnJjUeWK9hECa49VuDGdZbYEViEpump",
+    "first_seen": "2026-08-31T13:37:15.218220+00:00"
+  },
+  "fomocock": {
+    "mint": "HKGanYSXohorZPfsYpmY8z31BCu2CsyagC4mMHFZpump",
+    "first_seen": "2026-08-31T13:37:15.719667+00:00"
+  },
+  "rokha": {
+    "mint": "2jbdBWTK2MYpuRsmEDJqETU3UMM2nN3WGtete4HUpump",
+    "first_seen": "2026-08-31T13:37:21.913263+00:00"
+  },
+  "smurf": {
+    "mint": "EArkn8uVf8YLfpF2eCdkCvDaPYpQuJzKXxaCnyxXc2P7",
+    "first_seen": "2026-08-31T13:37:21.997300+00:00"
+  },
+  "bosscoin": {
+    "mint": "7rurazpukmprqFbreTr8QrwxDUdUVYRAiwvbdy64pump",
+    "first_seen": "2026-08-31T13:37:22.120210+00:00"
+  },
+  "alphaszn": {
+    "mint": "H3QuB4onrJVBgWvMU1f4oBuijPuBt57qsiCbR69Zpump",
+    "first_seen": "2026-08-31T13:37:22.806004+00:00"
+  },
+  "kharg": {
+    "mint": "9uYJSGSpr3gTzu5z632qHmesYZAB7m782R6MJxQBbonk",
+    "first_seen": "2026-08-31T13:37:23.199919+00:00"
+  },
+  "crunch": {
+    "mint": "m6mWM1aJU7Ug16NKmzEDe9XsVZKGKTgaX6RDb1Cpump",
+    "first_seen": "2026-08-31T13:37:23.769332+00:00"
+  },
+  "mnt": {
+    "mint": "928GzL6eaR5FSuow4MS8WpeGLHmQ9kYFiEheyKdths4L",
+    "first_seen": "2026-08-31T13:37:23.927298+00:00"
+  },
+  "topdog": {
+    "mint": "D6ka9GpWvM1jySBgQUpLy6Pbe9pTP3tdDUBXuu42pump",
+    "first_seen": "2026-08-31T13:37:24.437986+00:00"
+  },
+  "mimikyu": {
+    "mint": "CiN8f69KQrLxtRKx4EEd8VyC6psogY7kBbyLKuwf4zY8",
+    "first_seen": "2026-08-31T13:37:25.524177+00:00"
   }
 }
