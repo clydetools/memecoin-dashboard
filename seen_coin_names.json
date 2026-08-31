@@ -60438,5 +60438,53 @@
   "sharav": {
     "mint": "pUcbexRicdtRG6BJ7neNb6v5iKVVj7i1KPC7jBgpump",
     "first_seen": "2026-08-31T00:33:14.643539+00:00"
+  },
+  "openduck": {
+    "mint": "G7qfGv7twng2mFo52quGLJbaztyFCnGyvbt7qVgqpump",
+    "first_seen": "2026-08-31T06:04:52.932346+00:00"
+  },
+  "blackmol": {
+    "mint": "PV6ZnVjCsPR9YbVYxCzBVFvgkjTpn7ojcRxJ8EJpump",
+    "first_seen": "2026-08-31T06:04:54.142146+00:00"
+  },
+  "microcrab": {
+    "mint": "Af91zZaJomavbBTLgvjK9QQSZkZ3Bfg9dbch7wuApump",
+    "first_seen": "2026-08-31T06:04:55.221508+00:00"
+  },
+  "map": {
+    "mint": "9u7FjZdmtnn4pZyA7iurq86wS1GbEnLKhDpedcCNpump",
+    "first_seen": "2026-08-31T06:04:55.777602+00:00"
+  },
+  "megaduck": {
+    "mint": "9PxvUWg8Ar9neaahEy4yCQQeQYbArkbkuxXVv5CRpump",
+    "first_seen": "2026-08-31T06:04:56.414923+00:00"
+  },
+  "openduckmini": {
+    "mint": "5yjHDuFq78rhSS3mFCKKRPhE44oivpyGhQtedAYapump",
+    "first_seen": "2026-08-31T06:04:56.979786+00:00"
+  },
+  "macroduck": {
+    "mint": "EVgwa5CHBVwk6sCTa4QJrVXYBKngZhYqh2a2ZGDApump",
+    "first_seen": "2026-08-31T06:05:03.838381+00:00"
+  },
+  "microdino": {
+    "mint": "AsgTxQD8MiYWboinxC9YvLydaRy3xNDMk1z6sAonpump",
+    "first_seen": "2026-08-31T06:05:03.898292+00:00"
+  },
+  "apeus": {
+    "mint": "ANJR7QNkxLWa6eHHFjVAwb1mi5GFkVQHroyG8xSopump",
+    "first_seen": "2026-08-31T06:05:05.501094+00:00"
+  },
+  "microdick": {
+    "mint": "7nhSNBWBuXdYQSc1jJZZ25dqkAqhkaRePKhoweUQpump",
+    "first_seen": "2026-08-31T06:05:05.873752+00:00"
+  },
+  "crusty": {
+    "mint": "CLn6y4vGYQeGXWuwf3QUdq77vytto5dwwpnDZZajpump",
+    "first_seen": "2026-08-31T06:05:06.467769+00:00"
+  },
+  "agenthq": {
+    "mint": "FnLox4hs8zB3YefUyBdwFtTmZm7cMaNSHr5utV4Yswrm",
+    "first_seen": "2026-08-31T06:05:07.035886+00:00"
   }
 }
