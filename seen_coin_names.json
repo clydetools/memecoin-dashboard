@@ -60406,5 +60406,37 @@
   "puter": {
     "mint": "GsVT3mix9cyTkDpnmc2rakc4vD9hfJXNPq2BKVbopump",
     "first_seen": "2026-08-30T22:08:01.897058+00:00"
+  },
+  "apec": {
+    "mint": "F1Bn9MCMZAujxL7KSXStepAh8RCeRWRS8F1oPXL3pump",
+    "first_seen": "2026-08-31T00:33:03.780390+00:00"
+  },
+  "wem": {
+    "mint": "8fs3BtZM2YqLdyXXTz3rk4TX8v71pa6au4ArytDKpump",
+    "first_seen": "2026-08-31T00:33:05.039457+00:00"
+  },
+  "mem": {
+    "mint": "2iXHVzWo6V5ytVgK1CD5ekkNUue6tyXwYbEirBXnpump",
+    "first_seen": "2026-08-31T00:33:06.619851+00:00"
+  },
+  "dogesahur": {
+    "mint": "AFB2XWdpAFEuJ9HfgCGkmQs7QtmT6RXqugamqAQhpump",
+    "first_seen": "2026-08-31T00:33:08.151272+00:00"
+  },
+  "afraid": {
+    "mint": "27aVNgaT4LmCQUdPzdp6PhS6RUFAd3H7T4Z3BmYMpump",
+    "first_seen": "2026-08-31T00:33:08.685411+00:00"
+  },
+  "civilization": {
+    "mint": "4WLGRVr4Vu9AozqMNt67z4kt3HxPd1xcakRhtu85pump",
+    "first_seen": "2026-08-31T00:33:13.398295+00:00"
+  },
+  "nathan": {
+    "mint": "4pFha5t7sKcCsKnVn3G166CjNbUM5YZYUNhrMH5Jpump",
+    "first_seen": "2026-08-31T00:33:13.455410+00:00"
+  },
+  "sharav": {
+    "mint": "pUcbexRicdtRG6BJ7neNb6v5iKVVj7i1KPC7jBgpump",
+    "first_seen": "2026-08-31T00:33:14.643539+00:00"
   }
 }
