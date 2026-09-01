@@ -60802,5 +60802,29 @@
   "ubik": {
     "mint": "9T27vnvAx9k2qypcQVdwjVqnZq4H76L21JK2tmLjhFwL",
     "first_seen": "2026-09-01T19:44:37.079662+00:00"
+  },
+  "quaddle": {
+    "mint": "EQL53mJYGMdBrmYJZcuVCkc3uCFAV9vFsMxByudjpump",
+    "first_seen": "2026-09-01T22:06:47.368822+00:00"
+  },
+  "bandly": {
+    "mint": "4xLNfnUVYH1Lb6EeGuDYrPEQZW56yVL161emgMq5pump",
+    "first_seen": "2026-09-01T22:06:50.366171+00:00"
+  },
+  "andytrump": {
+    "mint": "D18Vp3rL9TNhXK7md7JAxZcyc5ZpZ2KREeedi1mRpump",
+    "first_seen": "2026-09-01T22:06:54.471000+00:00"
+  },
+  "unemp": {
+    "mint": "9c45F9EdUrCo4wCSRFpoGFnKgLJjeKY7EyrQ55Eppump",
+    "first_seen": "2026-09-01T22:06:55.649671+00:00"
+  },
+  "lfi": {
+    "mint": "9uWgPcHW1kgESP7Ek79kTUKC9AVsbgjQMdaVv9dypump",
+    "first_seen": "2026-09-01T22:06:57.037567+00:00"
+  },
+  "apebutt": {
+    "mint": "Ge2x1ERWLtQxuPCgaSwipZwADL7fsnfx9oGVx5nYpump",
+    "first_seen": "2026-09-01T22:07:05.502570+00:00"
   }
 }
