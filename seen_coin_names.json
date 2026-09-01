@@ -60686,5 +60686,45 @@
   "mcv": {
     "mint": "76vtyUXAedrSAWJetcdQx4tZmKK9GfmhnCXQq55rpump",
     "first_seen": "2026-09-01T07:24:30.775538+00:00"
+  },
+  "dfa": {
+    "mint": "7hq8RnCoS8mimZ6STFX7X5CvWBB2MCWhgfPJxHbjpump",
+    "first_seen": "2026-09-01T12:39:58.870556+00:00"
+  },
+  "wvs": {
+    "mint": "HccDuXt33aCtNe7UyHRpsUNJfRtLknh2mBMrXDjepump",
+    "first_seen": "2026-09-01T12:39:59.766163+00:00"
+  },
+  "luke": {
+    "mint": "E78232mXnNexsYfwPL5ywvDRmJ3sq59wu6aa4RoBpump",
+    "first_seen": "2026-09-01T12:40:00.783747+00:00"
+  },
+  "ignisequus": {
+    "mint": "GEsTdBCF3LqM1odped2ybkHby3urKKzfpAFSiPb5pump",
+    "first_seen": "2026-09-01T12:40:01.178289+00:00"
+  },
+  "cisneros": {
+    "mint": "BQLkYFZmacJD91YrSt15bc41bauBLRTUVnP9c8qCpump",
+    "first_seen": "2026-09-01T12:40:01.594044+00:00"
+  },
+  "tiraxai": {
+    "mint": "BqxCZdm7y9Yb3DrkTxojG4UcwVvcFCe1cXLdHUBKpump",
+    "first_seen": "2026-09-01T12:40:02.005169+00:00"
+  },
+  "fa": {
+    "mint": "BQJ5dqbYSczAspgnBxjutK2EXqX2izWH8V694Sh6pump",
+    "first_seen": "2026-09-01T12:40:02.725791+00:00"
+  },
+  "oldweb": {
+    "mint": "ChxxxU8mxpgBRtAFx7hXz1nKZKA6NyyZ543Lqdtnpump",
+    "first_seen": "2026-09-01T12:40:08.618867+00:00"
+  },
+  "laugh": {
+    "mint": "CgHjE8Spnq6orEUb3ZLer5PQLAp1YrqdRCRQBQZKq5qp",
+    "first_seen": "2026-09-01T12:40:08.740194+00:00"
+  },
+  "mobi": {
+    "mint": "3oY5NnNAbnRK4eNzPWZFmtAWVW4RNumpni4XtGarpump",
+    "first_seen": "2026-09-01T12:40:10.600761+00:00"
   }
 }
