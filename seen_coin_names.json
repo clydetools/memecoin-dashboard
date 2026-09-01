@@ -60658,5 +60658,33 @@
   "mercy": {
     "mint": "7PVXbWcyzdBCDpkoeCe8Q7hucFPGjfZBkXyn1sgFJhGs",
     "first_seen": "2026-09-01T01:57:37.217727+00:00"
+  },
+  "2021": {
+    "mint": "jCVUzdZBtWGGR3jbrnofsHe871j7xEzbucgmHMSpump",
+    "first_seen": "2026-09-01T07:24:21.215733+00:00"
+  },
+  "foff": {
+    "mint": "7oiY4UND2YRhyCyt6Si5SAZheAZBUtpiEXRjx9Qnpump",
+    "first_seen": "2026-09-01T07:24:21.882631+00:00"
+  },
+  "1dx1000": {
+    "mint": "4VZYuZ7rJV9qjjbJZzcUo9b1QBN1HSuBRyFPzi6Apump",
+    "first_seen": "2026-09-01T07:24:22.435380+00:00"
+  },
+  "whofunded": {
+    "mint": "3Zrd8nZ1K1WNdoGjiFpM7RFgQxnujLXKJqxLk3dBpump",
+    "first_seen": "2026-09-01T07:24:22.982002+00:00"
+  },
+  "degens": {
+    "mint": "J7QbvBjyxVEt8nCzZRRYMne9Ko8pPVC9CQxnKUvPpump",
+    "first_seen": "2026-09-01T07:24:28.936647+00:00"
+  },
+  "nickgpro": {
+    "mint": "91X4ErT2VPRbK6SHsEBQ8J1T25twwFeTJhrHxJv7pump",
+    "first_seen": "2026-09-01T07:24:29.549439+00:00"
+  },
+  "mcv": {
+    "mint": "76vtyUXAedrSAWJetcdQx4tZmKK9GfmhnCXQq55rpump",
+    "first_seen": "2026-09-01T07:24:30.775538+00:00"
   }
 }
