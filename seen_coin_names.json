@@ -61094,5 +61094,49 @@
   "dexai": {
     "mint": "DRMmkdvdnCxdPqqwxZkSnwiTEsF2czW361BwE8fhFdex",
     "first_seen": "2026-09-02T22:02:50.581407+00:00"
+  },
+  "yehudi": {
+    "mint": "96wWougLH5chVLZrtM46Re9EVSVrg5VDJBBremaPpump",
+    "first_seen": "2026-09-03T00:09:47.093721+00:00"
+  },
+  "stockpets": {
+    "mint": "2ZRNMfTA8RbdoQ5donAtgNF2C7h5xvLktPPCvRxRgYtf",
+    "first_seen": "2026-09-03T00:09:48.538898+00:00"
+  },
+  "mine": {
+    "mint": "ESrg5tJFSnX6k6qwUWuQNi2soRbKrCv2R2cyfDcypump",
+    "first_seen": "2026-09-03T00:09:49.021330+00:00"
+  },
+  "viagra": {
+    "mint": "4KRjedbi8Y1VdVRURDseL25D67M29tKMM9qAQLs3pump",
+    "first_seen": "2026-09-03T00:09:50.002307+00:00"
+  },
+  "itsafruit": {
+    "mint": "sKkZ8k2KxbaHFr3Phur286HJxJAaFz6Kz37sZKRpump",
+    "first_seen": "2026-09-03T00:09:53.470704+00:00"
+  },
+  "mmrich": {
+    "mint": "GR1qZiNBPkQNDwyt2czynrMRMLgdoS2Um2yGrM9fpump",
+    "first_seen": "2026-09-03T00:09:56.948338+00:00"
+  },
+  "c1hmzbdxxxzg1ta4qf5dkbjnu2zxigtlkj37zxj8pump": {
+    "mint": "C1hmzBdxxXzg1ta4Qf5DKBJnu2ZxiGtLkj37zXJ8pump",
+    "first_seen": "2026-09-03T00:10:03.337764+00:00"
+  },
+  "gaku": {
+    "mint": "81voyUHfuimgHQWkHS4e1nbu94pn54TGbqXYwh4gpump",
+    "first_seen": "2026-09-03T00:10:03.412930+00:00"
+  },
+  "blokks": {
+    "mint": "9eYVJQVg3v5VthRaNr2TYhWRsgfrq3RH3g8kXe4wAwjr",
+    "first_seen": "2026-09-03T00:10:04.198660+00:00"
+  },
+  "hrwuujxbpw9zjy3oub8cgzqoby3ozpwuscrw7tuhndpg": {
+    "mint": "HRwUUJXBpW9zjY3oUb8cgzqoby3ozpwuSCRW7tUHNdpg",
+    "first_seen": "2026-09-03T00:10:04.460059+00:00"
+  },
+  "kirkland": {
+    "mint": "ihbuYxi8p9eZCHheaNXvxPP5sN5UfhygL2KJFmLCx9V",
+    "first_seen": "2026-09-03T00:10:04.891346+00:00"
   }
 }
