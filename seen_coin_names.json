@@ -61182,5 +61182,45 @@
   "magatard": {
     "mint": "9HC7yDTyznLNsedzNu1ra82FE3384tJdsBjk2UHPpump",
     "first_seen": "2026-09-03T09:01:30.381217+00:00"
+  },
+  "hugging": {
+    "mint": "44TycjkAin3B7VfnyBasqXi5pBxbuMwmkLfS3HM8pump",
+    "first_seen": "2026-09-03T13:31:59.249097+00:00"
+  },
+  "cybercab": {
+    "mint": "Gr4tEiH2xCd4fZuwMuyvnHsVUdfrMGYMngDvAHtRpump",
+    "first_seen": "2026-09-03T13:32:00.052783+00:00"
+  },
+  "kelly": {
+    "mint": "64FvaqU5QYvHtxd2vgZKDVdx16swMiaRBMnqnew7pump",
+    "first_seen": "2026-09-03T13:32:00.531159+00:00"
+  },
+  "trumpr": {
+    "mint": "G7Bg82Yc5kg47xTs7SbbHpnLRM8q7XAMcwysYYorpump",
+    "first_seen": "2026-09-03T13:32:01.697511+00:00"
+  },
+  "hgry": {
+    "mint": "6wpvRmTdh3pMf7A327VEHUTk76CqVVBHjCyCdmVkpump",
+    "first_seen": "2026-09-03T13:32:02.114884+00:00"
+  },
+  "deadwhale": {
+    "mint": "91E4cACQcnWDf7wYmwwM81HjLvCe6FR6vDT518ospump",
+    "first_seen": "2026-09-03T13:32:08.802875+00:00"
+  },
+  "hug": {
+    "mint": "43mgJjzMNSQVgouPMF8HsJH8qKi5tped2SG17xpPpump",
+    "first_seen": "2026-09-03T13:32:09.425492+00:00"
+  },
+  "edge": {
+    "mint": "87HN4cVvnozz4j3XB48L1yxdkkVuzgrweHTkmrbkkBZ8",
+    "first_seen": "2026-09-03T13:32:09.829091+00:00"
+  },
+  "gft": {
+    "mint": "JBRS4PQkhQ7s1LfTsVugmBfoN5dZ2JSxYvmsLY5eHW5Q",
+    "first_seen": "2026-09-03T13:32:10.046542+00:00"
+  },
+  "tardi": {
+    "mint": "FCzgaN8VaRfV5EGCM1YsPnM3Qv5PgsBuQSkVrPYEpump",
+    "first_seen": "2026-09-03T13:32:10.843365+00:00"
   }
 }
