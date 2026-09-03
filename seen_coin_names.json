@@ -61306,5 +61306,37 @@
   "lucia": {
     "mint": "TcnKFgDZc6RhAz83JHHbWeZ5wLc2at8iHK6FhsxkTLh",
     "first_seen": "2026-09-03T21:56:21.589432+00:00"
+  },
+  "robocow": {
+    "mint": "HPDcpybyHLqXKnfk5Lm1kDzsxoDA8uHCQPKUpCUepump",
+    "first_seen": "2026-09-03T23:46:49.255393+00:00"
+  },
+  "ceuta": {
+    "mint": "6vbVGcmTtoVPUwbpB6SicTPCM4bz1tZX82Y3Za5rpump",
+    "first_seen": "2026-09-03T23:46:50.151606+00:00"
+  },
+  "wind": {
+    "mint": "5Cc7uzqgG3fBHcZipGHpRCfZYT3P4fC7RQvdvWvLpump",
+    "first_seen": "2026-09-03T23:46:50.621506+00:00"
+  },
+  "catvicular": {
+    "mint": "FFbtWUEVu5LnXfScpiHDK2C3xzwqSueHMPTHJMhepump",
+    "first_seen": "2026-09-03T23:46:51.044358+00:00"
+  },
+  "dildophin": {
+    "mint": "F6NJhTDW4X872oXgzBaFVTNhmoZNErXmzygLv5pjpump",
+    "first_seen": "2026-09-03T23:46:51.489036+00:00"
+  },
+  "trumpbucks": {
+    "mint": "SwsrLCmbkaMoEA3CCkQ7NncWiE7juNgPjmKJwgapump",
+    "first_seen": "2026-09-03T23:46:56.530678+00:00"
+  },
+  "haram": {
+    "mint": "DaNZxrABqGGMDKJYe9DtHHNKJb3K3dbV1B39hcqy3PYt",
+    "first_seen": "2026-09-03T23:46:56.614275+00:00"
+  },
+  "benchcoin": {
+    "mint": "HuLXApeYsxWGgo9ibPrrBwp454xRtkrRWHXRyeUxpump",
+    "first_seen": "2026-09-03T23:46:56.739574+00:00"
   }
 }
