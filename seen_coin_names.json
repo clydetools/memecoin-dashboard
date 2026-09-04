@@ -61338,5 +61338,45 @@
   "benchcoin": {
     "mint": "HuLXApeYsxWGgo9ibPrrBwp454xRtkrRWHXRyeUxpump",
     "first_seen": "2026-09-03T23:46:56.739574+00:00"
+  },
+  "29k": {
+    "mint": "FVGyN9voxUMyW6daHWEqEeXUtp4qcszQ4qyGamRipump",
+    "first_seen": "2026-09-04T01:25:36.997584+00:00"
+  },
+  "thena": {
+    "mint": "3hcMFEEuwn4ENkAwpYuqiaZcAB4RuAGbTkrBcP4fpump",
+    "first_seen": "2026-09-04T01:25:37.391216+00:00"
+  },
+  "robape": {
+    "mint": "5gNq5Sg9rZM6GNDMojU4hovut8rtud8WxxqdV8qCpump",
+    "first_seen": "2026-09-04T01:25:38.111988+00:00"
+  },
+  "crcl": {
+    "mint": "DDeTqx7xgVBLYUczyVbCJtUMtRQzrT6vwwUxnPdUrLdC",
+    "first_seen": "2026-09-04T01:25:39.145497+00:00"
+  },
+  "iunited": {
+    "mint": "9YtmqwhwQQw7GVajczcw3TQ46Bjwaau1A5uFAX6wpump",
+    "first_seen": "2026-09-04T01:25:39.944850+00:00"
+  },
+  "memehome": {
+    "mint": "6AFG3ii3p8KJwV3eBoewVqGt7vtsUdbX35PNCnfipump",
+    "first_seen": "2026-09-04T01:25:40.573856+00:00"
+  },
+  "zcat": {
+    "mint": "HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR",
+    "first_seen": "2026-09-04T01:25:44.940307+00:00"
+  },
+  "fredgazim": {
+    "mint": "GoD4HfiirntsHdf4r5UfzqQPNRxPNTScx45E1GL4RYqs",
+    "first_seen": "2026-09-04T01:25:45.114260+00:00"
+  },
+  "ponser": {
+    "mint": "3evxnh9QaasEE6S5Ja8TgATA3NLowAzBUmHfSoAWV6pD",
+    "first_seen": "2026-09-04T01:25:45.580286+00:00"
+  },
+  "arcadegov": {
+    "mint": "CHygERrxnc5QByNCwxUNSMhP7tKJA7rh6hNBdJ2spump",
+    "first_seen": "2026-09-04T01:25:47.220178+00:00"
   }
 }
