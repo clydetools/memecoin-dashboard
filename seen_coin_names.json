@@ -61470,5 +61470,53 @@
   "trumpless": {
     "mint": "B6DfUsHYvvDjunsCWFiYcJSNMghfW7W3Hr82wSGqpump",
     "first_seen": "2026-09-04T18:21:26.583270+00:00"
+  },
+  "bonksrev": {
+    "mint": "EauzdejmzEQz7bvsmpTNf1vYiEUeiTx9v4XvzeeBpump",
+    "first_seen": "2026-09-04T20:55:17.534226+00:00"
+  },
+  "vladcat": {
+    "mint": "CY7mzmuHKkeBLwbMjNTFMtehseLTuzXtedkgmxDppump",
+    "first_seen": "2026-09-04T20:55:19.233777+00:00"
+  },
+  "sha": {
+    "mint": "CnVfFhNahjUMqCQvytV2D5RbiFzC9Hu5SbgcDP8Vgr4k",
+    "first_seen": "2026-09-04T20:55:19.808783+00:00"
+  },
+  "gbt6": {
+    "mint": "E813zVyMDtm2EX1CP7VptVpDzcHX1DkFC99qZducpump",
+    "first_seen": "2026-09-04T20:55:23.119822+00:00"
+  },
+  "dome": {
+    "mint": "FnNZPEXFqAm8CUeBtaW15MPNvksFNn2VhuQdtQuk7ray",
+    "first_seen": "2026-09-04T20:55:24.722441+00:00"
+  },
+  "ferociter": {
+    "mint": "Dg1jCENaUrK7SY4RQJZRL9ZYwGAERgxRVwL1KCZCCpS4",
+    "first_seen": "2026-09-04T20:55:25.866438+00:00"
+  },
+  "doomscrol": {
+    "mint": "9tE7V4TFvimWwso2AX8967g6xbFDtR4oyDYpJsoCpump",
+    "first_seen": "2026-09-04T20:55:27.467792+00:00"
+  },
+  "clitmon": {
+    "mint": "HokFzMQ7kwjkz17nkMuo21D5D9H9utNnRR5tjxrNpump",
+    "first_seen": "2026-09-04T20:55:28.035439+00:00"
+  },
+  "ingots": {
+    "mint": "79xXMts5k5m4UHnSDfpvPDbsP9QiHqhPhPhRbXWnpump",
+    "first_seen": "2026-09-04T20:55:30.223439+00:00"
+  },
+  "pepark": {
+    "mint": "6x4G1SqbPTWkqmZ4VAWVgoZ1jmA7TqJUSHnKyqsHpump",
+    "first_seen": "2026-09-04T20:55:35.501415+00:00"
+  },
+  "thuggies": {
+    "mint": "7cywpZ1ia4RinkQ3waqW2msezA61FymxTQdwBkzLpump",
+    "first_seen": "2026-09-04T20:55:35.581755+00:00"
+  },
+  "hosico": {
+    "mint": "Dx2bQe2UPv4k3BmcW8G2KhaL5oKsxduM5XxLSV3Sbonk",
+    "first_seen": "2026-09-04T20:55:36.604546+00:00"
   }
 }
