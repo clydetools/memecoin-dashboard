@@ -61378,5 +61378,37 @@
   "arcadegov": {
     "mint": "CHygERrxnc5QByNCwxUNSMhP7tKJA7rh6hNBdJ2spump",
     "first_seen": "2026-09-04T01:25:47.220178+00:00"
+  },
+  "namesinu": {
+    "mint": "DbZpcMT1AUQ1g1TUmVUwDkGSPYi9SHrYL5Vj6qZupump",
+    "first_seen": "2026-09-04T06:15:30.705849+00:00"
+  },
+  "downdev": {
+    "mint": "Avn1Y2nW4GKf7p8fqNBq3Z45btGiiWxC7pSxadMcpump",
+    "first_seen": "2026-09-04T06:15:31.127489+00:00"
+  },
+  "elown": {
+    "mint": "4fkyzyXNKs6pk5CmVuy7hF7b2P5rxkJSmcGTQxeEpump",
+    "first_seen": "2026-09-04T06:15:31.547116+00:00"
+  },
+  "chudley": {
+    "mint": "ETeif9GjyAnpGv8sEQh15gwxSVrREqQH9s34AeCCpump",
+    "first_seen": "2026-09-04T06:15:31.971738+00:00"
+  },
+  "lamisery": {
+    "mint": "7uZG45tZayy3QN24U5Gfe7wjBPe7SLesLhD79STypump",
+    "first_seen": "2026-09-04T06:15:33.461165+00:00"
+  },
+  "trumptacio": {
+    "mint": "DQWEaY531MDfovA5SnGWY2QsuWKkDk85jeZ2CCyjpump",
+    "first_seen": "2026-09-04T06:15:40.192255+00:00"
+  },
+  "trumpcoins": {
+    "mint": "8Q3dC8nFyzDamqBk5UbAZrVGar7r9emjNd8z6KDwpump",
+    "first_seen": "2026-09-04T06:15:41.214449+00:00"
+  },
+  "kirkiversary": {
+    "mint": "915YcCbtupYLTz3RwfKjYngzBG2Bk2RX8We4D2HSpump",
+    "first_seen": "2026-09-04T06:15:43.546861+00:00"
   }
 }
