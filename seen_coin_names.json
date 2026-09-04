@@ -61410,5 +61410,25 @@
   "kirkiversary": {
     "mint": "915YcCbtupYLTz3RwfKjYngzBG2Bk2RX8We4D2HSpump",
     "first_seen": "2026-09-04T06:15:43.546861+00:00"
+  },
+  "sloppy": {
+    "mint": "25jFmfdbdmuAuoUUAZuWicVsqecm3uhVBhGiDfrjpump",
+    "first_seen": "2026-09-04T11:25:34.107692+00:00"
+  },
+  "pengo": {
+    "mint": "F2k82EcxLtzekq1bfoGVdgp6EXZ5dLT1jE7g3LvQpump",
+    "first_seen": "2026-09-04T11:25:39.415336+00:00"
+  },
+  "memeszn": {
+    "mint": "2CJ9rFxo8wgoBT1FdDK54ULR883KkL2woyWZqy7Npump",
+    "first_seen": "2026-09-04T11:25:39.546620+00:00"
+  },
+  "wifpons": {
+    "mint": "CozTSN85HBatRy2DuR98suYGWTCGna6buYhKwSnmpump",
+    "first_seen": "2026-09-04T11:25:39.667509+00:00"
+  },
+  "ponsless": {
+    "mint": "GLRGgpetTFGoetoD2A2CmTVCJTrnqfyxMGqPWFMcpump",
+    "first_seen": "2026-09-04T11:25:41.393136+00:00"
   }
 }
