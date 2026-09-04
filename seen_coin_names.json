@@ -61454,5 +61454,21 @@
   "shinmon": {
     "mint": "GAQKgsNMoy7na4Yusk9UvGqPBGmi3gU4xYsswGKwpump",
     "first_seen": "2026-09-04T15:02:59.038144+00:00"
+  },
+  "gucci": {
+    "mint": "jTVRQ5GMxmgJKZ8DoqWqgC1dYwdiecRrWPDnZocpump",
+    "first_seen": "2026-09-04T18:21:17.728050+00:00"
+  },
+  "wall3": {
+    "mint": "2jxKpACbvKZpRmrT5xNavA16zut8qUNGYn4HEp5Dpump",
+    "first_seen": "2026-09-04T18:21:18.273320+00:00"
+  },
+  "dcresist": {
+    "mint": "D5yp7UDBv2yHBq5MKaRETTdLWdLX8KJCTtk8K33zpump",
+    "first_seen": "2026-09-04T18:21:26.137926+00:00"
+  },
+  "trumpless": {
+    "mint": "B6DfUsHYvvDjunsCWFiYcJSNMghfW7W3Hr82wSGqpump",
+    "first_seen": "2026-09-04T18:21:26.583270+00:00"
   }
 }
