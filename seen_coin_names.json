@@ -61542,5 +61542,49 @@
   "fatcoin": {
     "mint": "2cYmSGKqB2XVD5oe8PxNNT9i2ULHPKPmMfN189t3vwBN",
     "first_seen": "2026-09-04T22:46:23.878815+00:00"
+  },
+  "gwei": {
+    "mint": "8jGeRTN7GiwfCGaVkmgRCXx4BWmERQog4nJh5tTcpump",
+    "first_seen": "2026-09-05T00:25:23.106209+00:00"
+  },
+  "snitch": {
+    "mint": "CQtDYFZgzp2RzeRNe89FQow95Dtg3aP2XMdpKKCDpump",
+    "first_seen": "2026-09-05T00:25:24.101074+00:00"
+  },
+  "dbd": {
+    "mint": "ZrTqHv2sgBg3XADefReJoGNj8FJScrr8wtNVWVspump",
+    "first_seen": "2026-09-05T00:25:25.072971+00:00"
+  },
+  "heaven": {
+    "mint": "7KTs39utU8RaoqTcejYqbgQFu9ThSQqsFnoSvchnpump",
+    "first_seen": "2026-09-05T00:25:25.646075+00:00"
+  },
+  "slink": {
+    "mint": "6X9FxULWVUf8xQC1rYpgoBVCnGNpCNK6NQTZcZPvdXPc",
+    "first_seen": "2026-09-05T00:25:26.144397+00:00"
+  },
+  "wotf": {
+    "mint": "APFgxWWbzyQ4mcFjDaZnp8iEcPE9NQBv5K6QWMZpump",
+    "first_seen": "2026-09-05T00:25:26.721869+00:00"
+  },
+  "braindead": {
+    "mint": "CUFwEHj6MTc7BTXP25cqCAuR11qHrGK31nV9LN5Kmb3",
+    "first_seen": "2026-09-05T00:25:31.541546+00:00"
+  },
+  "vvaifu": {
+    "mint": "FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8",
+    "first_seen": "2026-09-05T00:25:31.602110+00:00"
+  },
+  "sodl": {
+    "mint": "7hovfanjjYFAVigZV4xuD1rUMFEHepvwD3ZUSnebe8H1",
+    "first_seen": "2026-09-05T00:25:33.017289+00:00"
+  },
+  "chucho": {
+    "mint": "H2hBV3Cs6HxntWMcznSz1yy2DoUyqVt6Jhtd6PZMpump",
+    "first_seen": "2026-09-05T00:25:33.444637+00:00"
+  },
+  "pronut": {
+    "mint": "DHkguUzSuKRAZQTQ394tfQpa8CqrFoKSGggBr7XsawJr",
+    "first_seen": "2026-09-05T00:25:33.675010+00:00"
   }
 }
