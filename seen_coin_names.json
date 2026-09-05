@@ -61610,5 +61610,25 @@
   "milady": {
     "mint": "F6WqBmhNhZQJbr9WYPvXGiD7N55gfbZ8DHyMRgwZ1pGp",
     "first_seen": "2026-09-05T04:47:58.325929+00:00"
+  },
+  "minnie": {
+    "mint": "2mEZF3Rwe5a683QejjKecvdR1nyhf1k7ai3RBgwhpump",
+    "first_seen": "2026-09-05T08:39:46.480013+00:00"
+  },
+  "lightc": {
+    "mint": "3BGWzVdhM85td1kUD89RCkQK2YNrAy4oudKXKZcJpump",
+    "first_seen": "2026-09-05T08:39:47.020735+00:00"
+  },
+  "stream": {
+    "mint": "Au1z5hzjvw2oqu49bvynkd1s4eJLCFyGytaYcbGVpump",
+    "first_seen": "2026-09-05T08:39:47.567226+00:00"
+  },
+  "horsemeat": {
+    "mint": "2FprjEk4MTSY9CxpKuENbGDdy69R15GHhtHpG5Durdbq",
+    "first_seen": "2026-09-05T08:39:53.582202+00:00"
+  },
+  "pumpany": {
+    "mint": "8qA3pCHsKgAgSBNySbenV5pRstgcUanwoopngrKJpump",
+    "first_seen": "2026-09-05T08:39:55.525988+00:00"
   }
 }
