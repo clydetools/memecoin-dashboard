@@ -61710,5 +61710,25 @@
   "stonkchump": {
     "mint": "8Ge69MMq3SN6G2UfvhqYt5ywUDVzXeBtASnZjQXbpump",
     "first_seen": "2026-09-05T19:07:36.692433+00:00"
+  },
+  "rasmr1s": {
+    "mint": "i3FVApw56JiY6izbwAmr597vxnCUcjc4bWgEQwpPbqN",
+    "first_seen": "2026-09-05T22:58:00.650556+00:00"
+  },
+  "dontsleep": {
+    "mint": "4XgPdZTU3QiKiqXh2APgUJiisK5gecQmRmLcLMJ8pump",
+    "first_seen": "2026-09-05T22:58:03.775076+00:00"
+  },
+  "stonkguy": {
+    "mint": "EcZMqqYxFdcKSMMEYuacVoaeeRxpc7R7G7zWma9zpump",
+    "first_seen": "2026-09-05T22:58:08.309632+00:00"
+  },
+  "herba": {
+    "mint": "4nLMnQ6pfXZxarab6F8h1ETUDceSzUcLEjWhqHLCpump",
+    "first_seen": "2026-09-05T22:58:08.415362+00:00"
+  },
+  "hoodiecoin": {
+    "mint": "6rkgcVpP1rMhDneQ7umVDRACmkxBafeYDwdLhTH5mxQg",
+    "first_seen": "2026-09-05T22:58:08.526911+00:00"
   }
 }
