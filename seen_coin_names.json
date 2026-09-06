@@ -61782,5 +61782,17 @@
   "fries": {
     "mint": "7hGgx1VtNTj193fFXXuMEkp1MRV6JbWYgMBhHRYxaxu2",
     "first_seen": "2026-09-06T05:08:45.982976+00:00"
+  },
+  "clawrpg": {
+    "mint": "8FSfA2oKuJMgzviWUABoeo8wW5A23nAmU8kd4WhDqUMi",
+    "first_seen": "2026-09-06T09:24:28.882289+00:00"
+  },
+  "mbtc": {
+    "mint": "sp3yCXTNd3N9RdqkAZAzw42H4gEudCZBa7kUexzpump",
+    "first_seen": "2026-09-06T09:24:29.398255+00:00"
+  },
+  "zcatfone": {
+    "mint": "CsJm9XZrrsVDrjax6iA2NZyqfZyn4W4tpKpK7wqYpump",
+    "first_seen": "2026-09-06T09:24:34.835914+00:00"
   }
 }
