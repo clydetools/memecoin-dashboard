@@ -61934,5 +61934,25 @@
   "zcashcat": {
     "mint": "3rbmAAonWqxmPJ7rzQUHyZtqwqrF54EZa3pJgphmpump",
     "first_seen": "2026-09-06T22:20:12.346434+00:00"
+  },
+  "awa": {
+    "mint": "GhCcX8N5znqaaqFVNVmA4f9KdonxGDgeJw2TUhWApump",
+    "first_seen": "2026-09-07T00:04:23.112484+00:00"
+  },
+  "zgoat": {
+    "mint": "38RL9Kgsq1ARXwamem4jcUaztp3aE6SNAhZHVM9zpump",
+    "first_seen": "2026-09-07T00:04:24.375455+00:00"
+  },
+  "fac": {
+    "mint": "DRQuDEx8P6RzvEEUetnzzpHvd9YQBqVXhwDykkDVpump",
+    "first_seen": "2026-09-07T00:04:26.739865+00:00"
+  },
+  "baghood": {
+    "mint": "2ww66irr9zQxRJb3mvt7kHZH3XYyULkFHGjLdnTwpump",
+    "first_seen": "2026-09-07T00:04:31.547751+00:00"
+  },
+  "dripcat": {
+    "mint": "AbpWkswGpFNYHatQG3eRTjpQLBoi5EYhbJQ7EspcR23R",
+    "first_seen": "2026-09-07T00:04:33.888532+00:00"
   }
 }
