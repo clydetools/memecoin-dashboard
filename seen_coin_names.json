@@ -62086,5 +62086,57 @@
   "const": {
     "mint": "oWeyEsRQa7SWRbEiW1QNxZJhwmjnefD6HGtXqKqfv3r",
     "first_seen": "2026-09-07T22:05:08.761164+00:00"
+  },
+  "ferspe": {
+    "mint": "FYcomr7e9iTTWG17FSdcqnBcegnEBpYaaGYqzjTmpump",
+    "first_seen": "2026-09-08T00:18:34.973337+00:00"
+  },
+  "filowork": {
+    "mint": "FyiCSM2w9QtbhpMWX1V2UZ5QKTNnv3n2KEdqLnV1pump",
+    "first_seen": "2026-09-08T00:18:36.183675+00:00"
+  },
+  "hk": {
+    "mint": "936xiZoihgk1BCR8kJqNT9gsxA9GyRosEnkC5nufpump",
+    "first_seen": "2026-09-08T00:18:36.774423+00:00"
+  },
+  "saveme": {
+    "mint": "6d1VQNhva1R2KUuPjRdbR1m1nbkwVjrNYQk232FSpump",
+    "first_seen": "2026-09-08T00:18:37.364603+00:00"
+  },
+  "breadpitt": {
+    "mint": "9aYdcerMCGX3TzXvYhrQbeCK1DBiWxaKU2qUtWb8pump",
+    "first_seen": "2026-09-08T00:18:37.998005+00:00"
+  },
+  "casascius": {
+    "mint": "5E8De6AVSF5fvG9MDRzzBDBbd4GdmWCMeyGaJ3uwpump",
+    "first_seen": "2026-09-08T00:18:38.581044+00:00"
+  },
+  "bitpizza": {
+    "mint": "7VvdGDAY7uxsq7Nnxhonso9URDvtZWngVev5Fyco2ix3",
+    "first_seen": "2026-09-08T00:18:39.192570+00:00"
+  },
+  "mape": {
+    "mint": "2vAfi6Ci8H1binu2LDUzKLY4Be3mnBUZ6k8i5QWmpump",
+    "first_seen": "2026-09-08T00:18:40.347452+00:00"
+  },
+  "xbt": {
+    "mint": "BLLieANeMifThH5gBeKRaNixYJPkf7fuM13VZfJ5STNK",
+    "first_seen": "2026-09-08T00:18:45.402936+00:00"
+  },
+  "btrc": {
+    "mint": "A4j77ZgCEW3i4k94jBDQY5XwPikBB41WYi2vCQqSpump",
+    "first_seen": "2026-09-08T00:18:45.513822+00:00"
+  },
+  "tomcruise": {
+    "mint": "8beGVEY2Bx1AVadJNMaogk2YendHiW3sX26rWQ18pump",
+    "first_seen": "2026-09-08T00:18:46.981813+00:00"
+  },
+  "cots": {
+    "mint": "7mxF8vHsGGP4gXuo1DmskokKi2WHdLp2HhK9n81Zbray",
+    "first_seen": "2026-09-08T00:18:47.384992+00:00"
+  },
+  "conconai": {
+    "mint": "9w2dXDKxQbHcAG8XdHaNKgLaBof4hhaiiUG7v2QBpump",
+    "first_seen": "2026-09-08T00:18:47.785929+00:00"
   }
 }
