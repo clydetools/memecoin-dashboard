@@ -62282,5 +62282,29 @@
   "dingo": {
     "mint": "73sfnFgqQzpSRZSimCC4sxpubqghRGYewYLmiUH2pump",
     "first_seen": "2026-09-08T20:14:11.264711+00:00"
+  },
+  "moonfirst": {
+    "mint": "3tzk7yizBhGQnPH1dSwK2swpape1QXAd6Kfoo8WDpump",
+    "first_seen": "2026-09-08T22:43:59.707333+00:00"
+  },
+  "ngt": {
+    "mint": "3gWBFoQkVMv8BWHj3mH4JLSXyaRGKxwEaN7CKa2vpump",
+    "first_seen": "2026-09-08T22:44:00.946444+00:00"
+  },
+  "musks": {
+    "mint": "BsFYcKzHerkGpAPtoqzgS8py7NNKCj5nLCFPktfBpump",
+    "first_seen": "2026-09-08T22:44:01.354912+00:00"
+  },
+  "ttp": {
+    "mint": "68H9QxPVafScr5Koo2yAtMPgf3bvhPzz6PZ8iG5Qpump",
+    "first_seen": "2026-09-08T22:44:01.740262+00:00"
+  },
+  "starfish": {
+    "mint": "8XWALbUDn3tRr6UPEywHbgfmyDCPvfmmqKEstJCGpump",
+    "first_seen": "2026-09-08T22:44:05.339699+00:00"
+  },
+  "dogecoin": {
+    "mint": "6mmrbud55cQcexrtUaPdQY8JxCV1L7f6HGQcuW7KN7vP",
+    "first_seen": "2026-09-08T22:44:05.744636+00:00"
   }
 }
