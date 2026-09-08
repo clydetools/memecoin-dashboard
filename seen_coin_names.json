@@ -62142,5 +62142,33 @@
   "babyshark": {
     "mint": "8nKP8Vc72pRZB6bhCy8D1UYf6ZjwYT859i6awyinpump",
     "first_seen": "2026-09-08T04:50:35.958548+00:00"
+  },
+  "axh": {
+    "mint": "DjBoLjijYEuFFftqjUbHqitFP6LqU8ohEYPsb7V8pump",
+    "first_seen": "2026-09-08T09:11:23.728867+00:00"
+  },
+  "fatpig": {
+    "mint": "ESfUVQUYuFMGC77H6LDZ6ZryiidVNNqU3Vhuv8Pcpump",
+    "first_seen": "2026-09-08T09:11:24.402398+00:00"
+  },
+  "legacy": {
+    "mint": "6eGtqzS9Z9AxAJc6PFhDxgfDgfMm8pAndhzANb67sbog",
+    "first_seen": "2026-09-08T09:11:27.620715+00:00"
+  },
+  "trumpm": {
+    "mint": "Hx5We3gFYFwykQ4TzCnirSrr2ytyqdbKRa2yDvcSpump",
+    "first_seen": "2026-09-08T09:11:28.182600+00:00"
+  },
+  "quacker": {
+    "mint": "BaxWR5Wxd1LMSM1A6hhWKmuSzny5KQkVrkXpGPD6pump",
+    "first_seen": "2026-09-08T09:11:33.476494+00:00"
+  },
+  "navier": {
+    "mint": "EbBUUppo9UYhn5W4cNN3tJEhduND3TCctUN8dVuePvQf",
+    "first_seen": "2026-09-08T09:11:34.224901+00:00"
+  },
+  "4stock": {
+    "mint": "Edx819qbm7VH5VPL38XcFwRw4fNcupEErVpFyrHabpZN",
+    "first_seen": "2026-09-08T09:11:34.446619+00:00"
   }
 }
