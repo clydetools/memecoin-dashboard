@@ -62170,5 +62170,21 @@
   "4stock": {
     "mint": "Edx819qbm7VH5VPL38XcFwRw4fNcupEErVpFyrHabpZN",
     "first_seen": "2026-09-08T09:11:34.446619+00:00"
+  },
+  "bagcoon": {
+    "mint": "BQtutEEMXtq2Vz4S8DmtL7ujatPryhcbeEdXeX13pump",
+    "first_seen": "2026-09-08T13:40:53.287455+00:00"
+  },
+  "waltercoin": {
+    "mint": "7yP4HnZP46UxsV4fyx7XGFGkj6Q1tMM9VDiK1H3wpump",
+    "first_seen": "2026-09-08T13:40:54.289645+00:00"
+  },
+  "soltop": {
+    "mint": "BwfnULtapwcJz1ubBJk3GUWpZfJe512RDuFHm6Skpump",
+    "first_seen": "2026-09-08T13:40:54.738794+00:00"
+  },
+  "nafta": {
+    "mint": "7bnfDDP1xK1pSLN4BXTXPf32BrHhnx49CKNLxFVfpump",
+    "first_seen": "2026-09-08T13:40:56.507004+00:00"
   }
 }
