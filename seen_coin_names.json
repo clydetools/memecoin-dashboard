@@ -62254,5 +62254,33 @@
   "ozempig": {
     "mint": "F6gHSUPASF1WrhVNkoJkeuhKJzaKzz9X7GzJxSnhpump",
     "first_seen": "2026-09-08T17:34:33.912520+00:00"
+  },
+  "solero": {
+    "mint": "A16XsN3fAgcK48nQjLHjtgiZ2f2PghTgYLwEDTHK3quH",
+    "first_seen": "2026-09-08T20:13:58.427374+00:00"
+  },
+  "doob": {
+    "mint": "9Yrv3uzWiRnnm3FwXSKDfKADXD7rEUWu7Xrwb5orpump",
+    "first_seen": "2026-09-08T20:13:59.018151+00:00"
+  },
+  "diw": {
+    "mint": "FzqmdtVrPtJgWykX8rMQCzRcRZdYHu6Yw2QtSznspump",
+    "first_seen": "2026-09-08T20:14:02.123439+00:00"
+  },
+  "pumptrash": {
+    "mint": "GVgbf1ydLtManPmgzXg1Rank7jwhpqrWzu3WxBu4pump",
+    "first_seen": "2026-09-08T20:14:03.941271+00:00"
+  },
+  "boobiter": {
+    "mint": "7ujzqNJosUDgWkcin5iKWpMrzzuYarCfhzzHVQQTpump",
+    "first_seen": "2026-09-08T20:14:06.053438+00:00"
+  },
+  "adarxmin": {
+    "mint": "hm5d7GrDn5DARk37EgnBSvreg2PLmWk6Ptokkhrpump",
+    "first_seen": "2026-09-08T20:14:06.511909+00:00"
+  },
+  "dingo": {
+    "mint": "73sfnFgqQzpSRZSimCC4sxpubqghRGYewYLmiUH2pump",
+    "first_seen": "2026-09-08T20:14:11.264711+00:00"
   }
 }
