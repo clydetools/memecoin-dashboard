@@ -62186,5 +62186,73 @@
   "nafta": {
     "mint": "7bnfDDP1xK1pSLN4BXTXPf32BrHhnx49CKNLxFVfpump",
     "first_seen": "2026-09-08T13:40:56.507004+00:00"
+  },
+  "depeaq": {
+    "mint": "AWXyS9a9MZdvuUdVNGaApMViFgRZSQX4VPYcGjdgby4e",
+    "first_seen": "2026-09-08T17:34:17.045157+00:00"
+  },
+  "wl": {
+    "mint": "5kRH1goY7kdKPHZQUfjjGcHXZNZ4VUwfkXQmteMEpump",
+    "first_seen": "2026-09-08T17:34:17.959501+00:00"
+  },
+  "witchcat": {
+    "mint": "Hid6bWBFK3uSJqr5SCfrjB7VnJ6auNb5QLKK6dBqpump",
+    "first_seen": "2026-09-08T17:34:18.445835+00:00"
+  },
+  "catard": {
+    "mint": "E5votE9948hUEE61Pm43Y7ZJWHHtVKR2W8YiH49dpump",
+    "first_seen": "2026-09-08T17:34:18.914035+00:00"
+  },
+  "mooninu": {
+    "mint": "DP3Gf61VBxDmqNVSf751NB11p6qPU95HFBtrsLPSpump",
+    "first_seen": "2026-09-08T17:34:19.388207+00:00"
+  },
+  "monerox": {
+    "mint": "Dnoo5GEqBqLLrAcEoTGqU7ywUejdbFA8xsbDWj6upump",
+    "first_seen": "2026-09-08T17:34:20.277869+00:00"
+  },
+  "kuma": {
+    "mint": "5xDpvdkgszocP6LnyWsanKTuiybWdu9T8oRiHa4Dpump",
+    "first_seen": "2026-09-08T17:34:22.444719+00:00"
+  },
+  "dob": {
+    "mint": "ALJQ7L5LGF9f55TyoRETU54zEVXnAK39FQj3dPhBTNUK",
+    "first_seen": "2026-09-08T17:34:23.703531+00:00"
+  },
+  "xmrdog": {
+    "mint": "xAHPA8BggiESKBcioX3Dbvs6amNvF5usrDi87wGpump",
+    "first_seen": "2026-09-08T17:34:24.577611+00:00"
+  },
+  "agent0": {
+    "mint": "CCbREAn7P16Lh3Y1mwLJPX87kvTep75NVtrbiydZZjv3",
+    "first_seen": "2026-09-08T17:34:25.004488+00:00"
+  },
+  "mgirl": {
+    "mint": "D1YKe8xCnVnzwq7ooy84BMnJhMG7PjUnVtGYyLfLpump",
+    "first_seen": "2026-09-08T17:34:25.482460+00:00"
+  },
+  "nanny": {
+    "mint": "AfgNngGFt5Zyut7nVFYAK1S1UtV1zsB11exdttPbpump",
+    "first_seen": "2026-09-08T17:34:25.916024+00:00"
+  },
+  "clementine": {
+    "mint": "BFetbGRkKgTDoLiZiA6cnfTUZTR1QDHb5tM4c8wxpump",
+    "first_seen": "2026-09-08T17:34:26.738697+00:00"
+  },
+  "peaq": {
+    "mint": "PEAQjk7SRS6rXHVFFmpRr7zrC4g5ZuEebpwTxvaLr3b",
+    "first_seen": "2026-09-08T17:34:31.091687+00:00"
+  },
+  "dowbones": {
+    "mint": "9nQ19kEKYcmtSHZA9hEgxXBkEAGAotgXQFJFBFgUpump",
+    "first_seen": "2026-09-08T17:34:31.261526+00:00"
+  },
+  "attn": {
+    "mint": "H1kXUqEPkQNNeNjGNN5tuHf3nsQK2vB1jUA9c4RggpUf",
+    "first_seen": "2026-09-08T17:34:32.380580+00:00"
+  },
+  "ozempig": {
+    "mint": "F6gHSUPASF1WrhVNkoJkeuhKJzaKzz9X7GzJxSnhpump",
+    "first_seen": "2026-09-08T17:34:33.912520+00:00"
   }
 }
