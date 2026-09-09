@@ -62306,5 +62306,45 @@
   "dogecoin": {
     "mint": "6mmrbud55cQcexrtUaPdQY8JxCV1L7f6HGQcuW7KN7vP",
     "first_seen": "2026-09-08T22:44:05.744636+00:00"
+  },
+  "tip": {
+    "mint": "7utTF7JnW8n3stv5jQmHVyYSJRDXFQShqj2oLh9Fpump",
+    "first_seen": "2026-09-09T00:42:05.471217+00:00"
+  },
+  "etfs": {
+    "mint": "6RecGTAhUPWwfsnr3Z5W8FbMR3wN48tZV4MtFCUqpump",
+    "first_seen": "2026-09-09T00:42:06.674776+00:00"
+  },
+  "ga": {
+    "mint": "25pXtPDQHAqJdYrwZPVDKNaC5hQZJDiCK986dAxYpump",
+    "first_seen": "2026-09-09T00:42:07.249832+00:00"
+  },
+  "suica": {
+    "mint": "EgmVzizJZ4TR9XiLqjQPMfHroHt2urGfGGbmYbPHpump",
+    "first_seen": "2026-09-09T00:42:07.844288+00:00"
+  },
+  "pouch": {
+    "mint": "GSiuGs8dBNp5wSfLGM3f9BLsn1ecSVtMZ1xHGRiqpump",
+    "first_seen": "2026-09-09T00:42:08.420209+00:00"
+  },
+  "thebigguy": {
+    "mint": "GdsCy9zAeNkwaQBENKTjXDmBFSHaRZtpbRpDeWyxpump",
+    "first_seen": "2026-09-09T00:42:08.989946+00:00"
+  },
+  "legtrump": {
+    "mint": "AdLLSn9jPhWRAYoDZX4hxwe7B389kiK81q2JToGipump",
+    "first_seen": "2026-09-09T00:42:11.340189+00:00"
+  },
+  "literally": {
+    "mint": "CdYkFFpfiasvhCZTYAmb2KPGq7F71uCM4hjHk4kqpump",
+    "first_seen": "2026-09-09T00:42:11.920463+00:00"
+  },
+  "luia": {
+    "mint": "DpzBpVJxy7JoEtxsCZTYWUmbUFYPzfKs4PPW7FwDpump",
+    "first_seen": "2026-09-09T00:42:12.502138+00:00"
+  },
+  "legendt": {
+    "mint": "EZVG7XwPPBgsn85rc2dz1JoZVNQTrVkRzJVZQQmspump",
+    "first_seen": "2026-09-09T00:42:15.781301+00:00"
   }
 }
