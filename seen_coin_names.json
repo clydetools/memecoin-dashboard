@@ -62346,5 +62346,29 @@
   "legendt": {
     "mint": "EZVG7XwPPBgsn85rc2dz1JoZVNQTrVkRzJVZQQmspump",
     "first_seen": "2026-09-09T00:42:15.781301+00:00"
+  },
+  "ubc": {
+    "mint": "ENsFAFw2rp9RefotApcUBw1qJaf2rsFDGXNw2KS3pump",
+    "first_seen": "2026-09-09T05:21:42.196656+00:00"
+  },
+  "tinfoiloor": {
+    "mint": "7Ae6FtaZpWBqv2So1vLECawDGcYMQrWctLUDqXZqpump",
+    "first_seen": "2026-09-09T05:21:43.506069+00:00"
+  },
+  "share": {
+    "mint": "CDw5Xmqd7C61vc7eQQhqLPGMpcjJfS1zTwixBE4ypump",
+    "first_seen": "2026-09-09T05:21:44.398659+00:00"
+  },
+  "stocked": {
+    "mint": "5Yge7C24KMZKBqQ9XJuam79TnLgJBD2GaigSnRZDpump",
+    "first_seen": "2026-09-09T05:21:45.621427+00:00"
+  },
+  "knots": {
+    "mint": "8RVBk8vxLiUHueLUW1f4izFVqN3nWippLhkohKg6EGkS",
+    "first_seen": "2026-09-09T05:21:49.913147+00:00"
+  },
+  "bids": {
+    "mint": "BiDSKQtbs2paLaw4foKuJiRiK4zB31TzoDyzbV1Q3qKs",
+    "first_seen": "2026-09-09T05:21:50.925052+00:00"
   }
 }
