@@ -62582,5 +62582,29 @@
   "copy": {
     "mint": "FJE9V6Bv7QvKkKusHDjjdSxzQLqfUFXZHe52EK1Hx8F2",
     "first_seen": "2026-09-10T09:50:07.103372+00:00"
+  },
+  "resigned": {
+    "mint": "Hu15xj6Xa1yMa7JR7gmZ5ttqSLRpji9ysYYRzMHNpump",
+    "first_seen": "2026-09-10T13:53:55.935429+00:00"
+  },
+  "apef": {
+    "mint": "FKxGyueDGE6dArux1vy64A4dhWauTXHjtK7CZLhzpump",
+    "first_seen": "2026-09-10T13:53:57.097992+00:00"
+  },
+  "barret": {
+    "mint": "BrJZJUvfg5x9r5f7QJWLt2pL4tG24HMAGp5BZHGGpump",
+    "first_seen": "2026-09-10T13:53:57.738723+00:00"
+  },
+  "juanh": {
+    "mint": "7fELPw9TmuBfRZ22pGA8P6FVbkwufdHxmwTN5ELApump",
+    "first_seen": "2026-09-10T13:53:58.286750+00:00"
+  },
+  "stonkfly": {
+    "mint": "AaU9MAbkfZDqXrisauVSu1dNzt9F16TSpenUZ2Phpump",
+    "first_seen": "2026-09-10T13:54:01.268386+00:00"
+  },
+  "starbucks": {
+    "mint": "TTTcxRY7UZXvktrZGrubfosDQFq5H1nEBmrEHHUpump",
+    "first_seen": "2026-09-10T13:54:09.627085+00:00"
   }
 }
