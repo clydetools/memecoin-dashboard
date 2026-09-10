@@ -62518,5 +62518,25 @@
   "stonkszn": {
     "mint": "HQSXsxD2BhpA8v21TwTjv6Tbkr8yYH3B8RkGS1Bspump",
     "first_seen": "2026-09-09T22:41:13.031941+00:00"
+  },
+  "vhem": {
+    "mint": "GSXdqK2D2P3MPe3CnifWZmpR8r1Jc5uVMXvdo5etpump",
+    "first_seen": "2026-09-10T00:38:56.481224+00:00"
+  },
+  "pegged": {
+    "mint": "CJi3eXuoZ1VuDqryp46nTpqrbpBGpQNpu9QFY36npump",
+    "first_seen": "2026-09-10T00:38:57.691492+00:00"
+  },
+  "paypal": {
+    "mint": "MfJbVsdEQEaEiZvNQjDCC5AqEcLQFdH54rU665ypump",
+    "first_seen": "2026-09-10T00:38:58.399909+00:00"
+  },
+  "solsheep": {
+    "mint": "EupM83fx6fBT41G5ywxQAaDx3GqUpR7V8ei7anRQpump",
+    "first_seen": "2026-09-10T00:38:59.956716+00:00"
+  },
+  "payslice": {
+    "mint": "12M2rjmnnb8gFegfdhDZmiRgtxNFoLETGXXPTF35pump",
+    "first_seen": "2026-09-10T00:39:05.674981+00:00"
   }
 }
