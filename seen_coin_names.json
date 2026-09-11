@@ -62858,5 +62858,65 @@
   "getstonked": {
     "mint": "Enhuu882mnhTtM7bGwAUG5GzgdDUcyjtL2uqQTxgpump",
     "first_seen": "2026-09-11T19:51:42.219246+00:00"
+  },
+  "dvl": {
+    "mint": "5HBKEyqGmMb1HcbwrtNEsNZ9XZKaT6ZXTZKZtzNapump",
+    "first_seen": "2026-09-11T22:13:41.540588+00:00"
+  },
+  "cfd": {
+    "mint": "4c5MneDK5Ad8NuwJC3jvcQnr5ZAPks14KGXJTvKvpump",
+    "first_seen": "2026-09-11T22:13:43.655903+00:00"
+  },
+  "wcoi": {
+    "mint": "5EQoNyLLGesuhwdk8FnWZSogypd7UStPzabjMLAspump",
+    "first_seen": "2026-09-11T22:13:44.665248+00:00"
+  },
+  "doomfly": {
+    "mint": "8GRBNY8uind3HvYu5haX7WSjVqVACC6PfqfC3nojpump",
+    "first_seen": "2026-09-11T22:13:45.696314+00:00"
+  },
+  "aibrian": {
+    "mint": "CTV9L2wL4pDLEFEAZE56Sew9Lf44hEfc9XVbVSmdpump",
+    "first_seen": "2026-09-11T22:13:46.728664+00:00"
+  },
+  "wm": {
+    "mint": "6ACZ3ZXMSuaSZyXNS8CyZESJd5rgnjdscJqpUR3npump",
+    "first_seen": "2026-09-11T22:13:47.639501+00:00"
+  },
+  "paparazi": {
+    "mint": "5nbQPS54hcihH5ss5kZ9SU553ua1oUdr99wkJL77pump",
+    "first_seen": "2026-09-11T22:13:48.885111+00:00"
+  },
+  "neegyahu": {
+    "mint": "HFP77n88p1URJWJyHovYWMLowZTyTXS1v13hnyXBpump",
+    "first_seen": "2026-09-11T22:13:49.405592+00:00"
+  },
+  "retardoooo": {
+    "mint": "3gWF5SptPJp8foENJhRVpUdRiSdgUxia4YU5be4Lpump",
+    "first_seen": "2026-09-11T22:13:49.939765+00:00"
+  },
+  "bush": {
+    "mint": "J87aVZkopN1AjUkCa5ZHKymvwkSfiYEe52dny6bxpump",
+    "first_seen": "2026-09-11T22:13:52.455427+00:00"
+  },
+  "ziggy": {
+    "mint": "BVm8ibb77FPLwNUxgYUXZxZ73TckzeXS4HyWk6oapump",
+    "first_seen": "2026-09-11T22:13:52.989459+00:00"
+  },
+  "toballku": {
+    "mint": "EagCxC5a7t3rPzPtxgm98QAW9fcbCSUcBro1fi1YPALL",
+    "first_seen": "2026-09-11T22:13:55.918384+00:00"
+  },
+  "stunk": {
+    "mint": "FLk6FKAN26m1FT4ucguwy3uHBMzLKcEu8KMTYD2Zpump",
+    "first_seen": "2026-09-11T22:14:00.616847+00:00"
+  },
+  "all": {
+    "mint": "ASoQZA3Dee2HU34Vwx3b5SAtTaczJtZcyx1T413nDALL",
+    "first_seen": "2026-09-11T22:14:00.684909+00:00"
+  },
+  "items": {
+    "mint": "5LmhyQX8aKUNroKeE2JeT24UbeKkznthjKBW9j7RdA6M",
+    "first_seen": "2026-09-11T22:14:00.838304+00:00"
   }
 }
