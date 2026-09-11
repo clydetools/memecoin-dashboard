@@ -62722,5 +62722,33 @@
   "robinshood": {
     "mint": "nHeJbjKdSJg1wvciMLjzT3rSaBY2VZoBaiBmdPj2ob4",
     "first_seen": "2026-09-11T04:58:36.944563+00:00"
+  },
+  "superstonk": {
+    "mint": "8jAx2ndnbBTMjzT8cwpLSBsG6FA6EiUYJQfFsVndpump",
+    "first_seen": "2026-09-11T09:25:53.414493+00:00"
+  },
+  "peg": {
+    "mint": "DNJPfNUZVeAH7u2m6k6gptaPzUTRBM3XyiMudKszpump",
+    "first_seen": "2026-09-11T09:25:56.159923+00:00"
+  },
+  "lastcoin": {
+    "mint": "CasS2pfCZAPxzK2m2kVD3k1qDHVfDzuXU29WG3Jwpump",
+    "first_seen": "2026-09-11T09:25:59.588655+00:00"
+  },
+  "pumpfly": {
+    "mint": "G4of66GENwjZPLGHHrTn7CbEtK1pckCrVRB9StFNPhts",
+    "first_seen": "2026-09-11T09:26:04.149316+00:00"
+  },
+  "flybrain": {
+    "mint": "J6Q9Li6FgGkJ5iViBkczbwz5VBEb5ffA7S7TMBBPbHtn",
+    "first_seen": "2026-09-11T09:26:09.559754+00:00"
+  },
+  "stonkpump": {
+    "mint": "CiqZrrsxWV9tyz6rL2AfVuibEH45FZq62Z9ZyEdFpump",
+    "first_seen": "2026-09-11T09:26:10.977632+00:00"
+  },
+  "meth": {
+    "mint": "6CsmCtDAhRcbp3G4KiinKC2JjLJ9BpR7isqcgZefqLym",
+    "first_seen": "2026-09-11T09:26:13.728085+00:00"
   }
 }
