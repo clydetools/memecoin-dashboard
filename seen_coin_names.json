@@ -62706,5 +62706,21 @@
   "rush": {
     "mint": "SATqS9DYpLQsM2z51P4QCoqJRHa5wboV4qjJerJRUSH",
     "first_seen": "2026-09-11T00:21:03.634152+00:00"
+  },
+  "fruitless": {
+    "mint": "D9N3qhS3hHAdsHqvkFjqgmPURAvjDVc1FxmfJzn2pump",
+    "first_seen": "2026-09-11T04:58:33.822327+00:00"
+  },
+  "tungtower": {
+    "mint": "4f2umxBJyUZrubUpN28QVocac2HySdQ9sSvhFERwpump",
+    "first_seen": "2026-09-11T04:58:35.833813+00:00"
+  },
+  "uhbomb": {
+    "mint": "6uQRkCwwfY2ZrveTTQm1HPCgy37h2sj48vDDrMgzpump",
+    "first_seen": "2026-09-11T04:58:36.396083+00:00"
+  },
+  "robinshood": {
+    "mint": "nHeJbjKdSJg1wvciMLjzT3rSaBY2VZoBaiBmdPj2ob4",
+    "first_seen": "2026-09-11T04:58:36.944563+00:00"
   }
 }
