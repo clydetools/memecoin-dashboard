@@ -62814,5 +62814,49 @@
   "juggpons": {
     "mint": "F4exRp4w8J3eEANDLRDqPh33JC9b61s6zbfTpqVMpump",
     "first_seen": "2026-09-11T17:19:38.191185+00:00"
+  },
+  "isogu": {
+    "mint": "W9DV2cKfADgXQSHxKt32R6Yi3tDyyTNUv4sErTWpump",
+    "first_seen": "2026-09-11T19:51:21.193829+00:00"
+  },
+  "cig": {
+    "mint": "HaXuKRVCfXuKWN1afGeWf1Gmo2bvNSjVPPu9UYNtpump",
+    "first_seen": "2026-09-11T19:51:23.038144+00:00"
+  },
+  "momma": {
+    "mint": "C5DAnZRQibECwjgwdcJUhoc8g5TEYskDdM53PBS9pump",
+    "first_seen": "2026-09-11T19:51:26.901694+00:00"
+  },
+  "doggoecho": {
+    "mint": "9ErFWXkZYCJHstgYPijWzt3DfoCckhKLALT4UpecEBxy",
+    "first_seen": "2026-09-11T19:51:27.471331+00:00"
+  },
+  "doggoplay": {
+    "mint": "CAHSt3Etxc6s6T8yTubCLiZQnUqAGR3CkhgNuVJXTNEw",
+    "first_seen": "2026-09-11T19:51:29.617166+00:00"
+  },
+  "stealth": {
+    "mint": "jJ5KpS7woGRuETBQNU6sYG9Qtrw1wYMin4qPwbLpump",
+    "first_seen": "2026-09-11T19:51:30.091930+00:00"
+  },
+  "zionecho": {
+    "mint": "mWqj1fcUpBKLAdrzFwJ7mc9V7Etn4pM28y26DTbHKWp",
+    "first_seen": "2026-09-11T19:51:31.988337+00:00"
+  },
+  "minecat": {
+    "mint": "ECBx3AGWfUAMFg8WACajUE7BKcMGhxHu3PYBBB1KMVyW",
+    "first_seen": "2026-09-11T19:51:40.518626+00:00"
+  },
+  "solfly": {
+    "mint": "5qaZj2JM7uUMfj3YHHPAAsvccdLeSwMCzcWoj8Dvpump",
+    "first_seen": "2026-09-11T19:51:40.665401+00:00"
+  },
+  "catai": {
+    "mint": "BGU4TfDLpV1JeJGXVgSbZkLSRxgAzcsQci1vEbaWJVcm",
+    "first_seen": "2026-09-11T19:51:40.947165+00:00"
+  },
+  "getstonked": {
+    "mint": "Enhuu882mnhTtM7bGwAUG5GzgdDUcyjtL2uqQTxgpump",
+    "first_seen": "2026-09-11T19:51:42.219246+00:00"
   }
 }
