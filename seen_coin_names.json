@@ -63086,5 +63086,33 @@
   "tulip": {
     "mint": "7vSG4GX8qz5V36noSde5Z9xV8xAXAGqivDyaNytPVDJf",
     "first_seen": "2026-09-12T20:30:23.493336+00:00"
+  },
+  "jayxon": {
+    "mint": "Ck1DcSnfsXY9Ap5suXC3pJVoVj6w9R5CaYcZZRyqpump",
+    "first_seen": "2026-09-12T22:30:15.178364+00:00"
+  },
+  "labra": {
+    "mint": "kgGpXXc84ryTtAdZrMNXXFgV8BoQcdqhkNcuLkFpump",
+    "first_seen": "2026-09-12T22:30:17.659807+00:00"
+  },
+  "baddj": {
+    "mint": "Fq2oTTQ7fciDPjojYD5SzNx2mHtfAPq2hpNDBPunpump",
+    "first_seen": "2026-09-12T22:30:20.833990+00:00"
+  },
+  "nva": {
+    "mint": "6SB3gex8SnxufjRfMVw26QajKn8LcVyNQKQRpkbwpump",
+    "first_seen": "2026-09-12T22:30:21.403980+00:00"
+  },
+  "taz": {
+    "mint": "HU1i8zjZ3dW4bWtYQe2vCoTe3GoSn8BjB8wy33LKpump",
+    "first_seen": "2026-09-12T22:30:21.959689+00:00"
+  },
+  "mdog": {
+    "mint": "F5zC2QoP6j2erxNyf4z6iNCi6X6AkburMC2Xofhxpump",
+    "first_seen": "2026-09-12T22:30:33.763819+00:00"
+  },
+  "fillkitty": {
+    "mint": "3vHLA5NoXSsvLCKaMdHCwbop5c64fzG2UbhYxMT3pump",
+    "first_seen": "2026-09-12T22:30:33.904274+00:00"
   }
 }
