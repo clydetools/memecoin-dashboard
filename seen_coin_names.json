@@ -62950,5 +62950,29 @@
   "dabo": {
     "mint": "4hmBjZ4NGG8HvVZridQ1ii7PKaFbw4CUMD2fudejpump",
     "first_seen": "2026-09-12T04:51:19.627669+00:00"
+  },
+  "rdoge": {
+    "mint": "ExRGN5Hc3kGy8iyjN8ytHH62qgG19WbSLzdDGSDopump",
+    "first_seen": "2026-09-12T09:00:42.245463+00:00"
+  },
+  "fake49er": {
+    "mint": "GCvj9rQHJywt4n5HGxxZA9EpLQqAsNwmHQov6pPSpump",
+    "first_seen": "2026-09-12T09:00:42.797249+00:00"
+  },
+  "cbps": {
+    "mint": "J5LANVUbTh4H84v4fPz8rpv9W26RsXiTosVTc3iDpump",
+    "first_seen": "2026-09-12T09:00:43.323745+00:00"
+  },
+  "revolve": {
+    "mint": "J8X5ygWHY5uHFch7m3MisSC7eDAWpAkgi1pyqfT5pump",
+    "first_seen": "2026-09-12T09:00:50.917279+00:00"
+  },
+  "dividend": {
+    "mint": "5y4P3R4FTmx5Ni3MYLrM73z4utnzsKHURWs7xjBVSTNK",
+    "first_seen": "2026-09-12T09:00:51.002984+00:00"
+  },
+  "flycoin": {
+    "mint": "3XCDFdzJjzey7DAfduuurpWrrQAHbSbkBz31Sf8Upump",
+    "first_seen": "2026-09-12T09:00:52.284073+00:00"
   }
 }
