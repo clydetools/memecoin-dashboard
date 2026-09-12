@@ -63050,5 +63050,41 @@
   "gemi": {
     "mint": "5dgYsznRVkYTnab747xLeegcBhFi8xRLgNdhayYXpump",
     "first_seen": "2026-09-12T18:04:37.788901+00:00"
+  },
+  "slender": {
+    "mint": "3D7LiYM3HdqRjncSocHFW8VGJCR513yDsUhvaXJ2pump",
+    "first_seen": "2026-09-12T20:30:09.574876+00:00"
+  },
+  "brainfly": {
+    "mint": "6mjrJVVD3YvyA42zjKwDuqDPBBnupwVtF5R1dTt2pump",
+    "first_seen": "2026-09-12T20:30:12.287385+00:00"
+  },
+  "nanodog": {
+    "mint": "DipiG5j6UgFkTeCa3HVZBn4tcLjwbgUzQhzJAhpepump",
+    "first_seen": "2026-09-12T20:30:13.449446+00:00"
+  },
+  "watch": {
+    "mint": "HQDVt37HTgpA8N1P7oKhtrAx4NTVjQXyN1oabdXDpump",
+    "first_seen": "2026-09-12T20:30:14.910867+00:00"
+  },
+  "rr1": {
+    "mint": "CeZaXfQ9ev532xNZ58ny3Zmamz4KFyV8Gehr8Y5B8PD9",
+    "first_seen": "2026-09-12T20:30:16.089558+00:00"
+  },
+  "aaplx": {
+    "mint": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
+    "first_seen": "2026-09-12T20:30:21.568084+00:00"
+  },
+  "twine": {
+    "mint": "CNWxmoBSQZo2Sgp5KSAK5m9FwSqDbXQRP4CNMuoe78Gm",
+    "first_seen": "2026-09-12T20:30:22.290068+00:00"
+  },
+  "holdcat": {
+    "mint": "GxVwjZjhAve6J8maGbwm8krzWB3Qgo33FXR7fweZpump",
+    "first_seen": "2026-09-12T20:30:23.083301+00:00"
+  },
+  "tulip": {
+    "mint": "7vSG4GX8qz5V36noSde5Z9xV8xAXAGqivDyaNytPVDJf",
+    "first_seen": "2026-09-12T20:30:23.493336+00:00"
   }
 }
