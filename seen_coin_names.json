@@ -62974,5 +62974,49 @@
   "flycoin": {
     "mint": "3XCDFdzJjzey7DAfduuurpWrrQAHbSbkBz31Sf8Upump",
     "first_seen": "2026-09-12T09:00:52.284073+00:00"
+  },
+  "wrappeddog": {
+    "mint": "4KJ792xTLrhLHCqtaPHRS2ruXNDTmJW1h1d3kU5upump",
+    "first_seen": "2026-09-12T12:49:01.310567+00:00"
+  },
+  "minefly": {
+    "mint": "H9AmfnerY3jVm1dohqJAgKm9RzS2zyVWudwJLf4Npump",
+    "first_seen": "2026-09-12T12:49:01.911786+00:00"
+  },
+  "alx": {
+    "mint": "4fFkaWkgN9QfP31JYHeek2mALzg16suyP3tkkpk7pump",
+    "first_seen": "2026-09-12T12:49:02.516191+00:00"
+  },
+  "flylon": {
+    "mint": "SpEKWbBFGHuty4BDKi4UmcbPEjDVtoxsi1vWemGpump",
+    "first_seen": "2026-09-12T12:49:03.111258+00:00"
+  },
+  "dihcky": {
+    "mint": "CAyQLe54cikvQ9ivWsGMJU42oXM9Ua4fJNoBdHZtpump",
+    "first_seen": "2026-09-12T12:49:03.687544+00:00"
+  },
+  "nov26": {
+    "mint": "DBHHmGiK8oTGapWevsUZmQFRgfAnY3MFNPYSrMXupump",
+    "first_seen": "2026-09-12T12:49:05.286777+00:00"
+  },
+  "nodollar": {
+    "mint": "CbpbrxCWn9hqMycfXFsj98w3d9z2PuFzRd5pjRF1pump",
+    "first_seen": "2026-09-12T12:49:07.317714+00:00"
+  },
+  "onlycats": {
+    "mint": "FM8MTTCKGXpYbELh68LqswXTWAw1Vf8gSrJy4Diqpump",
+    "first_seen": "2026-09-12T12:49:11.891268+00:00"
+  },
+  "pad": {
+    "mint": "rXheGuVD5fJLohc6mumW2TxipfHxoPD8PRKhRXepump",
+    "first_seen": "2026-09-12T12:49:11.976127+00:00"
+  },
+  "pool": {
+    "mint": "2kuEPy7zQNcCXmmq8zjTUNMm1WRs5XzBC5VXgVo6pump",
+    "first_seen": "2026-09-12T12:49:12.039735+00:00"
+  },
+  "juggsol": {
+    "mint": "E48xVLiza8JmnE4Kszoz5tF2Ce15pAAjRbGCkeYApump",
+    "first_seen": "2026-09-12T12:49:13.156110+00:00"
   }
 }
