@@ -63038,5 +63038,17 @@
   "trafigura": {
     "mint": "14CBLKjPSwQaWknMR6cXCGBiqTTwnqqoqT4oUK88pump",
     "first_seen": "2026-09-12T15:53:45.557312+00:00"
+  },
+  "zlvo": {
+    "mint": "2BxmjAiNa3ge8ey8yAVQuUXo5Fyotr88ftCBwMtapump",
+    "first_seen": "2026-09-12T18:04:24.084638+00:00"
+  },
+  "gomo": {
+    "mint": "ErdkcsUXzqGPrKni71Lz4PYudJhwYp6quYL9oWe6RHVY",
+    "first_seen": "2026-09-12T18:04:37.162182+00:00"
+  },
+  "gemi": {
+    "mint": "5dgYsznRVkYTnab747xLeegcBhFi8xRLgNdhayYXpump",
+    "first_seen": "2026-09-12T18:04:37.788901+00:00"
   }
 }
