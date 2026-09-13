@@ -63178,5 +63178,25 @@
   "leverstonk": {
     "mint": "3RTC33FgYgtbhEzXdRgNb2oaVuGPTSyUMkwWPJLx7NBX",
     "first_seen": "2026-09-13T04:55:27.544131+00:00"
+  },
+  "robhood": {
+    "mint": "EM6b7Sn71tyoFL8rKMHk8uW424JQ3LX2w5Wni2pKpump",
+    "first_seen": "2026-09-13T09:59:13.190375+00:00"
+  },
+  "flybook": {
+    "mint": "2nMVpQSipBrvhnHca1TbtjWdExM9UfxDAhXwRphwpump",
+    "first_seen": "2026-09-13T09:59:13.733590+00:00"
+  },
+  "cgi": {
+    "mint": "2bbBDx5rQNTYqQCME6W2rudrKeaJCb9XUnzV8qUmpump",
+    "first_seen": "2026-09-13T09:59:19.176689+00:00"
+  },
+  "mizo": {
+    "mint": "5Zspimi8VD6LctJLtaSjLqaSUvmh3Rs849iPtGocpump",
+    "first_seen": "2026-09-13T09:59:19.240820+00:00"
+  },
+  "mpair": {
+    "mint": "EUTipzFepgT9614RaCQaKcqL2NnJFDmvpTcZTrXYpump",
+    "first_seen": "2026-09-13T09:59:21.183457+00:00"
   }
 }
