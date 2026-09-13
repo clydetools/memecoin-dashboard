@@ -63338,5 +63338,21 @@
   "hev": {
     "mint": "4tkupXEGfbYPCVN37CagviJd3tgWnudT9avKZvouT3Dm",
     "first_seen": "2026-09-13T21:41:26.963435+00:00"
+  },
+  "grunge": {
+    "mint": "5C61hDHdndqq1ATvqncAuNYLNQ23RmvP2cjMGe3epump",
+    "first_seen": "2026-09-13T23:37:37.290372+00:00"
+  },
+  "wf": {
+    "mint": "Hwqar9ixeW86Mc4TgYQW4iYqZJKDmQx4e7mPiKE8pump",
+    "first_seen": "2026-09-13T23:37:37.934076+00:00"
+  },
+  "solboss": {
+    "mint": "5r2ZSGi3nHwS1HSVLQ1XxZaD5kj6aifMSfRtcigApump",
+    "first_seen": "2026-09-13T23:37:41.214271+00:00"
+  },
+  "mccat": {
+    "mint": "2mU1gnWCRYR9jDuWp963qsVps58T6huQUhSyCcrp32qd",
+    "first_seen": "2026-09-13T23:37:46.999742+00:00"
   }
 }
