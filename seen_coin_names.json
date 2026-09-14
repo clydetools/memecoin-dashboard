@@ -63426,5 +63426,29 @@
   "gldx": {
     "mint": "Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re",
     "first_seen": "2026-09-14T13:57:56.647179+00:00"
+  },
+  "wknd": {
+    "mint": "5JSB24oQb8smUVbFnZbh2Co3dLzkyXJL4qQAqU62pump",
+    "first_seen": "2026-09-14T19:05:26.420125+00:00"
+  },
+  "futureif": {
+    "mint": "B4h8mGU1N5YUchtWnhx5WJFr9BJVPg5cNDdL2wnPpump",
+    "first_seen": "2026-09-14T19:05:28.061740+00:00"
+  },
+  "pumploo": {
+    "mint": "UVFWkbmg1T2SxtEMD1iNPjyUuLGrKFsLe5Hx9hHpump",
+    "first_seen": "2026-09-14T19:05:28.571217+00:00"
+  },
+  "fizz": {
+    "mint": "2QRScckzpkmXWiBGmVMGAsVqRZp4o2Tiux8BNd8vpump",
+    "first_seen": "2026-09-14T19:05:29.597068+00:00"
+  },
+  "tripad": {
+    "mint": "4qxeVz5JTsVuvejwAe2o8DFcuchKvwNjaqz1c5ubEAFo",
+    "first_seen": "2026-09-14T19:05:35.547450+00:00"
+  },
+  "wheeltyson": {
+    "mint": "6XV1bfWhSZfmeZgfRzJHSZ51df31BNVzNE8Xxr2Kpump",
+    "first_seen": "2026-09-14T19:05:35.723811+00:00"
   }
 }
