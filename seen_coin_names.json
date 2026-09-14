@@ -63366,5 +63366,21 @@
   "clear": {
     "mint": "Ba5SZjDTHW2sY6nFbx5Hqy3THJe8xo9LbjsxuzN8uysk",
     "first_seen": "2026-09-14T01:38:03.830522+00:00"
+  },
+  "formal": {
+    "mint": "4aGoS4tgpLX74jDFshp4YX5WQi7knadYuztdPYUjpump",
+    "first_seen": "2026-09-14T07:04:22.762029+00:00"
+  },
+  "cateszn": {
+    "mint": "EyXCSXEagwLUhnDPJUSBLmfajKonF6tzbe4SNZTvpump",
+    "first_seen": "2026-09-14T07:04:27.298690+00:00"
+  },
+  "faketaxi": {
+    "mint": "HEFhhy7qzmfv2rtUfG8VLL4ioXfqePApzzzspzzDpump",
+    "first_seen": "2026-09-14T07:04:29.317492+00:00"
+  },
+  "saturween": {
+    "mint": "5THtNEGTF1y67eRWvcgz3MomDZePCVx1xdskHHeCpump",
+    "first_seen": "2026-09-14T07:04:29.564900+00:00"
   }
 }
