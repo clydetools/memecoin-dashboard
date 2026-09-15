@@ -63674,5 +63674,37 @@
   "cmdt": {
     "mint": "CuaQE1HxjcMotLWnVJeFHHanDFEkbpkHDwrT4YRDpump",
     "first_seen": "2026-09-15T21:56:16.978083+00:00"
+  },
+  "whimsc": {
+    "mint": "9sbbL1sk3ihw5YzCUQzYGpccxdTqAm96pLqyHbMbpump",
+    "first_seen": "2026-09-15T23:57:30.112498+00:00"
+  },
+  "hunterriden": {
+    "mint": "33bzAq9mjqpD1KbXN4GxfF7TQCe5GJKHpwU9L5J5pump",
+    "first_seen": "2026-09-15T23:57:32.358603+00:00"
+  },
+  "cunter": {
+    "mint": "pSQ1J16E9zQSgF68fLyKgLZchsFi1Msp9UiDxcqwcRU",
+    "first_seen": "2026-09-15T23:57:33.459119+00:00"
+  },
+  "poodog": {
+    "mint": "GwzapmqmZ1UZYSRcwn9G9FNgwxfKGqNJHMKFHzjJpump",
+    "first_seen": "2026-09-15T23:57:34.580597+00:00"
+  },
+  "sharkos": {
+    "mint": "ShZsSbFckDx6G1pTe6u2hH4E3Dtoq6UXC1CzKSQpump",
+    "first_seen": "2026-09-15T23:57:35.139276+00:00"
+  },
+  "nyt": {
+    "mint": "WeRe6aszQvUgZMAib9G4eAXCKz2gKUoffiSP5XLpump",
+    "first_seen": "2026-09-15T23:57:41.484454+00:00"
+  },
+  "metax": {
+    "mint": "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu",
+    "first_seen": "2026-09-15T23:57:41.580625+00:00"
+  },
+  "paiddrop": {
+    "mint": "8j9BVwBYifZZ69XkkMNbQqJxTchfM79f3Y6VJjEpatiy",
+    "first_seen": "2026-09-15T23:57:41.720443+00:00"
   }
 }
