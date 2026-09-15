@@ -63554,5 +63554,45 @@
   "pepenom": {
     "mint": "EpEfnZxQyiBXppSKi8sncc8w4corn1UJbF9G91fQpump",
     "first_seen": "2026-09-15T05:29:06.166953+00:00"
+  },
+  "shh": {
+    "mint": "PYEBq746mwoGxdRqdtfn26g3Q8n42HqHz4bLDhkpump",
+    "first_seen": "2026-09-15T10:20:47.641954+00:00"
+  },
+  "fmf": {
+    "mint": "Gk7h6Kt8ekMAorwVkb9iStkYWPZvU5TvJASdseH4pump",
+    "first_seen": "2026-09-15T10:20:49.912254+00:00"
+  },
+  "weener": {
+    "mint": "7SnBFfocyC7jj6ssX891aBv8ebanMnr42v7ypyCLpump",
+    "first_seen": "2026-09-15T10:20:50.502418+00:00"
+  },
+  "metalpipe": {
+    "mint": "VaMhyrG9QuHVn8QNmXsei3LAPeorSvMJCH8Z4NKpump",
+    "first_seen": "2026-09-15T10:20:51.092083+00:00"
+  },
+  "itsreal": {
+    "mint": "CJ3NXvfpKkumsVC3cTBD5RJMGxvsQzaS7uf95sKApump",
+    "first_seen": "2026-09-15T10:20:51.699206+00:00"
+  },
+  "holycow": {
+    "mint": "GADGzDyjKp9mNANZcuWTYLRoJd5bY2s6SMsE5MAnpump",
+    "first_seen": "2026-09-15T10:20:53.392726+00:00"
+  },
+  "scribe": {
+    "mint": "6rHkNb7HCtkpvdnVJsBCZHH5dw3AndqEjfmbEGhooR7t",
+    "first_seen": "2026-09-15T10:20:58.812531+00:00"
+  },
+  "linera": {
+    "mint": "FdTz7auH1vveCX7YvkvG6mpDYwUMALWbtTQTRBQD5NW1",
+    "first_seen": "2026-09-15T10:20:58.932036+00:00"
+  },
+  "ponsai": {
+    "mint": "7XHQh6tFWbstSCVDX1HSVkyfD8JP3XbNQ38gudMG1QQQ",
+    "first_seen": "2026-09-15T10:20:59.008189+00:00"
+  },
+  "leld": {
+    "mint": "gxPoy3LioMo8FxrXHuqzFwg2R2JafQRe5tAsgPQpump",
+    "first_seen": "2026-09-15T10:21:01.693948+00:00"
   }
 }
