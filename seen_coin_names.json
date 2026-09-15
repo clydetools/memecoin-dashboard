@@ -63530,5 +63530,29 @@
   "stonk10": {
     "mint": "AqoPZcUumKUBHrnfBsNtoNuneYEjoimaiWYq8GH8gpX9",
     "first_seen": "2026-09-15T00:48:38.563133+00:00"
+  },
+  "poodeng": {
+    "mint": "EZqUBRpXTiedLCugDXXMVeoDELZpkGax7UKj8yj3pump",
+    "first_seen": "2026-09-15T05:28:57.410255+00:00"
+  },
+  "ratedr": {
+    "mint": "DuqxXRUrUFhCvBsyVehtBcvkYRe1xoQWBHAcnVxCpump",
+    "first_seen": "2026-09-15T05:28:57.958534+00:00"
+  },
+  "mobbarley": {
+    "mint": "foxH6JMixvW8YGvcwN1hTWnBEH3hu3R2wHpUdn3pump",
+    "first_seen": "2026-09-15T05:28:59.415398+00:00"
+  },
+  "cartyson": {
+    "mint": "B6wzyBpQwqH85d758rE8B9Thro92Jt5nJqcbyWGKpump",
+    "first_seen": "2026-09-15T05:29:04.632758+00:00"
+  },
+  "alcapp": {
+    "mint": "6QLBRjm3zoPTM7X3UmY66tAavjdbyXaYUZ1TtHQ2pump",
+    "first_seen": "2026-09-15T05:29:05.547178+00:00"
+  },
+  "pepenom": {
+    "mint": "EpEfnZxQyiBXppSKi8sncc8w4corn1UJbF9G91fQpump",
+    "first_seen": "2026-09-15T05:29:06.166953+00:00"
   }
 }
