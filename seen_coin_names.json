@@ -63886,5 +63886,45 @@
   "rawr": {
     "mint": "4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta",
     "first_seen": "2026-09-16T23:41:09.600469+00:00"
+  },
+  "chonkcoin": {
+    "mint": "mxaLp1TtgkxZMAaECBbyA5LFHW4s2ZXokcZPV38pump",
+    "first_seen": "2026-09-17T01:45:17.523282+00:00"
+  },
+  "delusionalbu": {
+    "mint": "Argp971HPk1Yp6bcQruoQiMcFVmgRvadQjXoccJ8MQ9P",
+    "first_seen": "2026-09-17T01:45:17.946558+00:00"
+  },
+  "swords": {
+    "mint": "KvRakyB1cBdD6mTX6zZk642rLR3AYNu2tR8iA6Kpump",
+    "first_seen": "2026-09-17T01:45:18.679696+00:00"
+  },
+  "fuz": {
+    "mint": "GbTte8Lqxu4UtwRAoTJNDJZgvUBuY49cUfWRArHPpump",
+    "first_seen": "2026-09-17T01:45:19.422062+00:00"
+  },
+  "fatih": {
+    "mint": "2sNyZteMuj94YcY6kfGQqdNrNVwy7zhm2WpWfhhGpump",
+    "first_seen": "2026-09-17T01:45:20.230900+00:00"
+  },
+  "cryptos": {
+    "mint": "3STdW9NeiuxzVCnFGuTEnS27Hz1VxKcnp3uuA17Xpump",
+    "first_seen": "2026-09-17T01:45:20.621875+00:00"
+  },
+  "leaf4": {
+    "mint": "wxZVcA8HUny79vdsyf3D7FMTn44xw3VW1VRvacerN9j",
+    "first_seen": "2026-09-17T01:45:22.021959+00:00"
+  },
+  "zereblast": {
+    "mint": "4hMvdY7KbsCzHnRE7Js6kNFyTdkqKMeTv9GPYD5ppump",
+    "first_seen": "2026-09-17T01:45:29.517784+00:00"
+  },
+  "paidlon": {
+    "mint": "AowPHdsFTZNTa7JDGFUCRpyGa4niTS9GBG26CNWtpump",
+    "first_seen": "2026-09-17T01:45:30.141840+00:00"
+  },
+  "casinu": {
+    "mint": "2eMoMqs194VxPHSWtCCzkBGqwCUbD4ZcqhecoGuh4tTp",
+    "first_seen": "2026-09-17T01:45:31.368176+00:00"
   }
 }
