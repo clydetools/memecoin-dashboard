@@ -63938,5 +63938,25 @@
   "xpay": {
     "mint": "3kyzFKhmkXERcpsnwSUQnxUVMFiZrRY4SGRpBfXYpump",
     "first_seen": "2026-09-17T06:43:45.199126+00:00"
+  },
+  "skinwalk": {
+    "mint": "8LwPsnZvHDCP2SXohBzYrtQzAmcipAHVErRrfhC4pump",
+    "first_seen": "2026-09-17T12:11:10.057396+00:00"
+  },
+  "sadd": {
+    "mint": "9HHi8UsBb72e6xaoXwpsZDJ2jiC2h1oG8zE5ZQ5Spump",
+    "first_seen": "2026-09-17T12:11:15.298505+00:00"
+  },
+  "solhunt": {
+    "mint": "5mVSGhXcX2Wf32ShD44UbcN7itaXfERQM2G6ySd8pump",
+    "first_seen": "2026-09-17T12:11:15.382157+00:00"
+  },
+  "minara": {
+    "mint": "Q4yJenYFzjzPn3qNwdVveV5wAL6CwmkM9quZ2NbDkBD",
+    "first_seen": "2026-09-17T12:11:15.471605+00:00"
+  },
+  "wang": {
+    "mint": "JoBxYVvPhPSkiZNiUjZdty1uR6TaNneuQvE3zZ2pump",
+    "first_seen": "2026-09-17T12:11:16.279751+00:00"
   }
 }
