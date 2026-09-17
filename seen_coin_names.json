@@ -63926,5 +63926,17 @@
   "casinu": {
     "mint": "2eMoMqs194VxPHSWtCCzkBGqwCUbD4ZcqhecoGuh4tTp",
     "first_seen": "2026-09-17T01:45:31.368176+00:00"
+  },
+  "rickbot": {
+    "mint": "5tGgnVME4zA3Hz3LJsHzMjuGYEwd5VPgqrNntFsmpump",
+    "first_seen": "2026-09-17T06:43:39.861331+00:00"
+  },
+  "roundhead": {
+    "mint": "C8zaN6ZVpayoAfE5psFpbfpFZGH2YGkHxdmmh9J1pump",
+    "first_seen": "2026-09-17T06:43:40.749932+00:00"
+  },
+  "xpay": {
+    "mint": "3kyzFKhmkXERcpsnwSUQnxUVMFiZrRY4SGRpBfXYpump",
+    "first_seen": "2026-09-17T06:43:45.199126+00:00"
   }
 }
