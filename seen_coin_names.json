@@ -64090,5 +64090,33 @@
   "wxmr": {
     "mint": "WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp",
     "first_seen": "2026-09-18T00:59:46.524064+00:00"
+  },
+  "alien": {
+    "mint": "UdowCj94eimf8y3HyvDBxAnwfL9pL1iHwVKwf5Wpump",
+    "first_seen": "2026-09-18T05:45:09.280238+00:00"
+  },
+  "aaple": {
+    "mint": "FxHVH6AVi6HAZuf1rujww3N3rK69iyJi4NDP72P8KrX4",
+    "first_seen": "2026-09-18T05:45:14.539344+00:00"
+  },
+  "zmusebook": {
+    "mint": "AUi8h8QpkvovmT45ehmnRJJxgnJzXqN5UQtm9r6ipump",
+    "first_seen": "2026-09-18T05:45:14.637868+00:00"
+  },
+  "qubt": {
+    "mint": "QUBTAD8C9bMU9LvmMNgKPhrmBGbHvxpu6vfWQtThxxw",
+    "first_seen": "2026-09-18T05:45:14.719442+00:00"
+  },
+  "okx": {
+    "mint": "BB59Hf16gj2SpcxeXphti7xBkYfzCyHR4qgFuNQpYHHD",
+    "first_seen": "2026-09-18T05:45:14.850528+00:00"
+  },
+  "gtaiv": {
+    "mint": "9opimVC7fjNHrVcgrtu45hGdB59WF8hVwWKiEuc49VeM",
+    "first_seen": "2026-09-18T05:45:15.320480+00:00"
+  },
+  "geminiai": {
+    "mint": "389WBE5DUHXVmstqu6yHMXsgb25Z7pDbkSrbBnTXreXn",
+    "first_seen": "2026-09-18T05:45:16.176307+00:00"
   }
 }
