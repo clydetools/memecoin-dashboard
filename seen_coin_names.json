@@ -64070,5 +64070,25 @@
   "perk": {
     "mint": "7qVyANei9jYf173z4FBKcmKp3nXDDBKiXAWh7aT2perk",
     "first_seen": "2026-09-17T22:53:54.006666+00:00"
+  },
+  "tilkayo": {
+    "mint": "GUzAzRrUx5Ewa6Zh6tdSd3PuqGKb43CSRqsNGKXmpump",
+    "first_seen": "2026-09-18T00:59:38.445537+00:00"
+  },
+  "pricedin": {
+    "mint": "A8oNvRZynodDt5EdoFQXf6RUgn4uqG8eW68cDpaW9pff",
+    "first_seen": "2026-09-18T00:59:39.630721+00:00"
+  },
+  "marlboro": {
+    "mint": "Fx6fji3zeQLeKNLvmuUoKxDCHNyEkJrk7Egi9aQCpump",
+    "first_seen": "2026-09-18T00:59:40.211723+00:00"
+  },
+  "chainsaw": {
+    "mint": "6TYWynMytkAdzMSPxfmtsZqYtZ96kKJmjtPou85tpump",
+    "first_seen": "2026-09-18T00:59:41.272496+00:00"
+  },
+  "wxmr": {
+    "mint": "WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp",
+    "first_seen": "2026-09-18T00:59:46.524064+00:00"
   }
 }
