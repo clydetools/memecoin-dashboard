@@ -64198,5 +64198,37 @@
   "geoffrey": {
     "mint": "3uuMXeXK1bsWgtTmQqzZELewGt5McSwRrqPE5SVGvnQF",
     "first_seen": "2026-09-18T17:47:41.086605+00:00"
+  },
+  "looma": {
+    "mint": "CGCAyjYxocAGB8Kxyd8ssLx6SYvaNuHWrD6izFyDpump",
+    "first_seen": "2026-09-18T20:00:39.310370+00:00"
+  },
+  "pole": {
+    "mint": "EHB6gs9KQ5dZUvdYQ13bq6bFhHV82RogxXwWa3MVpump",
+    "first_seen": "2026-09-18T20:00:39.907117+00:00"
+  },
+  "stack": {
+    "mint": "EErP8wQH54zTqBzYhbiao8yrfNL8gdyQRoozs4wJURdx",
+    "first_seen": "2026-09-18T20:00:41.518699+00:00"
+  },
+  "buckhout": {
+    "mint": "8mFUTbYAKAfPXJAWeMwTZtiGH4B7SgViDYpZaUDHNfkF",
+    "first_seen": "2026-09-18T20:00:43.615431+00:00"
+  },
+  "squads": {
+    "mint": "9KCaFcU74vruKa2U5dK46sVL6YksjE7Cx3FR7jfaTNy5",
+    "first_seen": "2026-09-18T20:00:45.115904+00:00"
+  },
+  "paulitician": {
+    "mint": "6LZScBSqztHGTvWNATHfCyR91GXxEm1rodotvkf6pump",
+    "first_seen": "2026-09-18T20:00:47.643735+00:00"
+  },
+  "cest": {
+    "mint": "E9oMyeKJvhfjw6jxUqZKuFjhZtMXdp1qBymfjN5Q4TMb",
+    "first_seen": "2026-09-18T20:00:52.379415+00:00"
+  },
+  "charm": {
+    "mint": "XhA6oYjFSpe8HxhFJJopxxFAQKcQmEwHZXF6DRJpump",
+    "first_seen": "2026-09-18T20:00:53.340979+00:00"
   }
 }
