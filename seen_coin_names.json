@@ -64378,5 +64378,25 @@
   "crossr": {
     "mint": "Ea9TZ2XC7AkgfKrFV5MnTKig5YWJoZH7xt4d4BnYpump",
     "first_seen": "2026-09-19T05:00:18.740189+00:00"
+  },
+  "gwif": {
+    "mint": "9bbaop71ND5PfPfhcV3P3woeKbH4opZTqBPocbkypump",
+    "first_seen": "2026-09-19T09:22:50.804910+00:00"
+  },
+  "sas": {
+    "mint": "7dPpYSXFiC78yePqAeCWknh2GdcAArR267kDRL2Cpump",
+    "first_seen": "2026-09-19T09:22:52.157340+00:00"
+  },
+  "ccow": {
+    "mint": "9wSL4TLWiviQpZ69m6Tn7HXhJkS17PmwtRgcRkyApump",
+    "first_seen": "2026-09-19T09:22:52.732987+00:00"
+  },
+  "mgoat": {
+    "mint": "DUjsaRhNRx15JF4G54RhVNHkcEKZntrqWD9Behp9pump",
+    "first_seen": "2026-09-19T09:22:55.498167+00:00"
+  },
+  "bofa": {
+    "mint": "HfSEXnfpVNFzK7pgj3QUMATcEt8qronwAo6NHayjpump",
+    "first_seen": "2026-09-19T09:23:01.642256+00:00"
   }
 }
