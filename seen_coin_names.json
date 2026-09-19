@@ -64470,5 +64470,49 @@
   "cyphercat": {
     "mint": "6AUURRdHb9TrfPHv9AMofa8NEVoZDXcsbWKcUBpFSRXs",
     "first_seen": "2026-09-19T16:33:34.759951+00:00"
+  },
+  "waldo": {
+    "mint": "ESHyBALsCekMvivA3kKTZtq5F5Uf3fz1nZCGEgzGpump",
+    "first_seen": "2026-09-19T18:51:32.175598+00:00"
+  },
+  "vampire": {
+    "mint": "BC5m9nV1bFgXoYJuuwtC7HNWZG13pBWi8f8w2thQvVkf",
+    "first_seen": "2026-09-19T18:51:32.575688+00:00"
+  },
+  "wqtdog": {
+    "mint": "7mNPowuQ1ZiYXdidqQAwx4pEh2Lbapbaf8qkyWs7pump",
+    "first_seen": "2026-09-19T18:51:34.020080+00:00"
+  },
+  "feelsmad": {
+    "mint": "GS2NeKY8JNsiBfyLpKHQNZ64FCr6kP8WSs7V21oZpump",
+    "first_seen": "2026-09-19T18:51:34.427579+00:00"
+  },
+  "racingcats": {
+    "mint": "B7kw3Xhw1xiWhGS391pFpLhLFTohnNXG3H1CtZ6tQbZs",
+    "first_seen": "2026-09-19T18:51:35.176231+00:00"
+  },
+  "tipped": {
+    "mint": "tipp4C4Jnpft26HC9VXNjUPidojZqxXf8nzKvrKf5BS",
+    "first_seen": "2026-09-19T18:51:39.875271+00:00"
+  },
+  "nvinu": {
+    "mint": "Heik5FodUg5dXm5hmpspPzpSNKV69WQJbagisnwVpump",
+    "first_seen": "2026-09-19T18:51:39.956365+00:00"
+  },
+  "paidhub": {
+    "mint": "HXRsjvuqkEwoAMjmjmwvnC2SDTV8Rs6jYwUGBorapump",
+    "first_seen": "2026-09-19T18:51:40.065846+00:00"
+  },
+  "xsa": {
+    "mint": "DjZmCfVkPHYCGuNveFH5JHkEJZob83LjHMi4uw1iwgiS",
+    "first_seen": "2026-09-19T18:51:40.159448+00:00"
+  },
+  "catwiftipped": {
+    "mint": "9SJ85ox8LW1v8agNcBMjT2WvbAeSdWrDLfJu6TRRpump",
+    "first_seen": "2026-09-19T18:51:40.235945+00:00"
+  },
+  "annoyed": {
+    "mint": "EBsK6LyH8ZCF6aq2uD4fTkFHuPzA1DLUE7fLjMyJpump",
+    "first_seen": "2026-09-19T18:51:42.375274+00:00"
   }
 }
