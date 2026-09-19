@@ -64514,5 +64514,33 @@
   "annoyed": {
     "mint": "EBsK6LyH8ZCF6aq2uD4fTkFHuPzA1DLUE7fLjMyJpump",
     "first_seen": "2026-09-19T18:51:42.375274+00:00"
+  },
+  "paraglide": {
+    "mint": "BVA7QTxxiv73hJJNTZhQ71sZKaZbaecVcvFuCaSupump",
+    "first_seen": "2026-09-19T21:16:46.168342+00:00"
+  },
+  "aiq": {
+    "mint": "7gspNupHnoB8zipFCGXec32Vc6wvZMNYjwEZPbJoPUmP",
+    "first_seen": "2026-09-19T21:16:47.107446+00:00"
+  },
+  "thaki": {
+    "mint": "FsiphZvF57F789Dm9RW1SW7o1oUVRZAj62EB7y8Dpump",
+    "first_seen": "2026-09-19T21:16:47.573643+00:00"
+  },
+  "fair": {
+    "mint": "6ShicNYXsp6WtZb4ydzUJPMU6GwE7sgJVktjQ4fipump",
+    "first_seen": "2026-09-19T21:16:48.455171+00:00"
+  },
+  "niumajak": {
+    "mint": "GmLqBMbe4ffg7BZjdqRh1zE5d8EzZjS7p72QjmXKpump",
+    "first_seen": "2026-09-19T21:16:52.826845+00:00"
+  },
+  "source": {
+    "mint": "2GdVaqBvddJNdKpLJhV8KxYFxgUuzdsQToCySgqxpump",
+    "first_seen": "2026-09-19T21:16:52.936218+00:00"
+  },
+  "jeanphil": {
+    "mint": "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
+    "first_seen": "2026-09-19T21:16:53.046642+00:00"
   }
 }
