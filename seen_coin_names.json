@@ -64790,5 +64790,45 @@
   "cateshi": {
     "mint": "4gBUMKWQgGtDS3HgwYLZCytvzzNxr8JCE5gVRhj8pump",
     "first_seen": "2026-09-20T20:17:36.218739+00:00"
+  },
+  "zats": {
+    "mint": "5TUH8aNCkRo8D3Wko7Yw85cNnyAFzvqN2ZZ5x7m5a3G3",
+    "first_seen": "2026-09-20T22:32:17.177435+00:00"
+  },
+  "ferran": {
+    "mint": "DKYesm2x9RnwPGy2FHrSboZrUiM3V8WusFZ3WLfvpump",
+    "first_seen": "2026-09-20T22:32:18.306930+00:00"
+  },
+  "mnut": {
+    "mint": "5H337Bxx4d4YfeckQuztjrrX9WyJJaSnPo9uyf3Apump",
+    "first_seen": "2026-09-20T22:32:18.963008+00:00"
+  },
+  "monarch": {
+    "mint": "CpipqovsNbhbRiGebLj4gcyQ1RdXJWaRjGdKskkBpump",
+    "first_seen": "2026-09-20T22:32:19.551197+00:00"
+  },
+  "solmnut": {
+    "mint": "42g24YX4HWxHwiSFKyv2sTZGu57tWnptYy3TX6CCpump",
+    "first_seen": "2026-09-20T22:32:20.645401+00:00"
+  },
+  "baja": {
+    "mint": "DoGiu9vSNA3BEYgyhyikHWHKnR2gaWY4wTWuAKtpSM7k",
+    "first_seen": "2026-09-20T22:32:21.199863+00:00"
+  },
+  "zebrigrade": {
+    "mint": "22brswdHqidyYKX2uo72HGJyBDVokUz3tzCUa3KMpump",
+    "first_seen": "2026-09-20T22:32:22.832129+00:00"
+  },
+  "zebra": {
+    "mint": "EqFG72Z35r8cAV8mKu3UK2L8NUTR1ZNyMr88E4BnwN8Q",
+    "first_seen": "2026-09-20T22:32:28.067910+00:00"
+  },
+  "mentor": {
+    "mint": "EK9WLpH3MMECNjCSTmefu9YtDDaFu5qo6SKsPt28pump",
+    "first_seen": "2026-09-20T22:32:28.183270+00:00"
+  },
+  "jeanjak": {
+    "mint": "CDAC33JvozJ1UjxBMkvZgJcVXoxdH9iGxeBXUJdXpump",
+    "first_seen": "2026-09-20T22:32:28.293803+00:00"
   }
 }
