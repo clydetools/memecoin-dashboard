@@ -64646,5 +64646,41 @@
   "wibbo": {
     "mint": "CVoNMSYK9mVd3TzAutnrRTKmptQUQ7r9qBg1ejb7vVd2",
     "first_seen": "2026-09-20T06:22:51.354886+00:00"
+  },
+  "guttulus": {
+    "mint": "68WKBtSkqiZ4GSjkzftjvLUnt3ZHu927Vic7MTLXkB54",
+    "first_seen": "2026-09-20T11:41:39.769504+00:00"
+  },
+  "zetachain": {
+    "mint": "7YBxbKKPToSBeznPqFkiTfHamAM39BXgkq8WDQhN8Sg",
+    "first_seen": "2026-09-20T11:41:40.346588+00:00"
+  },
+  "foxi": {
+    "mint": "BKo8NtGKibZdeuadZWemAswxohUT841PfbScmp9tpump",
+    "first_seen": "2026-09-20T11:41:40.823629+00:00"
+  },
+  "rhball": {
+    "mint": "3oHRzuE8kbhgQPpY6qpZPJdC3wmu7mAh4jwxSQAcpump",
+    "first_seen": "2026-09-20T11:41:41.334022+00:00"
+  },
+  "feedme": {
+    "mint": "5QBrcGPekJK5V2KHaj3Ku2FUWHxoW6ViKxhfsHrMpump",
+    "first_seen": "2026-09-20T11:41:46.841892+00:00"
+  },
+  "yojji": {
+    "mint": "2w4YnR6cdmdYxofyB5ThkZmZ3UU4ywVTjzD9YaqApump",
+    "first_seen": "2026-09-20T11:41:46.922684+00:00"
+  },
+  "rnode": {
+    "mint": "J6sxy43c5oKrbK9zJFDXgv95W3Wd3FnuSDw1Uw5xXXJY",
+    "first_seen": "2026-09-20T11:41:47.011438+00:00"
+  },
+  "polymarket": {
+    "mint": "E2tDrsXg4ciVQrAcNEmhwDimPEENnZxh6M4NsYK5yxAW",
+    "first_seen": "2026-09-20T11:41:48.110519+00:00"
+  },
+  "donated": {
+    "mint": "CBLgLg4rjkqqwXuZjR1WAqWet2vR68Vne32J2bFLpump",
+    "first_seen": "2026-09-20T11:41:48.975932+00:00"
   }
 }
