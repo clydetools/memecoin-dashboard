@@ -64714,5 +64714,33 @@
   "jeaninu": {
     "mint": "F7Rwc7mAomwqABLFc3aX4eDkwEELGKeez3fMpw4qpump",
     "first_seen": "2026-09-20T14:55:03.325250+00:00"
+  },
+  "deadpump": {
+    "mint": "EtVeSqybHN2BLy6jDmY21gdM9pjxsrkPMLajRB7ipump",
+    "first_seen": "2026-09-20T17:55:49.390222+00:00"
+  },
+  "argate": {
+    "mint": "PbY3YGz7BhZhDkKCZ7wEtpSrbxaBmYtEJ3R4WAXmSoL",
+    "first_seen": "2026-09-20T17:55:52.136553+00:00"
+  },
+  "nuh": {
+    "mint": "3EueQSCq7TtLdqFM5UrNNnQMoizF4VTwEYuGneripump",
+    "first_seen": "2026-09-20T17:55:52.664119+00:00"
+  },
+  "pentagon": {
+    "mint": "DeZt7zLFMo8pQutVwN6WvZEMbKRmw6qKukkZ9WhJpump",
+    "first_seen": "2026-09-20T17:55:53.154460+00:00"
+  },
+  "bjp": {
+    "mint": "ARdSwmskChmg3Rn6WFYxo7pDXbmv5vkTWiwJunGTpump",
+    "first_seen": "2026-09-20T17:55:54.338829+00:00"
+  },
+  "jeanmusk": {
+    "mint": "8QmenDidsGa6cwvtwf4RBTGP2icvqCA2oqGHwuiXpump",
+    "first_seen": "2026-09-20T17:55:54.839968+00:00"
+  },
+  "tyler": {
+    "mint": "95pCcNPexz8rg1Sazi2GscfAGSFy3NXSPDL9TdEMZE2V",
+    "first_seen": "2026-09-20T17:56:00.824079+00:00"
   }
 }
