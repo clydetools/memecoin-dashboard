@@ -64558,5 +64558,61 @@
   "fomopay": {
     "mint": "BP4Wic5LNKsqpmiREW6uNVEC16juvFCSd4WzVBatpump",
     "first_seen": "2026-09-19T23:13:17.904839+00:00"
+  },
+  "barthaha": {
+    "mint": "2kMso3EL9vWtzquEHeJAgHiAzRsGZPKKj4vihntSpump",
+    "first_seen": "2026-09-20T01:14:56.351385+00:00"
+  },
+  "catepay": {
+    "mint": "4SRsXPFMg22crMHxrdXkrMbmNhJQgYs6CfYUELSCpump",
+    "first_seen": "2026-09-20T01:14:56.878647+00:00"
+  },
+  "tontine": {
+    "mint": "J67u5aYmgGMVFd7ScKyRxQK94CveDeULkWHPmm1opump",
+    "first_seen": "2026-09-20T01:14:57.691901+00:00"
+  },
+  "uselesstek": {
+    "mint": "3qzpGWzpYG82uL8QjpoEab3Ztdf8CMQvyqBLZCoEpump",
+    "first_seen": "2026-09-20T01:14:58.896779+00:00"
+  },
+  "menis": {
+    "mint": "4o2exQZ7hyzyrbLChumiwehwqshLL5VmcG4ajV6RpQ7J",
+    "first_seen": "2026-09-20T01:14:59.327921+00:00"
+  },
+  "mokkun": {
+    "mint": "2vCHn11bahxUFrWszDBh3XgVMcrr8zSk2ZSPtEUKpump",
+    "first_seen": "2026-09-20T01:14:59.741043+00:00"
+  },
+  "stenks": {
+    "mint": "CuqKEyp5Wa2uYV7PeUC8z31EXykRQLhwBLefWSyqpump",
+    "first_seen": "2026-09-20T01:15:00.154694+00:00"
+  },
+  "eloncard": {
+    "mint": "HWPiegQz2qN78hTkaaxwEWNKbi47FuwPzW6Foha1pump",
+    "first_seen": "2026-09-20T01:15:00.583824+00:00"
+  },
+  "stryker": {
+    "mint": "G9QZfEPHtZrUF1arcUFvZgYn6zSQLZdvcjCuyhKrpump",
+    "first_seen": "2026-09-20T01:15:05.408406+00:00"
+  },
+  "paymo": {
+    "mint": "G5Hvsmj6hP1VQQqemq1C86NXz7Mx2s3s2yXrqUpZaQwm",
+    "first_seen": "2026-09-20T01:15:05.558416+00:00"
+  },
+  "mouth": {
+    "mint": "FMTaBAhyv5c4N9aa4FT3HBGZsu8cnbtRTyFzrQDLx6BD",
+    "first_seen": "2026-09-20T01:15:05.687209+00:00"
+  },
+  "isro": {
+    "mint": "84BxYJVZyyeK1YhDukGkqwiy7cA5FYXAJxeKZmFJf1qq",
+    "first_seen": "2026-09-20T01:15:06.709784+00:00"
+  },
+  "philpepe": {
+    "mint": "FCTgRiZK7bbyPFfu9TY5nFnoi6S7Bmz7uoiUujpFuQDU",
+    "first_seen": "2026-09-20T01:15:07.142029+00:00"
+  },
+  "tokens": {
+    "mint": "C3b3fpyRWsJf3bo6vay2vo1bQ7CezwumZwTrP82Lpump",
+    "first_seen": "2026-09-20T01:15:09.115922+00:00"
   }
 }
