@@ -64742,5 +64742,53 @@
   "tyler": {
     "mint": "95pCcNPexz8rg1Sazi2GscfAGSFy3NXSPDL9TdEMZE2V",
     "first_seen": "2026-09-20T17:56:00.824079+00:00"
+  },
+  "fuckoff": {
+    "mint": "7aHwF5H5wysa4m7Tb6oKsecETy2bZCeoDWQCc7p6pump",
+    "first_seen": "2026-09-20T20:17:23.579839+00:00"
+  },
+  "onemore": {
+    "mint": "A3ZMWEZJZZnxxomz81BEMer79Gc3oeKKiX4bGnRRpump",
+    "first_seen": "2026-09-20T20:17:24.880711+00:00"
+  },
+  "give": {
+    "mint": "HGGFfHMR1bWNPUQCuHoptVmJvW9v6TemKXGTAvBxpump",
+    "first_seen": "2026-09-20T20:17:25.403117+00:00"
+  },
+  "gofunded": {
+    "mint": "HtJ5L4BHGFSCjFfMvTcFfurR7WVYNCMtWp1uVqDUpump",
+    "first_seen": "2026-09-20T20:17:25.905385+00:00"
+  },
+  "drillhem": {
+    "mint": "36RRkDWZx2jAKb4jShSHrb9LD7QPjMxRLfx3oPwEpump",
+    "first_seen": "2026-09-20T20:17:26.428806+00:00"
+  },
+  "tjrs": {
+    "mint": "3icaDxVWwzrYthkYizyPbDPJznv1NiFbUZVWGAWEpump",
+    "first_seen": "2026-09-20T20:17:27.115626+00:00"
+  },
+  "acls": {
+    "mint": "xnkVcan6xx6MS7bE6YBLsXYw6yRwp1K2sYDigGrpump",
+    "first_seen": "2026-09-20T20:17:28.055161+00:00"
+  },
+  "pumpphil": {
+    "mint": "toBjgyPiWf1XtWPg7aUs9iCLYQt9wHt4RyBd8mRpump",
+    "first_seen": "2026-09-20T20:17:29.183548+00:00"
+  },
+  "ftxtoken": {
+    "mint": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+    "first_seen": "2026-09-20T20:17:35.314843+00:00"
+  },
+  "stamppump": {
+    "mint": "7ifumMxSrY45Tqj1Wtdaz9XtADiXranKVbWwMgNTpump",
+    "first_seen": "2026-09-20T20:17:35.419362+00:00"
+  },
+  "stamp": {
+    "mint": "EKtmPPLaCbEEKiwoHHtV7TsRsmPXs5CMGtQtZFSiinsc",
+    "first_seen": "2026-09-20T20:17:35.974825+00:00"
+  },
+  "cateshi": {
+    "mint": "4gBUMKWQgGtDS3HgwYLZCytvzzNxr8JCE5gVRhj8pump",
+    "first_seen": "2026-09-20T20:17:36.218739+00:00"
   }
 }
