@@ -64994,5 +64994,41 @@
   "fnbk": {
     "mint": "4zNrGJuTVVCmbpztUHhukrZeHwjDDoSdrtU2w2Kzpump",
     "first_seen": "2026-09-21T20:39:51.024279+00:00"
+  },
+  "spendr": {
+    "mint": "2zgJ4h6kw6aeni4SLssLbdp5iwgaK7Eqbrbx7K5Fpump",
+    "first_seen": "2026-09-21T23:38:17.682709+00:00"
+  },
+  "freemajor": {
+    "mint": "GnjeSntLGDsgYRpUmbrnxuPyt2xmmSceowcvrxEUpump",
+    "first_seen": "2026-09-21T23:38:19.842996+00:00"
+  },
+  "jgr": {
+    "mint": "Cia2yKP13NXw18S5LGbsaJgERkVUyuxkaokT5DgUpump",
+    "first_seen": "2026-09-21T23:38:20.401846+00:00"
+  },
+  "munch": {
+    "mint": "Er5jNXRq8eLPurmDoToiTLPEMtRCWM7Nd35SbU9mpump",
+    "first_seen": "2026-09-21T23:38:20.980207+00:00"
+  },
+  "pjeans": {
+    "mint": "4Ga9kEoHXcJe8745i89c1nN7DEELosFsyw8cFyP4pump",
+    "first_seen": "2026-09-21T23:38:22.012946+00:00"
+  },
+  "fomm": {
+    "mint": "GJAPBwsAdJLzkhRmCfbQHaW4RQrAk44SvYLmoSVipump",
+    "first_seen": "2026-09-21T23:38:23.149183+00:00"
+  },
+  "fanta": {
+    "mint": "36B5b4wcTeqGHHpLZswpnvKNFSc9UuKM8NzQUjt4pump",
+    "first_seen": "2026-09-21T23:38:23.696819+00:00"
+  },
+  "surge": {
+    "mint": "3z2tRjNuQjoq6UDcw4zyEPD1Eb5KXMPYb4GWFzVT1DPg",
+    "first_seen": "2026-09-21T23:38:28.883696+00:00"
+  },
+  "1inch": {
+    "mint": "43WM4SQYFJdfE2WrrSmTtokjJwoFnJBPxi1JQsp66Lan",
+    "first_seen": "2026-09-21T23:38:30.111564+00:00"
   }
 }
