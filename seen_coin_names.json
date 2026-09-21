@@ -64966,5 +64966,33 @@
   "popeye": {
     "mint": "2c1weSacxYkxF5xAFSzdYQXoFp3XcjimXyaGSioTnpRs",
     "first_seen": "2026-09-21T16:46:49.711547+00:00"
+  },
+  "pfx": {
+    "mint": "128a9DfqKZVwhZpQPtCJyaBYJpPbtkuzD6NXQ2V9pump",
+    "first_seen": "2026-09-21T20:39:45.354427+00:00"
+  },
+  "hopejak": {
+    "mint": "9SrHtE1G2MUaWdKgdXetnmFNyxHwQgvNgiZFFvBzpump",
+    "first_seen": "2026-09-21T20:39:47.498473+00:00"
+  },
+  "mtfd": {
+    "mint": "26Bcwgib9UQxJdXTMHXNwQnLJgUoVf4E7NYMqgAwpump",
+    "first_seen": "2026-09-21T20:39:48.636565+00:00"
+  },
+  "andih": {
+    "mint": "AnBDGCbfbm3FweLUVFP8rAL42FATWMGxsiXTV2YUpump",
+    "first_seen": "2026-09-21T20:39:49.212096+00:00"
+  },
+  "kippur": {
+    "mint": "9QB78N4As14gfvSiZCPjFHeUR8GgJkWuxatLaFCwpump",
+    "first_seen": "2026-09-21T20:39:49.806939+00:00"
+  },
+  "badcopper": {
+    "mint": "5DDjeFMpuKu92oYucy8jT5qiMg1YT8BcSVkrkH8spump",
+    "first_seen": "2026-09-21T20:39:50.370384+00:00"
+  },
+  "fnbk": {
+    "mint": "4zNrGJuTVVCmbpztUHhukrZeHwjDDoSdrtU2w2Kzpump",
+    "first_seen": "2026-09-21T20:39:51.024279+00:00"
   }
 }
