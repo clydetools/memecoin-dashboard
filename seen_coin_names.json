@@ -64910,5 +64910,37 @@
   "rq": {
     "mint": "8KrCrAfymAJsQmNQdTBb8VoZ5kn31a5KUfRnY2G82p8q",
     "first_seen": "2026-09-21T05:19:46.520100+00:00"
+  },
+  "unpaid": {
+    "mint": "CvSQX9VZoXh4PHwYaSgz9cjvtYC19m6PRgPBF7sdpump",
+    "first_seen": "2026-09-21T10:51:05.564555+00:00"
+  },
+  "chinat": {
+    "mint": "DWbFEeSGNFz3DFJv2MpbbWqgj8FnCpGVsVssxDRnpump",
+    "first_seen": "2026-09-21T10:51:06.093376+00:00"
+  },
+  "grencat": {
+    "mint": "6M37HG7RcqUbdMn9FShtDeoRGxDERXPsvQCvdDESpump",
+    "first_seen": "2026-09-21T10:51:06.570273+00:00"
+  },
+  "stinkydog": {
+    "mint": "7eBn5Tu74eqmo2yrrpRDuvgpNbtfG8ov3BLQZmvQixwC",
+    "first_seen": "2026-09-21T10:51:07.057188+00:00"
+  },
+  "trumpgrill": {
+    "mint": "Cwt1EDyRKVnrzGky9rpmn7Mgq8ywgzGfzZyuv2EMpump",
+    "first_seen": "2026-09-21T10:51:07.961608+00:00"
+  },
+  "solflow": {
+    "mint": "AMcepZecJ3FNk5bz5c5Sp96CZweMaJaLcQP4CjKQpump",
+    "first_seen": "2026-09-21T10:51:08.415963+00:00"
+  },
+  "zeta": {
+    "mint": "FTBoczY4GxuFFSZB5LFYumL5r6dQLzdJKaxjPg8Zvhrm",
+    "first_seen": "2026-09-21T10:51:13.137748+00:00"
+  },
+  "avax": {
+    "mint": "avaxGHCq3T7hoxd73oY2KY9hJSTaeMibXvHy5KNzh5D",
+    "first_seen": "2026-09-21T10:51:16.887101+00:00"
   }
 }
