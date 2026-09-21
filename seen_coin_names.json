@@ -64942,5 +64942,29 @@
   "avax": {
     "mint": "avaxGHCq3T7hoxd73oY2KY9hJSTaeMibXvHy5KNzh5D",
     "first_seen": "2026-09-21T10:51:16.887101+00:00"
+  },
+  "lastdev": {
+    "mint": "4UpWj7hUimgTC2KVvhDu5WYv4QPq6NCXDfDqFkaApump",
+    "first_seen": "2026-09-21T16:46:42.031273+00:00"
+  },
+  "plump": {
+    "mint": "DVknDUsyN2XyhLEsQHVZFemNuh4fn4JAbCNX561zpump",
+    "first_seen": "2026-09-21T16:46:42.471066+00:00"
+  },
+  "beandiesel": {
+    "mint": "EuAohZPB6U1eKouQuvWUoWCHeEmdCWrdnp4RT7cupump",
+    "first_seen": "2026-09-21T16:46:42.911240+00:00"
+  },
+  "gitsponsor": {
+    "mint": "HQ514x3scsxMqF2zeXSzMbG9ah6vvVE9yXBQusdipump",
+    "first_seen": "2026-09-21T16:46:43.726760+00:00"
+  },
+  "sendr": {
+    "mint": "BeP64sH76ypMDoYg9enSPVpjaVEnn3HaeEzVghXsendr",
+    "first_seen": "2026-09-21T16:46:45.068506+00:00"
+  },
+  "popeye": {
+    "mint": "2c1weSacxYkxF5xAFSzdYQXoFp3XcjimXyaGSioTnpRs",
+    "first_seen": "2026-09-21T16:46:49.711547+00:00"
   }
 }
