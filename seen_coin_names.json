@@ -65054,5 +65054,33 @@
   "jollybot": {
     "mint": "9Vkx8JzfdARs59TFJvJbHALjgxSzvttja3kdCTb82HAX",
     "first_seen": "2026-09-22T01:51:57.169058+00:00"
+  },
+  "vncct": {
+    "mint": "6eXQtVPaEP5u7SaZqLqmUgnHvjimPNZcHUMm5qMQtWhe",
+    "first_seen": "2026-09-22T07:15:40.643718+00:00"
+  },
+  "spcoin": {
+    "mint": "26CK8HvKJLAoN4kk9xMe2U8CYLJ1WSue6rByw9Ptpump",
+    "first_seen": "2026-09-22T07:15:41.096574+00:00"
+  },
+  "employed": {
+    "mint": "9nY5vjR991t9jqzGjt4bYSV4Fmmhu3MdmcAum6cypump",
+    "first_seen": "2026-09-22T07:15:45.431887+00:00"
+  },
+  "mcdonalds": {
+    "mint": "HfN96gaJir7YfG13py9Z9vFfQpNQbP64EXkmvtBypump",
+    "first_seen": "2026-09-22T07:15:45.500772+00:00"
+  },
+  "pfe": {
+    "mint": "PFER6ENqP8r8NF3CqVt4mFowxsin3V5MLidBNQFCC3x",
+    "first_seen": "2026-09-22T07:15:45.569055+00:00"
+  },
+  "deed": {
+    "mint": "4iLwh4beD3A6Y7ZsHGLhtbsTrjU52TrpYT1EBNXbMoNh",
+    "first_seen": "2026-09-22T07:15:45.717745+00:00"
+  },
+  "cashtag": {
+    "mint": "BjJyQFGTzu6JQfpdXEZ1mmFzhWgFYgEscRz472Zkpump",
+    "first_seen": "2026-09-22T07:15:48.648100+00:00"
   }
 }
