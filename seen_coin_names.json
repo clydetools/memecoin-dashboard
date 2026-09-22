@@ -65230,5 +65230,29 @@
   "pumo": {
     "mint": "AKyGUS7ueqtm4oUVBRxCNoyK7BV39HcfrXk4d6Gxpump",
     "first_seen": "2026-09-22T20:15:15.830548+00:00"
+  },
+  "gill": {
+    "mint": "A7Zw2s2PTERZzi73YG8JWBNAG95Fj6Ni5eMPfyMCpump",
+    "first_seen": "2026-09-22T23:00:02.764913+00:00"
+  },
+  "countryslop": {
+    "mint": "GHXMQ6RxDUNE4ieaDiQBpjUaDmQVvcdT5L4UjBJUpump",
+    "first_seen": "2026-09-22T23:00:03.890721+00:00"
+  },
+  "nle": {
+    "mint": "4yqjNpR6f8kKTWZUJkg17YGPTsKjHcMtaftXTCj4pump",
+    "first_seen": "2026-09-22T23:00:04.672295+00:00"
+  },
+  "dani": {
+    "mint": "HsKc369qr6RvVPT2RcTDajgmVH5EKZrwujeW7abz86Vf",
+    "first_seen": "2026-09-22T23:00:05.053612+00:00"
+  },
+  "wadwa": {
+    "mint": "FhCiMVvF64F3W6P3SBnttA6St5brzHecGyEpoGyUpump",
+    "first_seen": "2026-09-22T23:00:10.532476+00:00"
+  },
+  "fomosam": {
+    "mint": "FdWGFhPwMU1mfuwY281JUACeiSguRRWkFY4T4EBbpump",
+    "first_seen": "2026-09-22T23:00:15.871766+00:00"
   }
 }
