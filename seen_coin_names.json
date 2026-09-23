@@ -65298,5 +65298,57 @@
   "archi": {
     "mint": "6Wr7KF4F1NZ3cMxCQzaSr3kEha2uLnCYKbEC3MD5pump",
     "first_seen": "2026-09-23T06:18:41.689484+00:00"
+  },
+  "kevszn": {
+    "mint": "FxrdKsQGVSoaKvceen7eURv9QK6k6JdSAeRZmNtdTCz5",
+    "first_seen": "2026-09-23T11:50:16.243793+00:00"
+  },
+  "wasd": {
+    "mint": "Dbw7VFWGdy1VAXsGkADePQfHiP8tpQ2KgtQM34iRpump",
+    "first_seen": "2026-09-23T11:50:16.901968+00:00"
+  },
+  "perfect": {
+    "mint": "ETDkzJurtvP6ETjMYBAy5kJPf3Sg5uH7wZVtFDP84udP",
+    "first_seen": "2026-09-23T11:50:17.625282+00:00"
+  },
+  "masa": {
+    "mint": "EXmW9NP6VYqNyQ7XReoRG12didXHHzewDZW8pS11pump",
+    "first_seen": "2026-09-23T11:50:19.842363+00:00"
+  },
+  "seti": {
+    "mint": "3J6jkyAYyx27dd98R1qJaSP7ePJdyRQCD8pUfT8Xpump",
+    "first_seen": "2026-09-23T11:50:20.442519+00:00"
+  },
+  "basedcat": {
+    "mint": "5qHRY1fbkreVZTEfFj9eZ7b81c8Y6mBpaZgmAwUTpump",
+    "first_seen": "2026-09-23T11:50:25.432395+00:00"
+  },
+  "apezcat": {
+    "mint": "AtbAaWSw6q4E4xSqVb6H1953Dq5HKF6WUAwpQdwdpump",
+    "first_seen": "2026-09-23T11:50:25.528231+00:00"
+  },
+  "nautilo": {
+    "mint": "81n3gLm6AP2UrVTZfhiJjyKnS7JrnaK6bVp3MMYApump",
+    "first_seen": "2026-09-23T11:50:25.611206+00:00"
+  },
+  "kindercor": {
+    "mint": "DyJSo6uVhXGxNcRNpoRFUnzJw6ZTH5SBVzQbYuQwi9Fs",
+    "first_seen": "2026-09-23T11:50:25.709482+00:00"
+  },
+  "looonguy": {
+    "mint": "5YWAxp1bYypiwgAi55xpjn2wT2VJACARFMehMyJawNiu",
+    "first_seen": "2026-09-23T11:50:26.186857+00:00"
+  },
+  "offshiba": {
+    "mint": "CB4mu6ZgM6mjWU8Qqyz46pmLox2GbF8hTBMkaRAWpump",
+    "first_seen": "2026-09-23T11:50:26.448292+00:00"
+  },
+  "tlktok": {
+    "mint": "7AJorGaVuqTFJUbgF5LtMG8tpaieFXmsb8Yzyrg59tTA",
+    "first_seen": "2026-09-23T11:50:27.089877+00:00"
+  },
+  "archibrown": {
+    "mint": "HaYRgD7rjwj1AwoWjafokj4196sufYm4vKFamLZVpump",
+    "first_seen": "2026-09-23T11:50:27.696174+00:00"
   }
 }
