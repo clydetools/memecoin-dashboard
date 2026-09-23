@@ -65430,5 +65430,49 @@
   "bluf": {
     "mint": "c4AtfqMRbC9FuHtVEHDhCm453tytU9E34MXXrp6bLuf",
     "first_seen": "2026-09-23T19:13:37.161399+00:00"
+  },
+  "weenie": {
+    "mint": "27Bfve98KPMys7SrzJfKcjEtPEYDyCaoxQHyeyd8pump",
+    "first_seen": "2026-09-23T22:21:25.954782+00:00"
+  },
+  "nokia": {
+    "mint": "By7taPLRvzsBicVjFWJX1cD3UsL4n9EtrMbyTsx8pump",
+    "first_seen": "2026-09-23T22:21:28.143099+00:00"
+  },
+  "pumpkin": {
+    "mint": "7VkD8BturkZE7qcHUuMFKbWJXCQRmnXaJ2Nso2Cspump",
+    "first_seen": "2026-09-23T22:21:29.261633+00:00"
+  },
+  "fomogam": {
+    "mint": "FyV519jJ2S3tt4Hu5EhxeLnuL5pxqPAwCfQHtMz7pump",
+    "first_seen": "2026-09-23T22:21:31.609929+00:00"
+  },
+  "jeanne": {
+    "mint": "8HY7QqEw8BNMUxP1h4axKyLuB23NVNV1k7wDixTRpump",
+    "first_seen": "2026-09-23T22:21:32.948708+00:00"
+  },
+  "moonbitch": {
+    "mint": "9pSARm4UnXMuR6pf4Q9xT4hKMZBm7GTvLzCtHk7Wpump",
+    "first_seen": "2026-09-23T22:21:33.494091+00:00"
+  },
+  "scanny": {
+    "mint": "G8TTWtBR6AqxzMC8nSwdVt7NCUDGvqjUEWRr5SXdpump",
+    "first_seen": "2026-09-23T22:21:39.576540+00:00"
+  },
+  "clausius": {
+    "mint": "Et4FhWnuXW69U2SGdSHDAfhk9ztvWvxLLW9nVF25c9tV",
+    "first_seen": "2026-09-23T22:21:39.666666+00:00"
+  },
+  "amare": {
+    "mint": "CAqcebQonWgBVkxjB98ULJ5PXKfXwJxurpqqSsdwoLpk",
+    "first_seen": "2026-09-23T22:21:39.736256+00:00"
+  },
+  "opus55": {
+    "mint": "6F7UYxuy6FmXLWDQoirPLGAXWbxxxhvu44V4AuukCza6",
+    "first_seen": "2026-09-23T22:21:40.659332+00:00"
+  },
+  "babyjean": {
+    "mint": "7u2FGForr1hUD8EFQtKcYpNV34pCTEAm78a97zDVpump",
+    "first_seen": "2026-09-23T22:21:41.641681+00:00"
   }
 }
