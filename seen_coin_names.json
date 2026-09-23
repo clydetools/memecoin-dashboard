@@ -65254,5 +65254,25 @@
   "fomosam": {
     "mint": "FdWGFhPwMU1mfuwY281JUACeiSguRRWkFY4T4EBbpump",
     "first_seen": "2026-09-22T23:00:15.871766+00:00"
+  },
+  "wojak2": {
+    "mint": "5pVYjyMSVsMbPq5NfDc3TKKgryBkB4hHqDTZtVaApump",
+    "first_seen": "2026-09-23T01:24:05.929208+00:00"
+  },
+  "eperps": {
+    "mint": "BXoEqA1uCxb1db7XHBG2QXAT4fGQnqwbSrdcg9P8pump",
+    "first_seen": "2026-09-23T01:24:07.928714+00:00"
+  },
+  "rx782": {
+    "mint": "HzmqfS9Js44EWHo97bN1hoJWxbC3NCDGEYpnGWTvpump",
+    "first_seen": "2026-09-23T01:24:08.320630+00:00"
+  },
+  "crafty": {
+    "mint": "2xwEfQ6dFNjQbpCXnGQJGaNJLuoeaicoF2bfUiSmpump",
+    "first_seen": "2026-09-23T01:24:13.815389+00:00"
+  },
+  "layers": {
+    "mint": "E227QbhX34dGo7fc1sqpZxDc8jgNZbU8ybvvxfUyxmrL",
+    "first_seen": "2026-09-23T01:24:13.936711+00:00"
   }
 }
