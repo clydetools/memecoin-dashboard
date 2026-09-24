@@ -65474,5 +65474,49 @@
   "babyjean": {
     "mint": "7u2FGForr1hUD8EFQtKcYpNV34pCTEAm78a97zDVpump",
     "first_seen": "2026-09-23T22:21:41.641681+00:00"
+  },
+  "philler": {
+    "mint": "GPpPYmZMUsauBQM8RWo37pbgEQMRYRCfPqsNcPXBpump",
+    "first_seen": "2026-09-24T00:41:58.839995+00:00"
+  },
+  "ugduck": {
+    "mint": "2qqLZuntdZV6zwRSzEz5DV38zjiaNPSbgLVH9Xrrpump",
+    "first_seen": "2026-09-24T00:42:00.428257+00:00"
+  },
+  "computer": {
+    "mint": "7moYRM6gaXhZKXvu9Q7QbFK6vaFbjVmYEqEMM1RHuLZL",
+    "first_seen": "2026-09-24T00:42:00.995543+00:00"
+  },
+  "arb": {
+    "mint": "8hoof357sp7fw17FSzV5JUoGGAW669EHWVwLY6KYpump",
+    "first_seen": "2026-09-24T00:42:04.081019+00:00"
+  },
+  "wdwddwdw": {
+    "mint": "FfpVkZRQGs3CExBoKGzwpD2ZH1RCRokA5zFw5CJey3Rk",
+    "first_seen": "2026-09-24T00:42:04.634831+00:00"
+  },
+  "goonbot": {
+    "mint": "4yaixU8RpSiVzcbxcJLmwKQk9zSzZSekdrY4DErFpump",
+    "first_seen": "2026-09-24T00:42:05.558798+00:00"
+  },
+  "mec": {
+    "mint": "4tL5xy8iCqDuk5SrnijPYAtXwPNoBsmXHdPheuyNpump",
+    "first_seen": "2026-09-24T00:42:06.051903+00:00"
+  },
+  "gzcat": {
+    "mint": "8xXPfYwQuwUB59FY8ppK1yGUWKh2FivSEvDqMvEqpump",
+    "first_seen": "2026-09-24T00:42:10.522303+00:00"
+  },
+  "familiars": {
+    "mint": "2PENPmfgJfq6CG3k4byj4oWwHf8SerqakmYHMkUupump",
+    "first_seen": "2026-09-24T00:42:15.745996+00:00"
+  },
+  "hims": {
+    "mint": "HiMSSzzwkZkrXJ4PGVJRdtfLaANeAztjjcgk5Dxe7Lwx",
+    "first_seen": "2026-09-24T00:42:15.821462+00:00"
+  },
+  "parafactual": {
+    "mint": "CvUX4G2tzq7J3ECmNvWZLayZYV6KpgQp6SJ5K8Uvsu5g",
+    "first_seen": "2026-09-24T00:42:15.933560+00:00"
   }
 }
