@@ -65602,5 +65602,61 @@
   "lqx": {
     "mint": "6nrCD4L8GEqgXMa4fMHQjBnv9XWfyPwsHPuyRY8npump",
     "first_seen": "2026-09-24T15:24:06.108440+00:00"
+  },
+  "gtis": {
+    "mint": "7XD236Db4qC1bxGBYzYqfCUq3E8zGshBsi6GzKSapump",
+    "first_seen": "2026-09-24T19:23:29.531321+00:00"
+  },
+  "nelvin": {
+    "mint": "Dk97kyocCAmHwrUFzZ8GQoCSQz795TFV55DWVsm9pump",
+    "first_seen": "2026-09-24T19:23:30.108068+00:00"
+  },
+  "dogepaid": {
+    "mint": "BySGgrjwDJsGoZMBs7svf8JnkLA9Vjg12Ltybw4apump",
+    "first_seen": "2026-09-24T19:23:31.820204+00:00"
+  },
+  "chilliars": {
+    "mint": "4qmQsD2TQTEdGd7Rk5H6dZjE62aHbBHJnbewbe3Dpump",
+    "first_seen": "2026-09-24T19:23:33.455050+00:00"
+  },
+  "shorktc": {
+    "mint": "AwHwrvP35uVLDNAGwuFt27o2ddC2UeyFznPZVa5xfdXx",
+    "first_seen": "2026-09-24T19:23:34.536707+00:00"
+  },
+  "revolution": {
+    "mint": "HBkDkbJRiET58sEdDAy8m24qt9tegunYqHqadc3KP97r",
+    "first_seen": "2026-09-24T19:23:37.149773+00:00"
+  },
+  "gumb": {
+    "mint": "9wUbEBwm1Dyot6YPn3GqhRnJPP7qTm7SBjMkCR9Apump",
+    "first_seen": "2026-09-24T19:23:38.331796+00:00"
+  },
+  "students": {
+    "mint": "DNFNQCuaUGVpoLWFC5nFpbjsno2EP3SBg8q3Sn1upump",
+    "first_seen": "2026-09-24T19:23:39.898072+00:00"
+  },
+  "beenz": {
+    "mint": "4xxven3nmVyo3TH1PmFGSCkWSskAqofB9bHz5QuMpump",
+    "first_seen": "2026-09-24T19:23:40.440190+00:00"
+  },
+  "sdp": {
+    "mint": "9FuYq7QbLyfXseiUATBegWdhQJD7NuwsSmdQ288o6Vab",
+    "first_seen": "2026-09-24T19:23:42.153086+00:00"
+  },
+  "kets": {
+    "mint": "3sSJbdFpRV5gry4zybvMPgNzkKgpoAjXiz6qMP61pump",
+    "first_seen": "2026-09-24T19:23:43.194638+00:00"
+  },
+  "smoothai": {
+    "mint": "6tAybVdCJtzcqgqTRLBwRG19ikqwTaeuSmofmnmPpump",
+    "first_seen": "2026-09-24T19:23:48.985250+00:00"
+  },
+  "zop": {
+    "mint": "3pHP7P9n7jpGuL5rGywEhN3ARZeUiPgezuPmVQZLgzjL",
+    "first_seen": "2026-09-24T19:23:49.153080+00:00"
+  },
+  "odrumi": {
+    "mint": "9xJZmAvsKAuytrieZNtf9vvhcwxFKF9GWDEKkFA4ZFEx",
+    "first_seen": "2026-09-24T19:23:49.688272+00:00"
   }
 }
