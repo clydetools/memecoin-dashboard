@@ -65570,5 +65570,37 @@
   "bonwif": {
     "mint": "2dwZSTvfBx61xgfw1CeojdzTEuECymR7AjLFUoprpump",
     "first_seen": "2026-09-24T10:27:07.647201+00:00"
+  },
+  "boardcat": {
+    "mint": "AB6GPhv1N39418hYjCqAqnffT7Je4mrXRDjBXtu6pump",
+    "first_seen": "2026-09-24T15:23:54.661127+00:00"
+  },
+  "blundro": {
+    "mint": "GpXcxhd9UCrRDJ8VLQcKAK6urUZ42rJBqZLwn2VYpump",
+    "first_seen": "2026-09-24T15:23:57.664667+00:00"
+  },
+  "cpepe": {
+    "mint": "7wjFjCshigp6U7pgaTCFnwxixDooPoeRRknQ2owjpump",
+    "first_seen": "2026-09-24T15:23:58.211529+00:00"
+  },
+  "zama": {
+    "mint": "4Zp52aF4hZi9fzH19xpbWKYKQvgLyCN67KFbrQDqeTKh",
+    "first_seen": "2026-09-24T15:24:02.722051+00:00"
+  },
+  "satoshinu": {
+    "mint": "HzaCANKGkhNcQGb1VWL8f4tHJYrCmaXrPWk9eHR7GYYX",
+    "first_seen": "2026-09-24T15:24:05.233135+00:00"
+  },
+  "bonk20": {
+    "mint": "6yiDKPDbqWLGAEBkDvVg6UNrKsLsPVkLbA1TJo4KCdzP",
+    "first_seen": "2026-09-24T15:24:05.410621+00:00"
+  },
+  "holdoween": {
+    "mint": "BxftAowY2dVa2h9KMqDTPk4oMxzU9k6uVbZuoorXpump",
+    "first_seen": "2026-09-24T15:24:05.770836+00:00"
+  },
+  "lqx": {
+    "mint": "6nrCD4L8GEqgXMa4fMHQjBnv9XWfyPwsHPuyRY8npump",
+    "first_seen": "2026-09-24T15:24:06.108440+00:00"
   }
 }
