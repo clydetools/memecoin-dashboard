@@ -65534,5 +65534,41 @@
   "untxd": {
     "mint": "3tzkdxJ1qVCaPAuWmd8FjRFKUbwMYpLUAq5gg4Vopump",
     "first_seen": "2026-09-24T05:30:36.716711+00:00"
+  },
+  "gnb": {
+    "mint": "HBmxQmmQEbtj9soSLEnXG3oqBWED2KcMxgVrfXBYpump",
+    "first_seen": "2026-09-24T10:26:57.484619+00:00"
+  },
+  "qquit": {
+    "mint": "5GQ5UxASD4eHU6d65yoiy4xiNXNi5Y6oBQCV1smapump",
+    "first_seen": "2026-09-24T10:26:58.842824+00:00"
+  },
+  "rscan": {
+    "mint": "FUFpPs8EGYjpq75kfMCD6BR4eUEwK7N4jMYWzPRzBKMh",
+    "first_seen": "2026-09-24T10:26:59.350110+00:00"
+  },
+  "pinf": {
+    "mint": "MLdXKXUGXoYSDx5pcDWMrCdLP2AyxzxaQd3QvFMpump",
+    "first_seen": "2026-09-24T10:27:04.506704+00:00"
+  },
+  "argus": {
+    "mint": "689VL9JsJaxt38uvgkNBMP5sCh6yqAuHjYLDjSMdrHd",
+    "first_seen": "2026-09-24T10:27:04.572039+00:00"
+  },
+  "spape": {
+    "mint": "nZ9kTJ1fwAKEzG7WgVacuX6RFXd1C1wn7yS3Nbmpump",
+    "first_seen": "2026-09-24T10:27:04.686676+00:00"
+  },
+  "turf": {
+    "mint": "8xtP7TNqK7ND5w7aJjJ1StVzYHqCV98SXdXx6UMspump",
+    "first_seen": "2026-09-24T10:27:04.773196+00:00"
+  },
+  "adidas": {
+    "mint": "Cxgk9xUhvehJZy5KjMHcUc6opNrdTPEdBkfrRi3Wpump",
+    "first_seen": "2026-09-24T10:27:05.398787+00:00"
+  },
+  "bonwif": {
+    "mint": "2dwZSTvfBx61xgfw1CeojdzTEuECymR7AjLFUoprpump",
+    "first_seen": "2026-09-24T10:27:07.647201+00:00"
   }
 }
