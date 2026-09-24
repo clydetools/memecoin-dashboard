@@ -65518,5 +65518,21 @@
   "parafactual": {
     "mint": "CvUX4G2tzq7J3ECmNvWZLayZYV6KpgQp6SJ5K8Uvsu5g",
     "first_seen": "2026-09-24T00:42:15.933560+00:00"
+  },
+  "zucker": {
+    "mint": "6th2Jmr7RskNeg4nM4giq4wom239DxRcCVqqqZbJpump",
+    "first_seen": "2026-09-24T05:30:25.866637+00:00"
+  },
+  "fkyall": {
+    "mint": "zM6yviW194QiZ29W6jPasAXHdZbTRyqyrrso4qtpump",
+    "first_seen": "2026-09-24T05:30:27.529185+00:00"
+  },
+  "funkos": {
+    "mint": "GtyUS9F4aVZ5UaNHH1t9tqsrevENroaGDv5AHmwWpump",
+    "first_seen": "2026-09-24T05:30:29.104525+00:00"
+  },
+  "untxd": {
+    "mint": "3tzkdxJ1qVCaPAuWmd8FjRFKUbwMYpLUAq5gg4Vopump",
+    "first_seen": "2026-09-24T05:30:36.716711+00:00"
   }
 }
