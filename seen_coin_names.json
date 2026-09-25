@@ -65774,5 +65774,45 @@
   "srun": {
     "mint": "GavQxkBXLg9Qwvxgni8SLJAnxLL592j55jVS2fnFpump",
     "first_seen": "2026-09-25T05:29:07.733067+00:00"
+  },
+  "noba": {
+    "mint": "2porohiSkUHUXcunBuZqNr9RAtHi7evXaSykc9hbmDNS",
+    "first_seen": "2026-09-25T10:27:44.206963+00:00"
+  },
+  "fhc": {
+    "mint": "H19R3NMvjHrdEu4HWTjBEwATKpiinVAsoVdYmRiPpump",
+    "first_seen": "2026-09-25T10:27:45.096124+00:00"
+  },
+  "passdaaux": {
+    "mint": "5rjysDUDsqZvhPB4pTKycxQdhF3x6RptbCS15kCpump",
+    "first_seen": "2026-09-25T10:27:45.521098+00:00"
+  },
+  "miau": {
+    "mint": "HSk7qAz6Sc2wrRQKaMkW5tKR7BxsnEirfqcFkQvypump",
+    "first_seen": "2026-09-25T10:27:47.197708+00:00"
+  },
+  "midlclass": {
+    "mint": "keRqSNqaykRMu5A1ACswTh9n6tg3o28J69v7UgNpump",
+    "first_seen": "2026-09-25T10:27:47.596355+00:00"
+  },
+  "sljk": {
+    "mint": "2aYAGvkfj4P6atktfEKix1P9EQC6Y7gC79awsZA8pump",
+    "first_seen": "2026-09-25T10:27:47.988259+00:00"
+  },
+  "gtak": {
+    "mint": "Dms6DDvZNN4u6zpMQJZj4pRFb1jmHGFYY4imVRRMpump",
+    "first_seen": "2026-09-25T10:27:52.275996+00:00"
+  },
+  "kittycoin": {
+    "mint": "7gaUTQNB3mY4Y7Zf3FnTm6gSatvMBcTPbMXXPRm7pump",
+    "first_seen": "2026-09-25T10:27:52.368352+00:00"
+  },
+  "unpeg": {
+    "mint": "B5H7z2P35NahcJpt5JZmcFAN8inPLy9Nbj16HYpD3ED",
+    "first_seen": "2026-09-25T10:27:52.470915+00:00"
+  },
+  "xdp": {
+    "mint": "Echspq9eXz1ozaw2ADQSMLhn5s2QqB1zdpMJkxkMV8zv",
+    "first_seen": "2026-09-25T10:27:52.572742+00:00"
   }
 }
