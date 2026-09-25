@@ -65718,5 +65718,29 @@
   "agrippa": {
     "mint": "6TfTBpkgRX5kzb1qbtijV1nZVTfzfbmbXE1hPsFrpump",
     "first_seen": "2026-09-24T22:37:45.307547+00:00"
+  },
+  "inulings": {
+    "mint": "8UZq5Ea4SbmdzQNP4YHs365AcYHewcSkWYRahoedmWPa",
+    "first_seen": "2026-09-25T00:47:49.147873+00:00"
+  },
+  "blinu": {
+    "mint": "3LuTPr8pPAmTcXHPDeKsRvgz3UD1qKLeyQQEekFhpump",
+    "first_seen": "2026-09-25T00:47:50.704420+00:00"
+  },
+  "forum": {
+    "mint": "A6ir2AJTeGAoRkGmV7u83cuUJP9h2ZACoCuYPTRQpump",
+    "first_seen": "2026-09-25T00:47:53.682657+00:00"
+  },
+  "faucinu": {
+    "mint": "8exyvUPXutWwpo7TTnRf72k8YrNzzM5Sjo6Q5sTLpump",
+    "first_seen": "2026-09-25T00:47:54.318942+00:00"
+  },
+  "gooncoin": {
+    "mint": "8mpMaHUK1k7KDRWNqamyqnCyiyNv3FhdGMM518gTeEWg",
+    "first_seen": "2026-09-25T00:47:59.314281+00:00"
+  },
+  "zoop": {
+    "mint": "BMsZ8DVGDvkzmzqvqoYunPKpCZMroBX4WGst4hLXcKa6",
+    "first_seen": "2026-09-25T00:47:59.382941+00:00"
   }
 }
