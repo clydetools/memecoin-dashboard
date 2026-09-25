@@ -65814,5 +65814,29 @@
   "xdp": {
     "mint": "Echspq9eXz1ozaw2ADQSMLhn5s2QqB1zdpMJkxkMV8zv",
     "first_seen": "2026-09-25T10:27:52.572742+00:00"
+  },
+  "crzlv": {
+    "mint": "7kLSV2Uf77saCYgp3u2yb1MTaMV1VjS8zrXWmn3Spump",
+    "first_seen": "2026-09-25T15:27:14.432768+00:00"
+  },
+  "jeancramer": {
+    "mint": "BvdUSfqVFJ99cPKubTeedMQuLmDgSw4fR9YmpmGbpump",
+    "first_seen": "2026-09-25T15:27:15.334169+00:00"
+  },
+  "pay": {
+    "mint": "4UqoX7NH8XaR9uvmA36enoyXc7TEpTR82JYVBpip35CW",
+    "first_seen": "2026-09-25T15:27:15.750629+00:00"
+  },
+  "ninu": {
+    "mint": "8peUU97sKJ2srmpW7ATniPfiarnhW5EKsjn6LzjDpump",
+    "first_seen": "2026-09-25T15:27:16.826265+00:00"
+  },
+  "defrost": {
+    "mint": "HiJFbz9VAggWDNZBKGy3Ccy6sPyvrGwGu2PQeDD7pump",
+    "first_seen": "2026-09-25T15:27:17.333510+00:00"
+  },
+  "mooncake": {
+    "mint": "BSeiDE63H3uofabT3abdg4jyw6mMeczCzpaZvwBT5WjM",
+    "first_seen": "2026-09-25T15:27:23.151367+00:00"
   }
 }
