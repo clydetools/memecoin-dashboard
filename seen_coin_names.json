@@ -66150,5 +66150,45 @@
   "tiffany": {
     "mint": "SaPFjDCz4bcrqVkU6JWjskJftp9jENNxP5T9Ur1pump",
     "first_seen": "2026-09-26T18:00:33.022573+00:00"
+  },
+  "picklepep": {
+    "mint": "66by8YfgUUQizmFkkMwNusBMqSF9tMm6SLACYN9Upump",
+    "first_seen": "2026-09-26T21:00:16.812387+00:00"
+  },
+  "greenbuns": {
+    "mint": "C4uXGR2jWuxdi2cjr7ver62DfYQ8gCFtAgsKfUX5pump",
+    "first_seen": "2026-09-26T21:00:19.490922+00:00"
+  },
+  "growtrees": {
+    "mint": "QdefeqMddVu5uBnwc9xQCGPUs1HCjjGTYV7NXPepump",
+    "first_seen": "2026-09-26T21:00:24.723909+00:00"
+  },
+  "lockey": {
+    "mint": "DsswfTTEWXoaVdNsyJwiWUkndJWFiQHiCeBXWEq9CZsz",
+    "first_seen": "2026-09-26T21:00:26.006347+00:00"
+  },
+  "lurk": {
+    "mint": "Fg9q4F15N8SMGM1QNJDdYmKAbd9kjcN6Qbv1TYYypump",
+    "first_seen": "2026-09-26T21:00:26.423131+00:00"
+  },
+  "ossoft": {
+    "mint": "B3c5m33r9a3XcpimHjWzhjuQLCEpUSS1TSJ95cJMYP2A",
+    "first_seen": "2026-09-26T21:00:26.890030+00:00"
+  },
+  "grapheneos": {
+    "mint": "24XoDxBdpnW5YdQHUgrm6bnPQSMg6iGS9nXcdHJHnFQU",
+    "first_seen": "2026-09-26T21:00:27.329295+00:00"
+  },
+  "split": {
+    "mint": "DRKGYsGALqr5p2aTcGLK9zqiPB5wk7JV78bJv4mPpump",
+    "first_seen": "2026-09-26T21:00:31.629220+00:00"
+  },
+  "dru": {
+    "mint": "23WmzyEAZZQbvdsmDSnm5UagcZhmRPTzq9KWKbuekF57",
+    "first_seen": "2026-09-26T21:00:31.821159+00:00"
+  },
+  "puppet": {
+    "mint": "yqmDP7DVtL78nqmVH1jMYRxTR7LixpssPBgKFynpump",
+    "first_seen": "2026-09-26T21:00:32.231306+00:00"
   }
 }
