@@ -66246,5 +66246,37 @@
   "paidbot": {
     "mint": "4dBsoKgo7XypAQjKH8MYiddJ2VEhdK9kJpLYHJ6zpump",
     "first_seen": "2026-09-26T23:29:54.061821+00:00"
+  },
+  "auradonald": {
+    "mint": "3fQndjuxkZtXzsdaR9Wus85ARRK26x3ktsqPtdEapump",
+    "first_seen": "2026-09-27T01:41:59.578729+00:00"
+  },
+  "johnnystp": {
+    "mint": "3bT1YRtk1rKxwecAF6cya9xQybAsjBwPk3xVXoT7tSo8",
+    "first_seen": "2026-09-27T01:42:00.019756+00:00"
+  },
+  "starferry": {
+    "mint": "6YbgVuMjuDggx4MUxqD5fqrVMG7Ayqxqehfv9gQW2VVe",
+    "first_seen": "2026-09-27T01:42:03.614166+00:00"
+  },
+  "date": {
+    "mint": "4tWxnqhkUzNMZRsUJ48jrBPEe8c88pG2zn8N9qJbkHca",
+    "first_seen": "2026-09-27T01:42:05.572050+00:00"
+  },
+  "costco": {
+    "mint": "5BaCanLixCrgxbsFyPGNbro7wEvMps9eCZSz6Cm9pump",
+    "first_seen": "2026-09-27T01:42:07.974623+00:00"
+  },
+  "cashed": {
+    "mint": "J9PVhNvGA1hXhHwmUUYQgHpPRxZch3cmCRzTnD6Dpump",
+    "first_seen": "2026-09-27T01:42:15.283764+00:00"
+  },
+  "memers": {
+    "mint": "E61pPxQLKexRWg83VzDa6x3J6S6TUEyWk2prcfpvpump",
+    "first_seen": "2026-09-27T01:42:15.487635+00:00"
+  },
+  "groktown": {
+    "mint": "6H6HFmCwiy6h98qPmBdFrfsjvxTQ15bxHvHyXhuPqFLh",
+    "first_seen": "2026-09-27T01:42:15.752282+00:00"
   }
 }
