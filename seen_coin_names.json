@@ -66398,5 +66398,65 @@
   "jackphil": {
     "mint": "8CfN5k8LQNjZjZPd6rWwaEFVmA9GLLVwX8GffXAxpump",
     "first_seen": "2026-09-27T17:38:57.815685+00:00"
+  },
+  "mnfg": {
+    "mint": "5gCgdPKcRGWoAWmzae7oEK3Tj9CKAps8qgBRSahMpump",
+    "first_seen": "2026-09-27T20:23:22.812830+00:00"
+  },
+  "rockyin": {
+    "mint": "DCSAbNAST3hLpgGo8hZsbtAyxtJbvJQpF1TzMBv8fhYT",
+    "first_seen": "2026-09-27T20:23:24.605049+00:00"
+  },
+  "isle": {
+    "mint": "CdWdKr4nrsM9u1c4zqnc7rdxBSG1zqnPpc8BY2EYpump",
+    "first_seen": "2026-09-27T20:23:26.808534+00:00"
+  },
+  "trickle": {
+    "mint": "4o3tsXRYHGCkd82Ed8eQvrkBGUbYXJB3BcGtJjgApump",
+    "first_seen": "2026-09-27T20:23:27.408741+00:00"
+  },
+  "wtr": {
+    "mint": "AB2K8PdGFWr1PSdereKxaAcD6Nv7ywHCpiYVaFrrpump",
+    "first_seen": "2026-09-27T20:23:28.433144+00:00"
+  },
+  "heather": {
+    "mint": "FMQmohYKoqBfWEtZgAZsvLN34uCK7G5DhovXSmwN1Q3c",
+    "first_seen": "2026-09-27T20:23:29.036094+00:00"
+  },
+  "wifgyatt": {
+    "mint": "EHfuH17fQMmj8Pvr5cCqhZHqzPNAkvaFvMZaYEDLpump",
+    "first_seen": "2026-09-27T20:23:29.589463+00:00"
+  },
+  "claud00": {
+    "mint": "9cEmHF1ua7Hof2aJRwTwBLUjtsnDajxuahFGdMYWpump",
+    "first_seen": "2026-09-27T20:23:30.133632+00:00"
+  },
+  "bonkie": {
+    "mint": "CNgL2HsScD58MxqFvwjRfqmknrimMmwnttWFYRTcpump",
+    "first_seen": "2026-09-27T20:23:31.224491+00:00"
+  },
+  "0xquit": {
+    "mint": "2CJMSgbGomRvs3XsJN6tgpL24cDgGtLyWD96nEejo4cd",
+    "first_seen": "2026-09-27T20:23:32.260111+00:00"
+  },
+  "meetdick": {
+    "mint": "F2z18Sc4xk4Mb855oyicHav3qjEaEUCksnLQzCBspump",
+    "first_seen": "2026-09-27T20:23:32.845763+00:00"
+  },
+  "barstool": {
+    "mint": "FUKX4RajeVJeWBigzVBh97p7UKB86oBC8P7uqp7DtmB1",
+    "first_seen": "2026-09-27T20:23:38.271653+00:00"
+  },
+  "herms": {
+    "mint": "2zSroydg93rpA7poQjPwhCMAx6iW3HM6MuR4LrWopump",
+    "first_seen": "2026-09-27T20:23:38.373410+00:00"
+  },
+  "claudeputer": {
+    "mint": "BxpWDdkV7wbfU5ipCPURJgmYR5Nn4N2vGK9A8Qdrpump",
+    "first_seen": "2026-09-27T20:23:38.938051+00:00"
+  },
+  "tabless": {
+    "mint": "C5YjyjnbJhPmW41mXZWiFJF3FSHtUu5Z8sefqhmGpump",
+    "first_seen": "2026-09-27T20:23:41.044228+00:00"
   }
 }
