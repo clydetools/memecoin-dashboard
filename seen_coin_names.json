@@ -66354,5 +66354,49 @@
   "wired": {
     "mint": "DwJXKQTCrh8WB8nuNfWXCz5DhGAm7H1WNwKsEY7dFKG",
     "first_seen": "2026-09-27T12:59:46.519951+00:00"
+  },
+  "fascia": {
+    "mint": "45w4a9ux1XuVLHjv5fVYeKvtiHon4NZq3UMMacGUWckL",
+    "first_seen": "2026-09-27T17:38:43.848005+00:00"
+  },
+  "feestok": {
+    "mint": "26M1qSWL9bTx1abgCYc4Zb8ufEWZXxZu7sM2oU8rpump",
+    "first_seen": "2026-09-27T17:38:44.501717+00:00"
+  },
+  "catfeine": {
+    "mint": "97uDxDZ6PzZSoVbrG6rSjepNDvbS2HTjjhGoQcKbpump",
+    "first_seen": "2026-09-27T17:38:45.368218+00:00"
+  },
+  "babyagi": {
+    "mint": "6Vq7biYrTet4yQfiYduScXxeAdu7sBSGhYC6eCBuQuMg",
+    "first_seen": "2026-09-27T17:38:46.340524+00:00"
+  },
+  "mercedes": {
+    "mint": "2rAgR2nr1EMNYgW5miMHzWwaoKi8hkWh48CjS8JUpump",
+    "first_seen": "2026-09-27T17:38:46.797778+00:00"
+  },
+  "hither": {
+    "mint": "9CfzYZrLw3ySy1eou3GNY7iYm5CAcAX7HPvz3VAypump",
+    "first_seen": "2026-09-27T17:38:48.632943+00:00"
+  },
+  "fplim": {
+    "mint": "QSLHkD8JZHWkHpSFkrfZY7NVbhy7cGr5jYKmURtpump",
+    "first_seen": "2026-09-27T17:38:50.523524+00:00"
+  },
+  "sjp": {
+    "mint": "3p2swazRzqvfSW347R6s3xC8gcCZrR5CNuALh1ZWpump",
+    "first_seen": "2026-09-27T17:38:51.042143+00:00"
+  },
+  "snowmoon": {
+    "mint": "GBNCTFPnVCh852xrnjJLi2eVpPb3LW59ZGiSkvjDEqN",
+    "first_seen": "2026-09-27T17:38:56.631710+00:00"
+  },
+  "bukangi": {
+    "mint": "H69uJNb3XRGo3ApW193g221ndQeA6gyRhvLZqMfvpump",
+    "first_seen": "2026-09-27T17:38:57.152229+00:00"
+  },
+  "jackphil": {
+    "mint": "8CfN5k8LQNjZjZPd6rWwaEFVmA9GLLVwX8GffXAxpump",
+    "first_seen": "2026-09-27T17:38:57.815685+00:00"
   }
 }
