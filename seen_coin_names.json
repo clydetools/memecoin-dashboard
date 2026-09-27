@@ -66278,5 +66278,37 @@
   "groktown": {
     "mint": "6H6HFmCwiy6h98qPmBdFrfsjvxTQ15bxHvHyXhuPqFLh",
     "first_seen": "2026-09-27T01:42:15.752282+00:00"
+  },
+  "jailjack": {
+    "mint": "HaMWxyMc8LcFCMG5kuo3bSpQVADrDpk1f1SHm3WZpump",
+    "first_seen": "2026-09-27T07:08:56.913189+00:00"
+  },
+  "nvdab": {
+    "mint": "58ttR7rJ76dtrg1bXGpLyDP1kJ37YdSTPQrDar5C78qC",
+    "first_seen": "2026-09-27T07:08:57.339085+00:00"
+  },
+  "fjd": {
+    "mint": "6rtJy9ditvrtH18JQZvBaMm3ysk2oLsNAEw2GRkLpump",
+    "first_seen": "2026-09-27T07:08:58.404203+00:00"
+  },
+  "dcc": {
+    "mint": "FyRo4GEapK2MEo6eGVmxhjrkKhkq1yocMsSGKUeupump",
+    "first_seen": "2026-09-27T07:08:59.108906+00:00"
+  },
+  "algoblin": {
+    "mint": "2GQxCaH8qy7a3hJpVts2HahX9jqzA6XX6LAx4z1qpump",
+    "first_seen": "2026-09-27T07:09:00.098471+00:00"
+  },
+  "marionawfal": {
+    "mint": "6p92UuCmdyd6MXRpsVVbSdrJoLkMYRPFGc7uREpGw47e",
+    "first_seen": "2026-09-27T07:09:05.945097+00:00"
+  },
+  "xledger": {
+    "mint": "BS1xEuDHvJhuqgTjCy1F2gZNkuCDQxhUMDpKSdtRpump",
+    "first_seen": "2026-09-27T07:09:06.536409+00:00"
+  },
+  "gtr": {
+    "mint": "CatEvkKVmK2fsiVJZ3EzEBuCW8bmNoHKxsXvbBggdebp",
+    "first_seen": "2026-09-27T07:09:07.665642+00:00"
   }
 }
