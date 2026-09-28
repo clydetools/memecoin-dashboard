@@ -66506,5 +66506,57 @@
   "gremble": {
     "mint": "55wNKcF14DxhfC4Wkh6vLPfhZEsiZUJxG5XKRGMWpump",
     "first_seen": "2026-09-27T23:14:29.903752+00:00"
+  },
+  "mlhud": {
+    "mint": "3Lg6QqQ11hvXn3cgiYyUqXttC6mMcZS5o9mz8Ypf3iSS",
+    "first_seen": "2026-09-28T01:44:24.334405+00:00"
+  },
+  "vote": {
+    "mint": "Ecp3S43NDjDPN1n8TryGyWJm9JLT5GKRNhHPZy3ppump",
+    "first_seen": "2026-09-28T01:44:25.182822+00:00"
+  },
+  "rui": {
+    "mint": "BjN2CE6Nh49iYSutvbySsANJbmWhZG3x1uVu2iMrpump",
+    "first_seen": "2026-09-28T01:44:27.976325+00:00"
+  },
+  "worlpeace": {
+    "mint": "AiZFQsRjewkVt8pMaUTq1KFwTcq6yHaWvaSFWZrJpump",
+    "first_seen": "2026-09-28T01:44:28.468433+00:00"
+  },
+  "reserva": {
+    "mint": "9gT2XnTzBruZKNBhdFDjVZhesGy2XdNsHHb8n43xpump",
+    "first_seen": "2026-09-28T01:44:28.896159+00:00"
+  },
+  "squawkers": {
+    "mint": "9A3vtphYrNM9Nmyju4WN28CZCF6L4jcXKzZPqs9apump",
+    "first_seen": "2026-09-28T01:44:29.711085+00:00"
+  },
+  "hans": {
+    "mint": "3y1m5hdRdFu1wDNgPFbg4NUS5Kfg7GFtbbwSHdjcpump",
+    "first_seen": "2026-09-28T01:44:30.138309+00:00"
+  },
+  "bao": {
+    "mint": "3HGTGAnnNv47bFamugP61pCRrvC6idvdGhP6Pfjkpump",
+    "first_seen": "2026-09-28T01:44:34.917855+00:00"
+  },
+  "bnbinu": {
+    "mint": "3gBm1WtNhJ5TUt4ApJuRkDYrdgaJecefmjcMbdWhaouf",
+    "first_seen": "2026-09-28T01:44:35.010199+00:00"
+  },
+  "xacc": {
+    "mint": "C5zyCRUo23yLHDfcYWWTZNVh4yxWgQ8PFr1zx1Zrpump",
+    "first_seen": "2026-09-28T01:44:35.120592+00:00"
+  },
+  "zmr": {
+    "mint": "12JfziUHz6nN6ZJ8zTa7HdoYyufXCzRJqroGW38hqRgT",
+    "first_seen": "2026-09-28T01:44:35.487829+00:00"
+  },
+  "insta": {
+    "mint": "6UhUkSBc9RBB9gVJcjCWtcQv4t771rQF7bdn2qK7pump",
+    "first_seen": "2026-09-28T01:44:36.688361+00:00"
+  },
+  "delrey": {
+    "mint": "92BVgXufGjaMUyANA97dvg8LqNb5VMg2wgRfve9tPdCG",
+    "first_seen": "2026-09-28T01:44:37.531836+00:00"
   }
 }
