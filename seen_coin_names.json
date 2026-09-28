@@ -66558,5 +66558,49 @@
   "delrey": {
     "mint": "92BVgXufGjaMUyANA97dvg8LqNb5VMg2wgRfve9tPdCG",
     "first_seen": "2026-09-28T01:44:37.531836+00:00"
+  },
+  "handle": {
+    "mint": "B9Va2xJHGXVC7NCP7RmoBTRKNusEckydCT1VYJbhpump",
+    "first_seen": "2026-09-28T07:43:30.050031+00:00"
+  },
+  "ponk": {
+    "mint": "GgEtPLdDwiKKRKXvXCHauLDnx1zZ39bLGjnNZkJnpump",
+    "first_seen": "2026-09-28T07:43:31.142058+00:00"
+  },
+  "slnwllstp": {
+    "mint": "AAaTMe6vaEKgv6h4SYhTJw4Lc5tzKpaW1ifVNbmwpump",
+    "first_seen": "2026-09-28T07:43:32.327765+00:00"
+  },
+  "wojack": {
+    "mint": "2H5yH7QGpwZU6rjfrNyNMTpry48qenwwk7MTKUi5pump",
+    "first_seen": "2026-09-28T07:43:33.546186+00:00"
+  },
+  "seen": {
+    "mint": "5zJMVyTQg4FCyccs6pMqYdw94enZZDZqfCfCTxLLpump",
+    "first_seen": "2026-09-28T07:43:34.140844+00:00"
+  },
+  "saignals": {
+    "mint": "66P6UzpGbFYW5AkJHcNK2hqdTDoPtQKNAPQQvB5Jpump",
+    "first_seen": "2026-09-28T07:43:34.705335+00:00"
+  },
+  "bluboiahh": {
+    "mint": "8N5dWJJEMjXz8oQBGWvsKJWK7qqYaxPsXgkW7LCzpump",
+    "first_seen": "2026-09-28T07:43:35.880909+00:00"
+  },
+  "pshib": {
+    "mint": "A6vbyMe4YrKLweUCQa7HExvdxM2X8T6YqEBQKEZApump",
+    "first_seen": "2026-09-28T07:43:37.977085+00:00"
+  },
+  "solfrog": {
+    "mint": "TTwA29nT5v7Vti9xdvYrhMnHxo7mXNbx8aLcFLjpump",
+    "first_seen": "2026-09-28T07:43:42.839420+00:00"
+  },
+  "leverage": {
+    "mint": "BSupxTbKDofrX9qegDJ3KNxrCh63XF7ejiNmCvqP9DgZ",
+    "first_seen": "2026-09-28T07:43:42.939720+00:00"
+  },
+  "hippoacc": {
+    "mint": "6avWn3wAN8YeVaf8gdJnBt58ffWqW3Qf4p1tYoKedHf",
+    "first_seen": "2026-09-28T07:43:43.020279+00:00"
   }
 }
