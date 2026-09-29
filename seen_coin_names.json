@@ -66714,5 +66714,37 @@
   "sicat": {
     "mint": "9pMXEbTjQ5HHiYifGbNBwkMkrQxGyhuSmB8ndKNXpump",
     "first_seen": "2026-09-28T21:54:59.533540+00:00"
+  },
+  "kalani": {
+    "mint": "JJ2WastUaiVJLwRwUpZoLnh7rjgQyRJTBpdsNhQpump",
+    "first_seen": "2026-09-29T01:27:23.866598+00:00"
+  },
+  "jewjutsu": {
+    "mint": "5iEemVQA2r46nTi2XzWkdDxh7bB1dV7qWa4MxcWfxsVJ",
+    "first_seen": "2026-09-29T01:27:24.761685+00:00"
+  },
+  "afi": {
+    "mint": "4r61BCjuBY9aaNqNzYc8kZJZ7BUp7RU9YweM9qSUpump",
+    "first_seen": "2026-09-29T01:27:25.166147+00:00"
+  },
+  "relictcg": {
+    "mint": "72RRZcFjSi8bYCnLEGoJp5N9g9CmA7iaoBkEHfF3pump",
+    "first_seen": "2026-09-29T01:27:26.267582+00:00"
+  },
+  "tmf": {
+    "mint": "7W9VG4Fpp9qMU9tXxMNou2M1A6uNHdc1uDkxgKzVpump",
+    "first_seen": "2026-09-29T01:27:26.654247+00:00"
+  },
+  "chatgpt6": {
+    "mint": "FK2DSStPT9ooTXkX5afPURtLPeDNTtTpMiuivGFpump",
+    "first_seen": "2026-09-29T01:27:32.685099+00:00"
+  },
+  "parasite": {
+    "mint": "3kmygWKZBkCYrgZHKfiuB9UFKTcDLTFFsKo3BWpmpump",
+    "first_seen": "2026-09-29T01:27:33.494127+00:00"
+  },
+  "gitfees": {
+    "mint": "CLsGDf5QSp62QsxSGYuZetaA4WEGmKuq7XvKwkFcpump",
+    "first_seen": "2026-09-29T01:27:34.856694+00:00"
   }
 }
