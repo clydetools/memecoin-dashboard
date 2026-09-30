@@ -66834,5 +66834,81 @@
   "trenchdots": {
     "mint": "Agr56DXmmYX7wHcqvSGJweXFrSwGv3d6wbjmVqkxpump",
     "first_seen": "2026-09-30T08:26:12.354421+00:00"
+  },
+  "kuryx": {
+    "mint": "KURY1hFTy79GnC4bAZURbjAWekb3nBuPAGigXSsZbGU",
+    "first_seen": "2026-09-30T15:05:56.757701+00:00"
+  },
+  "error": {
+    "mint": "EGD3DSoucENrmAYmL98vpjG17ciswWkG6rJUxT8npump",
+    "first_seen": "2026-09-30T15:05:57.509693+00:00"
+  },
+  "tamara": {
+    "mint": "9jAvy2tbnXGv9Bg23iunmwSuVDsrq4TLYAXjKWrkpump",
+    "first_seen": "2026-09-30T15:05:58.792694+00:00"
+  },
+  "helmetguy": {
+    "mint": "8p8BPS9qkxgW2S4xUc5nFBofcvLXLmDhBn79xWFmpump",
+    "first_seen": "2026-09-30T15:05:59.367829+00:00"
+  },
+  "catzo": {
+    "mint": "CLFYxwuf11xELL34uke2zEpDxT1pwfTqrEjCojwTpump",
+    "first_seen": "2026-09-30T15:06:00.526224+00:00"
+  },
+  "solilo": {
+    "mint": "8TEATzX4igXrTkGGZEVu5dUDxze4N3R6LZSdmUhupump",
+    "first_seen": "2026-09-30T15:06:01.071556+00:00"
+  },
+  "moldpad": {
+    "mint": "2LHRnE4yUbJFccpNHMWqjV4ZGrnPTmwkH4QBTHSGpump",
+    "first_seen": "2026-09-30T15:06:01.646892+00:00"
+  },
+  "clipr": {
+    "mint": "EifZXHHggMUcvaENxveTrWmeY1BrGxAYkmnZrxmApump",
+    "first_seen": "2026-09-30T15:06:02.226651+00:00"
+  },
+  "aninu": {
+    "mint": "8EaT6rCxSE1xtAHYkTX8gdbmjXpvQzj1ZvVgzF1hpump",
+    "first_seen": "2026-09-30T15:06:03.321489+00:00"
+  },
+  "zombieinu": {
+    "mint": "H5x67R1AswGo81hYTJvRkonwy3f7qT4uUcu3ndCvpump",
+    "first_seen": "2026-09-30T15:06:03.883413+00:00"
+  },
+  "sarkka": {
+    "mint": "DT4QWRoCuCvTGP4649F9z9CrZ8UBxPx7vXfuZeCopump",
+    "first_seen": "2026-09-30T15:06:05.013163+00:00"
+  },
+  "backpack89": {
+    "mint": "2ArSTGKxiHDBss5GqsaQS1fohjcLnUaDg7F5gxNupump",
+    "first_seen": "2026-09-30T15:06:05.566652+00:00"
+  },
+  "lma": {
+    "mint": "9uST9ZT7o3fPwKVdNy9uhKxz1jZpUrnJy4QYyyQspump",
+    "first_seen": "2026-09-30T15:06:10.871145+00:00"
+  },
+  "terrafying": {
+    "mint": "FUuH1aufXBQQwUJGQPErV9Pa7d1dvv4iuRhrf1A3fvR3",
+    "first_seen": "2026-09-30T15:06:10.975416+00:00"
+  },
+  "near": {
+    "mint": "FWcLzgWf6Z8BexqAefgHfSwmCgb2eyXdH9XPV9oJxcSj",
+    "first_seen": "2026-09-30T15:06:11.072947+00:00"
+  },
+  "saw": {
+    "mint": "LT8i2VRQJL75DrDNtKu3gzPzuU5mGfZCrrFAqK5NB3k",
+    "first_seen": "2026-09-30T15:06:11.817802+00:00"
+  },
+  "redcoin": {
+    "mint": "3UqxWgYxj4gPcW7kdyw9oAZqyzoMTX5ka2sMiLxMzm19",
+    "first_seen": "2026-09-30T15:06:12.987193+00:00"
+  },
+  "volcano": {
+    "mint": "GgbjosSqU4RhpDQAq7nb4HV4XpdTHSmLfhcQw66PNakh",
+    "first_seen": "2026-09-30T15:06:13.948110+00:00"
+  },
+  "supertrump": {
+    "mint": "7VbwYBTA8FmNWE7yxFYnXyQhBHLLpBAH6pEaJEC8pump",
+    "first_seen": "2026-09-30T15:06:14.185408+00:00"
   }
 }
