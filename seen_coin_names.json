@@ -66746,5 +66746,49 @@
   "gitfees": {
     "mint": "CLsGDf5QSp62QsxSGYuZetaA4WEGmKuq7XvKwkFcpump",
     "first_seen": "2026-09-29T01:27:34.856694+00:00"
+  },
+  "perry": {
+    "mint": "3Mts7ecGQ9DG6CVe7nACtPtLzNTbzfXwZJHM88GVpump",
+    "first_seen": "2026-09-30T02:03:38.790981+00:00"
+  },
+  "marty": {
+    "mint": "9BA1z5U9TbybJRSQKy2KEeLfZAzBtfdjH2SGUApqVuF8",
+    "first_seen": "2026-09-30T02:03:40.599553+00:00"
+  },
+  "sic": {
+    "mint": "6g5gZLx5fdM4cF2nuLj9avRjnL1NAdqSbFjQSptnpump",
+    "first_seen": "2026-09-30T02:03:41.033139+00:00"
+  },
+  "gemibot": {
+    "mint": "HjREqt43pbMoqGKSMo37BGSRLHR47RfmqT8mmvczbTU2",
+    "first_seen": "2026-09-30T02:03:42.689914+00:00"
+  },
+  "udr": {
+    "mint": "uEMVScZfPPfSGeoKkPCQ82oRedJn6u1dQvDEo8qpump",
+    "first_seen": "2026-09-30T02:03:49.849406+00:00"
+  },
+  "vrax": {
+    "mint": "D8nfrGDFA1hPUHThshsL7mUse5Z4WZFYyxNe4CByEZR",
+    "first_seen": "2026-09-30T02:03:49.947451+00:00"
+  },
+  "bagspay": {
+    "mint": "H8WTvo3ZXSYHJAcYqzCforbG8coR1FDAX2kHFfqHBAGS",
+    "first_seen": "2026-09-30T02:03:50.069974+00:00"
+  },
+  "botbook": {
+    "mint": "2Nu2ZA91XktmLuBFCLUr8ChFXMohwJDn9xa5yk2oej4Z",
+    "first_seen": "2026-09-30T02:03:50.519671+00:00"
+  },
+  "resi": {
+    "mint": "resideK2Ejv9apu1op2VBv89poumxCDCs8nzBxQ5q1y",
+    "first_seen": "2026-09-30T02:03:52.164174+00:00"
+  },
+  "cnfts": {
+    "mint": "A71Uf3jwg57fNedSao9eFwm9eKSLYFbVJ85T4fuXpump",
+    "first_seen": "2026-09-30T02:03:52.813789+00:00"
+  },
+  "sif": {
+    "mint": "DhVcpV6UdtMKATyQm8E6CvpJmy91HdPibe9s7uzkwYuN",
+    "first_seen": "2026-09-30T02:03:53.499506+00:00"
   }
 }
