@@ -66966,5 +66966,61 @@
   "limit": {
     "mint": "GKG89wLSxif7SYorfY7qmSKL7KRqgq7SPKRgQvjfpump",
     "first_seen": "2026-09-30T19:58:31.845895+00:00"
+  },
+  "loot": {
+    "mint": "44uuM4ttPAjPbgZ2ArzXxc9eKXTGGNoet71iv5Yvpump",
+    "first_seen": "2026-09-30T23:34:05.469393+00:00"
+  },
+  "inudex": {
+    "mint": "4n1JVwadqGgFisxzToSb9bXBhTW2GNSPB5YPFMWCpump",
+    "first_seen": "2026-09-30T23:34:05.896155+00:00"
+  },
+  "hiku": {
+    "mint": "GkhMMERLnxPBhuxN88463gNouaEzAA4zfa51M5fPmMMP",
+    "first_seen": "2026-09-30T23:34:06.961025+00:00"
+  },
+  "dotchain": {
+    "mint": "8SBeARvhcKW7oapmbG6Z5PBCvG9TzkN9TCboUTGDjqaR",
+    "first_seen": "2026-09-30T23:34:08.064851+00:00"
+  },
+  "winu": {
+    "mint": "CZSYnh15euqrPWf44jV9DhGP7xvMeK4CqW78PUdipump",
+    "first_seen": "2026-09-30T23:34:10.898790+00:00"
+  },
+  "stubx": {
+    "mint": "FMNb4CR8ksibmgY7Ztei6BWcZXi3WHcVeJhYb9TNpump",
+    "first_seen": "2026-09-30T23:34:12.765326+00:00"
+  },
+  "krypto": {
+    "mint": "A6KSJQGdhNhcc1DoD8B6cY8AJ3n3WtbU72bCaDT7pump",
+    "first_seen": "2026-09-30T23:34:13.823351+00:00"
+  },
+  "jobcat": {
+    "mint": "8KJG9BJNaSEQE9bFkTDbwk4ZvqTnxupJUnkL21tCpump",
+    "first_seen": "2026-09-30T23:34:14.220082+00:00"
+  },
+  "hall": {
+    "mint": "9Hi75Cp5PcfJfCdaxrheyP9oZ2TG6fnGt1Cgq2Jrce62",
+    "first_seen": "2026-09-30T23:34:18.557304+00:00"
+  },
+  "onlystonk": {
+    "mint": "98gX7uB6U1sVzPmwcZ95rbVEfH4no5Xy7RDeVkFRpump",
+    "first_seen": "2026-09-30T23:34:18.630118+00:00"
+  },
+  "meridian": {
+    "mint": "GjrhXcr8YzUZBbu5rifdqM5CPBS4LFJveq3ZiY2u3g5G",
+    "first_seen": "2026-09-30T23:34:18.697998+00:00"
+  },
+  "clones": {
+    "mint": "Kme8Cx8SgHNX3WUBeX43aAmtcm8weBzhNgDj2yVzmem",
+    "first_seen": "2026-09-30T23:34:18.806577+00:00"
+  },
+  "elonhotdog": {
+    "mint": "4AF9SX6KkTKyzQT6zSHj8iEpQoBqEbPBRs1F495fpump",
+    "first_seen": "2026-09-30T23:34:19.237357+00:00"
+  },
+  "csfun": {
+    "mint": "GPuN3s5PZTPcQV7cykNaTyX9cVesPSyz7111nsNKu4cv",
+    "first_seen": "2026-09-30T23:34:20.493601+00:00"
   }
 }
