@@ -67054,5 +67054,37 @@
   "trumpcard": {
     "mint": "FBMtDdrUASCsGyAg9iKG8oCJASTyv67UGzES7sBKpump",
     "first_seen": "2026-10-01T02:23:37.551178+00:00"
+  },
+  "wiggabutt": {
+    "mint": "HeaHVfxg9AqpSVSwDoCAY3fgt9yxRPaTtJXSdKdXzbCU",
+    "first_seen": "2026-10-01T09:14:59.106086+00:00"
+  },
+  "mars3d": {
+    "mint": "FaJGXsbxPCS3UmKz9uuQ3RzB7bf6whXFyVPMofHF53sm",
+    "first_seen": "2026-10-01T09:14:59.630035+00:00"
+  },
+  "assless": {
+    "mint": "4jrAT4aJMFiGcmJbBSuJb5zc3o7DqLQnC4in6Kg7pump",
+    "first_seen": "2026-10-01T09:15:07.922839+00:00"
+  },
+  "booo": {
+    "mint": "KtSjNfBXBwCgedmF1NVKmdiX3PXAE1c1rxDoGfRpump",
+    "first_seen": "2026-10-01T09:15:10.817742+00:00"
+  },
+  "claimping": {
+    "mint": "5EJQJ9yRgdFR7BMDpnmJaE3RkJq8GDUZwcaU9uHXpump",
+    "first_seen": "2026-10-01T09:15:12.839389+00:00"
+  },
+  "sii": {
+    "mint": "BFdFhgZWKpHEvtCRA3R7fQwJfj51kZCk9WR9q3LLpump",
+    "first_seen": "2026-10-01T09:15:17.600647+00:00"
+  },
+  "rev": {
+    "mint": "CnfjanVV9M3QtBaz1PYdz5RKqeAqiU1CYqiWbMa2BfMc",
+    "first_seen": "2026-10-01T09:15:17.727550+00:00"
+  },
+  "nuvi": {
+    "mint": "EEGtwsf5wLWDG4THEu4TdFKTTRpsEoxArWZsetWZpump",
+    "first_seen": "2026-10-01T09:15:21.019078+00:00"
   }
 }
