@@ -67086,5 +67086,41 @@
   "nuvi": {
     "mint": "EEGtwsf5wLWDG4THEu4TdFKTTRpsEoxArWZsetWZpump",
     "first_seen": "2026-10-01T09:15:21.019078+00:00"
+  },
+  "nippin": {
+    "mint": "CNhqbzKN5GrHpGyZ2TNL3iNdVVQ94WVVoR7TETBZz5pU",
+    "first_seen": "2026-10-01T16:30:18.365501+00:00"
+  },
+  "arfur": {
+    "mint": "3kEzsibqgS6RnmtVtenuEub4yf5euMoPiucgRXEnpump",
+    "first_seen": "2026-10-01T16:30:18.856840+00:00"
+  },
+  "rec": {
+    "mint": "4EEX4wVZ41F4wbQVSY61qeV2ppVhJ653qy92wc3ppump",
+    "first_seen": "2026-10-01T16:30:19.840009+00:00"
+  },
+  "pcl": {
+    "mint": "GVKagoBthkoVkLfAk1D7wjJFRy47ruCqTFRqA8d3pump",
+    "first_seen": "2026-10-01T16:30:20.355832+00:00"
+  },
+  "denali": {
+    "mint": "wKJLq1zvhvAHPTGpPfXKfjPKR9EbDcGJrqgaquMKCCw",
+    "first_seen": "2026-10-01T16:30:23.773192+00:00"
+  },
+  "bok": {
+    "mint": "FL4NswtKj1H17ghRE8eoSDRHV2HN7fPyTdnQbNcHpump",
+    "first_seen": "2026-10-01T16:30:24.694365+00:00"
+  },
+  "janes": {
+    "mint": "HmMDsu7WFPxJVhXEZdkMFgQHgschqA73DnuSTheYpump",
+    "first_seen": "2026-10-01T16:30:30.128402+00:00"
+  },
+  "lowkjelly": {
+    "mint": "AYRTq6bfnNzWMY5ACWTRUtMCwV8PAhux3wm84q5mpump",
+    "first_seen": "2026-10-01T16:30:31.555991+00:00"
+  },
+  "putin": {
+    "mint": "H5Kugtkfc5vrm3oSdX6FDkxuutRK1S3GW7Rr7UgnoDhP",
+    "first_seen": "2026-10-01T16:30:32.213253+00:00"
   }
 }
