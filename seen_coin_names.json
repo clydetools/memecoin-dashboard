@@ -67274,5 +67274,49 @@
   "sapling": {
     "mint": "BZFYNPeQAEW3HWQ4DNsTVahC1n4ZjTgn6jB2nnBbB96W",
     "first_seen": "2026-10-02T06:39:58.659515+00:00"
+  },
+  "memcoins": {
+    "mint": "6AXq9HaQj8EfJ5x2G66Le3gfFB61ExU99AQUgZYMpump",
+    "first_seen": "2026-10-02T13:11:10.231987+00:00"
+  },
+  "winud": {
+    "mint": "2wQbyVXPxoeTeEGVLXvasquRwWcXrjBVBTGckrQkpump",
+    "first_seen": "2026-10-02T13:11:11.716833+00:00"
+  },
+  "freaky": {
+    "mint": "7S7Xp8bsfVnTQG2bZDBSm87ZGFvL7MX2SX6nbL9Bpump",
+    "first_seen": "2026-10-02T13:11:14.288479+00:00"
+  },
+  "rdeo": {
+    "mint": "DmN4p4Tnc4JQJh4gHt1BuUUZrVkBeLG7ozv6S2Bcpump",
+    "first_seen": "2026-10-02T13:11:14.661029+00:00"
+  },
+  "text": {
+    "mint": "EuEVa9wTo2dqfRngHix2RoFLH7HvdBTEjT3ztpMopump",
+    "first_seen": "2026-10-02T13:11:15.418417+00:00"
+  },
+  "7th": {
+    "mint": "9qKADqyqh6NV2Hz78mEHBeKp2SzsHg1MgDEjXctepump",
+    "first_seen": "2026-10-02T13:11:15.808066+00:00"
+  },
+  "bart": {
+    "mint": "4V7HZE71NBmz7dafqU7pzhAdepRvxJN2Wd5qxaqEpump",
+    "first_seen": "2026-10-02T13:11:16.208326+00:00"
+  },
+  "socket": {
+    "mint": "XLBLxbY1Mr7aadnqAbmqSBXLEyUdjvUXtXCnz8Mpump",
+    "first_seen": "2026-10-02T13:11:20.803891+00:00"
+  },
+  "minecraft": {
+    "mint": "3nm1s5FJxGBgNnF9hppdnNphKwVD15Acvg8ptHqupump",
+    "first_seen": "2026-10-02T13:11:20.939316+00:00"
+  },
+  "onionweb": {
+    "mint": "7NELwkCyL2crujChTgtdKpR1jn2UHTe115v25rUSpump",
+    "first_seen": "2026-10-02T13:11:25.511253+00:00"
+  },
+  "shoggoth": {
+    "mint": "6d82cCtC1LktWWgjUz5h3vMenFj5EDHLMBFvcpmvrRi",
+    "first_seen": "2026-10-02T13:11:25.800829+00:00"
   }
 }
