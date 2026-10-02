@@ -67198,5 +67198,49 @@
   "domain": {
     "mint": "8oMvxgcBJtDGNSc8kogCEEFxSvvi7x6jHRfSWaiWpump",
     "first_seen": "2026-10-01T21:16:16.898500+00:00"
+  },
+  "crossy": {
+    "mint": "89YHD8AwuaFKhFCf2yNwuQj9TULRi15fjVobSZW6AWRy",
+    "first_seen": "2026-10-02T00:51:37.925226+00:00"
+  },
+  "clue": {
+    "mint": "hVEm7FY12oA2sNRfCUszLot4RkAWsDbchK8uxP9pump",
+    "first_seen": "2026-10-02T00:51:38.422013+00:00"
+  },
+  "ac47": {
+    "mint": "73oSksaD7i1nXDKXeMjahajWyBbArt6yttRe9dtE574h",
+    "first_seen": "2026-10-02T00:51:39.904452+00:00"
+  },
+  "astrachan": {
+    "mint": "CoAL5Lw4uUFpPgDjmngzw29b9oPTKZ2vJqWG2aDDpump",
+    "first_seen": "2026-10-02T00:51:40.405389+00:00"
+  },
+  "dirtysal": {
+    "mint": "E7J2JGa6FYUCkkt1io7HBEnSDgVA43wFszc5DzFbpump",
+    "first_seen": "2026-10-02T00:51:40.905994+00:00"
+  },
+  "ak47cat": {
+    "mint": "71nNFoe4H67LzdYxJDNQ7UL9M7GaaTYDqpePyVLcWmqq",
+    "first_seen": "2026-10-02T00:51:41.819882+00:00"
+  },
+  "pumpoween": {
+    "mint": "4uRKQyhBiFPFkY976A7aZXD4CeT423PdWFdGsNW3pump",
+    "first_seen": "2026-10-02T00:51:50.522551+00:00"
+  },
+  "juliana": {
+    "mint": "VjpZS2k4tAaryjGL1ZcR272Kpnwi24KR7qcRPfagbeF",
+    "first_seen": "2026-10-02T00:51:51.004902+00:00"
+  },
+  "goonape": {
+    "mint": "78xtnjdMfNVEfteF1eUopB4ZyKA1cmTE4dH7aQVHGoon",
+    "first_seen": "2026-10-02T00:51:56.015196+00:00"
+  },
+  "ramcat": {
+    "mint": "6djc1R5BEonJ4ni6FsaePFihKRJbgGPGfoFrdMPcW87b",
+    "first_seen": "2026-10-02T00:51:56.093520+00:00"
+  },
+  "goldinu": {
+    "mint": "2LYTMGch89RabgQsCnzgMRiFLuzXi8rrnYqQRnZMe7mx",
+    "first_seen": "2026-10-02T00:51:57.622465+00:00"
   }
 }
