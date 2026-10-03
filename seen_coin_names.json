@@ -67634,5 +67634,53 @@
   "darkpool": {
     "mint": "fCUBpdeRn76xfRaa4UPHDauGeRG3EvMB3MjuRgdpump",
     "first_seen": "2026-10-03T16:13:05.280228+00:00"
+  },
+  "wyoming": {
+    "mint": "8VAkAovqk2U3vrCfdz3tY5XTXs7yK5jeBky4313p8fLG",
+    "first_seen": "2026-10-03T19:16:40.106133+00:00"
+  },
+  "pinloop": {
+    "mint": "CJ1ZqnHFuqNaQDn3Ci7tCux7knxenYr9jUA2stkXpump",
+    "first_seen": "2026-10-03T19:16:43.976014+00:00"
+  },
+  "pupu": {
+    "mint": "5KBV2WrvZ9FNAsYm17YjuigdGK8phS2dPUZvDM1Upump",
+    "first_seen": "2026-10-03T19:16:45.258179+00:00"
+  },
+  "malfoid": {
+    "mint": "D9Hqo2Ta9bSrQMASpRqkmmmHGnr9UAe5HXh2Z8iKv8FM",
+    "first_seen": "2026-10-03T19:16:47.082322+00:00"
+  },
+  "jphiba": {
+    "mint": "414pCQbM5PREk5BoMWN2GKHUrfD2eNhu2yWMS7okpump",
+    "first_seen": "2026-10-03T19:16:48.814242+00:00"
+  },
+  "inteligen": {
+    "mint": "CwMkHDjpyWR4G5u48n8eqNSFe8yNZuakVEzNdmApump",
+    "first_seen": "2026-10-03T19:16:50.122651+00:00"
+  },
+  "lockedup": {
+    "mint": "AqW8WMwU62hNJPcoEffwKaX6XqFH6TVvjEqy2qAZpump",
+    "first_seen": "2026-10-03T19:16:54.114419+00:00"
+  },
+  "archive": {
+    "mint": "7LerddGWS3z58vLPKAAEb1kFAXWV6jCAQ5DsSssJpump",
+    "first_seen": "2026-10-03T19:16:56.571331+00:00"
+  },
+  "ribet": {
+    "mint": "ribenDFYGLxx8kHL2LjLQ6TyUYmZzpSbSt5bD3VqhiA",
+    "first_seen": "2026-10-03T19:17:01.917096+00:00"
+  },
+  "spec": {
+    "mint": "2AVjqmGbMqg7rSyHVv2deVdggsBgBtu1Bi69BUvE5WRv",
+    "first_seen": "2026-10-03T19:17:01.982496+00:00"
+  },
+  "swordpin": {
+    "mint": "5yocuEaAakuRQhzyNDjcLLeZuYzqPnxNdHA5Ynfvpump",
+    "first_seen": "2026-10-03T19:17:02.069475+00:00"
+  },
+  "knightcat": {
+    "mint": "3Dgwn5E7H5a8k6iGrz3qirkaJqUaJrKHEZ2xPcLRpump",
+    "first_seen": "2026-10-03T19:17:04.969437+00:00"
   }
 }
