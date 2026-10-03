@@ -67502,5 +67502,45 @@
   "wdyt": {
     "mint": "wdysfTqUsJ8qAVB1796BXgGisThoBzu1keQmdgswdyt",
     "first_seen": "2026-10-03T01:20:51.830771+00:00"
+  },
+  "catcode": {
+    "mint": "J3HA8WAyT5cm85r9eEPjvzR9diEc898vW4LQk1Yfpump",
+    "first_seen": "2026-10-03T06:38:54.836578+00:00"
+  },
+  "agentplus": {
+    "mint": "8KNbos8Hd7nutyzyJWDUCw2iLwh2WPbgVjF4UDWf9CQQ",
+    "first_seen": "2026-10-03T06:38:55.376434+00:00"
+  },
+  "candybot": {
+    "mint": "9CgmNYphrXk6nnkvodr4yxwdBuZ8Y9mauoeiEhWFSwXy",
+    "first_seen": "2026-10-03T06:38:55.880377+00:00"
+  },
+  "altcoin": {
+    "mint": "6c7PRJ3UJ8NSuYsHdiE9ehW4S1GwdHbnEokyJwcCYMeG",
+    "first_seen": "2026-10-03T06:38:56.364789+00:00"
+  },
+  "droneshow": {
+    "mint": "7Aa8686WuNnwDk5mmEoZYGMw4z7zkdwjySFVyt3wduKE",
+    "first_seen": "2026-10-03T06:38:59.586271+00:00"
+  },
+  "printr": {
+    "mint": "8WULHz9bC8VR9dpuYEJVJthrEyv3cYBbiHHaQF1S5Qm5",
+    "first_seen": "2026-10-03T06:39:04.494030+00:00"
+  },
+  "spare": {
+    "mint": "2WnAqBi6irRdDD8gim2xxryiSM9mHCuD81zhsCH4WPsS",
+    "first_seen": "2026-10-03T06:39:04.596371+00:00"
+  },
+  "phrog": {
+    "mint": "4es8jR9rW441sfdS9658YxFtuR6BCQWGPsqnCWJokWk9",
+    "first_seen": "2026-10-03T06:39:04.676945+00:00"
+  },
+  "elpepe": {
+    "mint": "8rHDtJB63cJ9ti5E2k6MaQqcYUYfEW2JBuZYMVJypump",
+    "first_seen": "2026-10-03T06:39:06.975238+00:00"
+  },
+  "dotf": {
+    "mint": "ouuAA335AGwLVw29XzW5wDNEGYrq13ynMzpM9kLpump",
+    "first_seen": "2026-10-03T06:39:07.596797+00:00"
   }
 }
