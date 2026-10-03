@@ -67542,5 +67542,41 @@
   "dotf": {
     "mint": "ouuAA335AGwLVw29XzW5wDNEGYrq13ynMzpM9kLpump",
     "first_seen": "2026-10-03T06:39:07.596797+00:00"
+  },
+  "hamuda": {
+    "mint": "FyZjfRM1qcTEma492DMh6hAwkff9BwENkGYGdN1MYCxH",
+    "first_seen": "2026-10-03T12:01:38.163232+00:00"
+  },
+  "fcb": {
+    "mint": "26WKsiUJ3HPrDFkeibWY2VHxbmk8vtDiQwjbXcPEpump",
+    "first_seen": "2026-10-03T12:01:39.165455+00:00"
+  },
+  "duve": {
+    "mint": "CokFRV1i7UneM6XYqXfskFS9wkodoueiR6HPugD13Jfy",
+    "first_seen": "2026-10-03T12:01:40.164415+00:00"
+  },
+  "donlon": {
+    "mint": "FkEdNLr1ziahdCenHqfL3coBq2ipPHgcTjwtjsVtpump",
+    "first_seen": "2026-10-03T12:01:41.098308+00:00"
+  },
+  "maxw": {
+    "mint": "Gs1y27rTLbo7hkbou8ybmynXvE6chWK5noUGPsGvpump",
+    "first_seen": "2026-10-03T12:01:42.789952+00:00"
+  },
+  "gpi": {
+    "mint": "FFPecRrgKA3sJ2p6ufE9MkAsBB58t5GT6KBqa8Drpump",
+    "first_seen": "2026-10-03T12:01:43.709552+00:00"
+  },
+  "brinicle": {
+    "mint": "41JZJupLnAs5Kx8z4APVazdPkh3QcqSv1FUpQJFZpump",
+    "first_seen": "2026-10-03T12:01:44.601487+00:00"
+  },
+  "kin": {
+    "mint": "Bf9i7oG8We16XBtgeAnNB9rDBnmCZPW37P7b6a9Hpump",
+    "first_seen": "2026-10-03T12:01:49.532331+00:00"
+  },
+  "pyra": {
+    "mint": "FTQZZ7qFcvAx5Nkk8nN19Z3GrxxJmCtKpnLUSSQHpump",
+    "first_seen": "2026-10-03T12:01:49.575316+00:00"
   }
 }
