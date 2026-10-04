@@ -67874,5 +67874,73 @@
   "dotpad": {
     "mint": "3FYAXQtJwqw7WAuLD65QZwdcWMRvHyzCGds8G6x7pump",
     "first_seen": "2026-10-04T12:43:15.174466+00:00"
+  },
+  "czcoin": {
+    "mint": "Cnd7YB18iZBz657hKJ7komTdYb2hJe4nVqCLHpLWV6FJ",
+    "first_seen": "2026-10-04T17:05:04.798425+00:00"
+  },
+  "ned": {
+    "mint": "Ej3MbXWMQUf58gz6XRmzBi18jE2zJn2hJrHTmHjJpump",
+    "first_seen": "2026-10-04T17:05:07.043651+00:00"
+  },
+  "givr": {
+    "mint": "8dXXfZxVzuY1AWohCDhuzv3g6QyJJLuUvMX7dZPmpump",
+    "first_seen": "2026-10-04T17:05:07.684476+00:00"
+  },
+  "orngie": {
+    "mint": "67oBi494JeFLuma2kdrG1a58Uohjk6Hh6EBFJgEf2pi5",
+    "first_seen": "2026-10-04T17:05:08.251008+00:00"
+  },
+  "tfa": {
+    "mint": "eLKEFFhDdnznvPEVTb2Gw3ofK5HN3koKkQt2MvKpump",
+    "first_seen": "2026-10-04T17:05:09.960956+00:00"
+  },
+  "hoodpad": {
+    "mint": "3JBZnyo2jfeFEKE36VMobYuAhaLGsW54Tjeatpcxpump",
+    "first_seen": "2026-10-04T17:05:11.694926+00:00"
+  },
+  "meowlot": {
+    "mint": "2CC7AD9Cj1dWKxHkQbgHbELm13ectfeqNn74nyhypump",
+    "first_seen": "2026-10-04T17:05:12.265265+00:00"
+  },
+  "mtsi": {
+    "mint": "JiNqBuqQ5uw6YxqrgFuK2NExANRGY1xGjDDMkyyYu83",
+    "first_seen": "2026-10-04T17:05:12.832721+00:00"
+  },
+  "norvan": {
+    "mint": "HtYHPdMCB3NUvQ4nuyJeRL1D2piBW2wpWErRHSTWvRpc",
+    "first_seen": "2026-10-04T17:05:13.474907+00:00"
+  },
+  "wowo": {
+    "mint": "J9YfdHFyg5jDY4ZEVPznvRDET8uSp6BXSweuhnNsVkhz",
+    "first_seen": "2026-10-04T17:05:14.089865+00:00"
+  },
+  "sogaku": {
+    "mint": "7UTjbhALBo9erL3uw5P2apTEfBpfsdE6i7ZzWo8npump",
+    "first_seen": "2026-10-04T17:05:14.728224+00:00"
+  },
+  "beeble": {
+    "mint": "4ayZ1Hn9sZafS6pHAXaqEXZH6HPLoaUH2jM44PbmtrHu",
+    "first_seen": "2026-10-04T17:05:15.373225+00:00"
+  },
+  "tylrswft": {
+    "mint": "2igY561N2SKqyAcjG8KYyRD34vP65cM87mdb9DmVMdaF",
+    "first_seen": "2026-10-04T17:05:18.611741+00:00"
+  },
+  "ainu": {
+    "mint": "bFpXEqt9PLEeapC3Ps4SKB12UXAf32rA6jKm3cN99RQ",
+    "first_seen": "2026-10-04T17:05:19.712553+00:00"
+  },
+  "ansag": {
+    "mint": "hzZLWeRiteCwRqUzpeeKSgsGtM6gJiX3Hfitkpppump",
+    "first_seen": "2026-10-04T17:05:20.274305+00:00"
+  },
+  "tiptoe": {
+    "mint": "FtEbiYmqc2k4bqVYXqucdayvadPBxgTeGXM7MXTx9mR4",
+    "first_seen": "2026-10-04T17:05:22.425253+00:00"
+  },
+  "liqit": {
+    "mint": "BnHUNfAczSvvcuChbNi97huNHwwraXBDuTYosgTDpump",
+    "first_seen": "2026-10-04T17:05:28.119083+00:00"
   }
 }
