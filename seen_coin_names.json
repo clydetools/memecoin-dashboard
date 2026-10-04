@@ -67830,5 +67830,49 @@
   "solmas": {
     "mint": "98S3A9sgLHhdUHUdpviZQrbEGsXFMf4ZXfNRBpeMpump",
     "first_seen": "2026-10-04T06:25:04.687521+00:00"
+  },
+  "tcu": {
+    "mint": "4gfyc2Qty1jWjZV1HvWrinZ7zfXsPF4UHxFEcvmtpump",
+    "first_seen": "2026-10-04T12:43:01.774672+00:00"
+  },
+  "higgsdog": {
+    "mint": "43cfaibwnwgT58jiYJBzXNRTq6RVWj3E7n126Q7Gpump",
+    "first_seen": "2026-10-04T12:43:02.211250+00:00"
+  },
+  "brittneypw": {
+    "mint": "teNiYgvg7ef3nh4G9F5s6PM3NxXbnjPqzXXBHocxJXB",
+    "first_seen": "2026-10-04T12:43:02.649486+00:00"
+  },
+  "higgscat": {
+    "mint": "p1yhN9M6sCFcyjyMCJ2mGxFD77ThkArEqQjeMGUpump",
+    "first_seen": "2026-10-04T12:43:03.069417+00:00"
+  },
+  "liquyn": {
+    "mint": "7VQ2bgiYZqyCRN94Nrt3efgMcPFbAd4ZUxHx22MrCtCn",
+    "first_seen": "2026-10-04T12:43:03.480183+00:00"
+  },
+  "catch": {
+    "mint": "FgMDxDQqoWGuBZPKEpu4SfqNLbyqpr8kRPebz1ABpump",
+    "first_seen": "2026-10-04T12:43:03.919824+00:00"
+  },
+  "unzip": {
+    "mint": "4LXcBRerqryJtX7anwNeLJcmFreSVVNi1ono44VfHXZL",
+    "first_seen": "2026-10-04T12:43:05.085913+00:00"
+  },
+  "naga": {
+    "mint": "FDDNj9DhK2er4JjsNDrJc1DEyRriMEhhnQrkrCbypump",
+    "first_seen": "2026-10-04T12:43:06.725710+00:00"
+  },
+  "higgs": {
+    "mint": "DoVAVzViX8Bjy3r15nwikSaSbzE6dV4ovd28aWpJpump",
+    "first_seen": "2026-10-04T12:43:11.396420+00:00"
+  },
+  "spacexsi": {
+    "mint": "LXXLyY9kDfZ8tXDiWiH3K3nBhrufxCaWhUUoqoWouBH",
+    "first_seen": "2026-10-04T12:43:11.600480+00:00"
+  },
+  "dotpad": {
+    "mint": "3FYAXQtJwqw7WAuLD65QZwdcWMRvHyzCGds8G6x7pump",
+    "first_seen": "2026-10-04T12:43:15.174466+00:00"
   }
 }
