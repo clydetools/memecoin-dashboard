@@ -68126,5 +68126,57 @@
   "texcat": {
     "mint": "G5NC1rw5tvZWm4Kef1PCCptK1BBQPx69v8NdMAHApump",
     "first_seen": "2026-10-05T01:54:58.572495+00:00"
+  },
+  "istinct": {
+    "mint": "3VzEjEVevS7UEv5wpvbbugCPXhGmGqh33hujQDkpqXR1",
+    "first_seen": "2026-10-05T08:16:18.178774+00:00"
+  },
+  "velryn": {
+    "mint": "3APFR4xs3Y8Mz7Lz2yPRKTxqR5SqXim72DRv4wbWpump",
+    "first_seen": "2026-10-05T08:16:18.779583+00:00"
+  },
+  "armada": {
+    "mint": "Euj93HKLX55VJdk7Ai4wqkDH9PrZ2tHiXjpwWkrCpump",
+    "first_seen": "2026-10-05T08:16:19.868666+00:00"
+  },
+  "dyad": {
+    "mint": "BcswWxiB3gCUMPyXDdnKzmrJAj4gvfowt2GJN3gTpump",
+    "first_seen": "2026-10-05T08:16:20.454648+00:00"
+  },
+  "klaus": {
+    "mint": "CpHy5MDTg7t9sjNVcqVHm5snY5BSVBQDgSnBGyj6pump",
+    "first_seen": "2026-10-05T08:16:21.954258+00:00"
+  },
+  "instinctos": {
+    "mint": "6M2qx8K9FqMQEnPijWZPS1Ttk2axpsPZe277suLJgMSN",
+    "first_seen": "2026-10-05T08:16:24.779700+00:00"
+  },
+  "alexandre": {
+    "mint": "2XFhRcB6AoGZTEFhMNLXuTLxVeDHTuN9F25aSfdAHHLW",
+    "first_seen": "2026-10-05T08:16:25.916675+00:00"
+  },
+  "whipcat": {
+    "mint": "F4635H9HFAzYjpyM3coGMtW8pMmEYRtwrgz5mgfHpump",
+    "first_seen": "2026-10-05T08:16:30.716331+00:00"
+  },
+  "instinct": {
+    "mint": "3rZ97af6e85vNCqZPMLUSui5SmwNYhjpdRJ7RTTnG2Ff",
+    "first_seen": "2026-10-05T08:16:30.796829+00:00"
+  },
+  "backers": {
+    "mint": "CBLx6CRcCTtbmgTdxpqnF2dP1MpWbMUjngtNbFTApump",
+    "first_seen": "2026-10-05T08:16:30.877699+00:00"
+  },
+  "imd": {
+    "mint": "QhRevm7Ky4sw7X2Hpo7G8J9ZQTcC1FVvQdxR4mmm5R7",
+    "first_seen": "2026-10-05T08:16:30.964603+00:00"
+  },
+  "xeet": {
+    "mint": "6HFJ5sxVoEtczr9siAUeGssmpfhQSS3pEoBcCycUpump",
+    "first_seen": "2026-10-05T08:16:33.510266+00:00"
+  },
+  "cadence": {
+    "mint": "46doJPsSjEVMsNZm4b32UbbvbUXjFTM3TDPBWMM3pump",
+    "first_seen": "2026-10-05T08:16:34.525293+00:00"
   }
 }
