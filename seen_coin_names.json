@@ -68246,5 +68246,85 @@
   "solborn": {
     "mint": "3UaGjr2qe6CVF2vmghw7n7wYEJhw23VebDMf53Ntocie",
     "first_seen": "2026-10-05T17:12:56.721373+00:00"
+  },
+  "rugfun": {
+    "mint": "zqXoXM3cTK9827uDGg5KiGBLwjBs5C7QE32rdt4pump",
+    "first_seen": "2026-10-05T23:11:53.681764+00:00"
+  },
+  "spora": {
+    "mint": "Eut4XBFEKfw2xpd8DTgfF9nrcSBepZcAgnxQPrBQXAp",
+    "first_seen": "2026-10-05T23:11:54.158174+00:00"
+  },
+  "crawler": {
+    "mint": "G1fmpdeqfLEUk2UHveSgwXSupjeuhgLzCUMa4m4qpump",
+    "first_seen": "2026-10-05T23:11:54.750111+00:00"
+  },
+  "quokka": {
+    "mint": "G3SB2SpbXAmE3xNFn6HnTaaDosK4Lq7GaRAuLCKMpump",
+    "first_seen": "2026-10-05T23:11:56.257470+00:00"
+  },
+  "tttt": {
+    "mint": "DZc8Ptu4QkpEC6X21nVqQfA2NMVfApDt2Rn9vMb5RFHS",
+    "first_seen": "2026-10-05T23:11:59.047036+00:00"
+  },
+  "vtlikcflowpos": {
+    "mint": "GRGJsLTdZws9LLGRxrNGMuURF49ZwXrDAvDkQFmwXGrh",
+    "first_seen": "2026-10-05T23:12:01.801638+00:00"
+  },
+  "parity": {
+    "mint": "9SPiKkGuMPrSPdExhQh4djyjh9Y5EPGJm7JwxjmMKYEq",
+    "first_seen": "2026-10-05T23:12:02.268174+00:00"
+  },
+  "jamalwhite": {
+    "mint": "BAitYwZkxux769Zk7SmuLr7rUazxB3LWSL3nLUmFhpBC",
+    "first_seen": "2026-10-05T23:12:09.697271+00:00"
+  },
+  "trill": {
+    "mint": "9BAvpkHeAuUgFYvmt6dfWNn8VMhtLXGaACDCrA2epump",
+    "first_seen": "2026-10-05T23:12:10.439084+00:00"
+  },
+  "dodgeoween": {
+    "mint": "6kZ47e45WBYfhArfSDhGSjThENUvtbDaaokyc3dxpump",
+    "first_seen": "2026-10-05T23:12:11.570253+00:00"
+  },
+  "pair": {
+    "mint": "4pSUZF5Vyyn7Frd5TWcrgS7oXS1VAa73BQ1QhQjxpump",
+    "first_seen": "2026-10-05T23:12:12.022158+00:00"
+  },
+  "min": {
+    "mint": "7cdEAgTq2WTAAtaK2TZrGTd6DZVdu4fUPJZMTqTNpump",
+    "first_seen": "2026-10-05T23:12:12.419314+00:00"
+  },
+  "vampedbylarp": {
+    "mint": "5pwAo9yD9FtUaJMadqPWXDZKK79TDgJ5kTJMmYoScoRi",
+    "first_seen": "2026-10-05T23:12:14.812194+00:00"
+  },
+  "dptl": {
+    "mint": "ApfJrd5xDpNnY8qdFbWqPZ84qkmNNVYPTeHL7ixdpump",
+    "first_seen": "2026-10-05T23:12:15.216068+00:00"
+  },
+  "feebits": {
+    "mint": "4vtUJ71E5QFxMHERopqBdWk1zKY5HxPhc2kjc76zvpDg",
+    "first_seen": "2026-10-05T23:12:20.646043+00:00"
+  },
+  "m2m": {
+    "mint": "3E7nd9oom8Wdvc6jdHWRSLhpZ6kymd8oYXT5zaU2pump",
+    "first_seen": "2026-10-05T23:12:20.730548+00:00"
+  },
+  "claudeai": {
+    "mint": "Gdggr4qj8eHJVwwBLYSqWuCijzkgv2EoBQiNakWRCb6r",
+    "first_seen": "2026-10-05T23:12:21.471220+00:00"
+  },
+  "addidas": {
+    "mint": "9u7aand8GYKNF3BQ2DTqeDx93NjH89DtXxfzEBnMGF4C",
+    "first_seen": "2026-10-05T23:12:21.756261+00:00"
+  },
+  "pod": {
+    "mint": "F4K2SbLNgyz9gzNqT8bPeLpRkxy4oMA9twaffUDdZtB6",
+    "first_seen": "2026-10-05T23:12:22.204392+00:00"
+  },
+  "local": {
+    "mint": "TfLEzpE2rvwng5WPDP7XqsMoNLfgk2mKXNxJUvQs8c1",
+    "first_seen": "2026-10-05T23:12:23.254461+00:00"
   }
 }
