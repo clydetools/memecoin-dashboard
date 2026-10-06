@@ -68326,5 +68326,37 @@
   "local": {
     "mint": "TfLEzpE2rvwng5WPDP7XqsMoNLfgk2mKXNxJUvQs8c1",
     "first_seen": "2026-10-05T23:12:23.254461+00:00"
+  },
+  "spinu": {
+    "mint": "8pfkHsDBs7ZxJMCP787nTWY8DJ2xfYqJjaVi5CqFpump",
+    "first_seen": "2026-10-06T03:04:32.473842+00:00"
+  },
+  "nb": {
+    "mint": "Guq3BExNxajyx5Ry3Mzjt9dAn8Gzk99Z5bGmFtKdXwdg",
+    "first_seen": "2026-10-06T03:04:34.372531+00:00"
+  },
+  "axd": {
+    "mint": "o1LsCVVc95Q1CHWvEsw2dCfWVcejDJC1UeHXGTjpump",
+    "first_seen": "2026-10-06T03:04:37.701410+00:00"
+  },
+  "crawlscan": {
+    "mint": "FtLnsR1VmY8WzyoYTfb9zk2GCgGLa1jJWnL4nKtZWjhV",
+    "first_seen": "2026-10-06T03:04:38.902787+00:00"
+  },
+  "agency95": {
+    "mint": "94a9v5wLCQ73mtXntuk6WV5of3SEQt1RfStXAYMHpump",
+    "first_seen": "2026-10-06T03:04:39.467192+00:00"
+  },
+  "tralala": {
+    "mint": "BC1Kmvg1Ud322k4WdcJykCJCEKimEDDhz3CXJ2nV9zEq",
+    "first_seen": "2026-10-06T03:04:41.158566+00:00"
+  },
+  "phubber": {
+    "mint": "5kxXJwjMpp6H7XAAgJNgQZmuW1AC5vWeAtB6qEgdoKC",
+    "first_seen": "2026-10-06T03:04:46.406416+00:00"
+  },
+  "mintro": {
+    "mint": "BrUimx7KncgRNTggAdZdaX2s5XUqQyR6XMRmEg4mpump",
+    "first_seen": "2026-10-06T03:04:50.872582+00:00"
   }
 }
