@@ -68358,5 +68358,61 @@
   "mintro": {
     "mint": "BrUimx7KncgRNTggAdZdaX2s5XUqQyR6XMRmEg4mpump",
     "first_seen": "2026-10-06T03:04:50.872582+00:00"
+  },
+  "nottasty": {
+    "mint": "BB7cD5bfCDNB3CTsF9Wg7KUr6V9ZAcJ3AJJSB1Adpump",
+    "first_seen": "2026-10-06T10:09:31.134757+00:00"
+  },
+  "kage": {
+    "mint": "2byY2qLak2gJaAFZjxuMA1tssV2srzQJpJyT9SiCa45Y",
+    "first_seen": "2026-10-06T10:09:34.382691+00:00"
+  },
+  "hark": {
+    "mint": "EC7n1XAdNnY7SRYasPfDb6RCuqY3Y8Yb2KUCgh2Jpump",
+    "first_seen": "2026-10-06T10:09:34.811457+00:00"
+  },
+  "memecoinm": {
+    "mint": "EjpXNUUJVDbJ7afvSyPngcrvZLdg4BSjQ8oGi3Yqpump",
+    "first_seen": "2026-10-06T10:09:36.242238+00:00"
+  },
+  "esc": {
+    "mint": "2b1e7abhFPLTrkXxWHuNALXXvaDv8jFupimePgwCpump",
+    "first_seen": "2026-10-06T10:09:38.191673+00:00"
+  },
+  "layn": {
+    "mint": "Dh3igieQTd7TukLeWpjSXEvLuPh9Giot2DTfFzfSGCmC",
+    "first_seen": "2026-10-06T10:09:39.054385+00:00"
+  },
+  "catlaw": {
+    "mint": "3jv9W5Ub6Dbs2uTDYLzPe2bboNt1bNKq7MnHmucgpump",
+    "first_seen": "2026-10-06T10:09:41.835628+00:00"
+  },
+  "domainu": {
+    "mint": "5qFoMubSXQcwSb3Xicmeb1fJMbwuDddQvMLPjUWhuLGE",
+    "first_seen": "2026-10-06T10:09:42.600250+00:00"
+  },
+  "winai": {
+    "mint": "EurtZYJvYo1o2T5dEcctuP4z4QAd1poCcSLGtqSUpump",
+    "first_seen": "2026-10-06T10:09:48.051215+00:00"
+  },
+  "ipaid": {
+    "mint": "CNn1zv8GsPAQddUuYn6cm3fUMTWo61XANtUjSry4pump",
+    "first_seen": "2026-10-06T10:09:48.231279+00:00"
+  },
+  "munk": {
+    "mint": "7WfJdu87qq3rgj81anhjRQSuyakMUUSmhfe79KetMmAB",
+    "first_seen": "2026-10-06T10:09:48.666831+00:00"
+  },
+  "mickiey": {
+    "mint": "9F3AJPYY6McEJy5YoHrEQKEbJVKWgCXwkAssEhRquxsH",
+    "first_seen": "2026-10-06T10:09:49.170386+00:00"
+  },
+  "sarp": {
+    "mint": "Ph1ie3e4aMXCEVCjTcTzkyVhTRC7k9kpkq5MKSUpump",
+    "first_seen": "2026-10-06T10:09:53.246198+00:00"
+  },
+  "cortex": {
+    "mint": "92HAXUz5JSDqAjEFA5EMmYh2DkkPFkggos3PqBaGpump",
+    "first_seen": "2026-10-06T10:09:53.513787+00:00"
   }
 }
