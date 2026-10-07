@@ -68674,5 +68674,45 @@
   "ein": {
     "mint": "7bCYG1nd69Yv76m4keyJ4XRfK4gSS56hFXZ9Z3T25Dpo",
     "first_seen": "2026-10-07T13:52:37.716766+00:00"
+  },
+  "corpus": {
+    "mint": "k4kjxKjETKuFXASQS5ZokYRSMdfXUWs1aYwcxm9pump",
+    "first_seen": "2026-10-07T19:43:03.083926+00:00"
+  },
+  "bfly": {
+    "mint": "D7rKwMrhrQGV9we6jYBturjXtGnwp3wZvgyWARiXHJhz",
+    "first_seen": "2026-10-07T19:43:03.516188+00:00"
+  },
+  "weirdcat": {
+    "mint": "DijvFHZxdwoCwEj63nYH9bAcSnwniFBm3onN7wj8pump",
+    "first_seen": "2026-10-07T19:43:03.965662+00:00"
+  },
+  "ascicock": {
+    "mint": "9iwQ11Tg3SGHQfnexecSCUbQZjDN7sXV2G3VnaXrpump",
+    "first_seen": "2026-10-07T19:43:05.492040+00:00"
+  },
+  "monkeyshi": {
+    "mint": "6qTcat73cWWAcwwSRYSB3EPsiXfyDAiepTT8GZ6npump",
+    "first_seen": "2026-10-07T19:43:07.502676+00:00"
+  },
+  "nerion": {
+    "mint": "EmE3B5oJw4pdDbnGUcqmLMASqx3HrBqvrEBeerW6pump",
+    "first_seen": "2026-10-07T19:43:07.940642+00:00"
+  },
+  "sents": {
+    "mint": "BLXhcFAtJpCM3HCbdzvr8F3JwGqdMGkAoLXuRmXLpump",
+    "first_seen": "2026-10-07T19:43:12.409887+00:00"
+  },
+  "tmnp": {
+    "mint": "BR1HcT9RP6ewqLhhYnhpDaa9Uh3Tj8TSKyS9yTiLpump",
+    "first_seen": "2026-10-07T19:43:12.639270+00:00"
+  },
+  "court": {
+    "mint": "CMkrxYT1VZiGXuk8igBKdR4kY4eV8zSoM1RTUHGRpump",
+    "first_seen": "2026-10-07T19:43:13.497579+00:00"
+  },
+  "ton618": {
+    "mint": "CioPfvQWpVF2eTzpBj72x2zPyqgJRgvi36PqdLCCpump",
+    "first_seen": "2026-10-07T19:43:16.252860+00:00"
   }
 }
