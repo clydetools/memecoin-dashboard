@@ -68626,5 +68626,53 @@
   "qtc": {
     "mint": "D5YZW8CqRT9KqmrQruoo61Q8uXCzPSws35bMLeP5QaYq",
     "first_seen": "2026-10-07T06:35:51.338724+00:00"
+  },
+  "synapse": {
+    "mint": "GTgPQhLxnKBYMxprvzWTjTjZDQjtPM3DP8bToBAzpump",
+    "first_seen": "2026-10-07T13:52:17.915137+00:00"
+  },
+  "slopjak": {
+    "mint": "Ch13E9UK5FTjE9GzfLaL9bRpG5Ea9HSMx45C9B8tpump",
+    "first_seen": "2026-10-07T13:52:20.573859+00:00"
+  },
+  "sali": {
+    "mint": "2JtLSGCGyjbcme9xBuwV3KuMkMzpZLz46zRwU86yDpdg",
+    "first_seen": "2026-10-07T13:52:22.561137+00:00"
+  },
+  "switch": {
+    "mint": "HUPXFtbT8HhE2VaDjpVuGcpNs7GxHgKHJ8FgC2cDpump",
+    "first_seen": "2026-10-07T13:52:23.798324+00:00"
+  },
+  "mummoai": {
+    "mint": "MUM9x3oNp1AAhw4bohKZAG6i6E3PGCtwyTqggW6HawQ",
+    "first_seen": "2026-10-07T13:52:24.403529+00:00"
+  },
+  "cutiemals": {
+    "mint": "7PNq1374QTaUcMxNGnggTgGrfWPP6T7EDaYKzrJcpump",
+    "first_seen": "2026-10-07T13:52:27.324507+00:00"
+  },
+  "juniper": {
+    "mint": "4TwXKQoVWZcTscy4t7ukb2LpiFGKbt21pWkfeqqPUBH9",
+    "first_seen": "2026-10-07T13:52:33.277710+00:00"
+  },
+  "sndwitch": {
+    "mint": "J9qzFhTLYnmf3tZYvHBaF96rH3YKToELAAVMzz66pump",
+    "first_seen": "2026-10-07T13:52:33.393299+00:00"
+  },
+  "swordinu": {
+    "mint": "2BVfJ4AHMvHdKtEZNHaBr48dQzTfZvYkjaaxbM6bpump",
+    "first_seen": "2026-10-07T13:52:35.569948+00:00"
+  },
+  "hashers": {
+    "mint": "85WdpEBNDSN9oNkPomBGspnBZsaKb7WF1NQ51pdouxML",
+    "first_seen": "2026-10-07T13:52:36.135359+00:00"
+  },
+  "frogman": {
+    "mint": "9yfiomKJ2fdHiZQ3MK9AJniu8eR2eSjCzfMEo1zXpump",
+    "first_seen": "2026-10-07T13:52:37.520954+00:00"
+  },
+  "ein": {
+    "mint": "7bCYG1nd69Yv76m4keyJ4XRfK4gSS56hFXZ9Z3T25Dpo",
+    "first_seen": "2026-10-07T13:52:37.716766+00:00"
   }
 }
