@@ -68526,5 +68526,57 @@
   "auton": {
     "mint": "39ahtL8ynzE4amH26J29C93PA5172V3ft9UuUcqQS8fz",
     "first_seen": "2026-10-06T21:18:11.117920+00:00"
+  },
+  "tdog": {
+    "mint": "BZbB4JX1bp97PJehEYbss8yiFEk5NdaKkumr45NSpump",
+    "first_seen": "2026-10-07T00:48:34.042140+00:00"
+  },
+  "lobbu": {
+    "mint": "5WKc79CrZhjsTAoGfic2jGfBnhosZTgc4AjyL7q3ocVm",
+    "first_seen": "2026-10-07T00:48:34.638034+00:00"
+  },
+  "candycorn": {
+    "mint": "AH1wtGWeQBnpz2wZ4SkdZ3PWHrBLs9PhYADmV6GNpump",
+    "first_seen": "2026-10-07T00:48:35.084610+00:00"
+  },
+  "ppphat": {
+    "mint": "H1re7yu97nUDsUsQ7mZyNZCbxLc34zTznGXP3ycqpump",
+    "first_seen": "2026-10-07T00:48:35.573972+00:00"
+  },
+  "tehc": {
+    "mint": "6e5mCratVWvNmuWsikPApufgXwSqSWrLZfaHSPUMpump",
+    "first_seen": "2026-10-07T00:48:37.269368+00:00"
+  },
+  "creepclapc": {
+    "mint": "HsjKPF8zUdyUe2bMoWm5qWuZMdTNjfiKQBZrPFwtpump",
+    "first_seen": "2026-10-07T00:48:39.521479+00:00"
+  },
+  "hexa": {
+    "mint": "5fVRpSmrn7LU1cxR6SbAu5Ug2qorTML6MWjnhbpbpump",
+    "first_seen": "2026-10-07T00:48:41.315413+00:00"
+  },
+  "si276": {
+    "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+    "first_seen": "2026-10-07T00:48:46.903823+00:00"
+  },
+  "babybaton": {
+    "mint": "546KkLu9bXk3E32CaGmRixxfvdMRjpPqH8HD8kJYpump",
+    "first_seen": "2026-10-07T00:48:47.021602+00:00"
+  },
+  "xframe": {
+    "mint": "GXFqjtEMZaenpzGvb5FQPwHXoFLRSEzYYe9hKpnnpump",
+    "first_seen": "2026-10-07T00:48:47.131607+00:00"
+  },
+  "spacexai": {
+    "mint": "FJvgCWBBPGfPDPcNHkvoCfE9rBUHVB9QA8bRPJo2pump",
+    "first_seen": "2026-10-07T00:48:48.051950+00:00"
+  },
+  "nyda": {
+    "mint": "njGFm4aWjukijRqVrv7f7RczqBtjarfhc33MsF1pump",
+    "first_seen": "2026-10-07T00:48:48.321492+00:00"
+  },
+  "catcraft": {
+    "mint": "ADPN2aqzY5RhkBC7bNQWFhTFFEYKY4drHUQG887Cpump",
+    "first_seen": "2026-10-07T00:48:50.250011+00:00"
   }
 }
