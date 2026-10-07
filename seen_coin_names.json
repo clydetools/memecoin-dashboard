@@ -68578,5 +68578,53 @@
   "catcraft": {
     "mint": "ADPN2aqzY5RhkBC7bNQWFhTFFEYKY4drHUQG887Cpump",
     "first_seen": "2026-10-07T00:48:50.250011+00:00"
+  },
+  "supersi": {
+    "mint": "41LFaq8Bj3PjpSWnP4nheyYc2Eng4haN3ELzXWkzpump",
+    "first_seen": "2026-10-07T06:35:35.065246+00:00"
+  },
+  "catette": {
+    "mint": "AkFJcZSsNYKsWAQi1rt2qrcZP5d99MnnMyXfjiJupump",
+    "first_seen": "2026-10-07T06:35:35.532721+00:00"
+  },
+  "pspad": {
+    "mint": "F18uYZyxcacn4zPFxBXahiC2EcZov43cVYLtjzTgY29w",
+    "first_seen": "2026-10-07T06:35:36.002617+00:00"
+  },
+  "dicapy": {
+    "mint": "5vyUGJ2R9Zg9FYkmj2ss2CPVmVxDbDzBTvfk9Yotpump",
+    "first_seen": "2026-10-07T06:35:37.287031+00:00"
+  },
+  "drmeme": {
+    "mint": "85an85189BkM9wQGeK2bGGRthwarxFqdhERZLTBBpump",
+    "first_seen": "2026-10-07T06:35:38.231853+00:00"
+  },
+  "rastakirk": {
+    "mint": "GNz9EKmd1RGCFK9BnkLBpBgLnEm5Ha4ZDoJvD8zbpump",
+    "first_seen": "2026-10-07T06:35:39.069804+00:00"
+  },
+  "padre": {
+    "mint": "8mg6RJFvddCGC2yh8oFFY7mXZbeS8g2ToDsriFRkpump",
+    "first_seen": "2026-10-07T06:35:40.371457+00:00"
+  },
+  "ktn": {
+    "mint": "J4dSpuuBGqJYwZ2Rg8pPvSKvqNAYYkjNwduyRcrXpump",
+    "first_seen": "2026-10-07T06:35:40.810990+00:00"
+  },
+  "bagpay": {
+    "mint": "Fdm6b9sjSWjXZfDw4dngNEYuYkPd6aYFXH4xjQeHpump",
+    "first_seen": "2026-10-07T06:35:43.705779+00:00"
+  },
+  "sins": {
+    "mint": "54M6qVo9yLJFosGhUaq3TRgizBKaKH6xGe6YtJzRsins",
+    "first_seen": "2026-10-07T06:35:49.878531+00:00"
+  },
+  "doobly": {
+    "mint": "DMYfRjjTcfB8GTy5SNL6Mqbs5p8Hdd9ks7uSywBfxcXR",
+    "first_seen": "2026-10-07T06:35:50.112172+00:00"
+  },
+  "qtc": {
+    "mint": "D5YZW8CqRT9KqmrQruoo61Q8uXCzPSws35bMLeP5QaYq",
+    "first_seen": "2026-10-07T06:35:51.338724+00:00"
   }
 }
