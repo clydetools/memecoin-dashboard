@@ -68714,5 +68714,61 @@
   "ton618": {
     "mint": "CioPfvQWpVF2eTzpBj72x2zPyqgJRgvi36PqdLCCpump",
     "first_seen": "2026-10-07T19:43:16.252860+00:00"
+  },
+  "mashpad": {
+    "mint": "3LxjbqCfVBf8Z15ESYDV7j8QDyGHZNkMQP82bCh1pump",
+    "first_seen": "2026-10-07T23:52:38.517989+00:00"
+  },
+  "doobie": {
+    "mint": "CD6AUUAj4b11GcVfKGqLwGm3QqoCwV9iapxdjVw1pump",
+    "first_seen": "2026-10-07T23:52:54.968306+00:00"
+  },
+  "johncinu": {
+    "mint": "8Nh86WaVuJYD5iMG2YF8Qy2XyYgFBkTjFyEzGbcxpump",
+    "first_seen": "2026-10-07T23:52:55.884380+00:00"
+  },
+  "ballsackus": {
+    "mint": "Hv6smwPWVugu4TyEDmQLbXySw6iBjEPXGYdhv9Ks4qce",
+    "first_seen": "2026-10-07T23:52:57.037123+00:00"
+  },
+  "marie": {
+    "mint": "H8rMUyKKMcVrVtotwdKhi8dAWiZYaja8dB1QAYA2qM8L",
+    "first_seen": "2026-10-07T23:52:57.497817+00:00"
+  },
+  "srdn": {
+    "mint": "7YrFiy5ZadYFFmMGdZ4GzHnUs7VskCkE6HZC6o88pump",
+    "first_seen": "2026-10-07T23:52:58.844963+00:00"
+  },
+  "kivo": {
+    "mint": "9ppiANoxhGa22k5LDX6WJRGpBn51xVfXUXPqjVMLpump",
+    "first_seen": "2026-10-07T23:52:59.702165+00:00"
+  },
+  "attraction": {
+    "mint": "4x12dexNHNC4cb1kXciKZADrtLMaHqboteDbDyFVpump",
+    "first_seen": "2026-10-07T23:53:00.171246+00:00"
+  },
+  "skwid": {
+    "mint": "A8X6wofE3duDGNsj4kn9hGNgvGfqEDphe3SjfBRLpump",
+    "first_seen": "2026-10-07T23:53:00.630524+00:00"
+  },
+  "rarinu": {
+    "mint": "45VHsie7CwFfPKWCw28PCdZdJWMA5Y6k56wDam9Hpump",
+    "first_seen": "2026-10-07T23:53:04.967255+00:00"
+  },
+  "gitretriever": {
+    "mint": "Yy6iJfD6mYEaqfdicQXbsMkf1Ww4zTPx96HofU4pump",
+    "first_seen": "2026-10-07T23:53:05.063104+00:00"
+  },
+  "jessi": {
+    "mint": "DKUGGUSmvWVfaw37Udn7VP66uC4WQ73t3vyNp4cQsBmZ",
+    "first_seen": "2026-10-07T23:53:05.162643+00:00"
+  },
+  "etac": {
+    "mint": "B6jPwSW8stquA4JNGQnAU8N7ca2AhJp46jhGVqg9pump",
+    "first_seen": "2026-10-07T23:53:06.266095+00:00"
+  },
+  "b22": {
+    "mint": "2hv8pThShABKbSrr2B6AR5jwtrx3rEQgE6KE4n4Cpump",
+    "first_seen": "2026-10-07T23:53:08.393357+00:00"
   }
 }
