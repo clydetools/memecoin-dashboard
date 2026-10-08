@@ -68770,5 +68770,61 @@
   "b22": {
     "mint": "2hv8pThShABKbSrr2B6AR5jwtrx3rEQgE6KE4n4Cpump",
     "first_seen": "2026-10-07T23:53:08.393357+00:00"
+  },
+  "fprofit": {
+    "mint": "6vRDnTPs6EWi5fbbzEn8mMyETao5nuuhuYu1YeRmpump",
+    "first_seen": "2026-10-08T04:22:54.028640+00:00"
+  },
+  "petah": {
+    "mint": "EHxkHpq4RN8PCM61ngCXAtRpVhaA2TMizWQ3h6sCpump",
+    "first_seen": "2026-10-08T04:22:54.418024+00:00"
+  },
+  "clickpad": {
+    "mint": "CTMG2wmXGBV8vdYGw75dPKFLJaRvYpUDyQggu7wHeqXN",
+    "first_seen": "2026-10-08T04:22:54.816856+00:00"
+  },
+  "plcn": {
+    "mint": "BrWeSKrVpbQX9WB8rrAK7zbWM6gdefLEyEvRUca8pump",
+    "first_seen": "2026-10-08T04:22:55.554799+00:00"
+  },
+  "eucoin": {
+    "mint": "DjG4E1Wyz7KL4qDPNegtPa5qwmjjRLtMQv47gzb2pump",
+    "first_seen": "2026-10-08T04:22:55.945418+00:00"
+  },
+  "smkp3fy": {
+    "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "first_seen": "2026-10-08T04:22:56.338604+00:00"
+  },
+  "zona": {
+    "mint": "92TvpfPEjuGbX1W1dF8MwRVEfYf4UCqLmPsTVTA4TcHZ",
+    "first_seen": "2026-10-08T04:22:57.272605+00:00"
+  },
+  "any": {
+    "mint": "4U1xipip62cbSnk51ofaZyKLDxVr4QeGhofoyvUypump",
+    "first_seen": "2026-10-08T04:22:58.688054+00:00"
+  },
+  "noetic": {
+    "mint": "AMqJDyt4gmcg7LqX1FTioKJ73H7Bz6jxHzBzTiXkqzoi",
+    "first_seen": "2026-10-08T04:23:04.061034+00:00"
+  },
+  "sharktank": {
+    "mint": "6qnrcTvanBuTxSZxQ7YdAkxnPALZLTNxawQ5jkvfbuz",
+    "first_seen": "2026-10-08T04:23:04.172157+00:00"
+  },
+  "soltopia": {
+    "mint": "eYDkUVr2UJZdjJF6aoLyNsUbbx9HfdcTJtYcF9SUCDf",
+    "first_seen": "2026-10-08T04:23:04.293231+00:00"
+  },
+  "pqc": {
+    "mint": "93G8XfH58can186s9KC59NokDJJJAfuCTtvhGH5cm8g1",
+    "first_seen": "2026-10-08T04:23:04.402135+00:00"
+  },
+  "bordr": {
+    "mint": "6Mix12LiHrQFojaQEnfPUC65Qkwd6X4Y5Qg93oFbordr",
+    "first_seen": "2026-10-08T04:23:05.592847+00:00"
+  },
+  "anyps5": {
+    "mint": "CWKbSd7jwMXXexP3pbwLAWMzr4HXAXTvt4R9pk2Vyyyc",
+    "first_seen": "2026-10-08T04:23:06.429784+00:00"
   }
 }
