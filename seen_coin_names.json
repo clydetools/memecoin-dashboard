@@ -68942,5 +68942,33 @@
   "4206066": {
     "mint": "Ca5VuKu5NyyFkixnewTnokmzXpmNuG8Mk5odwHJypRNq",
     "first_seen": "2026-10-08T17:59:46.906046+00:00"
+  },
+  "narr": {
+    "mint": "4A9LZeRv6x71PiJryzRkQHX5RebCnPadQUeb5b9Hpump",
+    "first_seen": "2026-10-08T23:11:16.198572+00:00"
+  },
+  "binu": {
+    "mint": "27QjKqQZN7k3rrHnHbL5JFWU63fEspSQRYcRtcaTpump",
+    "first_seen": "2026-10-08T23:11:18.541404+00:00"
+  },
+  "cdnc": {
+    "mint": "GdUdHpX491BAwQjDCkXMuo1MekqzgAfddf8mcrwTpump",
+    "first_seen": "2026-10-08T23:11:19.093959+00:00"
+  },
+  "tetstststs": {
+    "mint": "6nHuutj1YbhkVv3fruxALL66aCNo8dep1A4oWw2fEhQi",
+    "first_seen": "2026-10-08T23:11:19.509322+00:00"
+  },
+  "minibaton": {
+    "mint": "F4aY8X7qXpMGf64FFYiMJWJMv8HuSLMv6bgNw7fepump",
+    "first_seen": "2026-10-08T23:11:25.172159+00:00"
+  },
+  "ecstacraft": {
+    "mint": "5MS2zt6GU3KU4r8qn2gZc8W2yKdtPkLVxFDRe8WJpump",
+    "first_seen": "2026-10-08T23:11:25.895464+00:00"
+  },
+  "degent": {
+    "mint": "F5VPPwhd2ouNhMjEjsMiShS3xTLyqqouaa1au5CHpump",
+    "first_seen": "2026-10-08T23:11:26.958141+00:00"
   }
 }
