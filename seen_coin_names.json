@@ -68874,5 +68874,73 @@
   "icoin": {
     "mint": "6x36m5J2VxRPpWBV3MEZq15oe5Tq8ahR7qSCdA7pump",
     "first_seen": "2026-10-08T11:32:10.059734+00:00"
+  },
+  "vrrr": {
+    "mint": "Dmg9xkx3aZ2PLQV4RffLRxfpmq4fXBUnM32hmzLGpump",
+    "first_seen": "2026-10-08T17:59:22.009957+00:00"
+  },
+  "ebinrary": {
+    "mint": "2Kx9c11wQuBBwkypZyLrP5YnCVd3XJTx2Ci5SbC9pump",
+    "first_seen": "2026-10-08T17:59:22.575473+00:00"
+  },
+  "keccakf": {
+    "mint": "XMzferRiTobwvh7zgwqeKD7QKFVC5QaHiSJP71opump",
+    "first_seen": "2026-10-08T17:59:23.199424+00:00"
+  },
+  "aionui": {
+    "mint": "EazTmgYFdnFM8XwuEPUwGjtWnm7m9oMra4SPqUSdWXcx",
+    "first_seen": "2026-10-08T17:59:28.014934+00:00"
+  },
+  "wojakween": {
+    "mint": "AfFJeKumwwRgG5NXoHsbLm4FXLVCZHmC64UYA9xRLA8k",
+    "first_seen": "2026-10-08T17:59:28.554032+00:00"
+  },
+  "sleeve": {
+    "mint": "6Kr17ykqAMRadPEPGxzThurGK4ecVm6oXYVM76vho4DZ",
+    "first_seen": "2026-10-08T17:59:29.094329+00:00"
+  },
+  "pmx": {
+    "mint": "9wGMXuvxgJjeA329mCEwXTQeEucD1SgkKdgcusuVpump",
+    "first_seen": "2026-10-08T17:59:32.947899+00:00"
+  },
+  "aion": {
+    "mint": "3zFuUWA4RofojFt174MDBLK6zQKG82Z1AjzXHEnJpump",
+    "first_seen": "2026-10-08T17:59:33.430788+00:00"
+  },
+  "fomc": {
+    "mint": "Di91FwEpAAeRSvkKayzLsyJN9nQFaqzEudx6ttaMpump",
+    "first_seen": "2026-10-08T17:59:34.791593+00:00"
+  },
+  "goldenage": {
+    "mint": "4Dbp6X3kXMjM3AMouKzfzJ1HXQC4pMoBMBG2bRQbpump",
+    "first_seen": "2026-10-08T17:59:35.276139+00:00"
+  },
+  "quantlana": {
+    "mint": "3PuAbsx8Zumou8iPELCysz38c7VemSiYFJ8GPdFMpump",
+    "first_seen": "2026-10-08T17:59:37.648792+00:00"
+  },
+  "noai": {
+    "mint": "A79inq4m2MyeFpYcsWZtQutwkaSHtaeSkRVwo3nvpump",
+    "first_seen": "2026-10-08T17:59:39.437521+00:00"
+  },
+  "kairune": {
+    "mint": "77f4UsFu3LdJY5v3vKtNgkeqvvKCmZE5jqzR1BFqSN3C",
+    "first_seen": "2026-10-08T17:59:39.888494+00:00"
+  },
+  "valkyrie": {
+    "mint": "FVNccdHg5oqnkAz7vjiVMjv7YX1vDftojw6NAS3Npump",
+    "first_seen": "2026-10-08T17:59:44.398037+00:00"
+  },
+  "agant": {
+    "mint": "8kATukgkNEEcHyoNJ4s8JsNCgQkUuTxjPxdiAxsfVL8N",
+    "first_seen": "2026-10-08T17:59:45.319052+00:00"
+  },
+  "tik": {
+    "mint": "7EorPzrfnWKgrvkwAzRa8Y3XiWtBhBjEa2C8WzUrPjrP",
+    "first_seen": "2026-10-08T17:59:45.456464+00:00"
+  },
+  "4206066": {
+    "mint": "Ca5VuKu5NyyFkixnewTnokmzXpmNuG8Mk5odwHJypRNq",
+    "first_seen": "2026-10-08T17:59:46.906046+00:00"
   }
 }
