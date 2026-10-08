@@ -68826,5 +68826,53 @@
   "anyps5": {
     "mint": "CWKbSd7jwMXXexP3pbwLAWMzr4HXAXTvt4R9pk2Vyyyc",
     "first_seen": "2026-10-08T04:23:06.429784+00:00"
+  },
+  "onmuse": {
+    "mint": "DP93vYsRap7SiWRVj7dQqUmxLuQMhRN9rLhyzeRtmuse",
+    "first_seen": "2026-10-08T11:31:59.140526+00:00"
+  },
+  "neobug": {
+    "mint": "EXNTq6u2PNWoT1ZM8ykYZoj1YVWACvVJCVLwAuBnpump",
+    "first_seen": "2026-10-08T11:31:59.656990+00:00"
+  },
+  "carl20": {
+    "mint": "9dyS2cTND4RhSBtnPLEMVNpXtQwnUf7SUDcdkjpHpump",
+    "first_seen": "2026-10-08T11:32:00.192346+00:00"
+  },
+  "jukebox": {
+    "mint": "BTRfGCjw4xcEbY9TpmXax5U3sfmE1ko55h5j5j4Dpump",
+    "first_seen": "2026-10-08T11:32:01.610065+00:00"
+  },
+  "aloncraft": {
+    "mint": "FzeWHwLyKYi37F3U5n4Mme36QjpUrhggVyGgPkcqpump",
+    "first_seen": "2026-10-08T11:32:06.642856+00:00"
+  },
+  "tremor": {
+    "mint": "D4KgBoXQ3HQnQx3niSQiLt8NZXANVtUpVmYcZwutNSU2",
+    "first_seen": "2026-10-08T11:32:06.703478+00:00"
+  },
+  "atfs": {
+    "mint": "EBRPntb1SwyuDyFixfGJ7FbVL42m2hkpfDvcZGdw2bN",
+    "first_seen": "2026-10-08T11:32:07.250390+00:00"
+  },
+  "kgurl": {
+    "mint": "2DsFdV293nhZsttmvFUnHSJWtJaqiKcysHN3EhqdKHnM",
+    "first_seen": "2026-10-08T11:32:07.554192+00:00"
+  },
+  "gunner": {
+    "mint": "7thxAzq4B9KwPe4NqMNAntF2Njgqb9FTKQb4z6fYpump",
+    "first_seen": "2026-10-08T11:32:08.102435+00:00"
+  },
+  "zkdark": {
+    "mint": "HXqxTwCzREUXNK4CbNDgNEUEh2jLzFKdC4tvTuojpump",
+    "first_seen": "2026-10-08T11:32:09.311752+00:00"
+  },
+  "tincan": {
+    "mint": "4QTZ4dR2SmHdP48KAxpqa6edUDc1N4NwZoFnyZHnvnbw",
+    "first_seen": "2026-10-08T11:32:09.766834+00:00"
+  },
+  "icoin": {
+    "mint": "6x36m5J2VxRPpWBV3MEZq15oe5Tq8ahR7qSCdA7pump",
+    "first_seen": "2026-10-08T11:32:10.059734+00:00"
   }
 }
