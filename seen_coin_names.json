@@ -69094,5 +69094,93 @@
   "condom": {
     "mint": "BfFyJjCQikVMeG335GEHPrkYXvyv25EQhM7kUVnVWEzb",
     "first_seen": "2026-10-09T17:02:15.984158+00:00"
+  },
+  "erwin": {
+    "mint": "CyPo6aikkoVVfkoYgyDg1CgiQdhA7YkZb4mEaLgTgrru",
+    "first_seen": "2026-10-09T21:38:19.469197+00:00"
+  },
+  "sieve": {
+    "mint": "EysB6K6b9sWA5qe2QGaxT2gwZTtWSpRSJm4CH5oZG3Rx",
+    "first_seen": "2026-10-09T21:38:20.316969+00:00"
+  },
+  "quanta": {
+    "mint": "QgMpuGWgv5PiiEAWL4j9NnhT96ubxefuNKPoEvHeYxn",
+    "first_seen": "2026-10-09T21:38:21.489782+00:00"
+  },
+  "qacc": {
+    "mint": "CTcqMZyazMbg6ykbBj4vpnyHDLnHGLTMVDe8Ljt3pump",
+    "first_seen": "2026-10-09T21:38:21.928665+00:00"
+  },
+  "mayfly": {
+    "mint": "DvtegmjgEqgQceH7XTadb2JvGhXd5nXbjVnf5Z9Tpump",
+    "first_seen": "2026-10-09T21:38:22.352818+00:00"
+  },
+  "swapx": {
+    "mint": "57zGRzVH5FzNhF6td3fQoAV8DpFzY5qgJ4LKCYDmpump",
+    "first_seen": "2026-10-09T21:38:23.147576+00:00"
+  },
+  "callcops": {
+    "mint": "7CZALaSWAesA975mpKiwrYi5BnJjnCBRiiUAeDxQpump",
+    "first_seen": "2026-10-09T21:38:23.569075+00:00"
+  },
+  "ordipump": {
+    "mint": "EgxzjeUzcFxm7LBVhyi22gsyA1bvoTwWDg3qB1Ehpump",
+    "first_seen": "2026-10-09T21:38:23.995968+00:00"
+  },
+  "gmgn": {
+    "mint": "CzjKDbAhhkC6pcimVuLWjqCJS152wx5s2MBBG4kHpump",
+    "first_seen": "2026-10-09T21:38:24.417944+00:00"
+  },
+  "tollroom": {
+    "mint": "2LmfACC76FJHu67osheUqfYvRHVd7gPPPkDFG1hCawdw",
+    "first_seen": "2026-10-09T21:38:25.217974+00:00"
+  },
+  "circuit": {
+    "mint": "2A1mVBEEnBUYnLbFKsc4h4AMZ7AXdnGmMvEksA6a4hoz",
+    "first_seen": "2026-10-09T21:38:25.739250+00:00"
+  },
+  "quantelon": {
+    "mint": "7qdmHiC5bovdaPXTQmmTvM4mv3W5LaRPhw7v9XS8pump",
+    "first_seen": "2026-10-09T21:38:26.626967+00:00"
+  },
+  "venturex": {
+    "mint": "ArPFDptn1Nqf9xwrA6CDcH8icMNENBmLfAHtgDNusGBM",
+    "first_seen": "2026-10-09T21:38:27.039384+00:00"
+  },
+  "simmy": {
+    "mint": "BGbMfUU6R7ATpQKgd6Ntq8VHf4WPUH4dZYZiU7zFpump",
+    "first_seen": "2026-10-09T21:38:27.443492+00:00"
+  },
+  "boduh": {
+    "mint": "9nez8z7r9sYvnEujsFGZqDH22D5PL6EWR74a8gZPiejJ",
+    "first_seen": "2026-10-09T21:38:28.397603+00:00"
+  },
+  "hireling": {
+    "mint": "EUZiRFwy4UQL6YwZiZDpCkbv4gd9HnsokNyf5Z2srgm2",
+    "first_seen": "2026-10-09T21:38:28.818369+00:00"
+  },
+  "qubit": {
+    "mint": "Erzr7fWqwerp7o9zBhocgRYjsJVxxdHpqYMKgwcsFZ3M",
+    "first_seen": "2026-10-09T21:38:33.954803+00:00"
+  },
+  "tp": {
+    "mint": "BctFsB2NaoKZcqXxhFFvDAJ4vdgxuunsg1g5m8CSEQDN",
+    "first_seen": "2026-10-09T21:38:34.072317+00:00"
+  },
+  "fomobet": {
+    "mint": "3Qg5MX1PyUUJfdKudbaMLVUhcFnRhkHBzUsiZAAypump",
+    "first_seen": "2026-10-09T21:38:34.183041+00:00"
+  },
+  "rea": {
+    "mint": "8uZieiVy2AanCpYkfxR1quKSbzPKuMUaNYwQ61mrT3iu",
+    "first_seen": "2026-10-09T21:38:34.285741+00:00"
+  },
+  "sub01": {
+    "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+    "first_seen": "2026-10-09T21:38:34.367321+00:00"
+  },
+  "grokai": {
+    "mint": "exdoc1DiPtwggJkYDMsbYV5umY69fz7Rqj8JUAdpump",
+    "first_seen": "2026-10-09T21:38:35.383710+00:00"
   }
 }
