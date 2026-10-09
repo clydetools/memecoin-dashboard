@@ -68970,5 +68970,41 @@
   "degent": {
     "mint": "F5VPPwhd2ouNhMjEjsMiShS3xTLyqqouaa1au5CHpump",
     "first_seen": "2026-10-08T23:11:26.958141+00:00"
+  },
+  "ikone": {
+    "mint": "9bBnLWroot9TsFfHbSq6waJhuxvxYH4wdSn8UaW2pump",
+    "first_seen": "2026-10-09T02:58:14.784196+00:00"
+  },
+  "solarstorm": {
+    "mint": "FfyzEfpFQGqtw941YJN6FhwsWYcvEeHHbFmLMWfBpump",
+    "first_seen": "2026-10-09T02:58:15.267875+00:00"
+  },
+  "agent3": {
+    "mint": "GNZnFqotZPnJZTWZSfd6eNLkxST5maqWzzpkggwxPKh5",
+    "first_seen": "2026-10-09T02:58:16.256724+00:00"
+  },
+  "scream": {
+    "mint": "BDtAFtmDDfVtp4seeo9SVH7ZAGPRa16S5xUPgHUupump",
+    "first_seen": "2026-10-09T02:58:16.753268+00:00"
+  },
+  "frenchcat": {
+    "mint": "FyhHvWsS8tCAj7cDEYM3c64oAfNMCEuCkYGnvncfpump",
+    "first_seen": "2026-10-09T02:58:17.371740+00:00"
+  },
+  "ags": {
+    "mint": "GGGtVWFUS5jrG5M36GUyX9ZfzoMywdrirrdh8Gxzpump",
+    "first_seen": "2026-10-09T02:58:24.578672+00:00"
+  },
+  "owlnight": {
+    "mint": "CmCHvr99aXrLDQB7jAtFtsBwg3DnXqq4spcTEMt7pump",
+    "first_seen": "2026-10-09T02:58:25.265017+00:00"
+  },
+  "bnkr": {
+    "mint": "DJmoFVptuL9nLikzcuTCCSdNgUSXUmL2MfKUyshkBAGS",
+    "first_seen": "2026-10-09T02:58:25.699676+00:00"
+  },
+  "bombers": {
+    "mint": "CZiwA6eLUthZFLvTVEWG9v1K9Pc7p3eiBKRba2G7pump",
+    "first_seen": "2026-10-09T02:58:27.649749+00:00"
   }
 }
