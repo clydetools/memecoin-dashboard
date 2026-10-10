@@ -69326,5 +69326,37 @@
   "jef": {
     "mint": "88jUcA4vvbiyXxhhnk6RHyxuGaHhR7NQnfVwd6hBpump",
     "first_seen": "2026-10-10T13:48:36.815582+00:00"
+  },
+  "catinu": {
+    "mint": "AzdW5GCYJeKbfke2PWN3ePCWeWqCWJTsvUqj8LKqpump",
+    "first_seen": "2026-10-10T18:04:44.039876+00:00"
+  },
+  "vortix": {
+    "mint": "Bz8Y1QEAzSWtVqoo2B6zQrnnh8wagc6cDgidpkDTxkq7",
+    "first_seen": "2026-10-10T18:04:45.788406+00:00"
+  },
+  "ryze": {
+    "mint": "6mBuaJJPau5QNDJgHJrnPvY3JomotgKo2m4H7mrEpump",
+    "first_seen": "2026-10-10T18:04:47.031343+00:00"
+  },
+  "uhu": {
+    "mint": "3s1eqprT2BnUQy73ZBWRM77WSCtduVHxHMA2ewiFpump",
+    "first_seen": "2026-10-10T18:04:48.792549+00:00"
+  },
+  "altai": {
+    "mint": "Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump",
+    "first_seen": "2026-10-10T18:04:53.922204+00:00"
+  },
+  "paper100": {
+    "mint": "4f6ccKhPL3YKyA3MRLmgebQ7328JWCvLtLZ3319Npump",
+    "first_seen": "2026-10-10T18:04:53.987232+00:00"
+  },
+  "qcash": {
+    "mint": "8CwhPVxf5V9aHeFxbP6Ehgq3HaFLk3y9jwcWYmPF611T",
+    "first_seen": "2026-10-10T18:04:54.133049+00:00"
+  },
+  "xns": {
+    "mint": "ETVzMhc6m8WiRdi2MRvmj7k6vCVfYUNceJ29FbHjpump",
+    "first_seen": "2026-10-10T18:04:57.318201+00:00"
   }
 }
