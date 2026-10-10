@@ -69294,5 +69294,37 @@
   "lumpy": {
     "mint": "5otm2akyW919z97g1B4iTFBr2EJrQHPu6JjkLxKZpump",
     "first_seen": "2026-10-10T07:14:37.516325+00:00"
+  },
+  "diffrit": {
+    "mint": "E1mfsBPzoQ6CBhmqdfnRWVYeDAaRKqfnSjMnGESeweDu",
+    "first_seen": "2026-10-10T13:48:26.217943+00:00"
+  },
+  "macaque": {
+    "mint": "8VNy7QQk1zqhsrtShtqSoEfrfFV8ah7AnKdFZHvopump",
+    "first_seen": "2026-10-10T13:48:27.590742+00:00"
+  },
+  "trippump": {
+    "mint": "H1MW2KYCxjGyt9oUsnvdwPtgE8WvqyGkpMAk82aXpump",
+    "first_seen": "2026-10-10T13:48:28.464020+00:00"
+  },
+  "quantagent": {
+    "mint": "CA9wThkHLTMr6mnAS5yToGRdyszQdBLTswW5YYMSpump",
+    "first_seen": "2026-10-10T13:48:29.697890+00:00"
+  },
+  "patryczek": {
+    "mint": "62wTxEoELnDFTSyRSvBQzz2HhLgFrhMTUH7Wvvw8pump",
+    "first_seen": "2026-10-10T13:48:34.067630+00:00"
+  },
+  "factory": {
+    "mint": "9yeKFMxma5Wsf27V1abXr5yaM5yV8KakGTnPBYsbTec",
+    "first_seen": "2026-10-10T13:48:34.253729+00:00"
+  },
+  "qa": {
+    "mint": "Dw8d8BSMQBzFSbcVwvDkR8NhwGJM55yudtQucpcqpump",
+    "first_seen": "2026-10-10T13:48:34.784051+00:00"
+  },
+  "jef": {
+    "mint": "88jUcA4vvbiyXxhhnk6RHyxuGaHhR7NQnfVwd6hBpump",
+    "first_seen": "2026-10-10T13:48:36.815582+00:00"
   }
 }
