@@ -69182,5 +69182,73 @@
   "grokai": {
     "mint": "exdoc1DiPtwggJkYDMsbYV5umY69fz7Rqj8JUAdpump",
     "first_seen": "2026-10-09T21:38:35.383710+00:00"
+  },
+  "nami": {
+    "mint": "BWvgTUE87p5jLRqDDqdow9EBWs2YZMkqTacpETWjpump",
+    "first_seen": "2026-10-10T01:14:50.912663+00:00"
+  },
+  "sib": {
+    "mint": "FWSSceUu7TQmL8pVkWxazMy4jz4ongRpMLi3dk5cpump",
+    "first_seen": "2026-10-10T01:14:52.250961+00:00"
+  },
+  "boopchan": {
+    "mint": "4MXXvdsWN9vueH8xZs8q8b8zWeeUtBximdaQhqxgaaQq",
+    "first_seen": "2026-10-10T01:14:53.363984+00:00"
+  },
+  "cinemouse": {
+    "mint": "BBZwfcAcnZrh6gytTCDpKWUUd9RLsJujLiuc4XMZpump",
+    "first_seen": "2026-10-10T01:14:54.242247+00:00"
+  },
+  "triplej": {
+    "mint": "DtHyUNk4uTdD8T5RmayyiNSBPdcndw7tndhJhXtqpump",
+    "first_seen": "2026-10-10T01:14:54.888455+00:00"
+  },
+  "esib": {
+    "mint": "5M7DvBVxi85tR4YwGpiYotbTyzJda7o1k8C6cdWqpump",
+    "first_seen": "2026-10-10T01:14:56.151328+00:00"
+  },
+  "ai01": {
+    "mint": "ymrDpkhq7M38QcMo4YNbpfoXczDP9u5V7d1Am88pump",
+    "first_seen": "2026-10-10T01:14:56.769287+00:00"
+  },
+  "ozqueen": {
+    "mint": "ByK8ACpaiDdvhfLWv4eVktumJhzNk6kXTG5UtFppump",
+    "first_seen": "2026-10-10T01:14:57.976150+00:00"
+  },
+  "papi": {
+    "mint": "5XKUXKYbKa54wBoMjKWEqYkrYo8ZbuWPcX1TkuGVpapi",
+    "first_seen": "2026-10-10T01:15:00.925374+00:00"
+  },
+  "solomon": {
+    "mint": "8BesRE7N2uEwtjMYe98GEtBPFuzi9CNtnBMzzvvvpump",
+    "first_seen": "2026-10-10T01:15:02.109769+00:00"
+  },
+  "crawlpad": {
+    "mint": "qKXWqrcZSvce3DrD1BEZ9dPJ8iCtiaXe5uNJUb1pump",
+    "first_seen": "2026-10-10T01:15:02.688915+00:00"
+  },
+  "4xnp": {
+    "mint": "6GPoTFQqT4r7Q5CECs8aArn3Lso4Q2EhPkWKHTVfpump",
+    "first_seen": "2026-10-10T01:15:04.486823+00:00"
+  },
+  "blkphil": {
+    "mint": "nKyq7NiWz2FCiaUH4yHLZCgWEygmYKD8ed15goMpump",
+    "first_seen": "2026-10-10T01:15:05.583963+00:00"
+  },
+  "all22": {
+    "mint": "D96brLPj4GqjZfaqjBRXEVUWTCCpmzLu51asPC1dpump",
+    "first_seen": "2026-10-10T01:15:11.338773+00:00"
+  },
+  "qc": {
+    "mint": "4WHKbStzBeR1xxrorr9gBD2wcWV3BCHFnNq6noS6pWqX",
+    "first_seen": "2026-10-10T01:15:12.827209+00:00"
+  },
+  "tardigrade": {
+    "mint": "FQTs7tHw8vM9tUCU6PuRB3r6VK835cvMWZBJBHiBXKoq",
+    "first_seen": "2026-10-10T01:15:13.080335+00:00"
+  },
+  "qompute": {
+    "mint": "BQAeeSowpwEx8Km8GcporcbuLKq4a7EQceH3F2qZpump",
+    "first_seen": "2026-10-10T01:15:13.525195+00:00"
   }
 }
