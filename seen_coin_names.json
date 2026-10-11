@@ -69398,5 +69398,45 @@
   "crew": {
     "mint": "BgTuXJ8hrMQdvnJhrixNR2bCRGf1TnhXcpseth7Cpump",
     "first_seen": "2026-10-10T21:36:34.422614+00:00"
+  },
+  "liquid8": {
+    "mint": "8J7ZXjjGeKpcAipcW4gFsfSUoPaEjRz55mt9kUUgT6TC",
+    "first_seen": "2026-10-11T00:27:15.132258+00:00"
+  },
+  "eloncat": {
+    "mint": "FzMZsyz6ESFYHobTrtAa3zQaQfkbbFj6KvQsZPhWpump",
+    "first_seen": "2026-10-11T00:27:16.296093+00:00"
+  },
+  "fuwa": {
+    "mint": "MWVv4ahMFAhfAeJqtC5rdtGhHMuVBMLS2r3KjKTpump",
+    "first_seen": "2026-10-11T00:27:16.832014+00:00"
+  },
+  "robet": {
+    "mint": "98iHsUiZXsnrYPsgdKcN18v2joQLuxobNHPn8jhyWJ5w",
+    "first_seen": "2026-10-11T00:27:18.520547+00:00"
+  },
+  "durrrr": {
+    "mint": "CWxvsddufncAU14cWSdbGpDbLWGBU1n9MdpUcVqSpump",
+    "first_seen": "2026-10-11T00:27:19.517683+00:00"
+  },
+  "pez": {
+    "mint": "A5QfmdbMyuoibnG1theJQXizwUSRPZjczZoXhZqxpump",
+    "first_seen": "2026-10-11T00:27:20.972968+00:00"
+  },
+  "pubes": {
+    "mint": "7afu1squwZMNdpPC8i381wSZjGDLRVFqVdoLdE6H4rBY",
+    "first_seen": "2026-10-11T00:27:21.536271+00:00"
+  },
+  "stimulus": {
+    "mint": "77h3n2RcFjLEz4zkkdF3DN16u5Vhy93n3dFww7RRpump",
+    "first_seen": "2026-10-11T00:27:29.534597+00:00"
+  },
+  "wwwcat": {
+    "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
+    "first_seen": "2026-10-11T00:27:29.819051+00:00"
+  },
+  "zpad": {
+    "mint": "BwtE1tmQZXXj4s2nzzQUhkTrDXgcGaf6i6NUqU4EAem1",
+    "first_seen": "2026-10-11T00:27:30.483502+00:00"
   }
 }
