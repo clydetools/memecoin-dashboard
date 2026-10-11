@@ -69502,5 +69502,41 @@
   "slopcore": {
     "mint": "EkFRff9a2jKztJHML1LG9FRmEkPJDR6XAYp3uCPdpump",
     "first_seen": "2026-10-11T13:00:35.168705+00:00"
+  },
+  "opsec": {
+    "mint": "H6P7YYfGbGoXiDhRh2ykUJqBCTPSTkwjAWP6yyRVpump",
+    "first_seen": "2026-10-11T17:59:58.563243+00:00"
+  },
+  "elonflo": {
+    "mint": "DmYWhvmaH7J9gcRtdMZED8Vo9MKSmM8YBCK27q2opump",
+    "first_seen": "2026-10-11T18:00:00.999639+00:00"
+  },
+  "lilbro": {
+    "mint": "3YsV7UH84a9ji8FN23P46dY9weWKgZsrGvewTcHypump",
+    "first_seen": "2026-10-11T18:00:01.551218+00:00"
+  },
+  "ecosystem": {
+    "mint": "2T8zqPixtkPhdvN6f2MoxaeLHmxDgpq76nKSuJLx8pp9",
+    "first_seen": "2026-10-11T18:00:02.738908+00:00"
+  },
+  "claudinu": {
+    "mint": "Ee6ej5dbhnDue1qCagRsT76W6MKgtLxfc3ETtCD8pump",
+    "first_seen": "2026-10-11T18:00:03.285187+00:00"
+  },
+  "oats": {
+    "mint": "J1ft8ahTJ6mFXdUZp8jcreUzc5ZQhrcaAhwa68qVpump",
+    "first_seen": "2026-10-11T18:00:14.229215+00:00"
+  },
+  "bybit": {
+    "mint": "4UwopAf6ggsjJx1RxXcTm8kM53eRUEBXebDWPgVqDvmv",
+    "first_seen": "2026-10-11T18:00:18.921425+00:00"
+  },
+  "wrdog": {
+    "mint": "FaSdqyEzv7yGSLrwP2pYocNNYsZS48R48caUgDqtpump",
+    "first_seen": "2026-10-11T18:00:19.042643+00:00"
+  },
+  "az16r": {
+    "mint": "5ZX848pT4tMf7CUty7Mt84ChtYpUNYEv1J68DhbJpump",
+    "first_seen": "2026-10-11T18:00:20.178072+00:00"
   }
 }
