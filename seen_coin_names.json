@@ -69558,5 +69558,37 @@
   "dogeus": {
     "mint": "CnvQ6v525Mx4FSNNYwXVaiH2wboEMVdjxPhUjkpqpump",
     "first_seen": "2026-10-11T21:46:52.268311+00:00"
+  },
+  "coincourt": {
+    "mint": "5zdr1yyA5XSX1fT1aNkRtSdLAgjTGXnC7yj6P9f1pump",
+    "first_seen": "2026-10-12T00:45:47.652147+00:00"
+  },
+  "willsmith": {
+    "mint": "5ToR5zLDXfy9PJg7WurQwnibaxNwDFTzjpvi3kN7pump",
+    "first_seen": "2026-10-12T00:45:48.210922+00:00"
+  },
+  "bitcoinu": {
+    "mint": "72eGrBjoVphFkU8phjWTXCA9FdCS3nNL85UhUS7epump",
+    "first_seen": "2026-10-12T00:45:48.761093+00:00"
+  },
+  "rasha": {
+    "mint": "7FTcWYazmKPk9w4vuKuKJ9eQsivywp6CUqHxjnyyaDCw",
+    "first_seen": "2026-10-12T00:45:49.313239+00:00"
+  },
+  "dogepay": {
+    "mint": "EH8UxWnpMukpq48NF1hGV6hBGdo9EKGq1YzcXaUPpump",
+    "first_seen": "2026-10-12T00:45:54.260025+00:00"
+  },
+  "reggie": {
+    "mint": "BUNFfTT85Kw3dx4rz5iGZSMB6c3kzumBuyRpsB89n5kw",
+    "first_seen": "2026-10-12T00:45:54.375301+00:00"
+  },
+  "asterpad": {
+    "mint": "6mZn7kAWHpVosxc63jjFiRcSakeW7R8h5CCh4mwzwLpg",
+    "first_seen": "2026-10-12T00:45:54.518692+00:00"
+  },
+  "claud": {
+    "mint": "7qb9SHKCD6rFEso3xHWjARbrLgxg6MZF6wZZMAGqpump",
+    "first_seen": "2026-10-12T00:45:58.211915+00:00"
   }
 }
