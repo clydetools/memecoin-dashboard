@@ -69618,5 +69618,85 @@
   "apelink": {
     "mint": "2ikMciSZ1nK1X9E8X7U5trw3Tc9jW1Ud7FjrhAxPpump",
     "first_seen": "2026-10-12T06:37:31.810148+00:00"
+  },
+  "gayle": {
+    "mint": "ERh6JJLibTMoBCkT1ogZcghKvf3sKMdDwzsHV7EikSCi",
+    "first_seen": "2026-10-12T16:04:50.048719+00:00"
+  },
+  "yilong": {
+    "mint": "a6RT4vuZLZHhkP1PZiYEmLV6jM6RGRYsF9Sx8MVFNKJ",
+    "first_seen": "2026-10-12T16:04:51.056397+00:00"
+  },
+  "zkcbdc": {
+    "mint": "F7YW61GuTyku2h1KMWXYjuSFTX9afJhg1AmDqKc7vh6r",
+    "first_seen": "2026-10-12T16:04:51.578714+00:00"
+  },
+  "visorv": {
+    "mint": "4e6u1A91b37zhuRC5E8YaEtB6KPiWz7y8ysj1BHQhNpB",
+    "first_seen": "2026-10-12T16:04:52.031250+00:00"
+  },
+  "bwcoin": {
+    "mint": "BVq8zhx98Em2bgEYqZiWYYftZaaApdxn8BPJStg1pump",
+    "first_seen": "2026-10-12T16:04:52.972232+00:00"
+  },
+  "losercore": {
+    "mint": "C5UdBtsdwEGhXZvndXvC2H1Dxi9E2i5c3xCsk8Eepump",
+    "first_seen": "2026-10-12T16:04:53.463563+00:00"
+  },
+  "gigameme": {
+    "mint": "GaK83yJNwxxi3JdDGfpSCzR57AVHqQjzznmuV1J4pump",
+    "first_seen": "2026-10-12T16:04:59.212924+00:00"
+  },
+  "dragonball": {
+    "mint": "ACHmnWk39veZzJXV1AfRzB47U5a2BuU9xGoSQFwdnLPb",
+    "first_seen": "2026-10-12T16:04:59.679333+00:00"
+  },
+  "ripleoxiv": {
+    "mint": "Hv2XnL53gqfudKWTSzdWqFGTme6dQFAZSj3xq9smpump",
+    "first_seen": "2026-10-12T16:05:00.431437+00:00"
+  },
+  "killswitch": {
+    "mint": "6FcMTatTHYByJctVX2WiZqirhiWXK7N4XfRse4MGpump",
+    "first_seen": "2026-10-12T16:05:00.905127+00:00"
+  },
+  "mtm": {
+    "mint": "9VxXTkRJt6inH7uLaKaNuJaVgV5HaQHEL6UAtGFHpump",
+    "first_seen": "2026-10-12T16:05:07.461735+00:00"
+  },
+  "dustdrake": {
+    "mint": "EyymaptC3AzT2UeNkeWbJog6YM9mXe9oiRh7sEikpKvs",
+    "first_seen": "2026-10-12T16:05:07.881105+00:00"
+  },
+  "blackbox": {
+    "mint": "41WkM3LiGw79MVq5iPsEWDvMi75W4ohLGArqS4g6pump",
+    "first_seen": "2026-10-12T16:05:15.179600+00:00"
+  },
+  "hire": {
+    "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+    "first_seen": "2026-10-12T16:05:15.263575+00:00"
+  },
+  "vyzhivu": {
+    "mint": "BWagzxuW1efrpxjjCwCZz4CKDnu4VJdZ4E9cnxWApump",
+    "first_seen": "2026-10-12T16:05:15.336185+00:00"
+  },
+  "milk": {
+    "mint": "AiiRXni8XCfqfyPoqYa7VvujNAPhwC7zEdzgtmR5caBj",
+    "first_seen": "2026-10-12T16:05:15.686431+00:00"
+  },
+  "exfil": {
+    "mint": "6FhVPctYg363pQbs4iSvqyHe2cJzfsvFD96gePy6pump",
+    "first_seen": "2026-10-12T16:05:17.078073+00:00"
+  },
+  "unsp": {
+    "mint": "9YeD374N9m9txYMyWoAkzjjRpAeRvSqi9pfAPUm3pump",
+    "first_seen": "2026-10-12T16:05:17.527206+00:00"
+  },
+  "overdrive": {
+    "mint": "HT1hPomeMjNM81XebDHLgiBr3upQCHSgWLmeoyU7pump",
+    "first_seen": "2026-10-12T16:05:18.195447+00:00"
+  },
+  "launcher": {
+    "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+    "first_seen": "2026-10-12T16:05:20.248672+00:00"
   }
 }
