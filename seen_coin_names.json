@@ -69698,5 +69698,65 @@
   "launcher": {
     "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
     "first_seen": "2026-10-12T16:05:20.248672+00:00"
+  },
+  "walterjr": {
+    "mint": "6EBN58X8ioFXtF6FLW5ne4dBUoWWQCw4Kjx4Pbwfpump",
+    "first_seen": "2026-10-12T22:55:00.556214+00:00"
+  },
+  "20xx": {
+    "mint": "DmD6QnjXyGx13pNP4PrmvusR9MezTBWGYBBZzrTipump",
+    "first_seen": "2026-10-12T22:55:02.635902+00:00"
+  },
+  "columbusday": {
+    "mint": "EewthLBCSH55ousJ6Bf7fL8zeP45hwfJK9KqsbPFpump",
+    "first_seen": "2026-10-12T22:55:03.044363+00:00"
+  },
+  "loricoin": {
+    "mint": "71feGN1aNXmg2V456uyiD3qAoPrVy9T64DqE4F7fpump",
+    "first_seen": "2026-10-12T22:55:04.604348+00:00"
+  },
+  "qin": {
+    "mint": "9HKsJP6X9hnj7XgwEscHhYmTCB5swY3KVFsaVu54pump",
+    "first_seen": "2026-10-12T22:55:05.021097+00:00"
+  },
+  "typshit": {
+    "mint": "Gb4eNMqtYwC5QLmHcLR5KogHzWynmS5uAZA3e6pHpump",
+    "first_seen": "2026-10-12T22:55:06.523079+00:00"
+  },
+  "gunsmxkee": {
+    "mint": "BTG3eJDfwYRC6YbTDECkS4KFYi3VPk3YHEJThGThM9kh",
+    "first_seen": "2026-10-12T22:55:06.962173+00:00"
+  },
+  "gwh": {
+    "mint": "G3mX8DS2uvxcpoJ8mygAGUAnWQ7Q3nLA6kBGcM3X8HcR",
+    "first_seen": "2026-10-12T22:55:08.101623+00:00"
+  },
+  "hw2": {
+    "mint": "2PQSJp2yRZy4VZh6aE1eTNtEWMdy5gk5UqNCqwYtgWAR",
+    "first_seen": "2026-10-12T22:55:08.538473+00:00"
+  },
+  "lilansem": {
+    "mint": "HQgMPJbGctpP9P27DdJW5f8rncz7gvg4vEL3hT7hpump",
+    "first_seen": "2026-10-12T22:55:13.016084+00:00"
+  },
+  "cnleaks": {
+    "mint": "BW4oQngRVLWSwfA76Xhm28boPE3rbqomTGMV34Bnpump",
+    "first_seen": "2026-10-12T22:55:13.100929+00:00"
+  },
+  "gumster": {
+    "mint": "96tRVFybAvgu9eSNJaeBv7RWFTqMX3LPjtRZeSbGpump",
+    "first_seen": "2026-10-12T22:55:13.209551+00:00"
+  },
+  "nubi": {
+    "mint": "Ba1VNfbD6Zg8ko78GicLqGFHjsMu9vhXBkGPi3Kipump",
+    "first_seen": "2026-10-12T22:55:13.368603+00:00"
+  },
+  "marsx": {
+    "mint": "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump",
+    "first_seen": "2026-10-12T22:55:14.656029+00:00"
+  },
+  "load": {
+    "mint": "8sWe4GzK1YqG3vyzKHf8ZyB1WB5asofw2o6TqgFePtPo",
+    "first_seen": "2026-10-12T22:55:16.188502+00:00"
   }
 }
