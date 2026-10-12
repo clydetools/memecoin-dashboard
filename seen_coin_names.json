@@ -69590,5 +69590,33 @@
   "claud": {
     "mint": "7qb9SHKCD6rFEso3xHWjARbrLgxg6MZF6wZZMAGqpump",
     "first_seen": "2026-10-12T00:45:58.211915+00:00"
+  },
+  "fakecap": {
+    "mint": "5KBaYiW6bVVpmG1h8e3yKqZsD2vEJinkASQyV3cQHV79",
+    "first_seen": "2026-10-12T06:37:18.897922+00:00"
+  },
+  "custom1": {
+    "mint": "2qzx1PnQmFvBBRFfpfHUaHBUjZSfv1zsmwt8Xg8XhmWo",
+    "first_seen": "2026-10-12T06:37:20.619469+00:00"
+  },
+  "stampede": {
+    "mint": "2BsA5nsvD7V1mRyV45qf17MieeKWEQXaaakM5xybpump",
+    "first_seen": "2026-10-12T06:37:21.745048+00:00"
+  },
+  "ghostinu": {
+    "mint": "GgxAY8nMCa7ULK6nrUJBk7Tcy47xYmHczm7jY8cg46VZ",
+    "first_seen": "2026-10-12T06:37:22.320420+00:00"
+  },
+  "solamians": {
+    "mint": "39RVLFkmxqPJqV4bj1LLNJnCuqJhR9Q3vo9knFE8Rsgp",
+    "first_seen": "2026-10-12T06:37:27.018741+00:00"
+  },
+  "pondr": {
+    "mint": "8Ut2CxWJuNY7f9GxXPUPzaoDgYZCpDi9m2TzcvxHCZ8G",
+    "first_seen": "2026-10-12T06:37:27.769649+00:00"
+  },
+  "apelink": {
+    "mint": "2ikMciSZ1nK1X9E8X7U5trw3Tc9jW1Ud7FjrhAxPpump",
+    "first_seen": "2026-10-12T06:37:31.810148+00:00"
   }
 }
