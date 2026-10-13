@@ -69862,5 +69862,25 @@
   "yilongma": {
     "mint": "GU5NkUVLzmJQxJKuho5dG4d1owChpcSQnhARrjYQpump",
     "first_seen": "2026-10-13T17:49:57.753556+00:00"
+  },
+  "canchat": {
+    "mint": "C8KG9je7HvLtjrZbmz65FQuPHMXYbbVPuiqY6fJkpump",
+    "first_seen": "2026-10-13T21:59:55.598752+00:00"
+  },
+  "tib": {
+    "mint": "5FRMM2drTQanv5jehtPbyV9PTLBJXVCTUdFTzkPRpump",
+    "first_seen": "2026-10-13T22:00:00.619701+00:00"
+  },
+  "mikan": {
+    "mint": "NZH9eS7oH7Fc7Ub3ssDPUiGqsRqhXU5eU8bVVMiSuaw",
+    "first_seen": "2026-10-13T22:00:01.189779+00:00"
+  },
+  "prayge": {
+    "mint": "H8J2QFCzGNXvcJBHbzBZShnQbUU1gt4cSZz5dmNzUrX3",
+    "first_seen": "2026-10-13T22:00:01.327367+00:00"
+  },
+  "loulou": {
+    "mint": "2N8c4pXu6T2oBxE8ZDBYb3QgwMkyTe673HiBaYSNpump",
+    "first_seen": "2026-10-13T22:00:03.385393+00:00"
   }
 }
