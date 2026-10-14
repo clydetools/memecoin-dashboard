@@ -69882,5 +69882,53 @@
   "loulou": {
     "mint": "2N8c4pXu6T2oBxE8ZDBYb3QgwMkyTe673HiBaYSNpump",
     "first_seen": "2026-10-13T22:00:03.385393+00:00"
+  },
+  "56216512": {
+    "mint": "2ELfaw41rKLHB7ueKvuWvkSsfFEnUSXDSLjwgWK8pump",
+    "first_seen": "2026-10-14T01:04:35.402134+00:00"
+  },
+  "roadster": {
+    "mint": "9j6DKYi1mwcKM5HNKtDfjiRPypepJSyfqHkZpcdNuwM4",
+    "first_seen": "2026-10-14T01:04:36.189013+00:00"
+  },
+  "fukurbday": {
+    "mint": "4EVbHbrf1Cz1P6wcdRKn4ZeMqKbepxjsEMR7rGcSpump",
+    "first_seen": "2026-10-14T01:04:37.219999+00:00"
+  },
+  "acorn": {
+    "mint": "3rRwkBe51Cqa5iBwKR2WWkPXdWkxExWgk6azhYFRfomo",
+    "first_seen": "2026-10-14T01:04:38.252149+00:00"
+  },
+  "staple": {
+    "mint": "EdZgXmtxQAwvHzRfK69afXGNdugtTh1uwhTfxdCDpump",
+    "first_seen": "2026-10-14T01:04:39.684718+00:00"
+  },
+  "fpad": {
+    "mint": "8L9bgqk34bsM1QVWQPuxHbvFAorg25wCjgGKh2cQpump",
+    "first_seen": "2026-10-14T01:04:44.820206+00:00"
+  },
+  "kinetic": {
+    "mint": "8CULCRbe3y3jDbn9okyTP3ecr8a6zvcZcY516a2EhiFY",
+    "first_seen": "2026-10-14T01:04:44.880803+00:00"
+  },
+  "merge": {
+    "mint": "AGq9Y4TnfkSiP1JTE6ndfAz7nAqTY9NC3qaPuW9Ppump",
+    "first_seen": "2026-10-14T01:04:44.934821+00:00"
+  },
+  "fwoyd": {
+    "mint": "GjMrz9j5Bt5Va1tsqfi71XpcqKAbhFoyPxw9CAzZpump",
+    "first_seen": "2026-10-14T01:04:45.000526+00:00"
+  },
+  "txgym": {
+    "mint": "5kLbPgDrzWJygVEVe1KRkoPsBNNi4yBiosAMguapgzw2",
+    "first_seen": "2026-10-14T01:04:45.056454+00:00"
+  },
+  "arcades": {
+    "mint": "jq4yKhqGNzWCQhgQYB89CDEYQYjLHGcvDy9WNJHpump",
+    "first_seen": "2026-10-14T01:04:46.169845+00:00"
+  },
+  "tiglets": {
+    "mint": "m6hTYkvWo95FqtXjY6ZBEGKvxEAr4gLqfZA8KGupump",
+    "first_seen": "2026-10-14T01:04:46.683732+00:00"
   }
 }
