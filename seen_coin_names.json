@@ -69930,5 +69930,49 @@
   "tiglets": {
     "mint": "m6hTYkvWo95FqtXjY6ZBEGKvxEAr4gLqfZA8KGupump",
     "first_seen": "2026-10-14T01:04:46.683732+00:00"
+  },
+  "purrguin": {
+    "mint": "Q3p1Tysecaq7QvhoBXfrksJJzRva5bHv8Ezmw9Spump",
+    "first_seen": "2026-10-14T06:05:32.588060+00:00"
+  },
+  "catguin": {
+    "mint": "4wfdCuwWrLLbfi5MaEacDNk1frfVYr3hVxHyjgEVpump",
+    "first_seen": "2026-10-14T06:05:33.218335+00:00"
+  },
+  "popdoge": {
+    "mint": "7w15Vjaz4ahmbLxnrJjFkijVaiuwYLEgqhDWwb4Bpump",
+    "first_seen": "2026-10-14T06:05:34.805003+00:00"
+  },
+  "untxed": {
+    "mint": "A4Ppe8FtJC8YetpnJTXmURbZpFKhbjnYv4QtXtp9pump",
+    "first_seen": "2026-10-14T06:05:39.935986+00:00"
+  },
+  "rot": {
+    "mint": "Dh3mhYiUvSAhPCyXhBFE5aZ2Hv5udSuchgkGRKc9KzJC",
+    "first_seen": "2026-10-14T06:05:40.118441+00:00"
+  },
+  "hpotter": {
+    "mint": "B34wdH5XzxMUE9Ujie8xaFzEBmdVCE3yjUtAT2qT97C9",
+    "first_seen": "2026-10-14T06:05:40.220307+00:00"
+  },
+  "elonman": {
+    "mint": "2V7x2qFstreTEYB8G9ByhxgTxoP9fBYJ2sJ8Xeg8PMDm",
+    "first_seen": "2026-10-14T06:05:41.318108+00:00"
+  },
+  "sclaus": {
+    "mint": "47EHtT5pcnUefXRqyRFGS2ZzSc4yLqNW4Kb4yQE7pump",
+    "first_seen": "2026-10-14T06:05:41.598030+00:00"
+  },
+  "wagents": {
+    "mint": "B52xVCxWPKXSQ2KJM5JX6L8Z1bifTYLBEP2hwXNpwAGT",
+    "first_seen": "2026-10-14T06:05:43.494092+00:00"
+  },
+  "santaro": {
+    "mint": "F5FtUS4SVy2o36RvowgEKe3FJnFN5HRPM4u6Egvspump",
+    "first_seen": "2026-10-14T06:05:43.961208+00:00"
+  },
+  "catnip": {
+    "mint": "HKJa4Y8actmpGvHpgL6DBWjsUjVt8r6bmvPaV33fpump",
+    "first_seen": "2026-10-14T06:05:45.289995+00:00"
   }
 }
