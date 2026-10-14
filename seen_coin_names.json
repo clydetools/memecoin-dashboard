@@ -70086,5 +70086,49 @@
   "metricxyz": {
     "mint": "DZ82NUYMHbUk5W62sW9CeE2bGCET6vnwruVxtQrnKBht",
     "first_seen": "2026-10-14T20:06:53.702838+00:00"
+  },
+  "career": {
+    "mint": "FbEgetxRBMVbwNFuWkASPAcMCWcLsE63LgKJuDuNpump",
+    "first_seen": "2026-10-14T23:10:33.182218+00:00"
+  },
+  "dobu": {
+    "mint": "F5zkCJXJXWF7M3QoEoSWdPVFfykWHc1GgW2vG5Ecpump",
+    "first_seen": "2026-10-14T23:10:33.753907+00:00"
+  },
+  "claudio": {
+    "mint": "7oi8AkMx8cVr7mnxccrg9YeizyavhMG2QfCHh42Jpump",
+    "first_seen": "2026-10-14T23:10:34.346964+00:00"
+  },
+  "testnet": {
+    "mint": "8PWR5qkGjqVaUTmR4jPp9YU641sK3q3RqNLefTbNpump",
+    "first_seen": "2026-10-14T23:10:36.654168+00:00"
+  },
+  "cijo": {
+    "mint": "EnMo6JHVFQ9DjV8vLckoTLPUNmPExAKpn7jt665qpump",
+    "first_seen": "2026-10-14T23:10:37.188322+00:00"
+  },
+  "waduck": {
+    "mint": "AEhTfEwvbNbZ2sZYQowATmKVo1veMHeRVqLP5hmbpump",
+    "first_seen": "2026-10-14T23:10:37.699726+00:00"
+  },
+  "picnic": {
+    "mint": "7cZi8reRW1yUBqMJnNzTRtNcdq8cv1WvGG1VyUEXpump",
+    "first_seen": "2026-10-14T23:10:38.787787+00:00"
+  },
+  "catto": {
+    "mint": "Dta65Yjziwy2C7f324QUvo4LYjcVp411dubT1pGXpump",
+    "first_seen": "2026-10-14T23:10:44.101177+00:00"
+  },
+  "cyberaxe": {
+    "mint": "2Srf6mhufzWJKZ5nniVXgwamLmDJWXPQBmddJ1MMpump",
+    "first_seen": "2026-10-14T23:10:44.661882+00:00"
+  },
+  "swolf": {
+    "mint": "HwJyyniKKDRLXxjRSzyLtpvxzqecqrhrbcSbKRm7STNK",
+    "first_seen": "2026-10-14T23:10:45.473197+00:00"
+  },
+  "veiltrump": {
+    "mint": "7fumw7GYTHZJJxkKJ8sSh1CqTdHmB234vX3xsKjepump",
+    "first_seen": "2026-10-14T23:10:47.012062+00:00"
   }
 }
