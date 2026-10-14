@@ -70022,5 +70022,37 @@
   "dogs": {
     "mint": "9614XnPNjALWRbSbGFYsCiExGBwEzmgxFiYTcJ9apump",
     "first_seen": "2026-10-14T11:44:59.035024+00:00"
+  },
+  "giri": {
+    "mint": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+    "first_seen": "2026-10-14T15:59:29.891755+00:00"
+  },
+  "freepass": {
+    "mint": "neZVLdmjbwq7UoWbTUVrGACYhSC9fqD7sAEaJEDpump",
+    "first_seen": "2026-10-14T15:59:30.563534+00:00"
+  },
+  "skyv": {
+    "mint": "3MywKRUDpVtqfVckWFF9iXhvHnJj92sWJsEYGHxE1qu7",
+    "first_seen": "2026-10-14T15:59:33.754515+00:00"
+  },
+  "tgg": {
+    "mint": "GWTUWHNspreVHSHMeLhXbgCgQAoouZnPXMXfMCXpump",
+    "first_seen": "2026-10-14T15:59:34.154346+00:00"
+  },
+  "uday": {
+    "mint": "DtBASfYVTjEuRXiK9PbCZ8DAGStazzgVnsuWmcKM3ba9",
+    "first_seen": "2026-10-14T15:59:37.357703+00:00"
+  },
+  "replies": {
+    "mint": "HehbgR8C8JL36rm6wNNJT7HcRAjJFG1eGrScZ2uGqVpH",
+    "first_seen": "2026-10-14T15:59:46.177415+00:00"
+  },
+  "elon2028": {
+    "mint": "2MRcEq6CVtW2LU5QYjmWXDYL3qEsdxB27NzjdVYoYNGa",
+    "first_seen": "2026-10-14T15:59:46.379603+00:00"
+  },
+  "saindra": {
+    "mint": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T",
+    "first_seen": "2026-10-14T15:59:46.582733+00:00"
   }
 }
