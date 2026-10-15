@@ -70218,5 +70218,57 @@
   "gemini4": {
     "mint": "3Bik7Hthytqmpcawz6VufGhEvmFzWbZrPNXcrGJxpump",
     "first_seen": "2026-10-15T11:40:21.388176+00:00"
+  },
+  "roboto": {
+    "mint": "9RQc4nWHsTnrXEEMtj8gUr6JYiPYFrtbvaMB5ktApump",
+    "first_seen": "2026-10-15T15:44:09.169205+00:00"
+  },
+  "bawsaq": {
+    "mint": "EAiYYHinMQDJM8RgtzyJ2rPX2ox4uWhX86tLkifvpump",
+    "first_seen": "2026-10-15T15:44:11.066689+00:00"
+  },
+  "bbby": {
+    "mint": "JEFo9AwZJAuLdru1QBhiaf8BT5dB2D7VwnEkZ7vmpump",
+    "first_seen": "2026-10-15T15:44:13.150668+00:00"
+  },
+  "cestrel": {
+    "mint": "DaboFKpH5UH6utRi6rV3XTfB6AceEXFbajociE29pump",
+    "first_seen": "2026-10-15T15:44:13.716668+00:00"
+  },
+  "ske": {
+    "mint": "Crar9v9Q9ddxTDyzUnKQpfB2ghayAJuDfLqgmFMMpump",
+    "first_seen": "2026-10-15T15:44:14.282121+00:00"
+  },
+  "l1": {
+    "mint": "AFQq27RSb87aP8mhWUDSkxq9GdcEjrVpMP3v8L39pump",
+    "first_seen": "2026-10-15T15:44:15.798152+00:00"
+  },
+  "mortys": {
+    "mint": "9p23ihrPoav1ys8G92UvtspVarjMMxeDjdSgfg9Cpump",
+    "first_seen": "2026-10-15T15:44:18.505400+00:00"
+  },
+  "asdfgg": {
+    "mint": "Gnjyy5eZoAnuuwoKhbn3B4U5vUCMjNqR6mgWWYqNpump",
+    "first_seen": "2026-10-15T15:44:19.144575+00:00"
+  },
+  "dacitycoin": {
+    "mint": "BprnWAuH89aLeKbTYnq5Uvk178saudJQzQaPVF1kCsNm",
+    "first_seen": "2026-10-15T15:44:27.439305+00:00"
+  },
+  "oppy": {
+    "mint": "9aezF8Nz8LZ3sjDG6bKh4zW8F21V8fLi67D8e2Ujpump",
+    "first_seen": "2026-10-15T15:44:27.524877+00:00"
+  },
+  "facebook": {
+    "mint": "AyESPFKZaifC2CvUZBNgGvE23587w9kYheadUCmupump",
+    "first_seen": "2026-10-15T15:44:28.581050+00:00"
+  },
+  "xstok": {
+    "mint": "5XLgbrbnEtAhH1vcgfcv9MJw7sGSrCvFFGJeo8ykstok",
+    "first_seen": "2026-10-15T15:44:29.120844+00:00"
+  },
+  "kobit": {
+    "mint": "5RsjB8FGyxw3m8ePGcbdH6qBC83439YYLenaCrwGpump",
+    "first_seen": "2026-10-15T15:44:29.458447+00:00"
   }
 }
