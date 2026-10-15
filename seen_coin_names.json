@@ -70270,5 +70270,37 @@
   "kobit": {
     "mint": "5RsjB8FGyxw3m8ePGcbdH6qBC83439YYLenaCrwGpump",
     "first_seen": "2026-10-15T15:44:29.458447+00:00"
+  },
+  "1win": {
+    "mint": "E4pQqKLiq5wzBD6KVQNNGaucpgAXN59iswkcwcwjpump",
+    "first_seen": "2026-10-15T19:27:56.048091+00:00"
+  },
+  "devvvs": {
+    "mint": "E8rzkJGMtVv6xxyZfaWJNEuvUWnvRkKwAYeVVv9apump",
+    "first_seen": "2026-10-15T19:27:56.620884+00:00"
+  },
+  "moab": {
+    "mint": "7X8bCDmvaHaoxU4qbmtn8p5xbyPcprWDcHEK1GJWMo3o",
+    "first_seen": "2026-10-15T19:27:58.874419+00:00"
+  },
+  "grift": {
+    "mint": "3TGyPytWxWtM49RGc7CFZrd3t6XcMHGAXcsEBPB9pump",
+    "first_seen": "2026-10-15T19:27:59.451899+00:00"
+  },
+  "shoot": {
+    "mint": "2etBdzozVcdP8GKKXsepNmoBjkmxP3vUMPhgWmnrpump",
+    "first_seen": "2026-10-15T19:28:00.009931+00:00"
+  },
+  "payblue": {
+    "mint": "8WCRZdMeRu9MxuqEwbq7ywmmegwGep2hrMU9hs8spump",
+    "first_seen": "2026-10-15T19:28:00.623292+00:00"
+  },
+  "tiktokus": {
+    "mint": "C6ec47KrRyYUJBJAMNH1UnZyETdZB8UmukzN9nVDpump",
+    "first_seen": "2026-10-15T19:28:07.688436+00:00"
+  },
+  "magicsi": {
+    "mint": "BixDb1FNqWPhLKpH47rJcSetQtA7JAGX2qEdNrt5JQpe",
+    "first_seen": "2026-10-15T19:28:08.375768+00:00"
   }
 }
