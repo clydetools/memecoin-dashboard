@@ -70186,5 +70186,37 @@
   "qpf": {
     "mint": "JCsfUhtjjHpfMuRTDk2VXTStGU2z1Uz17aWHjkPdpump",
     "first_seen": "2026-10-15T06:16:39.855619+00:00"
+  },
+  "massive": {
+    "mint": "8JNRijj9XuMLSMMEZ1Ufffd9wq5GB5yGCY4JAwj1pump",
+    "first_seen": "2026-10-15T11:40:12.961268+00:00"
+  },
+  "sheets": {
+    "mint": "9MWKYQUL7tweYc9vPWLLvUKWgQMXep63LdYuoJnpSasU",
+    "first_seen": "2026-10-15T11:40:15.051391+00:00"
+  },
+  "zelensky": {
+    "mint": "GZgFFKLkKYgAffuvnjqMjjvMDMkMBmdosbAgGWUvpump",
+    "first_seen": "2026-10-15T11:40:16.067823+00:00"
+  },
+  "iowan": {
+    "mint": "FktxZg9iMeucqDv9Upn1UbU8vX9edg8z4QgCZcfkgyXE",
+    "first_seen": "2026-10-15T11:40:16.639091+00:00"
+  },
+  "dopewif": {
+    "mint": "9tupsGt13fU6LaxZG3fs8q81kkpmbeaAt5hxkycB5kq4",
+    "first_seen": "2026-10-15T11:40:21.067539+00:00"
+  },
+  "hellcat": {
+    "mint": "BwfhQdmN6ChQSvMagZTMtL15JCL9skyEpm1ukB57pump",
+    "first_seen": "2026-10-15T11:40:21.221238+00:00"
+  },
+  "groklet": {
+    "mint": "4qH8A5GxvRMZgpRFjXASc6U9HAoEzKeUqxY2dPB7pump",
+    "first_seen": "2026-10-15T11:40:21.319114+00:00"
+  },
+  "gemini4": {
+    "mint": "3Bik7Hthytqmpcawz6VufGhEvmFzWbZrPNXcrGJxpump",
+    "first_seen": "2026-10-15T11:40:21.388176+00:00"
   }
 }
