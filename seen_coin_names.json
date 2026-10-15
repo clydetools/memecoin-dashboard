@@ -70130,5 +70130,33 @@
   "veiltrump": {
     "mint": "7fumw7GYTHZJJxkKJ8sSh1CqTdHmB234vX3xsKjepump",
     "first_seen": "2026-10-14T23:10:47.012062+00:00"
+  },
+  "ri": {
+    "mint": "9ANt2uH5JjUxvx2JQyeYMj9jnmcE54BVUZLqmcgupump",
+    "first_seen": "2026-10-15T01:28:01.218341+00:00"
+  },
+  "strikr": {
+    "mint": "FPgaoCmW13pr92FsGC3B9adY3NndcBMP8qmFY4eipump",
+    "first_seen": "2026-10-15T01:28:03.109190+00:00"
+  },
+  "hatchan": {
+    "mint": "C68ChSzrjN58i8rNxsruq6ikHEGm4GswPUoVaXVBuLa4",
+    "first_seen": "2026-10-15T01:28:03.695147+00:00"
+  },
+  "wtfff": {
+    "mint": "5qg9o9Cppyf1Rye1qqeL1JRXUpNDhaej2TdwnGPe5fff",
+    "first_seen": "2026-10-15T01:28:04.302096+00:00"
+  },
+  "blocksy": {
+    "mint": "4EgSDocMeAbK5eQsh6waPybpECoKa1DacxaXoeeTpump",
+    "first_seen": "2026-10-15T01:28:06.229350+00:00"
+  },
+  "akita": {
+    "mint": "7wH58eniAoRibVdjzYZKUvKFgCVrUSHnMVrUkHrapump",
+    "first_seen": "2026-10-15T01:28:06.799856+00:00"
+  },
+  "byd": {
+    "mint": "FQdmRt8VBkYXTXNsXnoJwAsJkuzaJKMupdc91jjLpump",
+    "first_seen": "2026-10-15T01:28:09.566558+00:00"
   }
 }
