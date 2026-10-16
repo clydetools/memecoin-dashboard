@@ -70326,5 +70326,37 @@
   "xmarket": {
     "mint": "8QB2YFkUY5VWF8Ti6nnG6b8RNqswmo3QPJi64cxBpump",
     "first_seen": "2026-10-15T22:36:09.725668+00:00"
+  },
+  "candleman": {
+    "mint": "E8DJoqHDDDXJR5w24aMRVdW4t3efMHumWMEP7WsPpump",
+    "first_seen": "2026-10-16T00:43:32.346898+00:00"
+  },
+  "ngu": {
+    "mint": "7q53oKD3pXDXUmkrxXBF7hKfaEvnHuwAnbSQJnwRpump",
+    "first_seen": "2026-10-16T00:43:34.595536+00:00"
+  },
+  "trumily1": {
+    "mint": "2a94b9PcLQWEEjsnHXbeZwQciydD5rUGaE6i6DPbpump",
+    "first_seen": "2026-10-16T00:43:36.828352+00:00"
+  },
+  "jellycat": {
+    "mint": "7oPYUubPXEyxhbGPhR6XfYFNnAX3Z9MMZZEVuNUipump",
+    "first_seen": "2026-10-16T00:43:37.285473+00:00"
+  },
+  "nullcash": {
+    "mint": "NDzFKn3GTbTE4jRaBhqFZy6r5ribZ5nAnNapS22Lj7Y",
+    "first_seen": "2026-10-16T00:43:42.253055+00:00"
+  },
+  "batonman": {
+    "mint": "ppEf2S1eANF1RNm7qty5tw6JWsKF8JPWeeBJKD4xXkz",
+    "first_seen": "2026-10-16T00:43:42.353592+00:00"
+  },
+  "fomoween": {
+    "mint": "9yDK2JjjwtUoNLXe7oYexU2BXkBmmuJEoF9awFNbpump",
+    "first_seen": "2026-10-16T00:43:43.420623+00:00"
+  },
+  "riotgames": {
+    "mint": "DBE4QDeXxojTSdbAYoTtpSnmuUzagZDFppkb2dK9pump",
+    "first_seen": "2026-10-16T00:43:43.693201+00:00"
   }
 }
