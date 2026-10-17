@@ -70714,5 +70714,41 @@
   "zerofee": {
     "mint": "ErvkxE8gc7EwmaQfvoGfVfcDJbVG4EcHQr3yweTkpump",
     "first_seen": "2026-10-17T18:54:18.235587+00:00"
+  },
+  "ripr": {
+    "mint": "32kw8XeKQrELFeYR3KCitQ1LP77p8Ze6PDQUs518MiTR",
+    "first_seen": "2026-10-17T21:13:43.710561+00:00"
+  },
+  "marblefade": {
+    "mint": "5fn6YWJi86W5tVTXw8gt7127aAygWR8kAATwaf28TKJ7",
+    "first_seen": "2026-10-17T21:13:45.835244+00:00"
+  },
+  "ncage": {
+    "mint": "2N1hFyyDya41Gunx74nNr6LL9prhXRpBGgY6YBR8pump",
+    "first_seen": "2026-10-17T21:13:46.433456+00:00"
+  },
+  "boxdrop": {
+    "mint": "DSo3ozuciZDhpVvPNq7JRPrWkVD7EoX547y4yRpQpump",
+    "first_seen": "2026-10-17T21:13:50.999118+00:00"
+  },
+  "covert": {
+    "mint": "GBWMWCao73t8vcSx2BtJgUGJuSqZCjbSudtSdnJdwzLm",
+    "first_seen": "2026-10-17T21:13:51.796015+00:00"
+  },
+  "rebond": {
+    "mint": "97433E5VFPn1Jn3BW1AMATMzFJKGEKSoC5FGmp3hWGf",
+    "first_seen": "2026-10-17T21:13:51.997385+00:00"
+  },
+  "iape": {
+    "mint": "B1qHZtAdAA6CcUdpoxMctmNPedp9ixJRMgxVJp2gpump",
+    "first_seen": "2026-10-17T21:13:53.131169+00:00"
+  },
+  "blocus": {
+    "mint": "9kXG537MZvtTBUieRvrye9KG93FbA25QAk7zf5oYpump",
+    "first_seen": "2026-10-17T21:13:53.333461+00:00"
+  },
+  "mhdg": {
+    "mint": "2fk5eGwAch1wGhsK3XhRUZpopXFGyRbFUn6XL4Yxpump",
+    "first_seen": "2026-10-17T21:13:54.816854+00:00"
   }
 }
