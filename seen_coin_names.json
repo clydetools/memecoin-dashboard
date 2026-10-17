@@ -70602,5 +70602,41 @@
   "gemma": {
     "mint": "6V4fCMPdhi1w6fMhncyUuKFDrAXZVRjghZkW7LWapump",
     "first_seen": "2026-10-17T10:36:38.031820+00:00"
+  },
+  "shanese": {
+    "mint": "DtxoEM7rp5wpQJDDdo47iLM9QMDYQ66v4vqMcoipump",
+    "first_seen": "2026-10-17T13:55:09.933295+00:00"
+  },
+  "qgram": {
+    "mint": "Bun1JETgZ5DX85fyzuA8S6DhKVWL5Tw6iwnRmoK9pump",
+    "first_seen": "2026-10-17T13:55:11.323361+00:00"
+  },
+  "gloriana": {
+    "mint": "8pqbTqhuyied4jxf4F3KLb7THJ9bJhZskohWKZDRpump",
+    "first_seen": "2026-10-17T13:55:11.895144+00:00"
+  },
+  "utubeshort": {
+    "mint": "3zdVkpqybtPmxdKhqrXsEttzuFBu9CsJ8fSTG4Bipump",
+    "first_seen": "2026-10-17T13:55:12.469285+00:00"
+  },
+  "claufone": {
+    "mint": "CKYE8Ab95cYgTi5KS4z38bjRqhSALKNt1ECrf8iapump",
+    "first_seen": "2026-10-17T13:55:13.051834+00:00"
+  },
+  "ghostmodetool": {
+    "mint": "7Aymh3tEfquN8F9N8ZNcjbBcP76VndijfBgFRkKcpump",
+    "first_seen": "2026-10-17T13:55:14.037064+00:00"
+  },
+  "nov2026": {
+    "mint": "26ZLBa2g3i3Z3ADbF555D7wwA7JPfCxhwn2b6tNfpump",
+    "first_seen": "2026-10-17T13:55:15.142547+00:00"
+  },
+  "pingus": {
+    "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
+    "first_seen": "2026-10-17T13:55:19.720673+00:00"
+  },
+  "kavantissa": {
+    "mint": "EHW4qqKtKotgTk8WHMiH8X18ofGtJEiqE12PRA874aqz",
+    "first_seen": "2026-10-17T13:55:20.656843+00:00"
   }
 }
