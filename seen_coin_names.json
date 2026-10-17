@@ -70638,5 +70638,49 @@
   "kavantissa": {
     "mint": "EHW4qqKtKotgTk8WHMiH8X18ofGtJEiqE12PRA874aqz",
     "first_seen": "2026-10-17T13:55:20.656843+00:00"
+  },
+  "moli": {
+    "mint": "AZgaaULzYV3Fg4sDbKHJ6bBEwVgZsysRNxpX72Bzpump",
+    "first_seen": "2026-10-17T16:49:58.237369+00:00"
+  },
+  "cellshade": {
+    "mint": "FxC7b9tXJNueYmMutJQE9CqCXWHu5q7XT6DQtVrZ81kv",
+    "first_seen": "2026-10-17T16:49:58.672656+00:00"
+  },
+  "carboard": {
+    "mint": "4gGd9DDiLf7jiW7g5ktESQXV9rjwwwpdbUMMFTzPpump",
+    "first_seen": "2026-10-17T16:49:59.917581+00:00"
+  },
+  "muska": {
+    "mint": "xR92vXLuNbeiJnRcosnVBoBX8EXkkuMa7ERSGjbLucH",
+    "first_seen": "2026-10-17T16:50:00.306844+00:00"
+  },
+  "ira": {
+    "mint": "4s4fzWzQh4KRv7Ht839d31Jjkohuj4Ko8SBMBtUDpump",
+    "first_seen": "2026-10-17T16:50:01.975279+00:00"
+  },
+  "beecat": {
+    "mint": "61fJH4kKijLGxrzFyPh9YdTGXg8rtsTR8L9JbwEDpump",
+    "first_seen": "2026-10-17T16:50:03.097505+00:00"
+  },
+  "hulked": {
+    "mint": "RMbMtsy3Kqm6dqEoiV19dRVY8ckS9gNUcWW9LVtpump",
+    "first_seen": "2026-10-17T16:50:09.084083+00:00"
+  },
+  "firekitten": {
+    "mint": "2ij5dVYmvp4KdUzeF6dzknC9tSYDeQjZRsbxWAsppump",
+    "first_seen": "2026-10-17T16:50:09.175462+00:00"
+  },
+  "gilet": {
+    "mint": "47XG6JTVkUYEimsAQMBSkyBAxN8xkpFhmDsqTR77xu56",
+    "first_seen": "2026-10-17T16:50:09.688658+00:00"
+  },
+  "prodigy": {
+    "mint": "4dZPJtxkSaucwgQzSYgpP5jBtufiDAwzWUipge58pump",
+    "first_seen": "2026-10-17T16:50:10.388068+00:00"
+  },
+  "paxg": {
+    "mint": "5GgRAEmv8ZxF2PR5hY72Qs5x1bnQ6UK2RbTPoqJ3wSwW",
+    "first_seen": "2026-10-17T16:50:11.490481+00:00"
   }
 }
