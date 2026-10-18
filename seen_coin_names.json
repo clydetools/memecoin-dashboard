@@ -70874,5 +70874,25 @@
   "tortue": {
     "mint": "7kASdbzxWLdioHhzYvXwtM3tRztAbFmeLKF4bDW8pump",
     "first_seen": "2026-10-18T14:06:26.336960+00:00"
+  },
+  "agbo": {
+    "mint": "3Fmkep1vLQwU4Rn45FbmDXAd1qS6Q8DgMnXc273JrsAf",
+    "first_seen": "2026-10-18T17:18:47.252613+00:00"
+  },
+  "macrontard": {
+    "mint": "8kUhZ8mitSATXVuSJHh8UrBuM1KRxuphVxe66wYipump",
+    "first_seen": "2026-10-18T17:18:49.744132+00:00"
+  },
+  "fees": {
+    "mint": "9R7hWbqwTZBjv1jksZVqn2U4PeouV578yZvyHRJKpump",
+    "first_seen": "2026-10-18T17:18:53.252458+00:00"
+  },
+  "tetsuo": {
+    "mint": "8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8",
+    "first_seen": "2026-10-18T17:18:58.974475+00:00"
+  },
+  "vesper": {
+    "mint": "AKh6Cd3KGqtPHCdG7xXtcjMM824K19rUV2tiEc14pump",
+    "first_seen": "2026-10-18T17:19:01.394090+00:00"
   }
 }
