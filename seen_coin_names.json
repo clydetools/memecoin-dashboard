@@ -70914,5 +70914,13 @@
   "opeq": {
     "mint": "9tpHqTJ2d8jMZJjZzsf9MCfnCEmbAjsqjPJ56PzSpump",
     "first_seen": "2026-10-18T19:29:23.904507+00:00"
+  },
+  "endemmanuel": {
+    "mint": "EuUWaReinM4atPeX1yLjGeDJmGAA9PGkHD3jb5C7pump",
+    "first_seen": "2026-10-18T21:45:01.116111+00:00"
+  },
+  "pierre": {
+    "mint": "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump",
+    "first_seen": "2026-10-18T21:45:10.415204+00:00"
   }
 }
