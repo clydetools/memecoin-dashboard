@@ -70802,5 +70802,29 @@
   "mut8": {
     "mint": "F4T29x9xjR4nvw1T1PHtuFQNPDNAJkx6p65vBUKxEwBu",
     "first_seen": "2026-10-18T01:09:15.344388+00:00"
+  },
+  "pissandshit": {
+    "mint": "3L2ba7r6tuU83XQKX1oefHbrcjgG21regSKH6Tt5pump",
+    "first_seen": "2026-10-18T05:52:11.487661+00:00"
+  },
+  "pumpchan": {
+    "mint": "FBX7XevRp1c63Xr81iLJmtwuk92FgYQqvxLdws19pump",
+    "first_seen": "2026-10-18T05:52:13.359816+00:00"
+  },
+  "feke": {
+    "mint": "7XrC8ZCQbcSUnWEFdd7agaxMrh5bQTbg5AmnfpiApump",
+    "first_seen": "2026-10-18T05:52:13.854244+00:00"
+  },
+  "fables": {
+    "mint": "GrHgi7F9YLhMuZjFsB7PbfchGcJrBWAfPYbKEV8Jrxqk",
+    "first_seen": "2026-10-18T05:52:19.996229+00:00"
+  },
+  "supercore": {
+    "mint": "3ZAnpeVBHAvZsySNMXp4g9nYaE1jsx6khgh29VYKpump",
+    "first_seen": "2026-10-18T05:52:21.445444+00:00"
+  },
+  "fluencer": {
+    "mint": "FLU4Js9mbEFP6iaurnwLsZksFUirpZGRDdaXdEjZRXSW",
+    "first_seen": "2026-10-18T05:52:21.705226+00:00"
   }
 }
