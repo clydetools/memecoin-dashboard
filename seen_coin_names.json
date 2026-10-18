@@ -70894,5 +70894,25 @@
   "vesper": {
     "mint": "AKh6Cd3KGqtPHCdG7xXtcjMM824K19rUV2tiEc14pump",
     "first_seen": "2026-10-18T17:19:01.394090+00:00"
+  },
+  "apeoncoke": {
+    "mint": "G7bGooAYBo6uKW4B1omL5iKR4HFdrSHyxaYhUrKdpump",
+    "first_seen": "2026-10-18T19:29:15.691256+00:00"
+  },
+  "fado": {
+    "mint": "F6g4ZCdKrcW4qZ3MW244foGNfMfmdvY2jfbmGyu9pump",
+    "first_seen": "2026-10-18T19:29:17.758069+00:00"
+  },
+  "catonice": {
+    "mint": "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump",
+    "first_seen": "2026-10-18T19:29:22.326610+00:00"
+  },
+  "dogester": {
+    "mint": "8RpybikpGLbKsYJ4FXz12ExDz89R7VXAUZ3JXNcKpump",
+    "first_seen": "2026-10-18T19:29:23.742891+00:00"
+  },
+  "opeq": {
+    "mint": "9tpHqTJ2d8jMZJjZzsf9MCfnCEmbAjsqjPJ56PzSpump",
+    "first_seen": "2026-10-18T19:29:23.904507+00:00"
   }
 }
