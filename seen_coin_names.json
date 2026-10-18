@@ -70854,5 +70854,25 @@
   "rebondit": {
     "mint": "21NVhmJuDVEfrtgQja8ESzn45dLLRcJhQQAuomACpump",
     "first_seen": "2026-10-18T10:21:19.840685+00:00"
+  },
+  "cppeater": {
+    "mint": "EG7Ea6U7b8EgigFf2oA7Qnf8pxnPcEtWyM9fjTS5pump",
+    "first_seen": "2026-10-18T14:06:11.424163+00:00"
+  },
+  "seaofmemes": {
+    "mint": "AMJsZxbnXSXwCouhTUgocdrAi34FYjGheBiaiSdLceNE",
+    "first_seen": "2026-10-18T14:06:12.026786+00:00"
+  },
+  "riot": {
+    "mint": "6CrQuB7tAMLeeBgVcz7LUhoxUeSRBwNzfYn2MrRXpump",
+    "first_seen": "2026-10-18T14:06:16.652195+00:00"
+  },
+  "solfish": {
+    "mint": "AHK1P9qNCujgmNp2JxRk5Q71AvJhzJPnFf2TWTkppump",
+    "first_seen": "2026-10-18T14:06:24.893735+00:00"
+  },
+  "tortue": {
+    "mint": "7kASdbzxWLdioHhzYvXwtM3tRztAbFmeLKF4bDW8pump",
+    "first_seen": "2026-10-18T14:06:26.336960+00:00"
   }
 }
