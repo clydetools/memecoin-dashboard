@@ -70954,5 +70954,37 @@
   "bonkyo": {
     "mint": "oha3mwwm2tqWRouJ2KGUiz4Vz9FCRcPm1fApm87bonk",
     "first_seen": "2026-10-18T23:43:12.924731+00:00"
+  },
+  "bigds": {
+    "mint": "RLNMpoJ2qrxg1bm3F1tUUJrg4xipkmvJ3ppymbmpump",
+    "first_seen": "2026-10-19T01:49:01.944802+00:00"
+  },
+  "ppe": {
+    "mint": "DctnunBvwsrgiv1d3pMqPB4jKGgKgm4D6tqTnL5Bpump",
+    "first_seen": "2026-10-19T01:49:02.182998+00:00"
+  },
+  "uhi": {
+    "mint": "6pjRkgQqixQk4qBtw8w2H6Me3dGo9gHynK9pXsxcpump",
+    "first_seen": "2026-10-19T01:49:03.069611+00:00"
+  },
+  "bra": {
+    "mint": "GJ7Crz5ngwyg6aNe4zggZMPoniYpBR9pKFtU9hkqpump",
+    "first_seen": "2026-10-19T01:49:03.257040+00:00"
+  },
+  "baddog": {
+    "mint": "GtgJ7wfi699gmysKiThjoWnYEs1yriAobqx232H2pump",
+    "first_seen": "2026-10-19T01:49:03.439885+00:00"
+  },
+  "trendpad": {
+    "mint": "8DNmFPy2gb1rTxnNGGu85ysN1oLa76Vp2WeaZKuzpump",
+    "first_seen": "2026-10-19T01:49:07.757740+00:00"
+  },
+  "startupsi": {
+    "mint": "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump",
+    "first_seen": "2026-10-19T01:49:07.884076+00:00"
+  },
+  "chatul": {
+    "mint": "8kh7mPfHqF4TBbszY3x76GZzt6a3GNLbZNdXjPs3pump",
+    "first_seen": "2026-10-19T01:49:08.101844+00:00"
   }
 }
