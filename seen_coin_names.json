@@ -71246,5 +71246,29 @@
   "artemi": {
     "mint": "7gUDvf45et6627atavR45Md4BjgYqJHMZe9EPqeR9Sya",
     "first_seen": "2026-10-20T20:55:24.052789+00:00"
+  },
+  "emc2": {
+    "mint": "4K4pbJ7ogxRhjdmRYBvdaVz6fx1KnvUJbguxErvupump",
+    "first_seen": "2026-10-20T23:36:53.217410+00:00"
+  },
+  "deathcat": {
+    "mint": "9nV159NbKaKTJmGiDhmcpXvnB3zNW43ZuPp3cg1Zpump",
+    "first_seen": "2026-10-20T23:36:58.893418+00:00"
+  },
+  "celebrity": {
+    "mint": "2pTN4wrfCitKX8pfkVFGW5p5BhT94rDe2ubawxWiUs2g",
+    "first_seen": "2026-10-20T23:37:00.013427+00:00"
+  },
+  "toez": {
+    "mint": "3DRCui7ZbEykhrUHMbyXSvn5731fbKchFTFvs1Wjpump",
+    "first_seen": "2026-10-20T23:37:04.646814+00:00"
+  },
+  "wipd": {
+    "mint": "FD28DUH1YfkKK2WJ6K79pmAb7zfyPqtYjZF8BfueC9jW",
+    "first_seen": "2026-10-20T23:37:04.710241+00:00"
+  },
+  "dtc": {
+    "mint": "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump",
+    "first_seen": "2026-10-20T23:37:06.542926+00:00"
   }
 }
