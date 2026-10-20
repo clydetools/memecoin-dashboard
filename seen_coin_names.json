@@ -71198,5 +71198,37 @@
   "forkius": {
     "mint": "7xTMgacureYyKpaQZwP6LHR1tywEaBjAYfj9zidipump",
     "first_seen": "2026-10-20T12:52:49.836191+00:00"
+  },
+  "packcoin": {
+    "mint": "331tMQPQ6bag8LVt7JULksMzvZ4yFFw5cpFjSfjYpump",
+    "first_seen": "2026-10-20T17:46:00.066300+00:00"
+  },
+  "lbn420": {
+    "mint": "8imh8ziUUB3PNMopPosfXSkTDjYXSj4Cty8Q2VCbpump",
+    "first_seen": "2026-10-20T17:46:00.859768+00:00"
+  },
+  "okeguy": {
+    "mint": "GdppPycfc1VYRMu64LJiPoqGcoKx8XiXzNZw68jmpump",
+    "first_seen": "2026-10-20T17:46:03.804731+00:00"
+  },
+  "metaverse": {
+    "mint": "65573j66HmhYah1xYMHfQW3kXPSrq5T8qzRbGGG5FkuR",
+    "first_seen": "2026-10-20T17:46:06.733928+00:00"
+  },
+  "pumpshare": {
+    "mint": "7BvojKpynRAbCbhFg7RmoghfFEaHkRFHn9JsxaPBpump",
+    "first_seen": "2026-10-20T17:46:09.183825+00:00"
+  },
+  "pentulive": {
+    "mint": "9J9GQ5M2wSGhGCBQi6eBoPxf3vvVu9xtdfBiDFiycNEM",
+    "first_seen": "2026-10-20T17:46:15.462172+00:00"
+  },
+  "pocat": {
+    "mint": "3WNuLjzMuUxDDwhoz8pfEQoUy96wNRrrMvcTsbynpump",
+    "first_seen": "2026-10-20T17:46:16.082979+00:00"
+  },
+  "darkcat": {
+    "mint": "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump",
+    "first_seen": "2026-10-20T17:46:18.273598+00:00"
   }
 }
