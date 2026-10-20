@@ -71098,5 +71098,37 @@
   "frunkstore": {
     "mint": "7p9A4FUNYFQL9AvKk2xoqwDbskHGbMHaf47S3ue4RwbX",
     "first_seen": "2026-10-19T23:35:39.615379+00:00"
+  },
+  "polaris": {
+    "mint": "5Y76UnfdfUs5eT3ZXRhTLP6fisNHPcM9n9spdDcLpump",
+    "first_seen": "2026-10-20T02:03:40.127309+00:00"
+  },
+  "mag7": {
+    "mint": "BXMtJfNiUmhv2CEGyWsiwfGB9cLVR3zXgTXD88Qhpump",
+    "first_seen": "2026-10-20T02:03:42.277423+00:00"
+  },
+  "bun": {
+    "mint": "EiKJcYNXuSBN54LmCuEth2hAesjS6Vv4TTGSH11RoEfM",
+    "first_seen": "2026-10-20T02:03:42.835468+00:00"
+  },
+  "borly": {
+    "mint": "BR71EcHY9pXW4A1hvyR5Gfxm4ByTgze6TjWf688fpump",
+    "first_seen": "2026-10-20T02:03:47.883968+00:00"
+  },
+  "lacy": {
+    "mint": "4sBErkgzAvFqrUuuxZ6SF2Wc3FCftM8MBooZ14Kt3K7k",
+    "first_seen": "2026-10-20T02:03:47.983514+00:00"
+  },
+  "pokmon": {
+    "mint": "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1",
+    "first_seen": "2026-10-20T02:03:48.187382+00:00"
+  },
+  "news": {
+    "mint": "wNedNtJcdFKtdLP4FwpgGgspd6J6fepyngEND53pump",
+    "first_seen": "2026-10-20T02:03:49.706076+00:00"
+  },
+  "gdc": {
+    "mint": "FFUd9sB1Aehe5aWNX7QkBrJvXPkLvh18RW9iMpqtpump",
+    "first_seen": "2026-10-20T02:03:50.837527+00:00"
   }
 }
