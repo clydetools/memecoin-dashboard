@@ -71298,5 +71298,17 @@
   "clausotc": {
     "mint": "vi2zUPHQQvwsDCykmmQ8eYNf4ngA9z29dycaku3pump",
     "first_seen": "2026-10-21T07:26:34.706040+00:00"
+  },
+  "nahual": {
+    "mint": "8HTSEMttaASciyzZHoiJ4y1gBN6wFgmoxwPkWnqGpump",
+    "first_seen": "2026-10-21T13:04:19.995954+00:00"
+  },
+  "rcbot": {
+    "mint": "BujNzgRXnDU43b7upkhofpf767Tet8XcBqkT8CKfpump",
+    "first_seen": "2026-10-21T13:04:25.365806+00:00"
+  },
+  "lovot": {
+    "mint": "BbxFcehFuNRrRKAeVjDMBy19ySFwjBsyHUX8CS7hGxtT",
+    "first_seen": "2026-10-21T13:04:25.446614+00:00"
   }
 }
