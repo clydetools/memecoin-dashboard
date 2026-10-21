@@ -71310,5 +71310,49 @@
   "lovot": {
     "mint": "BbxFcehFuNRrRKAeVjDMBy19ySFwjBsyHUX8CS7hGxtT",
     "first_seen": "2026-10-21T13:04:25.446614+00:00"
+  },
+  "superbot": {
+    "mint": "AawdRUzdyYuqjCRw1rPH54JtwPwjFqtSDTCJSQ1Tpump",
+    "first_seen": "2026-10-21T18:00:21.367502+00:00"
+  },
+  "pager": {
+    "mint": "9E4pDwL6acvUdqXqnK3sgAjZscnr2yyMM1uCDsJapump",
+    "first_seen": "2026-10-21T18:00:23.488146+00:00"
+  },
+  "alpenglow": {
+    "mint": "DNq98kymaw7GxhvLDTtrpUTBzi3L2KvnSedutZMyVhbm",
+    "first_seen": "2026-10-21T18:00:34.051785+00:00"
+  },
+  "oacc": {
+    "mint": "E7iyjoUegGg4zVu7pVvkbpWvDYjAes1sX5LyXMvwpump",
+    "first_seen": "2026-10-21T18:00:34.152513+00:00"
+  },
+  "jonathan": {
+    "mint": "v26v7UraZ2x8ibahDiutqbFCrfJCqVzeQTGC2KL6MFm",
+    "first_seen": "2026-10-21T18:00:34.287158+00:00"
+  },
+  "kimchinu": {
+    "mint": "EBzm1AYQSBiJqpJm77nXWjPedxGiyy5N6f75q7o4pump",
+    "first_seen": "2026-10-21T18:00:34.426865+00:00"
+  },
+  "anomie": {
+    "mint": "823J7GbbLg9CMc8cd4NEdd4vXe8VWPrYVazyph859sLf",
+    "first_seen": "2026-10-21T18:00:34.795913+00:00"
+  },
+  "kicity": {
+    "mint": "85kRJ3iv4B4eX3UU7jqpzrwcArRgN1NSrYrXK1xRpump",
+    "first_seen": "2026-10-21T18:00:35.070341+00:00"
+  },
+  "bina": {
+    "mint": "3rYoV9bFsD1tAd9A1RXrXZ1n39YuSSFEiKtiyTFDB72M",
+    "first_seen": "2026-10-21T18:00:35.365504+00:00"
+  },
+  "qup": {
+    "mint": "2xaPstY4XqJ2gUA1mpph3XmvmPZGuTuJ658AeqX3gJ6F",
+    "first_seen": "2026-10-21T18:00:36.487148+00:00"
+  },
+  "humanoid": {
+    "mint": "54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump",
+    "first_seen": "2026-10-21T18:00:37.792000+00:00"
   }
 }
