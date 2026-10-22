@@ -71570,5 +71570,13 @@
   "blacktober": {
     "mint": "3Xq3nspu91fEzGbzi9kSJ4FYAnBeeiLHPoxQx6cPSQj1",
     "first_seen": "2026-10-22T19:03:19.295445+00:00"
+  },
+  "ssb": {
+    "mint": "8d3LbpJBEwcUhA5Xn2s1FUNNo2qLdzw3CQJsgtJqpump",
+    "first_seen": "2026-10-22T22:16:20.469044+00:00"
+  },
+  "mcrib": {
+    "mint": "8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump",
+    "first_seen": "2026-10-22T22:16:30.001681+00:00"
   }
 }
