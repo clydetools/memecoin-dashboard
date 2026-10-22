@@ -71486,5 +71486,41 @@
   "scabies": {
     "mint": "8bX7UyML4SQGLXnAdw48S6HK2pEhgyzLbQhDx8XcCJ9a",
     "first_seen": "2026-10-22T09:54:21.691431+00:00"
+  },
+  "kya": {
+    "mint": "F1BpdqfibTTTf3MFr1p8ZDeLx1rmbD1sMKXNYvxCpump",
+    "first_seen": "2026-10-22T14:51:31.044034+00:00"
+  },
+  "polar": {
+    "mint": "C98CrA34PqPsYvno9jaczBgYjmCa2RfPDDeBDMK8pump",
+    "first_seen": "2026-10-22T14:51:32.007561+00:00"
+  },
+  "speculation": {
+    "mint": "81coq6JYTpLoZZkbPbo8hcbaN1kYCUafwwNiyYKUpump",
+    "first_seen": "2026-10-22T14:51:32.480436+00:00"
+  },
+  "stockcoin": {
+    "mint": "5YNwCqenpWHofav9wzujyGUtxbb4axFUUh4tUrKVpump",
+    "first_seen": "2026-10-22T14:51:33.915157+00:00"
+  },
+  "dfm": {
+    "mint": "9xBet3oBZKQ2q59anx5rtfTvgRViBBpnUhjfZVV8VGzC",
+    "first_seen": "2026-10-22T14:51:40.583541+00:00"
+  },
+  "vector": {
+    "mint": "Evx7v1zkY3gu87uxhBRFJVrHj7zaV1bXUEfQTWxRwcUt",
+    "first_seen": "2026-10-22T14:51:41.248569+00:00"
+  },
+  "memeos": {
+    "mint": "5q5pEZZwhkuazS4rGa66LcNotdsnUE9KcJ7xQmXSpump",
+    "first_seen": "2026-10-22T14:51:41.669789+00:00"
+  },
+  "zdcx": {
+    "mint": "6gLBszXr61igg9Fe48dVDWFtpwiefXXqGpcRRwkUpump",
+    "first_seen": "2026-10-22T14:51:42.332048+00:00"
+  },
+  "shav": {
+    "mint": "4vT4trZuQpoPxBAKNwBF4gVhZdy6UCUqxeeYNmuQtfQd",
+    "first_seen": "2026-10-22T14:51:43.772356+00:00"
   }
 }
