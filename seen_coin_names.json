@@ -71522,5 +71522,53 @@
   "shav": {
     "mint": "4vT4trZuQpoPxBAKNwBF4gVhZdy6UCUqxeeYNmuQtfQd",
     "first_seen": "2026-10-22T14:51:43.772356+00:00"
+  },
+  "hdog": {
+    "mint": "pkS8bba5oEgFQrhNKQTGmD1nVsGewr6iBMRxMjkYEKp",
+    "first_seen": "2026-10-22T19:02:56.621933+00:00"
+  },
+  "dnn": {
+    "mint": "7T7kFV768hAshV6yq7JWomFmArkZECJPGEdU3Xbcpump",
+    "first_seen": "2026-10-22T19:02:57.115408+00:00"
+  },
+  "whitepill": {
+    "mint": "AZ47i7f2cne1Kk4Hi46bHqow1YFLVRR5sQ7EAXjsVVxA",
+    "first_seen": "2026-10-22T19:02:59.612128+00:00"
+  },
+  "cve": {
+    "mint": "484qZoHs9Ew9fF2U4Y5jHsvdVvAT8UvemaHdcqRSpump",
+    "first_seen": "2026-10-22T19:03:04.240819+00:00"
+  },
+  "pupwolf": {
+    "mint": "7ErsqeZGKfvc2gAX9nByCfURRcCu2P8Zgp8oM68ypump",
+    "first_seen": "2026-10-22T19:03:07.115660+00:00"
+  },
+  "brrr": {
+    "mint": "9vi2aX5RxHJV5HFVK1sRMrtsFZKZtDvLpC3iLSJry9Ap",
+    "first_seen": "2026-10-22T19:03:07.620915+00:00"
+  },
+  "carz": {
+    "mint": "B1ddCfM4BXv6RXH4ZAhTFxiiK1mCuG47Btz4eyCvpump",
+    "first_seen": "2026-10-22T19:03:09.236592+00:00"
+  },
+  "spidercat": {
+    "mint": "1wqjTuSvUXv5NNGT8WmJghfoW1uNttBYX7xiQnnpump",
+    "first_seen": "2026-10-22T19:03:09.722643+00:00"
+  },
+  "resolved": {
+    "mint": "i2wE21orxfJz18dDPf4z4nvjTaP3ijTCymRK1bQ6re8",
+    "first_seen": "2026-10-22T19:03:15.684392+00:00"
+  },
+  "hookline": {
+    "mint": "2sGR55azkALA4DJXCM6vb9N9SpJBMzBfHYJ3B4qovBjp",
+    "first_seen": "2026-10-22T19:03:15.846832+00:00"
+  },
+  "shavcoin": {
+    "mint": "Baw61KXAJk4MMnNJPBa87S8F77oNhMy7gQ63S8SLpump",
+    "first_seen": "2026-10-22T19:03:17.472923+00:00"
+  },
+  "blacktober": {
+    "mint": "3Xq3nspu91fEzGbzi9kSJ4FYAnBeeiLHPoxQx6cPSQj1",
+    "first_seen": "2026-10-22T19:03:19.295445+00:00"
   }
 }
