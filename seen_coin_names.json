@@ -71398,5 +71398,33 @@
   "kimchibull": {
     "mint": "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump",
     "first_seen": "2026-10-21T21:32:52.463594+00:00"
+  },
+  "teslx": {
+    "mint": "4hhHi3vjwt5Cg9YnuthL9VmZ1n936vjaZEiiGgnbSCUv",
+    "first_seen": "2026-10-22T00:10:56.668663+00:00"
+  },
+  "bese": {
+    "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "first_seen": "2026-10-22T00:10:58.639792+00:00"
+  },
+  "army": {
+    "mint": "FRxQFfRZZpr6aXWsVAhYQ1n3rUPHD89QbNqQFmqNpump",
+    "first_seen": "2026-10-22T00:11:04.990433+00:00"
+  },
+  "garry": {
+    "mint": "2KSKoeMJanBBrtdNoQpBRCbDkbW9VeQ7hqY2AALipump",
+    "first_seen": "2026-10-22T00:11:05.076437+00:00"
+  },
+  "actiii": {
+    "mint": "DGfXLzo9cb1bPHzsLWnYVQarUGpvBkTmiGpmJGmRC1tB",
+    "first_seen": "2026-10-22T00:11:05.516691+00:00"
+  },
+  "mccarthy": {
+    "mint": "AaqeSEbyfBjkVrVFeCu24ZtWJu9qwgAKvDoSbrNWpump",
+    "first_seen": "2026-10-22T00:11:06.095683+00:00"
+  },
+  "dycpad": {
+    "mint": "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump",
+    "first_seen": "2026-10-22T00:11:06.603967+00:00"
   }
 }
