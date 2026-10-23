@@ -71750,5 +71750,41 @@
   "tc67": {
     "mint": "84qut46jTfT8nqdviG4HBZ5JQMN1sJg7hBzJgXvfpump",
     "first_seen": "2026-10-23T19:21:41.565751+00:00"
+  },
+  "fiesta": {
+    "mint": "DZ29hqMN5KAWkvuCCeqWZkR9tDvVKrSSdjbvVuFJpump",
+    "first_seen": "2026-10-23T22:29:31.841825+00:00"
+  },
+  "cr7coin": {
+    "mint": "4UtNbz64S3iakrSPcwiAvnXVt6nBQh4fxpQSfRDdpump",
+    "first_seen": "2026-10-23T22:29:32.370339+00:00"
+  },
+  "rir": {
+    "mint": "2wHCTaAfuXFPvxfbRe1ts6r6W3CaJouujg74ykuV2wK4",
+    "first_seen": "2026-10-23T22:29:34.011702+00:00"
+  },
+  "2km": {
+    "mint": "4YWba1RKBak4b3oWX8gAcz7NT1xDjpP514Ec4Rp2pxTf",
+    "first_seen": "2026-10-23T22:29:37.721938+00:00"
+  },
+  "bitches": {
+    "mint": "26Aawi1sZSNR8Raumc3hdvKbke6RJ1dYaKqgrHXopump",
+    "first_seen": "2026-10-23T22:29:42.454680+00:00"
+  },
+  "monet": {
+    "mint": "9vXGBLkMEVQvjboJh3ZrohoufHb4MzRPZQ3EWEYjzCyP",
+    "first_seen": "2026-10-23T22:29:43.081783+00:00"
+  },
+  "moustache": {
+    "mint": "12Fkgrcd2hoyvow2nMKiJiUB9zQzNpgdB7Gh98AUwNiM",
+    "first_seen": "2026-10-23T22:29:43.244882+00:00"
+  },
+  "scx": {
+    "mint": "9A3D3fToM9JQH4gTy5ccYUxk6DHYrR79aTwPDTWiNT2D",
+    "first_seen": "2026-10-23T22:29:43.420589+00:00"
+  },
+  "ymbcoin": {
+    "mint": "J8NLpWf52NrMMXLEhf26NUVrpst8Xm3CS91KZ5RPpump",
+    "first_seen": "2026-10-23T22:29:44.275716+00:00"
   }
 }
