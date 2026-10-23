@@ -71686,5 +71686,49 @@
   "moko": {
     "mint": "CHbCs9FTkzB8YDcJKNw9CQ5U21aCG2ebSdQsgrqLpump",
     "first_seen": "2026-10-23T10:23:51.044810+00:00"
+  },
+  "skinwalker": {
+    "mint": "9xNPw7weiJs2ru6ho8MmCPkfUwKUMJiejgH3bAaWpump",
+    "first_seen": "2026-10-23T15:20:46.332276+00:00"
+  },
+  "bladefur": {
+    "mint": "Ax4zFmf1xPjG9YMR9TDZyGPz81XTYrohcKTjojpiiXPm",
+    "first_seen": "2026-10-23T15:20:47.127415+00:00"
+  },
+  "ufoo": {
+    "mint": "FoB1GKLDyJm3NvgbL19oQKKiCtUbMwynbUoxN4Dmpump",
+    "first_seen": "2026-10-23T15:20:47.537690+00:00"
+  },
+  "pfcs": {
+    "mint": "ApxjZFnGfVg2dY3WsSogogfdA97t4WG5h2so4NXoYsB",
+    "first_seen": "2026-10-23T15:20:49.357309+00:00"
+  },
+  "relynx": {
+    "mint": "BWyAo1fjKU2YzaKmjUdbWeDf3zRcK6u1hMXzT52W94m9",
+    "first_seen": "2026-10-23T15:20:50.786460+00:00"
+  },
+  "odie": {
+    "mint": "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump",
+    "first_seen": "2026-10-23T15:20:57.294125+00:00"
+  },
+  "mcsauce": {
+    "mint": "HYLhzvLHmC4gqckEyACvy2jDMoCizE2hS1qcJ1Q7pump",
+    "first_seen": "2026-10-23T15:20:57.397592+00:00"
+  },
+  "kimchiun": {
+    "mint": "EyHMd9ERDt3cWADUENf8hvCkFetwYYdKdfycxCc5pump",
+    "first_seen": "2026-10-23T15:20:57.482592+00:00"
+  },
+  "gdn": {
+    "mint": "E5hMujppMnLLWpXKiRuSrb4ARunB3qoR2cok4W7spump",
+    "first_seen": "2026-10-23T15:21:00.635933+00:00"
+  },
+  "gust": {
+    "mint": "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump",
+    "first_seen": "2026-10-23T15:21:01.314819+00:00"
+  },
+  "arctis": {
+    "mint": "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump",
+    "first_seen": "2026-10-23T15:21:01.787880+00:00"
   }
 }
