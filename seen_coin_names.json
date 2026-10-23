@@ -71578,5 +71578,53 @@
   "mcrib": {
     "mint": "8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump",
     "first_seen": "2026-10-22T22:16:30.001681+00:00"
+  },
+  "buidlr": {
+    "mint": "899QK1F7ocSk7ApyC29p2f3zfBtijdE47k4w5nGDpump",
+    "first_seen": "2026-10-23T00:43:42.979565+00:00"
+  },
+  "bula": {
+    "mint": "77Wyk3vQfLad59RakyzSeNvNsXpZdhwq85cgeW1Wpump",
+    "first_seen": "2026-10-23T00:43:44.464696+00:00"
+  },
+  "hackinu": {
+    "mint": "B1uHqMy5e1rjVrkWMWPmy9AhLf8wptR9TMLsGSi3pump",
+    "first_seen": "2026-10-23T00:43:44.923627+00:00"
+  },
+  "sglyph": {
+    "mint": "J4bFSPMti8B5Prcd9FPTCFdz3GWEeRZRHfVChaF4EFqo",
+    "first_seen": "2026-10-23T00:43:46.105568+00:00"
+  },
+  "nakio": {
+    "mint": "Gmv5MnLA3BChVsXBZrLnytT3EJjBW3tQcFaQGpQ1ctLX",
+    "first_seen": "2026-10-23T00:43:48.018951+00:00"
+  },
+  "ntwrk": {
+    "mint": "44AxmzFVAjcjuczpKQNCqvUeGZFSswDEtj1mqaoppump",
+    "first_seen": "2026-10-23T00:43:48.446457+00:00"
+  },
+  "cryptinu": {
+    "mint": "FbB8tcUqUupfjRaUmAbxwBpeNe1aZCgjThSuRdJkpump",
+    "first_seen": "2026-10-23T00:43:48.873859+00:00"
+  },
+  "stablecoin": {
+    "mint": "Du3cPFETcvqmLeq3hmQcZx142WcptQZazS9QaxNY6Z9J",
+    "first_seen": "2026-10-23T00:43:49.687055+00:00"
+  },
+  "1dollar": {
+    "mint": "3jKokQhBXUVZCZyaPf58VU8P5TJuNSUcwXsuE1Yepump",
+    "first_seen": "2026-10-23T00:43:50.095308+00:00"
+  },
+  "wrhnd": {
+    "mint": "7fz2FVSHAM1YRgSbSxxspkmYAKNn9WDKfwpCBkPSN2XZ",
+    "first_seen": "2026-10-23T00:43:54.545055+00:00"
+  },
+  "frontier": {
+    "mint": "CQqseBjLPFRHfJnGtNK1qUNB2NH2L9aD1vrmUoYm9Lav",
+    "first_seen": "2026-10-23T00:43:55.587458+00:00"
+  },
+  "doroni": {
+    "mint": "547q1FEqDR6mkJ5bjVKt9xT3RNVYnLkH6ZdMD91Bpump",
+    "first_seen": "2026-10-23T00:43:58.558947+00:00"
   }
 }
