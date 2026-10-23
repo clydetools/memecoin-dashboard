@@ -71730,5 +71730,25 @@
   "arctis": {
     "mint": "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump",
     "first_seen": "2026-10-23T15:21:01.787880+00:00"
+  },
+  "gattai": {
+    "mint": "DjJjMfmDeW62BKfJJDbGRUGz4DUYywF3Th5PgnBC3o2Z",
+    "first_seen": "2026-10-23T19:21:29.077469+00:00"
+  },
+  "ghostfleet": {
+    "mint": "5vSZQbf3DvkBSn7UD8V1rLfLV487kuEASYVNSwcA4X2B",
+    "first_seen": "2026-10-23T19:21:32.145183+00:00"
+  },
+  "ymb": {
+    "mint": "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump",
+    "first_seen": "2026-10-23T19:21:37.109432+00:00"
+  },
+  "himmel": {
+    "mint": "4gCkAqLXo2cyYzi47tsoDWtcPhNzwi5HjpVHSDiWpump",
+    "first_seen": "2026-10-23T19:21:38.107144+00:00"
+  },
+  "tc67": {
+    "mint": "84qut46jTfT8nqdviG4HBZ5JQMN1sJg7hBzJgXvfpump",
+    "first_seen": "2026-10-23T19:21:41.565751+00:00"
   }
 }
