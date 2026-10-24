@@ -71862,5 +71862,37 @@
   "coil": {
     "mint": "Bdmz1BAj5B2YbYVdMyZexWbjX33kfhNonHGDtQjipump",
     "first_seen": "2026-10-24T09:46:44.145018+00:00"
+  },
+  "garvis": {
+    "mint": "JBMv4b6d82JBPqgsiVtYom9qvdvSstbRHYVjVxGfpump",
+    "first_seen": "2026-10-24T13:38:43.722041+00:00"
+  },
+  "pis": {
+    "mint": "FHZqPHvT1cAfuGjuuoWiUm1JwDvbCYn34qiNccZVpump",
+    "first_seen": "2026-10-24T13:38:44.368640+00:00"
+  },
+  "dmc": {
+    "mint": "E1a58bTupVgXPbQSoe5rBRDpAcmKfX5xHFHei39tpump",
+    "first_seen": "2026-10-24T13:38:46.305329+00:00"
+  },
+  "ranch": {
+    "mint": "GXs4DDWSje4imYHBWnqpJyod2unJmRyz9kXMpoEhpump",
+    "first_seen": "2026-10-24T13:38:46.706624+00:00"
+  },
+  "tofi": {
+    "mint": "FHZAoXTdniayHf4QLj9SJkT9WefW9jNgmkMZG3JTBSqa",
+    "first_seen": "2026-10-24T13:38:49.779522+00:00"
+  },
+  "velk": {
+    "mint": "BzoYWZL3fXC5KkzkA6dEh9pBKcv9NAqwkTxJReNxpump",
+    "first_seen": "2026-10-24T13:38:54.070344+00:00"
+  },
+  "opensolana": {
+    "mint": "Cggjah6mVhhh6uwCbjGUfPLnapsBbzUL2aAZokHo3iYT",
+    "first_seen": "2026-10-24T13:38:54.190106+00:00"
+  },
+  "perito": {
+    "mint": "4pAbWDPRQN9hYbvH144u9P6QuZcPYDfqRGuUdSRdpump",
+    "first_seen": "2026-10-24T13:38:55.091810+00:00"
   }
 }
