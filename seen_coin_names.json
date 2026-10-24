@@ -71786,5 +71786,29 @@
   "ymbcoin": {
     "mint": "J8NLpWf52NrMMXLEhf26NUVrpst8Xm3CS91KZ5RPpump",
     "first_seen": "2026-10-23T22:29:44.275716+00:00"
+  },
+  "kmc": {
+    "mint": "3DkxRA4XgpNhZxteVAeT16dbSatZzk8phtUzmrCq2mLS",
+    "first_seen": "2026-10-24T00:59:14.336590+00:00"
+  },
+  "hyperplex": {
+    "mint": "5we5nkz91Lk5G3ARnRzk4TGEhnhEjCfukyFh5HTrpump",
+    "first_seen": "2026-10-24T00:59:16.532300+00:00"
+  },
+  "sir": {
+    "mint": "CjWZKzWCVQD4DwN4SG2TRRDgvzNPzXSJSstH9hx6PKHT",
+    "first_seen": "2026-10-24T00:59:17.589063+00:00"
+  },
+  "monkie": {
+    "mint": "9i9M7jGpEctLzq1yvKziJdHUFznSb4FKzxdr1Tebpump",
+    "first_seen": "2026-10-24T00:59:19.862832+00:00"
+  },
+  "unccat": {
+    "mint": "B9ZVyArdcmwyuRx7ZZQFK2D8Nq1DdMQNoHcnZFFXpump",
+    "first_seen": "2026-10-24T00:59:20.322598+00:00"
+  },
+  "dfart": {
+    "mint": "YHhs8Zk3fHn5cb7JuhLt1UraJFyhZu2j9Q3MzfJKLcn",
+    "first_seen": "2026-10-24T00:59:24.726013+00:00"
   }
 }
