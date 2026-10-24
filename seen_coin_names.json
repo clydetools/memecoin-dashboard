@@ -71918,5 +71918,53 @@
   "swordtrump": {
     "mint": "4aXgfAGQVf9yHELojf7VM7eMWWr6gfxTkfLmfViQpump",
     "first_seen": "2026-10-24T16:57:36.679252+00:00"
+  },
+  "fulcrum": {
+    "mint": "2hHeJTh1NFfXQMBihNRSkVjNcfEYnYYAc3trZn4Gpump",
+    "first_seen": "2026-10-24T19:17:08.846339+00:00"
+  },
+  "advisor": {
+    "mint": "Dv7WwuNdiEZPQNMsf98qdTWN7SnEXnqsZVQb7k8tpump",
+    "first_seen": "2026-10-24T19:17:09.394047+00:00"
+  },
+  "kabu": {
+    "mint": "EySdeZstPhz8713MWaj6vRdWhUsxpB8iLRciLZKspump",
+    "first_seen": "2026-10-24T19:17:10.591534+00:00"
+  },
+  "ixora": {
+    "mint": "5pufmEaoY6Hdjww2GepBY5F1XDZwRdbxqwXTeU7Qpump",
+    "first_seen": "2026-10-24T19:17:11.089355+00:00"
+  },
+  "cartman": {
+    "mint": "5uSooArFuWiAeixok3KuazCHEcrkgEgo6ESy5Rw4pump",
+    "first_seen": "2026-10-24T19:17:11.653975+00:00"
+  },
+  "mlt": {
+    "mint": "EvCJ7xiosZojU8hcY5P8ZRNbE3RorFjc2s9g7q5AX6Dy",
+    "first_seen": "2026-10-24T19:17:12.180504+00:00"
+  },
+  "piece": {
+    "mint": "AH671a6Gm3fPahFb9Bo9A21KfwacfEWNRtvZyq2JBW4E",
+    "first_seen": "2026-10-24T19:17:13.763384+00:00"
+  },
+  "udtf": {
+    "mint": "oF2XvGAX3v8VCNje6yMxJqQZraXz2hPth2kPg7ypump",
+    "first_seen": "2026-10-24T19:17:18.241590+00:00"
+  },
+  "loosh": {
+    "mint": "2c1W9MCdWDe24yxFEoV6Vsmc8bbBrC5tW9ezhLUMTFnN",
+    "first_seen": "2026-10-24T19:17:18.293477+00:00"
+  },
+  "valera": {
+    "mint": "8Ex5BH5NFYG7FoaXc4SDNdFCB3vt4iGZ1L5fjgYrpump",
+    "first_seen": "2026-10-24T19:17:18.341921+00:00"
+  },
+  "dub": {
+    "mint": "CYm1Hg6q3zg33WRNw6egczB2XaryusLVSnpzpP2baPFz",
+    "first_seen": "2026-10-24T19:17:18.758787+00:00"
+  },
+  "obama2028": {
+    "mint": "3htUtsaGt1AzqrfrPsZkYz3gvazf5zLdzmz7LchkXmaq",
+    "first_seen": "2026-10-24T19:17:19.023343+00:00"
   }
 }
