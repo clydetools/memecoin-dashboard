@@ -71810,5 +71810,21 @@
   "dfart": {
     "mint": "YHhs8Zk3fHn5cb7JuhLt1UraJFyhZu2j9Q3MzfJKLcn",
     "first_seen": "2026-10-24T00:59:24.726013+00:00"
+  },
+  "foodslop": {
+    "mint": "D5SXnE66NymXDuUg4RjRZ4SjgeHCYL41H883btEipump",
+    "first_seen": "2026-10-24T05:36:24.453626+00:00"
+  },
+  "magacat": {
+    "mint": "FgbNziYNQaH2Q23KU8AiYxvP2HRJThk9df8X39Br88ua",
+    "first_seen": "2026-10-24T05:36:24.999859+00:00"
+  },
+  "hypest": {
+    "mint": "DjtS7UxVA5giVKCSVfL7aF8zF9o33e1xEcyKX4jxPMRP",
+    "first_seen": "2026-10-24T05:36:31.205453+00:00"
+  },
+  "dpm": {
+    "mint": "59NZWxgJWRoHdXxsBFrXLBq4NEa9RBsmmFUqseLzpump",
+    "first_seen": "2026-10-24T05:36:32.630721+00:00"
   }
 }
