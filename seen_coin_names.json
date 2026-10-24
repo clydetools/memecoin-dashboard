@@ -71826,5 +71826,41 @@
   "dpm": {
     "mint": "59NZWxgJWRoHdXxsBFrXLBq4NEa9RBsmmFUqseLzpump",
     "first_seen": "2026-10-24T05:36:32.630721+00:00"
+  },
+  "poppi": {
+    "mint": "5MEy3mTrADWZgsTMYGBNwqPmJLCDMXGHxdcLBPsLns1h",
+    "first_seen": "2026-10-24T09:46:35.609853+00:00"
+  },
+  "gnosis": {
+    "mint": "2p6L168yfGS2HX7MFkkCHYqXHwu5Se6RzYaukTKvpump",
+    "first_seen": "2026-10-24T09:46:36.308137+00:00"
+  },
+  "sapn": {
+    "mint": "78dds4ghju3cWU6KSSDJm8L4KNFPmgGdSiTt6aMqpump",
+    "first_seen": "2026-10-24T09:46:37.766438+00:00"
+  },
+  "pumptache": {
+    "mint": "95MV9VPQC7pBZRRS9t8CJvBCi4J3VEH37ZJSGAWapump",
+    "first_seen": "2026-10-24T09:46:42.433244+00:00"
+  },
+  "slopcoin": {
+    "mint": "fjWD4JxbP6niYqchrLUSmfqr6MCwp6dXrZJ2ndTxdCQ",
+    "first_seen": "2026-10-24T09:46:42.492411+00:00"
+  },
+  "swamis": {
+    "mint": "ERaDSopmCrJ1Tv5PkzBF2MVUJCm48i7JrAMknMxGwnwa",
+    "first_seen": "2026-10-24T09:46:43.024668+00:00"
+  },
+  "ivanka": {
+    "mint": "CrgJP6oLdNomfnzUTGjDtHmYxyfhXNWf6pUVQfgpump",
+    "first_seen": "2026-10-24T09:46:43.165881+00:00"
+  },
+  "hell": {
+    "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump",
+    "first_seen": "2026-10-24T09:46:43.887966+00:00"
+  },
+  "coil": {
+    "mint": "Bdmz1BAj5B2YbYVdMyZexWbjX33kfhNonHGDtQjipump",
+    "first_seen": "2026-10-24T09:46:44.145018+00:00"
   }
 }
