@@ -71966,5 +71966,41 @@
   "obama2028": {
     "mint": "3htUtsaGt1AzqrfrPsZkYz3gvazf5zLdzmz7LchkXmaq",
     "first_seen": "2026-10-24T19:17:19.023343+00:00"
+  },
+  "prue": {
+    "mint": "8XHMsEwup4CevqaSMJRyg2mwAqUJNrJfLKhfRFaUpump",
+    "first_seen": "2026-10-24T21:40:54.769360+00:00"
+  },
+  "bluebands": {
+    "mint": "2GhYhj9UFxnW1qaDmtzkh8NWsqxtnan5RShEm3Bcpump",
+    "first_seen": "2026-10-24T21:40:55.517461+00:00"
+  },
+  "wildwood": {
+    "mint": "EKiXuisv5m4uSSks7fe6HrrGWzpsqF5f2A1x9gnopump",
+    "first_seen": "2026-10-24T21:40:56.251194+00:00"
+  },
+  "fulc": {
+    "mint": "FuLcK6KP7XSyyMToZjaNdqanbXmVHL8oi8tyHCtSWUFq",
+    "first_seen": "2026-10-24T21:40:56.724873+00:00"
+  },
+  "exwhale": {
+    "mint": "6iPTzvujA7hKQf33d46wMimJ18BSTPwekUGJTHrf2sy9",
+    "first_seen": "2026-10-24T21:41:02.250655+00:00"
+  },
+  "swordope": {
+    "mint": "3SVjZ7BfT9FxiR49nZc7UdBmLgzRLJY7XBZDKhEFpump",
+    "first_seen": "2026-10-24T21:41:02.797357+00:00"
+  },
+  "hercules": {
+    "mint": "CW8ZQeKbGTk1TYY79QMjhp81R48AKVv1imNimgmrpump",
+    "first_seen": "2026-10-24T21:41:03.926470+00:00"
+  },
+  "gyat": {
+    "mint": "EfgEGG9PxLhyk1wqtqgGnwgfVC7JYic3vC9BCWLvpump",
+    "first_seen": "2026-10-24T21:41:05.500847+00:00"
+  },
+  "bunnett": {
+    "mint": "41thoMqVENHtGhuSp5Jhy9yPWghqrPfeETrMe97JK4tg",
+    "first_seen": "2026-10-24T21:41:06.199222+00:00"
   }
 }
