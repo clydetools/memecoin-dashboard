@@ -72146,5 +72146,33 @@
   "kimback": {
     "mint": "FcqKM8X2Fme8GLkPsyRpsbXZhLkRSbuaorrnheu5pump",
     "first_seen": "2026-10-25T21:53:28.948575+00:00"
+  },
+  "stephanie": {
+    "mint": "FuPvX7PqrbKg2eEJXJWFSpDnEjhKxBQKtTLA3AVWTyiU",
+    "first_seen": "2026-10-25T23:47:03.937113+00:00"
+  },
+  "nobedtime": {
+    "mint": "J8i3QFDHxGy8yymtnaYn8dP1HCR7AxKAgMt8ySbWpump",
+    "first_seen": "2026-10-25T23:47:04.536944+00:00"
+  },
+  "mainframe": {
+    "mint": "9BrbAriqm39m9qwhxnsoWx6GmuXz5LGzLy59s967pump",
+    "first_seen": "2026-10-25T23:47:05.086784+00:00"
+  },
+  "nutlock": {
+    "mint": "GpK6WUBUgZZ57SMJymZVVjXC4m4qvJmtQmmDSoRQpump",
+    "first_seen": "2026-10-25T23:47:13.102085+00:00"
+  },
+  "olivia": {
+    "mint": "R1VViZesPZeRuqJ3HXzqnJM77LJTukKz3dNcZ7jjMGV",
+    "first_seen": "2026-10-25T23:47:24.756870+00:00"
+  },
+  "scs": {
+    "mint": "CuTfRPtmnWGH3cK3awrTVvCVABSUNX5CY4itLe5iWnPp",
+    "first_seen": "2026-10-25T23:47:24.802328+00:00"
+  },
+  "president": {
+    "mint": "8c3byrrJapziVe89s5Cim9mrK6iTyDpvvnh9c5brHbtj",
+    "first_seen": "2026-10-25T23:47:24.850504+00:00"
   }
 }
