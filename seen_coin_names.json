@@ -72078,5 +72078,21 @@
   "420": {
     "mint": "BcCLMctaxhbRKh4HfVNPRaTj24Mu8wgWZob4JRkUGh8m",
     "first_seen": "2026-10-25T06:57:25.749811+00:00"
+  },
+  "nobrain": {
+    "mint": "3dDvXSPGoDVHkJNXJoN5oiSUC7WRExxJ4ixxxm8Jpump",
+    "first_seen": "2026-10-25T16:40:34.306834+00:00"
+  },
+  "fkols": {
+    "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "first_seen": "2026-10-25T16:40:36.150747+00:00"
+  },
+  "coppertorc": {
+    "mint": "4UynparvawGS4nDSY8oc3p8eXR7qrVUsmjXgtNQmpbUY",
+    "first_seen": "2026-10-25T16:40:38.103461+00:00"
+  },
+  "pumpkinbot": {
+    "mint": "5QREAgtfP1NkuymRaFdHxr5QNF2Yry9M1YCyaompump",
+    "first_seen": "2026-10-25T16:40:46.170415+00:00"
   }
 }
