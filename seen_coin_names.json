@@ -72094,5 +72094,25 @@
   "pumpkinbot": {
     "mint": "5QREAgtfP1NkuymRaFdHxr5QNF2Yry9M1YCyaompump",
     "first_seen": "2026-10-25T16:40:46.170415+00:00"
+  },
+  "tungsem": {
+    "mint": "EtT5TSkshh5jWBxEcvMWb41uaXktZf4ZnSocThrJpump",
+    "first_seen": "2026-10-25T19:16:36.430095+00:00"
+  },
+  "leechcraft": {
+    "mint": "BGo3jHNdWXRdWyG71PWRg1kdmt4oMz8KvVjCiMB8pump",
+    "first_seen": "2026-10-25T19:16:36.895295+00:00"
+  },
+  "duk": {
+    "mint": "41hRdGvZAppDqWksdsDmraotgp58DXMzBeoaYXawpump",
+    "first_seen": "2026-10-25T19:16:37.289639+00:00"
+  },
+  "noomeng": {
+    "mint": "3TBesmxk3PWpAPyPaR7BVjRmafZ482dM3XyR7aEm8UWV",
+    "first_seen": "2026-10-25T19:16:38.056502+00:00"
+  },
+  "launchcat": {
+    "mint": "4yzkM1ts8avWd1EXDcayWWWxu8oEKVBECRAT8qNnQxXx",
+    "first_seen": "2026-10-25T19:16:45.330586+00:00"
   }
 }
