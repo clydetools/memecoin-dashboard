@@ -72218,5 +72218,41 @@
   "mem0x": {
     "mint": "9qavhGwcNHiYgLeztWqHQtW6kVJqTtT5h3YYbsbtpump",
     "first_seen": "2026-10-26T07:06:12.716483+00:00"
+  },
+  "suncat": {
+    "mint": "AqbrJwkLksDcja6eiw6BdbCfZKRumWGVBjwZ2rmPpump",
+    "first_seen": "2026-10-26T14:10:52.743409+00:00"
+  },
+  "candy": {
+    "mint": "GHYbuevGUZ68DGodsYkRmoPNdcmW3c9pc3z6j436pump",
+    "first_seen": "2026-10-26T14:10:53.160824+00:00"
+  },
+  "coyotec": {
+    "mint": "89MvCZMBHZoxfefkLohU28gJ5cSdMXLGQ4a35522SqwF",
+    "first_seen": "2026-10-26T14:10:54.453341+00:00"
+  },
+  "hookwire": {
+    "mint": "7UXPGgdPXHhTkZNzE8BRhNpivJJzmwVMf5KoFGSkTD4G",
+    "first_seen": "2026-10-26T14:10:57.135489+00:00"
+  },
+  "xpool": {
+    "mint": "tXpXEaHDsaMB478uVkR9ssBG1VUrLZB56UHynTkpump",
+    "first_seen": "2026-10-26T14:10:57.570274+00:00"
+  },
+  "wifbtc": {
+    "mint": "4wYiX21uJQj5MUPVDAHeVAbqCaEYVisEkHpWcKpApump",
+    "first_seen": "2026-10-26T14:11:02.402467+00:00"
+  },
+  "smcp": {
+    "mint": "7frsXQZiA1dkv67CLwrocKskQ7hZRRsWqAa9Wwvpi7iE",
+    "first_seen": "2026-10-26T14:11:05.105791+00:00"
+  },
+  "freebots": {
+    "mint": "GEaHnPjTVeSw8QSPTnh1KcEASsbES8U6BSTWmiY8pump",
+    "first_seen": "2026-10-26T14:11:06.481390+00:00"
+  },
+  "raypad": {
+    "mint": "5YEk5atScd8cJexzGMmoLxLggyyVPf7AY6zpiV5mray",
+    "first_seen": "2026-10-26T14:11:06.768203+00:00"
   }
 }
