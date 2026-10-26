@@ -72254,5 +72254,29 @@
   "raypad": {
     "mint": "5YEk5atScd8cJexzGMmoLxLggyyVPf7AY6zpiV5mray",
     "first_seen": "2026-10-26T14:11:06.768203+00:00"
+  },
+  "telurico": {
+    "mint": "7fpH2oUziMbeoAacj6agLREv73koXmGcPWk49oZA3Zpc",
+    "first_seen": "2026-10-26T19:56:49.761203+00:00"
+  },
+  "symf": {
+    "mint": "5UJkWhgLxiZZoCbcN4NfqacmrtAPKNxwa17Puv4zpump",
+    "first_seen": "2026-10-26T19:56:51.515068+00:00"
+  },
+  "sojo": {
+    "mint": "D168UUr2Qrai5UkDrHo15hEW1TduFFY8GeGJCA11Q8t8",
+    "first_seen": "2026-10-26T19:56:57.305619+00:00"
+  },
+  "filet": {
+    "mint": "C3W5SXeun2Q5fHTezjHi9xS89bKcpx1qqsRwrrKJis1e",
+    "first_seen": "2026-10-26T19:56:57.458060+00:00"
+  },
+  "yoki": {
+    "mint": "5oATn6kVtnEHoLL2ECk5CJEiBFfRE1Haa9oC2wiz8Kpp",
+    "first_seen": "2026-10-26T19:56:57.631174+00:00"
+  },
+  "meowvinci": {
+    "mint": "BZQJhjGux5nFXtgb5rBVPMn8LeGEnXsCgsHztMbk9EXo",
+    "first_seen": "2026-10-26T19:56:57.772481+00:00"
   }
 }
