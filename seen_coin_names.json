@@ -72198,5 +72198,25 @@
   "bluum": {
     "mint": "3N9sJAePxTNSP1Rbt81JEtS4NdtP6JghbWRrRqpo64Mx",
     "first_seen": "2026-10-26T01:49:36.497086+00:00"
+  },
+  "garlicpump": {
+    "mint": "UrLmiAMwCsthBiuur43oq5RgpAhdhCKsUMgKRDQpump",
+    "first_seen": "2026-10-26T07:06:04.805225+00:00"
+  },
+  "nevada": {
+    "mint": "6sZYoZH48zrRSyVptBwMhgqUBoYopTyCTB9LNMy5HSH9",
+    "first_seen": "2026-10-26T07:06:05.307239+00:00"
+  },
+  "addict": {
+    "mint": "HjMR5WPTq9rRQRUauJGsCSchRFmtZAwg5fAZeuS2T6hF",
+    "first_seen": "2026-10-26T07:06:07.216037+00:00"
+  },
+  "tfomo": {
+    "mint": "hJfZT5YVfEDG2WjEwTxeKro2skB1CHhj97xXX4Bpump",
+    "first_seen": "2026-10-26T07:06:11.686334+00:00"
+  },
+  "mem0x": {
+    "mint": "9qavhGwcNHiYgLeztWqHQtW6kVJqTtT5h3YYbsbtpump",
+    "first_seen": "2026-10-26T07:06:12.716483+00:00"
   }
 }
