@@ -72174,5 +72174,29 @@
   "president": {
     "mint": "8c3byrrJapziVe89s5Cim9mrK6iTyDpvvnh9c5brHbtj",
     "first_seen": "2026-10-25T23:47:24.850504+00:00"
+  },
+  "dshp": {
+    "mint": "H9t4z7VL7HyeZiLey593mV2oYbzwixvyeBHtjjoVpump",
+    "first_seen": "2026-10-26T01:49:28.587716+00:00"
+  },
+  "pr": {
+    "mint": "Ga2Q8viKRtX597x75tNkG4JboMtHLhDP9RkfgU7Hpump",
+    "first_seen": "2026-10-26T01:49:29.399870+00:00"
+  },
+  "morgano": {
+    "mint": "Er6jDdc4v2A7vj4bXmFsQHRECBVzkiPJuEbWy9kfpyB2",
+    "first_seen": "2026-10-26T01:49:30.147783+00:00"
+  },
+  "mg": {
+    "mint": "4YRhAdLgPM1gKqE7Tkz3NRUknV5Bdyha1CEqCjAhpump",
+    "first_seen": "2026-10-26T01:49:30.624883+00:00"
+  },
+  "maga2028": {
+    "mint": "5uXsRw3FThpUAKfwV8uNsS6WyKg376YTpYyo47Hvpump",
+    "first_seen": "2026-10-26T01:49:35.675933+00:00"
+  },
+  "bluum": {
+    "mint": "3N9sJAePxTNSP1Rbt81JEtS4NdtP6JghbWRrRqpo64Mx",
+    "first_seen": "2026-10-26T01:49:36.497086+00:00"
   }
 }
