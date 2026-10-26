@@ -72278,5 +72278,21 @@
   "meowvinci": {
     "mint": "BZQJhjGux5nFXtgb5rBVPMn8LeGEnXsCgsHztMbk9EXo",
     "first_seen": "2026-10-26T19:56:57.772481+00:00"
+  },
+  "uwa": {
+    "mint": "6ALMBj4Ps3TLV4wV2mgKixNJd4SGPCfNWpMArE5Gf1rM",
+    "first_seen": "2026-10-26T23:35:44.221237+00:00"
+  },
+  "silence": {
+    "mint": "26AJhHFfpFoGUZin9UKbu5JGqGdeYBR5mfhM3Lnupump",
+    "first_seen": "2026-10-26T23:35:44.867545+00:00"
+  },
+  "birdgpt": {
+    "mint": "DtGB6oPHeT7HwXb3Ccxh9nJDvNCJgqND6irCJw1Npump",
+    "first_seen": "2026-10-26T23:35:46.739155+00:00"
+  },
+  "halve": {
+    "mint": "EMSL2fdGMjg19xr8BsiJ3VJppafmV4NHKaDdTpbHALVE",
+    "first_seen": "2026-10-26T23:35:56.126783+00:00"
   }
 }
