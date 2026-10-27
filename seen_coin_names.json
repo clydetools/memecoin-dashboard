@@ -72342,5 +72342,29 @@
   "gtaelon": {
     "mint": "6GaNPFwUv3P7K8nzFRXLba4hnabdmrjiKofmr5Qkpump",
     "first_seen": "2026-10-27T08:12:17.200897+00:00"
+  },
+  "robodih": {
+    "mint": "F9cpszjpoP5B16bcngPbHUDuKZmWPgX3bgfPwhHXpump",
+    "first_seen": "2026-10-27T14:36:34.569962+00:00"
+  },
+  "teste": {
+    "mint": "7BqTCrJ6vYAJDyrSfTk4jGjpNpgDbukeFyqiDk4Hpump",
+    "first_seen": "2026-10-27T14:36:36.416370+00:00"
+  },
+  "vhonor": {
+    "mint": "8LFbB58G13Q8sVHpStEi8Z9MSiG2ZJPoHqq1bPEypump",
+    "first_seen": "2026-10-27T14:36:37.090016+00:00"
+  },
+  "underdog": {
+    "mint": "GfzUPkK5Pg8pMCVLomcQUJmdqD6unuHSQRwTWDpXLKZb",
+    "first_seen": "2026-10-27T14:36:40.863025+00:00"
+  },
+  "plus": {
+    "mint": "9dMWLk6qLgojs68poANui5Nj8QigMT84YLbAeZSzpump",
+    "first_seen": "2026-10-27T14:36:41.432510+00:00"
+  },
+  "darla": {
+    "mint": "7F968EUuLBzUcCzhD6FZpXaTWAybKZDkWFmwoVArcAc",
+    "first_seen": "2026-10-27T14:36:46.619160+00:00"
   }
 }
