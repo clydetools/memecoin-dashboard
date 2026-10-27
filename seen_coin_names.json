@@ -72366,5 +72366,57 @@
   "darla": {
     "mint": "7F968EUuLBzUcCzhD6FZpXaTWAybKZDkWFmwoVArcAc",
     "first_seen": "2026-10-27T14:36:46.619160+00:00"
+  },
+  "ramboo": {
+    "mint": "8hLFnGB52KkDSSF7N3porh5MqBJ5MxZvP8Z5rjadpump",
+    "first_seen": "2026-10-27T19:37:13.012650+00:00"
+  },
+  "unhinged": {
+    "mint": "Tf7nXTzA3PaiUbmrs4JrCvZsBymuY1ATzLRKgLMRgqP",
+    "first_seen": "2026-10-27T19:37:15.538472+00:00"
+  },
+  "copycall": {
+    "mint": "7wpcj45oHYt8srcEF5dLa6uEpE6MQeZ3XbcbKw6Kpump",
+    "first_seen": "2026-10-27T19:37:16.192189+00:00"
+  },
+  "ferrarinu": {
+    "mint": "2hydjMGv8gLRyhNDPWb2LHxrufcPQLL97yuq6EXpFgwy",
+    "first_seen": "2026-10-27T19:37:16.891846+00:00"
+  },
+  "peeker": {
+    "mint": "C38id2yGZ7AH1bUWp9VoToTfSaU8p7Ta8KwYpg2DkysV",
+    "first_seen": "2026-10-27T19:37:17.846678+00:00"
+  },
+  "million": {
+    "mint": "6EexT4JKLXgqNgfvdyKNtSk7mVHHqBch4zKtxi3R8jtu",
+    "first_seen": "2026-10-27T19:37:19.114260+00:00"
+  },
+  "nogge": {
+    "mint": "CBiukzjbVyhovySL6zb1MmARbdKTLGN2UyZ9zu5upump",
+    "first_seen": "2026-10-27T19:37:19.733297+00:00"
+  },
+  "frongus": {
+    "mint": "2BJDwUdMbnJhRRfhacFDjrDNhxUWdzE9H6LEND89pump",
+    "first_seen": "2026-10-27T19:37:25.698253+00:00"
+  },
+  "nivi": {
+    "mint": "E7onnMsaVP45ResuysMkvUrncoRHEGYgEVt83Qfhpump",
+    "first_seen": "2026-10-27T19:37:25.797319+00:00"
+  },
+  "toncoin": {
+    "mint": "FEGXkJzswJ2XyESpUbiW6bc2CDDGYbV8xr6Qh12Wpump",
+    "first_seen": "2026-10-27T19:37:25.915592+00:00"
+  },
+  "routed": {
+    "mint": "4xrU4Tf9MMAG19qus7jmiGzAbFM45nnTLn9DuS1PgbkQ",
+    "first_seen": "2026-10-27T19:37:27.150635+00:00"
+  },
+  "mogz": {
+    "mint": "Pmfm2RprxQRKZH1XWVsBUc2KgCTyzeDTSFbT1vJmogz",
+    "first_seen": "2026-10-27T19:37:27.700495+00:00"
+  },
+  "ber": {
+    "mint": "CqpUBhhSxHsXbq6AGPKnbxDpWgECUXAVy3BCrwhGpump",
+    "first_seen": "2026-10-27T19:37:29.515691+00:00"
   }
 }
