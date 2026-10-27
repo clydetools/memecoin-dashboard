@@ -72294,5 +72294,17 @@
   "halve": {
     "mint": "EMSL2fdGMjg19xr8BsiJ3VJppafmV4NHKaDdTpbHALVE",
     "first_seen": "2026-10-26T23:35:56.126783+00:00"
+  },
+  "kunaki": {
+    "mint": "GE7FbFiDdvdzmwArthVQcJiUA1cJ8KLCwu2jzUcnpump",
+    "first_seen": "2026-10-27T02:24:37.321085+00:00"
+  },
+  "dmaga2028": {
+    "mint": "HZFrwE8NrqehL54sG5ob9L3kUTSSUVSyS5E7PHUPpump",
+    "first_seen": "2026-10-27T02:24:41.937460+00:00"
+  },
+  "mochimaru": {
+    "mint": "2mjPUpTsSrHwQHQqDGHTnJBumzdRSnj1YyJvU7smaELg",
+    "first_seen": "2026-10-27T02:24:42.945973+00:00"
   }
 }
