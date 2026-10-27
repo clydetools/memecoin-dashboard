@@ -72418,5 +72418,45 @@
   "ber": {
     "mint": "CqpUBhhSxHsXbq6AGPKnbxDpWgECUXAVy3BCrwhGpump",
     "first_seen": "2026-10-27T19:37:29.515691+00:00"
+  },
+  "mito": {
+    "mint": "EuvmUVkwVKGoBPNu5yfhWZFxxsN3cmLpBWCQPSHZpump",
+    "first_seen": "2026-10-27T23:08:59.227617+00:00"
+  },
+  "mothado": {
+    "mint": "BtM6yvMeqZ9ZHdeEJRcep9EnaZm6qGWCEwz9t8hapump",
+    "first_seen": "2026-10-27T23:08:59.848425+00:00"
+  },
+  "trumptv": {
+    "mint": "FHJdwCXgXo4GnWmUFVJNZiLxzaJ58oivtnkFLsg4pump",
+    "first_seen": "2026-10-27T23:09:01.563109+00:00"
+  },
+  "pillwarrior": {
+    "mint": "H2eF4uXTCSeyn8suD7idYp2284sffu1iJvGfMXNNpump",
+    "first_seen": "2026-10-27T23:09:02.160067+00:00"
+  },
+  "solace": {
+    "mint": "EYZJ2v7zemMMEVQAwnDPPcmUY27zEHzciWRrHTPWpump",
+    "first_seen": "2026-10-27T23:09:03.772717+00:00"
+  },
+  "pfghost": {
+    "mint": "zTqPs4QxJipTg45Z68ZwxVCMHfxhNXNd5Jf12aTGAYo",
+    "first_seen": "2026-10-27T23:09:09.551098+00:00"
+  },
+  "bowen": {
+    "mint": "CsfP8EeMcKYpgsBksrh8z7KkE3gMcovJMKhNwL2ipyM8",
+    "first_seen": "2026-10-27T23:09:09.672129+00:00"
+  },
+  "stonkz": {
+    "mint": "Bx11Wc4KS14g71SzpD2QSBL6T3XQkgFFai5eRUYVehR",
+    "first_seen": "2026-10-27T23:09:09.804629+00:00"
+  },
+  "harmonic": {
+    "mint": "7Lu8A23tTcjKJt1tiFhtEVeey2tbZyQEQ9GuZAxeW7pf",
+    "first_seen": "2026-10-27T23:09:11.035061+00:00"
+  },
+  "moonx": {
+    "mint": "28vWTtEwxoWp5MpHutAMSK5DeVf8xXk8jEEtbrtppump",
+    "first_seen": "2026-10-27T23:09:14.098728+00:00"
   }
 }
