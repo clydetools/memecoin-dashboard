@@ -72510,5 +72510,41 @@
   "loongcat": {
     "mint": "GVRtEJN3g79tEGdHMWC1FCjvSXc6asYThjAdXkUKokk1",
     "first_seen": "2026-10-28T15:28:10.709164+00:00"
+  },
+  "lung": {
+    "mint": "2DkaUqJdLU59VcXgaeFGVEQANyN8uhik5xWyKq5LB4aS",
+    "first_seen": "2026-10-28T20:29:01.006030+00:00"
+  },
+  "hinoki": {
+    "mint": "HRNbNypJ1V7Xy859E7dCY2FA1Rcc5kYAC99NS4Hrpump",
+    "first_seen": "2026-10-28T20:29:07.675245+00:00"
+  },
+  "grow": {
+    "mint": "3oGCs2UzBgggbDbyzRZQATYzHGa8ge24C1e4EqpxU1sG",
+    "first_seen": "2026-10-28T20:29:08.790169+00:00"
+  },
+  "dubble": {
+    "mint": "FEXGegqeVm5vZurqyC7qsmkLqWspVV1ACb9bbLvcpump",
+    "first_seen": "2026-10-28T20:29:15.718360+00:00"
+  },
+  "workr": {
+    "mint": "ESvM3LJuJD7d94nR2KRRfCSsKsgtUhbPe9u38z7vpump",
+    "first_seen": "2026-10-28T20:29:15.811020+00:00"
+  },
+  "refrigerator": {
+    "mint": "D3XYLErK4f8xszFDwuCZy4PzYxz64iHkEZ24bYiHpump",
+    "first_seen": "2026-10-28T20:29:15.871818+00:00"
+  },
+  "refrigera": {
+    "mint": "7czSi5DjvHDMWb6dpGsWGR4JYcuHXzrrkKh1fZNpoGic",
+    "first_seen": "2026-10-28T20:29:16.356101+00:00"
+  },
+  "fbit": {
+    "mint": "5uJ8rkiqEs5uzERCqVw9a1eC6BkP54MZAF3D229dyoME",
+    "first_seen": "2026-10-28T20:29:16.895997+00:00"
+  },
+  "hermit": {
+    "mint": "ASX4GtetW337jwG2rLZaU84eY64rRCoWbf63yXQepump",
+    "first_seen": "2026-10-28T20:29:18.436885+00:00"
   }
 }
