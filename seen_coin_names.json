@@ -72602,5 +72602,29 @@
   "podcat": {
     "mint": "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump",
     "first_seen": "2026-10-29T05:56:02.387940+00:00"
+  },
+  "shoku": {
+    "mint": "HpHHNhYFbv7hCRoqvwgSKWXn2bHRBbsNq1yCo4D3yqFM",
+    "first_seen": "2026-10-29T12:15:20.359665+00:00"
+  },
+  "nearonpump": {
+    "mint": "GWFn87ajrQX8Jcxy35Vw24EaXLPTiEsVbogpK6eupump",
+    "first_seen": "2026-10-29T12:15:20.852002+00:00"
+  },
+  "politipad": {
+    "mint": "EYxvMaNActnPXsJ51BS9h9hwQhaq68Cw1WSaWnMwFv7h",
+    "first_seen": "2026-10-29T12:15:21.333018+00:00"
+  },
+  "multi": {
+    "mint": "9XwcqFsLTshVo7QwWyNmjVBsB982EW9C4YotSbpoxYYi",
+    "first_seen": "2026-10-29T12:15:25.653122+00:00"
+  },
+  "oren": {
+    "mint": "H76JJtoc5ixZRWp1q8QevwJeEikUAfGSRFVs5B84AVZx",
+    "first_seen": "2026-10-29T12:15:25.889392+00:00"
+  },
+  "dessa": {
+    "mint": "Fr2X5LzLsGKWNnoUXEF6X4VS7S2JY4iyvq2FJFzELPvv",
+    "first_seen": "2026-10-29T12:15:26.625124+00:00"
   }
 }
