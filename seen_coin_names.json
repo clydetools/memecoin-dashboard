@@ -72546,5 +72546,33 @@
   "hermit": {
     "mint": "ASX4GtetW337jwG2rLZaU84eY64rRCoWbf63yXQepump",
     "first_seen": "2026-10-28T20:29:18.436885+00:00"
+  },
+  "microhard": {
+    "mint": "4nAR9HdYJ9CR7exHegc5utxKQgxmmiuKLa9gTxQfaJZW",
+    "first_seen": "2026-10-29T00:15:28.502517+00:00"
+  },
+  "dop": {
+    "mint": "BJ3W5RKqcmUDxDbM6m6jbhSaX2y8htrvPy3Fxgrzpump",
+    "first_seen": "2026-10-29T00:15:35.141441+00:00"
+  },
+  "polygone": {
+    "mint": "BFFfycqk7f3rWoV5JVFSzxBszr6ZwdkSKfVADrZdpump",
+    "first_seen": "2026-10-29T00:15:35.257408+00:00"
+  },
+  "catculus": {
+    "mint": "AfPhjrZx3oyh38G28ZVViP4p7h53N5kTxEeg5tzhpump",
+    "first_seen": "2026-10-29T00:15:35.313270+00:00"
+  },
+  "bio909": {
+    "mint": "BnzoPxDyv8RnsRhvyP3EFoEwsRhKJfwNF9iXN3Skpump",
+    "first_seen": "2026-10-29T00:15:35.710184+00:00"
+  },
+  "floater": {
+    "mint": "6pjRwzGg2QS1VSf6Z4TQZwyMxUysrUajkRmbbQ89P6KG",
+    "first_seen": "2026-10-29T00:15:37.028819+00:00"
+  },
+  "hound": {
+    "mint": "DTdnYsQe2PDfrFhtXrXSRgJTxSjav8Z3exMxs3RWpump",
+    "first_seen": "2026-10-29T00:15:37.722570+00:00"
   }
 }
