@@ -72574,5 +72574,33 @@
   "hound": {
     "mint": "DTdnYsQe2PDfrFhtXrXSRgJTxSjav8Z3exMxs3RWpump",
     "first_seen": "2026-10-29T00:15:37.722570+00:00"
+  },
+  "zcash": {
+    "mint": "2wvmMQgZh8Jm2kMM89ocH8KxZ7rrKsuRvUp9YD7qddxw",
+    "first_seen": "2026-10-29T05:55:54.356276+00:00"
+  },
+  "cybertruck": {
+    "mint": "8EmYZp5ApBzjwttVnsdpZbc2gSgfsavnh69N4dnYpump",
+    "first_seen": "2026-10-29T05:55:54.808484+00:00"
+  },
+  "dogzilla": {
+    "mint": "39jRVxwZjvHcugxMwtgz3izR5nan26tGHkJY9fZGmQRk",
+    "first_seen": "2026-10-29T05:55:55.210368+00:00"
+  },
+  "aisi": {
+    "mint": "8edFdoB572uooTmNaCbFwozsoMYH2mYpXa5gsPUVqa3b",
+    "first_seen": "2026-10-29T05:55:59.572232+00:00"
+  },
+  "japro": {
+    "mint": "8KyPFm21cDpoJZfBCekHfKmd9kY5CKzGvPHbaf55cm3g",
+    "first_seen": "2026-10-29T05:56:00.097831+00:00"
+  },
+  "macstudio": {
+    "mint": "3wnDgF945rJAyJrn7sLMF6GbtLkvp75uC6sVpodAptaL",
+    "first_seen": "2026-10-29T05:56:01.043382+00:00"
+  },
+  "podcat": {
+    "mint": "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump",
+    "first_seen": "2026-10-29T05:56:02.387940+00:00"
   }
 }
