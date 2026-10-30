@@ -72666,5 +72666,25 @@
   "polyhacked": {
     "mint": "6FvMhHrcDiogqHxB3D1CHzXcShTTyu7xZ2t5Sy4Xpump",
     "first_seen": "2026-10-29T18:31:58.432629+00:00"
+  },
+  "hyperpad": {
+    "mint": "9WU7XCNy6jGPzxmLYWAysWkz4TXqTVKFprBcnkdaW13k",
+    "first_seen": "2026-10-30T02:26:56.813323+00:00"
+  },
+  "hypepe": {
+    "mint": "G8TdzgpUQXQAxJvarNKPXRGv2kh9CsJDK7dCC7Xupump",
+    "first_seen": "2026-10-30T02:26:56.891037+00:00"
+  },
+  "swan": {
+    "mint": "81DkFe2kCehvD6G8ePmCaw1BmxDYW5oniPBZzkYyc1X",
+    "first_seen": "2026-10-30T02:26:57.032051+00:00"
+  },
+  "zcashier": {
+    "mint": "HLDWrErFhvWBhJgU2jAraYVAQJgmje4bf3sUcyDNXSbb",
+    "first_seen": "2026-10-30T02:26:57.153076+00:00"
+  },
+  "zeroday": {
+    "mint": "6rg9GdCro19d2sz79mhix5pLJjSwn8RTCjZvG4Wecnj",
+    "first_seen": "2026-10-30T02:26:58.752552+00:00"
   }
 }
