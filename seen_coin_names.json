@@ -72774,5 +72774,17 @@
   "bonnie": {
     "mint": "951SCVym2Hd7KYprJ5UCCXXEKEm4bGQ6riiuAjPCpump",
     "first_seen": "2026-10-30T20:05:18.462330+00:00"
+  },
+  "tolls": {
+    "mint": "8TDrYnyoi8A9eSsJt9syhumh5hkcCXN5tLHWLqkkpump",
+    "first_seen": "2026-10-30T23:41:17.096678+00:00"
+  },
+  "venticai": {
+    "mint": "9nsU2BQXE9xA5yckGQCjLihJdurmSiXcX1vqqeLzpump",
+    "first_seen": "2026-10-30T23:41:21.775409+00:00"
+  },
+  "wendys": {
+    "mint": "FTsXwUqoR9E1gqVQdrLn7zgpCvPQWsCoexaqba5679LX",
+    "first_seen": "2026-10-30T23:41:28.259310+00:00"
   }
 }
