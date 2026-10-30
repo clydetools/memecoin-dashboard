@@ -72710,5 +72710,41 @@
   "hexn": {
     "mint": "ANVLA6eKiAq4nstD2Sg3SZhfVkSEwfnGccn12UQWpump",
     "first_seen": "2026-10-30T08:52:18.962875+00:00"
+  },
+  "555agu": {
+    "mint": "C7TBwNyyxGTZFBabdkdEQpFGwxkV532XFWG3zeEhpump",
+    "first_seen": "2026-10-30T15:30:51.764237+00:00"
+  },
+  "hacked": {
+    "mint": "3NtFNwDSYG4Nacm4cadUxnaxAZ3CmAx3WNgjweLBpump",
+    "first_seen": "2026-10-30T15:30:52.343395+00:00"
+  },
+  "1029": {
+    "mint": "4dUWvarQJBT7rQKKu2dbJE54BuahAUzQLmtxGc2Kz7rw",
+    "first_seen": "2026-10-30T15:30:52.864179+00:00"
+  },
+  "fibt": {
+    "mint": "4Eu9uN8EXnuT5tpjbBGCxBzUjBXBn9SYEzG3rbUPWZAR",
+    "first_seen": "2026-10-30T15:30:54.840203+00:00"
+  },
+  "elontroll": {
+    "mint": "FhdqbRJgDnsxHS4mcY5YpuezTFysbPyDzLXrthyBpump",
+    "first_seen": "2026-10-30T15:30:59.912280+00:00"
+  },
+  "gigalon": {
+    "mint": "5dK3btL1YwaE18wNSh4vUGNNpDUdQtbXn9PT8C9Upump",
+    "first_seen": "2026-10-30T15:31:00.454481+00:00"
+  },
+  "catpad": {
+    "mint": "2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1",
+    "first_seen": "2026-10-30T15:31:00.645151+00:00"
+  },
+  "glitch": {
+    "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
+    "first_seen": "2026-10-30T15:31:02.306191+00:00"
+  },
+  "tradertraitor": {
+    "mint": "3XLTWYyHxpAdbP1fjfTz9TBZp9Dhq4A6KWNarHMkGHQb",
+    "first_seen": "2026-10-30T15:31:02.733931+00:00"
   }
 }
