@@ -72746,5 +72746,33 @@
   "tradertraitor": {
     "mint": "3XLTWYyHxpAdbP1fjfTz9TBZp9Dhq4A6KWNarHMkGHQb",
     "first_seen": "2026-10-30T15:31:02.733931+00:00"
+  },
+  "sabereat": {
+    "mint": "4bcNnhTorL7SoiwMskKQpwmptqqhXaKSYco75wampump",
+    "first_seen": "2026-10-30T20:04:58.407771+00:00"
+  },
+  "wispr": {
+    "mint": "chV9Pqpa3fHFXiuyKPvP5kD4NfwJSnx8L7qi8Q1pump",
+    "first_seen": "2026-10-30T20:05:04.141730+00:00"
+  },
+  "mashu": {
+    "mint": "AR7YYWUP4KS9hTCNKA1sUmxAqC4BuYKHGifg5qjXpump",
+    "first_seen": "2026-10-30T20:05:08.460973+00:00"
+  },
+  "r1": {
+    "mint": "8oFE6V8MhwU7DJB1vZzziWGzgKakUfkbWSb6C7appump",
+    "first_seen": "2026-10-30T20:05:14.567018+00:00"
+  },
+  "safu": {
+    "mint": "DGk74MpbZyCEGQV1wTFzzvPyUPBHVcnh9qQeexHAZhjj",
+    "first_seen": "2026-10-30T20:05:14.654918+00:00"
+  },
+  "tygr": {
+    "mint": "9RV5RJSYvafSw728qL3uEwy7W6nKzySPYuNf4bXFfGUx",
+    "first_seen": "2026-10-30T20:05:15.690554+00:00"
+  },
+  "bonnie": {
+    "mint": "951SCVym2Hd7KYprJ5UCCXXEKEm4bGQ6riiuAjPCpump",
+    "first_seen": "2026-10-30T20:05:18.462330+00:00"
   }
 }
