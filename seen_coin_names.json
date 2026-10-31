@@ -72810,5 +72810,65 @@
   "fagent": {
     "mint": "Sei8QZTyfzodky58f5v4VrpWeupVsnzB8zvQ6URtokF",
     "first_seen": "2026-10-31T15:07:58.980971+00:00"
+  },
+  "anakin": {
+    "mint": "CgL4P2v4Mx3Fp8XXDr6vBSjdzFd8zYZqsAPSzGrmBYRZ",
+    "first_seen": "2026-10-31T19:15:52.216999+00:00"
+  },
+  "heilon": {
+    "mint": "FisFJTkeqeyazUs9bNBUUKCz7ndMimh4hvR73AjnexGF",
+    "first_seen": "2026-10-31T19:15:52.812887+00:00"
+  },
+  "hackertube": {
+    "mint": "5n3VLXrdrAPqM5XEfe29hqiD8eEn7CxXb5Q5jBLxpump",
+    "first_seen": "2026-10-31T19:15:58.149653+00:00"
+  },
+  "fafa": {
+    "mint": "FPwLC61h6QGECQaEiQyTcK2q4vsKbmnq5tucvuTnWA9r",
+    "first_seen": "2026-10-31T19:16:03.580226+00:00"
+  },
+  "sheepcoin": {
+    "mint": "DGVr5cP3rqmQN43x1pkGSK7rpvf5xQ6eyQakna1J8EpM",
+    "first_seen": "2026-10-31T19:16:08.453815+00:00"
+  },
+  "ubers": {
+    "mint": "48pb5jZHr4Eb3n32BVMZ6z4eZsJYAbYtBKiesWDowVaP",
+    "first_seen": "2026-10-31T19:16:13.647348+00:00"
+  },
+  "dracucat": {
+    "mint": "Av9PJweJ17qYAGJAPPJgZ675j946pEiPCUEq19KFhFQV",
+    "first_seen": "2026-10-31T19:16:15.891768+00:00"
+  },
+  "lvt": {
+    "mint": "ByotXoY9DksDobbMWDD6FdqUsgNUkz6bVF9S3XEN81Qk",
+    "first_seen": "2026-10-31T19:16:19.677599+00:00"
+  },
+  "hallon": {
+    "mint": "DudFoFRNCq93eALA6vTZuVxdceu7VaD4mXpZwAPmbc4f",
+    "first_seen": "2026-10-31T19:16:22.888273+00:00"
+  },
+  "ivor": {
+    "mint": "88EZYa2D8QYUCTHRTR7VAoRVMdudzYQcAnA8Bu24pump",
+    "first_seen": "2026-10-31T19:16:31.920947+00:00"
+  },
+  "sandmann": {
+    "mint": "6Tn4LLJZGLeghgqetLgMBn5neDdMBk7WvuvhUf2jLFM5",
+    "first_seen": "2026-10-31T19:16:32.434354+00:00"
+  },
+  "foco": {
+    "mint": "7ttfwuBSnbNTgf32gUAT7v9bjdDWsn6pYpp7nmGmpump",
+    "first_seen": "2026-10-31T19:16:38.328213+00:00"
+  },
+  "shrp": {
+    "mint": "41JfZ6NBEB8zv2kRyKbprqucT4ZwmYLDCAh9hvyU1UDm",
+    "first_seen": "2026-10-31T19:16:38.434549+00:00"
+  },
+  "aaplcat": {
+    "mint": "GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump",
+    "first_seen": "2026-10-31T19:16:38.481314+00:00"
+  },
+  "pumpkaboo": {
+    "mint": "Dd1pcecKFRcLNMhgxSX28Q9zSZNR8UwHMbAuSQiA3Eht",
+    "first_seen": "2026-10-31T19:16:38.907380+00:00"
   }
 }
