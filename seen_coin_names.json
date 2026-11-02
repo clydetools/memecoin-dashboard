@@ -73034,5 +73034,33 @@
   "beachball": {
     "mint": "3fMeC3iQZqAc7pMGBcJGk1vNBxVwYzumo22mqiGTHzpZ",
     "first_seen": "2026-11-02T02:04:35.822275+00:00"
+  },
+  "rugsignal": {
+    "mint": "AzHB111uUAL8LKEARGA6Fm6KQruGjEwZsi5zQ6BtgMsi",
+    "first_seen": "2026-11-02T08:59:39.517649+00:00"
+  },
+  "foundrypad": {
+    "mint": "CWTS7ABeTxJSXGu1xTTmRpD423rv7SEKAePHnpiDjyDW",
+    "first_seen": "2026-11-02T08:59:41.160411+00:00"
+  },
+  "nukey": {
+    "mint": "7zbTLGntsZhqYdNHT2H4RCdrVq8aY6HEPLzFqfjE2ejx",
+    "first_seen": "2026-11-02T08:59:47.605926+00:00"
+  },
+  "wwiii": {
+    "mint": "2FxkceUsbVJDNswDYGmLpH47VzkfydQQaicCAp8pvfTS",
+    "first_seen": "2026-11-02T08:59:47.656319+00:00"
+  },
+  "helmet": {
+    "mint": "4hrJikyDx93dtd7H3jVhidL5Lqr2r9p3c8atzCDpuR1T",
+    "first_seen": "2026-11-02T08:59:48.215106+00:00"
+  },
+  "catori": {
+    "mint": "FDwCosavNvMiFB812ajJp3gG7eZ9c4bpgcnY6fDQpump",
+    "first_seen": "2026-11-02T08:59:49.069794+00:00"
+  },
+  "movember": {
+    "mint": "DTVcrMAEMwpSSBvu6W7P3BLZsRhFZb6bSzARFDqobfCT",
+    "first_seen": "2026-11-02T08:59:50.432377+00:00"
   }
 }
