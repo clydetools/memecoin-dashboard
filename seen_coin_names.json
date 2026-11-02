@@ -73122,5 +73122,9 @@
   "mando": {
     "mint": "FAqiaGmrSdx2Z5qZmSRUkbyYCF2dFCUTfYVwP4Mypump",
     "first_seen": "2026-11-02T09:22:48.914439+00:00"
+  },
+  "pennypump": {
+    "mint": "7d94CiXzEMmYEf9dpdTA3TJwiy1FCriD9qC1jiNppump",
+    "first_seen": "2026-11-02T09:29:50.276675+00:00"
   }
 }
