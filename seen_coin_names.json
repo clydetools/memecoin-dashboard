@@ -73094,5 +73094,13 @@
   "warcoin": {
     "mint": "H86pLyqzZMim3pxrC29YWsMKoxL6xGFM1nQyVtyRpump",
     "first_seen": "2026-11-02T09:10:02.170765+00:00"
+  },
+  "oilcoin": {
+    "mint": "FCQ4a4DCsiiJwRTGBt3Xoi1PqUkT58RNWy3Whf9Cz8Vq",
+    "first_seen": "2026-11-02T09:19:53.601664+00:00"
+  },
+  "muskx": {
+    "mint": "fX7VS1fmMMXH1gNof4TWMJYEsLfNcuF1LqhidYYpump",
+    "first_seen": "2026-11-02T09:19:53.702286+00:00"
   }
 }
