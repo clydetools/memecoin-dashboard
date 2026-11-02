@@ -73134,5 +73134,33 @@
   "rhea": {
     "mint": "FsDE8StxVYEA2WKwJiS6bMchG7ZFTrDDQs3m94tAVxGw",
     "first_seen": "2026-11-02T09:39:41.874246+00:00"
+  },
+  "ishicoin": {
+    "mint": "CKK5kvvindNpneLvZggHNUyKZ9rKgDEfTQ3TtCxQC6uV",
+    "first_seen": "2026-11-02T19:40:16.898857+00:00"
+  },
+  "hare": {
+    "mint": "HHB9MmYjSyL3biqPnqJ212soGtgErT9ibg678JHRtJXa",
+    "first_seen": "2026-11-02T19:40:17.603532+00:00"
+  },
+  "lilyup": {
+    "mint": "E4bSuKzMDdURmLw3bsGHKz6CEhMXpcuHDYqMj5tEpump",
+    "first_seen": "2026-11-02T19:40:18.063311+00:00"
+  },
+  "realtrump": {
+    "mint": "65qMXaBMqqRZfWGndg9oiQw3MRjhsgBd26VSaTY7pump",
+    "first_seen": "2026-11-02T19:40:18.491875+00:00"
+  },
+  "susie": {
+    "mint": "Eh4KQ69ywcYUA4cD3YWMeoZzCQCGPp77pisk16g6quUT",
+    "first_seen": "2026-11-02T19:40:19.715079+00:00"
+  },
+  "capytistas": {
+    "mint": "xRtT8q7g7NsAnbTgvCtim8jtxKVVc5epoLoAYmqpump",
+    "first_seen": "2026-11-02T19:40:27.710726+00:00"
+  },
+  "learjet": {
+    "mint": "8Wi25nQhEay9KwAsoguEs3y1uxaJmCRQxRYnSY9dpump",
+    "first_seen": "2026-11-02T19:40:30.188258+00:00"
   }
 }
