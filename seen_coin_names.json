@@ -73334,5 +73334,13 @@
   "huley": {
     "mint": "D2Q7T18q7UUBi3rccPQKm45XbY34qkEkvsVMQr9Xpump",
     "first_seen": "2026-11-03T11:09:50.186539+00:00"
+  },
+  "poplar": {
+    "mint": "CAZBGEWiVSeuNLkoQTQESXs3dcMJeLvjR8oA3J3gpump",
+    "first_seen": "2026-11-03T11:19:44.865465+00:00"
+  },
+  "pupdump": {
+    "mint": "36T2NF8nbRKVpB6dk3mwNL1EVKWFY4a3mt8Dv2Vxpump",
+    "first_seen": "2026-11-03T11:19:46.140530+00:00"
   }
 }
