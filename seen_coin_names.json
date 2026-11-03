@@ -73250,5 +73250,21 @@
   "flowfi": {
     "mint": "5pQPh2EBz3tSUcqig9jGY73u4hNrhiiiLtYQSHaqFLow",
     "first_seen": "2026-11-03T10:09:47.077551+00:00"
+  },
+  "trumpdump": {
+    "mint": "2NVssywiLrL44MWUsK3dGq5M22bNLpVAwGcMKwJHpump",
+    "first_seen": "2026-11-03T10:19:40.618532+00:00"
+  },
+  "stnkperps": {
+    "mint": "7YVYEpEwSXBhyaXhVEsj2yQgduVpoQ5fTqiJ6Jn8pump",
+    "first_seen": "2026-11-03T10:19:41.106032+00:00"
+  },
+  "snoopwav": {
+    "mint": "6Z5uq59rUcbSCXhnPY53vYQVFrc5eMxFqMBKFmiqpump",
+    "first_seen": "2026-11-03T10:19:45.449182+00:00"
+  },
+  "fotf": {
+    "mint": "M5UUNUgRfpBcPdpw8RgV2T8Dxa8pLmrxHgBVeRqpump",
+    "first_seen": "2026-11-03T10:19:45.563597+00:00"
   }
 }
