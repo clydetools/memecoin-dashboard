@@ -73286,5 +73286,17 @@
   "frek": {
     "mint": "4QTKbj4tnPTWFUa8wtMhWkafc9vT1h2yhiZuQeQHpump",
     "first_seen": "2026-11-03T10:29:46.017149+00:00"
+  },
+  "northkorea": {
+    "mint": "4qQxSXxvm2ASDjuTDmkSaZYqcvMWFAAGgkbRurpFpump",
+    "first_seen": "2026-11-03T10:39:39.838054+00:00"
+  },
+  "vowpad": {
+    "mint": "8W26M7dyZMbwQ1tgtoPc5FCqcFdEX8n9E2uZ9iNXW2fS",
+    "first_seen": "2026-11-03T10:39:40.808734+00:00"
+  },
+  "zksnake": {
+    "mint": "Dsr5GTegZh6Do4XCu7Y95oGGZk4bfW5D7XXHFe5bpump",
+    "first_seen": "2026-11-03T10:39:41.619894+00:00"
   }
 }
