@@ -73314,5 +73314,13 @@
   "gta67": {
     "mint": "EAjLKXkzzuX8JuDknyCpbbKh98ExjEPqRTkuP24Hpump",
     "first_seen": "2026-11-03T10:49:43.665566+00:00"
+  },
+  "inucrypted": {
+    "mint": "GzLjMxWoBRKoJSABUPX3A695QCmczDBmskQbciLsWTVb",
+    "first_seen": "2026-11-03T10:59:39.892962+00:00"
+  },
+  "zkshark": {
+    "mint": "Gvdexfi4GMvWiTqneBwo7bqKqxSMkNtTtdhXr7FfY3Ue",
+    "first_seen": "2026-11-03T10:59:46.890878+00:00"
   }
 }
