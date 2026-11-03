@@ -73370,5 +73370,21 @@
   "xten": {
     "mint": "FKkoKzEuujTgmsQKKKDwu6NggehiUiYAhepRgvz2SU6p",
     "first_seen": "2026-11-03T11:39:44.988768+00:00"
+  },
+  "rugmarket": {
+    "mint": "5HfrGnhJ3SFPaX55BdTwXhY6M1gcrARVgsn2HQNtpump",
+    "first_seen": "2026-11-03T11:49:37.939388+00:00"
+  },
+  "batoncorp": {
+    "mint": "51PVj9GBb2xbtGNC9HUrgcQ5tDaSuTj6wymEtXMXXUjA",
+    "first_seen": "2026-11-03T11:49:39.141407+00:00"
+  },
+  "thrqe": {
+    "mint": "yNyeM86S29aTYQ7XK4WPd1XFNSnb5NaUscCqdC2pump",
+    "first_seen": "2026-11-03T11:49:39.750901+00:00"
+  },
+  "zpdf": {
+    "mint": "4zEC7JAQ54K79W3PfDenjotnHvv6f2GtcyHYzY2Mpump",
+    "first_seen": "2026-11-03T11:49:40.354019+00:00"
   }
 }
