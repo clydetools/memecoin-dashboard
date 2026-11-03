@@ -73298,5 +73298,21 @@
   "zksnake": {
     "mint": "Dsr5GTegZh6Do4XCu7Y95oGGZk4bfW5D7XXHFe5bpump",
     "first_seen": "2026-11-03T10:39:41.619894+00:00"
+  },
+  "gtacity": {
+    "mint": "5vgTW8ixwKE7EVRLATSDENXhy9X4KRPUohq2yV6ipump",
+    "first_seen": "2026-11-03T10:49:37.421501+00:00"
+  },
+  "gta6ammo": {
+    "mint": "B5ykyqy9sRgaCFu9zS7hU6t97ujebtkhU376eikzzDvT",
+    "first_seen": "2026-11-03T10:49:37.940602+00:00"
+  },
+  "zksnark": {
+    "mint": "8nn5rDpWhn3saPv1nvKXSPxmS2cUWSifw6FCU2GpyM49",
+    "first_seen": "2026-11-03T10:49:38.407744+00:00"
+  },
+  "gta67": {
+    "mint": "EAjLKXkzzuX8JuDknyCpbbKh98ExjEPqRTkuP24Hpump",
+    "first_seen": "2026-11-03T10:49:43.665566+00:00"
   }
 }
