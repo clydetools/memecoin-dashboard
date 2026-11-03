@@ -73394,5 +73394,13 @@
   "mogmas": {
     "mint": "GFwtmaFemq2qp6nwwCZ6rrjKU9vSjZfR1M3HR723fAb7",
     "first_seen": "2026-11-03T11:59:46.134964+00:00"
+  },
+  "diggers": {
+    "mint": "8opHf1r3Y79uXEzZ1KLQ82zFXTJaSiDyHuZ3SteNpump",
+    "first_seen": "2026-11-03T12:09:37.805198+00:00"
+  },
+  "wtc": {
+    "mint": "BxBv9wrdWrKpBD8jSHru675yQRueKyVDFDj8wug2pump",
+    "first_seen": "2026-11-03T12:09:45.060359+00:00"
   }
 }
