@@ -73590,5 +73590,25 @@
   "vi": {
     "mint": "FpWWSqLNrjTTMDM41EXkvBmHBDkNdWrf9RwHL57xpump",
     "first_seen": "2026-11-04T16:56:22.058374+00:00"
+  },
+  "pbear": {
+    "mint": "EV2SxT6bBeHhJLhXXCkzgQpZfEoJUazdoGE61Bmtpump",
+    "first_seen": "2026-11-04T22:24:48.596887+00:00"
+  },
+  "lametrump": {
+    "mint": "4A4qo4iZK6KZi2bEh4mQUimEi6VUfLPHtsD7tkGGAAxe",
+    "first_seen": "2026-11-04T22:24:49.148562+00:00"
+  },
+  "lameduck": {
+    "mint": "FEKaRgQhnZ4MYnHmK5svbPcCw3E8cdBiYdHwWqkx8ePn",
+    "first_seen": "2026-11-04T22:24:51.711830+00:00"
+  },
+  "bgl": {
+    "mint": "89AHYUPa2HAjbZnCZxXdZeTwe6VNUcpajFuPW3F3pump",
+    "first_seen": "2026-11-04T22:24:52.271431+00:00"
+  },
+  "high": {
+    "mint": "7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh",
+    "first_seen": "2026-11-04T22:25:42.817526+00:00"
   }
 }
