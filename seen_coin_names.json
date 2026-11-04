@@ -73482,5 +73482,45 @@
   "vans": {
     "mint": "GjMtxWny6SWNcetcGxugw2QyhYhke33J6i7R2r3Epump",
     "first_seen": "2026-11-03T21:58:28.522027+00:00"
+  },
+  "privatefun": {
+    "mint": "DC77vJKHNUbtxJXJ9G6GAobeJJysM2cqy6nhDB6wiwNb",
+    "first_seen": "2026-11-04T02:00:35.146910+00:00"
+  },
+  "rtir": {
+    "mint": "6jhXKNLchbHPyWQnHQUtRKmSBjs2Bmjng71mpEznpump",
+    "first_seen": "2026-11-04T02:00:36.956377+00:00"
+  },
+  "sknots": {
+    "mint": "23Y2K62K7k6XYrHn19bagSfdt6e7k3MBzuCMa1bmzQGk",
+    "first_seen": "2026-11-04T02:00:37.552364+00:00"
+  },
+  "doglion": {
+    "mint": "He2B9CRwYc1iWHfHm1eBh6jJoRHQ5Ptm8yu4hSkYT6ZK",
+    "first_seen": "2026-11-04T02:00:38.194279+00:00"
+  },
+  "gadget": {
+    "mint": "Bck1YuCjYLHEXGfUzXEwYyYeP58QF2xymt8zh8un8HMQ",
+    "first_seen": "2026-11-04T02:00:38.849292+00:00"
+  },
+  "bkite": {
+    "mint": "GKoMwoiRc1nomgoJG3koVYs5E5yVQ6JqYRGFcptKqhHB",
+    "first_seen": "2026-11-04T02:00:40.581829+00:00"
+  },
+  "other": {
+    "mint": "AeRFn3vi8BBYRt55i8T7riuG5MrBzCCkRGSHU7SWkbTN",
+    "first_seen": "2026-11-04T02:00:45.759756+00:00"
+  },
+  "downald": {
+    "mint": "EiqNgtwFzHqTEa3UV57s2x4svjJF59URgBqnG3sCpump",
+    "first_seen": "2026-11-04T02:00:45.946682+00:00"
+  },
+  "politician": {
+    "mint": "92DNWPmykj86ZkFj3i57pkxXxqjSBVi2WnDNS6oeKHoj",
+    "first_seen": "2026-11-04T02:00:47.335781+00:00"
+  },
+  "wtail": {
+    "mint": "HBFxk72r4xVqhT8yK8ZFXEEGvpfkoeeSTQXiewZP7SZM",
+    "first_seen": "2026-11-04T02:00:48.272004+00:00"
   }
 }
