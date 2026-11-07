@@ -73806,5 +73806,21 @@
   "seashell": {
     "mint": "9qBHKhQj467ka3dZ1EVjxPFmb4nMfW1zv8tGwSGZGUeX",
     "first_seen": "2026-11-06T22:26:34.907585+00:00"
+  },
+  "scambum": {
+    "mint": "JAyTBs767XECGew7uWZPdBsd4jBXouCEsfcdQio8pump",
+    "first_seen": "2026-11-07T02:10:31.915816+00:00"
+  },
+  "loansharks": {
+    "mint": "9Ed2Pppk8qH6b5mL8nHy83chJa2H327DLcNHmC87pump",
+    "first_seen": "2026-11-07T02:10:32.625915+00:00"
+  },
+  "scamcoin": {
+    "mint": "7dMmESnhGePXAmzT28KPmHPu2Cs2cMomd6tm6bHPPtJj",
+    "first_seen": "2026-11-07T02:10:39.493259+00:00"
+  },
+  "kilroy": {
+    "mint": "CFYhdWXsYfS7swnJgHRwb5toTHMEQD7Ljd5gGwKLpump",
+    "first_seen": "2026-11-07T02:10:40.923731+00:00"
   }
 }
