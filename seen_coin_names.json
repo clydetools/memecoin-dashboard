@@ -74030,5 +74030,21 @@
   "stoke": {
     "mint": "5BeD1Uc3Rz2Eha5FqGEnVUpGRNRk8khkXLXQNxynPyTx",
     "first_seen": "2026-11-08T20:00:13.372935+00:00"
+  },
+  "wpwr": {
+    "mint": "CWv5kZMkARrfg4uSYQW3sUu53mcyZzBLaVQKVMFtpump",
+    "first_seen": "2026-11-08T23:37:16.701700+00:00"
+  },
+  "rugai": {
+    "mint": "2P5opXsBnXiYrNRuVpkAesAmGU92jX6bLTAAuUjGpump",
+    "first_seen": "2026-11-08T23:37:17.224749+00:00"
+  },
+  "cheatcoin": {
+    "mint": "HjRhufrCCeEgy8Tz3wwGWBMupoPLPAK5jjiFotmdkuR",
+    "first_seen": "2026-11-08T23:37:18.205613+00:00"
+  },
+  "cachorro": {
+    "mint": "CCvgmNA13PUc7VCwj7cuFscpXeNfk72M6ho7LLQr8jEW",
+    "first_seen": "2026-11-08T23:37:22.988278+00:00"
   }
 }
