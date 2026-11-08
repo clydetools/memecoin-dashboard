@@ -74002,5 +74002,33 @@
   "usnr": {
     "mint": "CVDBmv4hwRPhnBAZLrdWCyBGGmSpmKwhXsoCDQKpump",
     "first_seen": "2026-11-08T15:46:31.612426+00:00"
+  },
+  "scammoney": {
+    "mint": "AonSY3EuDGgaaaY6gvCTWU2REFgx6gWRM2QGEgH17h2P",
+    "first_seen": "2026-11-08T20:00:00.324557+00:00"
+  },
+  "seuss": {
+    "mint": "48mfCp5KUS9bZYqQQK896QUdugzarBWySeoRSXyUpump",
+    "first_seen": "2026-11-08T20:00:00.916320+00:00"
+  },
+  "luncra": {
+    "mint": "Fmpj6cuZgydYtzGHeRXCMFRHDv9BsMPjNvheeKz1jfKY",
+    "first_seen": "2026-11-08T20:00:03.618300+00:00"
+  },
+  "mofo": {
+    "mint": "85zWoqK5rhU5q4WaRA4MQwE3hFmiC1k3cZBudfZfTEqc",
+    "first_seen": "2026-11-08T20:00:06.415025+00:00"
+  },
+  "grokia": {
+    "mint": "BYPPfvV8xdFeTS43nPFRZeLdJ8STPVELg7rvagtqpump",
+    "first_seen": "2026-11-08T20:00:11.354918+00:00"
+  },
+  "lend": {
+    "mint": "EDhhJWcXYEBRg3THtdSAf6q7ZBHXLFq9tZDqDyFjmvGX",
+    "first_seen": "2026-11-08T20:00:12.607252+00:00"
+  },
+  "stoke": {
+    "mint": "5BeD1Uc3Rz2Eha5FqGEnVUpGRNRk8khkXLXQNxynPyTx",
+    "first_seen": "2026-11-08T20:00:13.372935+00:00"
   }
 }
