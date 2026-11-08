@@ -73938,5 +73938,17 @@
   "pmurt": {
     "mint": "Hb2fnvwpW6H6UymoTovRZqcDpmMNGWz2SXCRQ5LFpump",
     "first_seen": "2026-11-07T22:56:15.687353+00:00"
+  },
+  "payd": {
+    "mint": "J9YditU3sc1MQThcYcgQmKUu3DCEFnzfcwtDstoepayd",
+    "first_seen": "2026-11-08T02:02:20.845563+00:00"
+  },
+  "noon": {
+    "mint": "2LmxRRgu3gEbmbKfzbrjVBRAGqixRQcaV1eVvd5upump",
+    "first_seen": "2026-11-08T02:02:21.430640+00:00"
+  },
+  "statue": {
+    "mint": "4Wg7QFYEXqLTA4LTJUyu9KJc3Jv7sVHXfW27sKFS1Rnh",
+    "first_seen": "2026-11-08T02:02:26.369469+00:00"
   }
 }
