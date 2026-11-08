@@ -73950,5 +73950,29 @@
   "statue": {
     "mint": "4Wg7QFYEXqLTA4LTJUyu9KJc3Jv7sVHXfW27sKFS1Rnh",
     "first_seen": "2026-11-08T02:02:26.369469+00:00"
+  },
+  "popwif": {
+    "mint": "6NE7gdGuroNzUABesVQdEHAqFX8vxYAqRYMFdt3hpump",
+    "first_seen": "2026-11-08T08:55:11.087145+00:00"
+  },
+  "kimmani": {
+    "mint": "2oe7gmNyHpYGpryLTt5My8T9aoQztNy7w1rie3RFEg3C",
+    "first_seen": "2026-11-08T08:55:15.692938+00:00"
+  },
+  "gigahug": {
+    "mint": "BWh8q5etuPwekJ2JEDkbMxMQWy4FysoJ8LEwE3rFpump",
+    "first_seen": "2026-11-08T08:55:15.767916+00:00"
+  },
+  "mai": {
+    "mint": "DmPffaRSqZMSyRGoA87h1veVxBrpzfQU9zKaPktxqeDs",
+    "first_seen": "2026-11-08T08:55:15.833006+00:00"
+  },
+  "kryox": {
+    "mint": "9YW57NmTkawGo4n1rPhXFehVMPvsVuPMWttQgdQvkV79",
+    "first_seen": "2026-11-08T08:55:16.896374+00:00"
+  },
+  "cin": {
+    "mint": "8pP2Hgkkq7s8Moabis5B4eWp9yJEme8Ni89gHeB5pump",
+    "first_seen": "2026-11-08T08:55:19.685314+00:00"
   }
 }
