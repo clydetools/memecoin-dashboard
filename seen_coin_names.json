@@ -74166,5 +74166,25 @@
   "mmli": {
     "mint": "BeY1ZWoE78JdyTHjikNdA4HaDgKFDktN2jCyYdxQpump",
     "first_seen": "2026-11-10T11:51:24.623278+00:00"
+  },
+  "tenure": {
+    "mint": "DANzCJrMiMDRHSsN3F78TEVFomPgwhBXpk34p8QiHJDM",
+    "first_seen": "2026-11-10T19:16:53.054079+00:00"
+  },
+  "saika": {
+    "mint": "FfDWunnbnG9yudfU1AN2KtCRTkPKW83wmgE9D4yrpump",
+    "first_seen": "2026-11-10T19:16:58.358574+00:00"
+  },
+  "boboshow": {
+    "mint": "ZdBMPxmwBrHvMKY4d4KbDjycDEhfeiaFfHjF13epump",
+    "first_seen": "2026-11-10T19:16:58.474240+00:00"
+  },
+  "mihao": {
+    "mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+    "first_seen": "2026-11-10T19:17:00.078436+00:00"
+  },
+  "bullharis": {
+    "mint": "6mwuYnY3fHdxed9GnrdY5BkXhJwMi1uz39MPsYUcpump",
+    "first_seen": "2026-11-10T19:17:01.777794+00:00"
   }
 }
