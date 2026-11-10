@@ -74118,5 +74118,37 @@
   "itlg": {
     "mint": "8EZ7miR4PeuBhUgGEdx5md9vRmSsqvjshkyN2hVUpump",
     "first_seen": "2026-11-09T21:25:18.715936+00:00"
+  },
+  "pinkfriday": {
+    "mint": "7S6svdie1fX6hdut9eeU6HDUGH8y7F83mUt3fhCbpump",
+    "first_seen": "2026-11-10T03:42:40.960966+00:00"
+  },
+  "sequel": {
+    "mint": "7NvKVSexHNNRsQUf1GWLK4TLNWk4w1fE7mvijmcPpuNF",
+    "first_seen": "2026-11-10T03:42:41.417928+00:00"
+  },
+  "can": {
+    "mint": "GSP13qZnNRh16Tga19Dc8tun84JHLgx96boPcPutpump",
+    "first_seen": "2026-11-10T03:42:41.798352+00:00"
+  },
+  "adin": {
+    "mint": "5TuCWgu3DhSKtdqyErYAhRSdoZquzjnNADaQr5jApump",
+    "first_seen": "2026-11-10T03:42:42.186043+00:00"
+  },
+  "minaj": {
+    "mint": "2nv3yEG3NFs2CYyTnj4bwwfco5snVLvLu8fzqVXbpump",
+    "first_seen": "2026-11-10T03:42:42.938328+00:00"
+  },
+  "zpepe": {
+    "mint": "FgBkCG3bBTJ6LvA85VjcwkY1smRZ1YQutr2qXEBoyjhb",
+    "first_seen": "2026-11-10T03:42:47.203503+00:00"
+  },
+  "whatislove": {
+    "mint": "6bR1fabPHiVCbxotq1Q8tgfxGjN4Uw3RVqfPCbU6dhqG",
+    "first_seen": "2026-11-10T03:42:47.959257+00:00"
+  },
+  "cdlc": {
+    "mint": "87gihJjt6kVqAFmrESMJuaMuE61BfvrC6CFDxCftXYMV",
+    "first_seen": "2026-11-10T03:42:48.183123+00:00"
   }
 }
