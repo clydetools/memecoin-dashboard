@@ -74278,5 +74278,37 @@
   "sweater": {
     "mint": "4t7og34RxGP2eG2mzZovbqAVH5cyLDWQitHVxFSepump",
     "first_seen": "2026-11-11T21:21:47.953647+00:00"
+  },
+  "alonstein": {
+    "mint": "EXCUPq9VQrDEnhwDstYYCiFDrwMwcvGAEiWCDYRujGBv",
+    "first_seen": "2026-11-12T02:22:41.611052+00:00"
+  },
+  "xcoinpro": {
+    "mint": "Cfhn32jEqCbEuh98oB8S48TLr3eGnPiLLBqfsF1Vpump",
+    "first_seen": "2026-11-12T02:22:42.198767+00:00"
+  },
+  "gurm": {
+    "mint": "FPAM4mDvG4Hr4kerZSSdYEW3TRULza5uPRRjF9u9pump",
+    "first_seen": "2026-11-12T02:22:45.736326+00:00"
+  },
+  "maxking": {
+    "mint": "BC4PaHUMFfG5SmDrqzegzoVQwoKWGmviRvNBgtYMpump",
+    "first_seen": "2026-11-12T02:22:46.235151+00:00"
+  },
+  "nihaonoon": {
+    "mint": "HzwVr7KjPhUriHK9MrJbFzbTDTPwUXGrL2Ah2wVhpump",
+    "first_seen": "2026-11-12T02:22:51.414097+00:00"
+  },
+  "grokie": {
+    "mint": "8uKhUA4U2WBTvx29xApFz28spsVxeW3kLVYVgYVjbLhU",
+    "first_seen": "2026-11-12T02:22:51.560702+00:00"
+  },
+  "wyrm": {
+    "mint": "8Q5rsBQqkcRveUqPepNyPzNtnGFn4VVEysgEjGZgToZ5",
+    "first_seen": "2026-11-12T02:22:51.706836+00:00"
+  },
+  "xmas": {
+    "mint": "BJkgs94YDeAhSjXRSMestfM4CgMQ8L1m55NSEKjrpump",
+    "first_seen": "2026-11-12T02:22:52.996714+00:00"
   }
 }
