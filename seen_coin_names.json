@@ -74358,5 +74358,41 @@
   "yenu": {
     "mint": "C7XkoHnxbfFbdUiGJL494RtyceKEj4GjbD5zekUhBSqd",
     "first_seen": "2026-11-12T18:12:48.267360+00:00"
+  },
+  "frats": {
+    "mint": "6TMChHtRgw7BGk4GKKHcNRXUdoQX17cepwERDDcHpump",
+    "first_seen": "2026-11-12T23:42:06.255551+00:00"
+  },
+  "callmom": {
+    "mint": "C3MoJcjNNLGV7uK6D64UvccvB1drTkQ5jQZHj3zWDk3W",
+    "first_seen": "2026-11-12T23:42:06.601474+00:00"
+  },
+  "guly": {
+    "mint": "2yDZF2AZEvFALBQBsyegT4RHXqMp6ErTT97hKgeUcteA",
+    "first_seen": "2026-11-12T23:42:07.079283+00:00"
+  },
+  "endor": {
+    "mint": "4yGpgY3RkWCRKFCzNVLMU7ykXivhaC5YcyobUrKTvent",
+    "first_seen": "2026-11-12T23:42:07.427422+00:00"
+  },
+  "degenlotus": {
+    "mint": "B6ysf4ymCMDgxAk5xKTuF9tgDo2bWmQn366dWYSTpump",
+    "first_seen": "2026-11-12T23:42:07.775771+00:00"
+  },
+  "gotham": {
+    "mint": "9nDBrVApYwgj9UDNvuAZ4Vsp5sDVxq8STXN4w1YMY16d",
+    "first_seen": "2026-11-12T23:42:08.458767+00:00"
+  },
+  "descend": {
+    "mint": "2rioYGeiKLNVQgkVb1svxqq6fpjAkyRgSAGhLMmgPqcn",
+    "first_seen": "2026-11-12T23:42:12.614032+00:00"
+  },
+  "satoshiba": {
+    "mint": "DzJ2zo62XcjBkcJaAvgPAnzeZ95SbUSFwEfgFzZuDR7",
+    "first_seen": "2026-11-12T23:42:13.615823+00:00"
+  },
+  "doggle": {
+    "mint": "E8qaeXz7CF2auJebXaQkLZyrFPfRQft3KrGgvRvwpump",
+    "first_seen": "2026-11-12T23:42:14.971387+00:00"
   }
 }
