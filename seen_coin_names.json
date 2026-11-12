@@ -74330,5 +74330,33 @@
   "nobushiba": {
     "mint": "8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump",
     "first_seen": "2026-11-12T10:03:23.760260+00:00"
+  },
+  "pepesen": {
+    "mint": "CranPT37MFNqQJVtiEW4qzM7T4aW3HMPk1sB1R6uedT5",
+    "first_seen": "2026-11-12T18:12:39.214584+00:00"
+  },
+  "staate": {
+    "mint": "8i3inH3wbxaoK363aBTaVH2HLpoR16PfCxPpkXd5pump",
+    "first_seen": "2026-11-12T18:12:39.754496+00:00"
+  },
+  "huang": {
+    "mint": "3sP7Ee2q1BhPfZTgLeLuyKMVHz2S7Z6MJT4FPxKMh7ic",
+    "first_seen": "2026-11-12T18:12:45.337222+00:00"
+  },
+  "uodf": {
+    "mint": "uodFRJhRp33Q2VWkeyp4GiiohVyDb5x2w4SMAwsDBKP",
+    "first_seen": "2026-11-12T18:12:46.251493+00:00"
+  },
+  "stockholm": {
+    "mint": "9cJeDtGrpnoKFu2BgKeSJRSXaK6FAkYPgbVxjUMmpump",
+    "first_seen": "2026-11-12T18:12:47.461348+00:00"
+  },
+  "syndrome": {
+    "mint": "EYgV9B57H5R3dqdBNGZrkeZuLqrZds8KiuWACQs6pump",
+    "first_seen": "2026-11-12T18:12:47.881303+00:00"
+  },
+  "yenu": {
+    "mint": "C7XkoHnxbfFbdUiGJL494RtyceKEj4GjbD5zekUhBSqd",
+    "first_seen": "2026-11-12T18:12:48.267360+00:00"
   }
 }
