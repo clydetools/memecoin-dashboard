@@ -74394,5 +74394,17 @@
   "doggle": {
     "mint": "E8qaeXz7CF2auJebXaQkLZyrFPfRQft3KrGgvRvwpump",
     "first_seen": "2026-11-12T23:42:14.971387+00:00"
+  },
+  "onoda": {
+    "mint": "7iAu8rguZSJXYfRme1iwUkv4kvSithvYc9M4YFumwin5",
+    "first_seen": "2026-11-13T03:39:15.952189+00:00"
+  },
+  "jenswan": {
+    "mint": "ChqV5xKQ9DMffcbuQQw92Y9LSvA5NzdbTSW1o9opump",
+    "first_seen": "2026-11-13T03:39:17.046400+00:00"
+  },
+  "framia": {
+    "mint": "FsUYA3g9Eu1Td7Qx3JYAahWbLmUQiPJ4w2PwKxZcpump",
+    "first_seen": "2026-11-13T03:39:18.606371+00:00"
   }
 }
