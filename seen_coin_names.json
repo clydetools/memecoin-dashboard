@@ -74434,5 +74434,29 @@
   "inuhao": {
     "mint": "FyHakvZH3L4UABSQYK7e9ECEzWV37u7GTkmAbHXspump",
     "first_seen": "2026-11-13T18:44:29.375794+00:00"
+  },
+  "stockr": {
+    "mint": "XEyf6wpk8CPWPKnzer9tJYUWTGy5N5XPx8cTmwbpump",
+    "first_seen": "2026-11-13T23:56:18.157840+00:00"
+  },
+  "heritage": {
+    "mint": "5GX8KqwdwditXGEbfica63FuKLY37WKxstnPBcqMubwP",
+    "first_seen": "2026-11-13T23:56:18.786450+00:00"
+  },
+  "jsn": {
+    "mint": "5Va2yrhGQaUrAYFS7yd7gwwhCu1UnXpymGashBAkpump",
+    "first_seen": "2026-11-13T23:56:19.839685+00:00"
+  },
+  "fastmoon": {
+    "mint": "2QCcwbZL7YgovUqvXmxoKJR8AZoHeGMtt4vj2YGSpump",
+    "first_seen": "2026-11-13T23:56:24.954239+00:00"
+  },
+  "vill": {
+    "mint": "3HZzgakXqw2d38Xx8V3tnt1uVDVZZ46ZnU2kWYwzpump",
+    "first_seen": "2026-11-13T23:56:25.029298+00:00"
+  },
+  "mane": {
+    "mint": "4VAg95SeJp79wrP6qQehne7Szj6UUwLZ32WJgTJnpump",
+    "first_seen": "2026-11-13T23:56:25.910368+00:00"
   }
 }
