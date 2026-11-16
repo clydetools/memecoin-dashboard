@@ -74630,5 +74630,29 @@
   "xrl": {
     "mint": "Fww6zaNKcjpJaB33JayvUzsofBUobX5JaHiuQBN1Jf9g",
     "first_seen": "2026-11-16T00:13:45.815340+00:00"
+  },
+  "gbs": {
+    "mint": "AP3Knf4mBefzShp9zR7ZK2WpQDBVGwG6L3Gu5rZdpump",
+    "first_seen": "2026-11-16T06:42:50.069720+00:00"
+  },
+  "stockodile": {
+    "mint": "2mttYgbY3kXpTwTz2GSRQMSeehvqVBTMhr3XCvMknMyC",
+    "first_seen": "2026-11-16T06:42:50.149234+00:00"
+  },
+  "capytrade": {
+    "mint": "9qwZvng6zwqb3Y5WkGEFWxvU3iHcFwSY3n8zhuvdeSod",
+    "first_seen": "2026-11-16T06:42:50.331585+00:00"
+  },
+  "tambi": {
+    "mint": "BUw3YVA6VXPkp4xjou8NBkySSYvZcJTAxTrnq3FrETLd",
+    "first_seen": "2026-11-16T06:42:51.561127+00:00"
+  },
+  "rings": {
+    "mint": "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring",
+    "first_seen": "2026-11-16T06:42:53.505549+00:00"
+  },
+  "nyajira": {
+    "mint": "8cWGfiHyKqxgLrLtkPt2NnLkSUV2JbcLBf4RN6Fapump",
+    "first_seen": "2026-11-16T06:42:55.896943+00:00"
   }
 }
