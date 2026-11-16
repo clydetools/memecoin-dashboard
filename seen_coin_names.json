@@ -74654,5 +74654,37 @@
   "nyajira": {
     "mint": "8cWGfiHyKqxgLrLtkPt2NnLkSUV2JbcLBf4RN6Fapump",
     "first_seen": "2026-11-16T06:42:55.896943+00:00"
+  },
+  "obe": {
+    "mint": "J5Xf4qFi77EVzPnrfqqbbwyPh4K33VvbVcUcDvBcpump",
+    "first_seen": "2026-11-16T16:30:11.066552+00:00"
+  },
+  "lapsus": {
+    "mint": "DBM3BVB2rGEqEypTWQ5iQfmYpUY8Zd82VNRfT6Typump",
+    "first_seen": "2026-11-16T16:30:11.456180+00:00"
+  },
+  "ctb": {
+    "mint": "EdgbYqMcGwdSas6E8tqpfaGcoVnRjnrnCkjNacgPpump",
+    "first_seen": "2026-11-16T16:30:11.821577+00:00"
+  },
+  "knightbubu": {
+    "mint": "4u1TrdFKgNK9Tw8LN7jUTbhDv3fKgf3388GGNRvypump",
+    "first_seen": "2026-11-16T16:30:12.193141+00:00"
+  },
+  "zoge": {
+    "mint": "62cuszu7MtUeM5BB7Y4q62jp3JEpqVVPQZgjQeUmpump",
+    "first_seen": "2026-11-16T16:30:12.562313+00:00"
+  },
+  "mertpooh": {
+    "mint": "2FYYXqiYF8E3weWd74grnBmeonpB1qX3pBpsvc4uYYFU",
+    "first_seen": "2026-11-16T16:30:17.366108+00:00"
+  },
+  "stallions": {
+    "mint": "2P515RKG8FDMN1fmWzgZ3PujcCp751MR9zvmu9Sppump",
+    "first_seen": "2026-11-16T16:30:19.417687+00:00"
+  },
+  "wiggles": {
+    "mint": "2kWx47CUrcXtzptFNnbSXKq3vo1ebqyLBhRytKRGpump",
+    "first_seen": "2026-11-16T16:30:19.817435+00:00"
   }
 }
