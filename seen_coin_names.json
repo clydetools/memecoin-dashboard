@@ -74730,5 +74730,41 @@
   "gfa": {
     "mint": "FiatX1KkwiaNUFHLP2ThumBkhUd12C37fdHtrPSupump",
     "first_seen": "2026-11-17T17:41:01.226752+00:00"
+  },
+  "gtamid": {
+    "mint": "6dV9VmS65sGH9czzx8hTEV4W7KesA5UjQTeHGM2418iD",
+    "first_seen": "2026-11-17T23:58:04.656846+00:00"
+  },
+  "jenson6": {
+    "mint": "CEoAe4DsYtWGCPCSPyTyybCgieXvmLN6f5UJJFv8pump",
+    "first_seen": "2026-11-17T23:58:05.338285+00:00"
+  },
+  "chonce": {
+    "mint": "UdiWgiCqE9E3mHmsUTio6sRxUcosDKJzdx8Kud6pump",
+    "first_seen": "2026-11-17T23:58:06.640752+00:00"
+  },
+  "ou": {
+    "mint": "8W4r6iEq5dZBwkMLr7xiSmmdF18sY9TKWaEXKsEcpump",
+    "first_seen": "2026-11-17T23:58:07.000125+00:00"
+  },
+  "afternet": {
+    "mint": "igSF1BZBqjyKf1b3faVhK2wejzkRCgyXWG4HcHyEKid",
+    "first_seen": "2026-11-17T23:58:11.758554+00:00"
+  },
+  "siacoin": {
+    "mint": "131QNCZceqRJLjf6CNjEt6PAAVNXEC7Z9p1cKuAUNvq7",
+    "first_seen": "2026-11-17T23:58:11.965110+00:00"
+  },
+  "nvidians": {
+    "mint": "CN7zuFYPeRz2oB8LUywuwmtV5muHvPAmhdUjpRziRkz",
+    "first_seen": "2026-11-17T23:58:12.456621+00:00"
+  },
+  "bowl": {
+    "mint": "H2xAdwN9L6c43QFsxVqLBLm7LkQfvZvgJoh8XT4VcQQG",
+    "first_seen": "2026-11-17T23:58:12.958624+00:00"
+  },
+  "actg": {
+    "mint": "F6F3YsHu5pLjJUaLpwLKWSb381G1FdNAsL8KuMzRpump",
+    "first_seen": "2026-11-17T23:58:13.230864+00:00"
   }
 }
