@@ -74706,5 +74706,29 @@
   "char": {
     "mint": "9k2nqjUrSh9p2ZBnWxNE3QRWYiLocrWZfoDm3Vdxpump",
     "first_seen": "2026-11-17T08:16:52.674517+00:00"
+  },
+  "tuckr": {
+    "mint": "EKZ3RpPWrZfPdDiY835Wxs2HF2fYsRgoT3e99LiTpump",
+    "first_seen": "2026-11-17T17:40:51.595271+00:00"
+  },
+  "iwgb": {
+    "mint": "H7WBUKZgbEEeo2Vbf87yhWXYekBgZ9w3PfbBiLhxpump",
+    "first_seen": "2026-11-17T17:40:52.217814+00:00"
+  },
+  "nihaosol": {
+    "mint": "3pTNWgmcxV21yVZRiZunTXCwQnPbRpJtZP4xBwmXpump",
+    "first_seen": "2026-11-17T17:40:54.157556+00:00"
+  },
+  "nwo": {
+    "mint": "9z9B9YANmJq6sFrUMhcFPqrx8uhbxvq7bU6Hh7vRpump",
+    "first_seen": "2026-11-17T17:40:55.333047+00:00"
+  },
+  "neetp": {
+    "mint": "CbjRmejLg39Di5fBzyhX5DQb6sgU3Z7XkWoQsDmZpump",
+    "first_seen": "2026-11-17T17:40:56.610573+00:00"
+  },
+  "gfa": {
+    "mint": "FiatX1KkwiaNUFHLP2ThumBkhUd12C37fdHtrPSupump",
+    "first_seen": "2026-11-17T17:41:01.226752+00:00"
   }
 }
