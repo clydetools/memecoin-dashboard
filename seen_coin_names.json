@@ -74782,5 +74782,33 @@
   "dci": {
     "mint": "Hu1PpysCVKXwR5M6iubkpNFege8egkE2ozjDeikiCtjM",
     "first_seen": "2026-11-18T06:31:10.280062+00:00"
+  },
+  "swagcat": {
+    "mint": "hhM6bUzeRFcXX4hxwQdJGYU1vkSU1hWUy8rffuVpump",
+    "first_seen": "2026-11-18T15:57:19.272675+00:00"
+  },
+  "jetdog": {
+    "mint": "8oq1uz7Zux2nVjVBq9s9VU32TG5bwyyhjS8NVrVcpump",
+    "first_seen": "2026-11-18T15:57:19.665576+00:00"
+  },
+  "wos": {
+    "mint": "BNugjbjfpcxCyjZyK5T5bFvGhj1hXR4n7Ebrz4NXpump",
+    "first_seen": "2026-11-18T15:57:20.047138+00:00"
+  },
+  "jalu": {
+    "mint": "BSsmLA6UN8fzJ8qUkV4KwC5LxR7ab3TaUtcwvAyJpump",
+    "first_seen": "2026-11-18T15:57:24.234817+00:00"
+  },
+  "gtakid": {
+    "mint": "7smnsneWsBMPZ4PDftadFBLf62SsH921BstHiM9wpump",
+    "first_seen": "2026-11-18T15:57:24.327433+00:00"
+  },
+  "dcty": {
+    "mint": "9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump",
+    "first_seen": "2026-11-18T15:57:24.407913+00:00"
+  },
+  "apocrycoin": {
+    "mint": "H7vFfXqbKK9X4JqGf1yx9sWZDrMc8nEhpEZ3fDBVGkgz",
+    "first_seen": "2026-11-18T15:57:24.574365+00:00"
   }
 }
