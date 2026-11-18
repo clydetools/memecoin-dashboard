@@ -74810,5 +74810,25 @@
   "apocrycoin": {
     "mint": "H7vFfXqbKK9X4JqGf1yx9sWZDrMc8nEhpEZ3fDBVGkgz",
     "first_seen": "2026-11-18T15:57:24.574365+00:00"
+  },
+  "hpd": {
+    "mint": "63A91HBSRStw4KVU1eBbdAjqjhea9bpgVLaojsiApump",
+    "first_seen": "2026-11-18T22:52:25.267066+00:00"
+  },
+  "shoestore": {
+    "mint": "xuqjKRw5xAHsFqMXsaJWGXXxLGXgnFSrvT2bxYhpump",
+    "first_seen": "2026-11-18T22:52:26.412909+00:00"
+  },
+  "streamoor": {
+    "mint": "GHKJ1v3A6e1JV6HP1yLBYrKvZrAuUw8BFMq1FGjGmrZo",
+    "first_seen": "2026-11-18T22:52:32.007918+00:00"
+  },
+  "goodtime": {
+    "mint": "Eyo1o3QYKQwdvP6UtK9dQLTZj2BBtoJdN4tMWB2Dpump",
+    "first_seen": "2026-11-18T22:52:32.123604+00:00"
+  },
+  "vtc": {
+    "mint": "3tjPCXfx3KrgMY53yo7pa67D2QQZMbLTRaqQckJmpump",
+    "first_seen": "2026-11-18T22:52:34.190457+00:00"
   }
 }
