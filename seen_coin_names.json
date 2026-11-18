@@ -74766,5 +74766,21 @@
   "actg": {
     "mint": "F6F3YsHu5pLjJUaLpwLKWSb381G1FdNAsL8KuMzRpump",
     "first_seen": "2026-11-17T23:58:13.230864+00:00"
+  },
+  "ccd": {
+    "mint": "F9wDo2PDwPTmg9SkoMr8PgYPz6ugkkv4J4JXEqpXpump",
+    "first_seen": "2026-11-18T06:31:04.548584+00:00"
+  },
+  "antfi": {
+    "mint": "2KRaUPbxYEvkV1Eag5eyhx2PAodEWDVsRYJk5De4LZUQ",
+    "first_seen": "2026-11-18T06:31:09.518080+00:00"
+  },
+  "calypso": {
+    "mint": "BkuWNYn8KEBQMJK4CFDvckAzmCphecRzUCZ25R4Ypump",
+    "first_seen": "2026-11-18T06:31:09.575574+00:00"
+  },
+  "dci": {
+    "mint": "Hu1PpysCVKXwR5M6iubkpNFege8egkE2ozjDeikiCtjM",
+    "first_seen": "2026-11-18T06:31:10.280062+00:00"
   }
 }
