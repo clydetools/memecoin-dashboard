@@ -74838,5 +74838,25 @@
   "fndr": {
     "mint": "64Uf4fkAWepSjBF8QKWdftHjtgKb2FG6gZsgmx6Fpump",
     "first_seen": "2026-11-19T03:58:02.645620+00:00"
+  },
+  "sanandreas": {
+    "mint": "7JuGNnHPeARPEP4szseebv6yybAmnYiz8YvqhFrfpump",
+    "first_seen": "2026-11-19T12:36:44.598821+00:00"
+  },
+  "papadacity": {
+    "mint": "3zdrPb7f78mcN9HJjXjP6CoBA616s1eFEs44kQ25pump",
+    "first_seen": "2026-11-19T12:36:45.755507+00:00"
+  },
+  "daciytcoin": {
+    "mint": "EPnqyzYVQVzGymrkWXat8Fy2gGWhERxEDV8XoKSiJw4W",
+    "first_seen": "2026-11-19T12:36:50.254588+00:00"
+  },
+  "whatup": {
+    "mint": "AKDjR5f6sisQkJyhYdGHfqPtdXu9upZc4GZuH9GJpump",
+    "first_seen": "2026-11-19T12:36:50.343992+00:00"
+  },
+  "gino": {
+    "mint": "8pYe4PZzXsBsE1tTiShgosBmDapbrTqAyFs5YXX9zZeB",
+    "first_seen": "2026-11-19T12:36:51.035041+00:00"
   }
 }
