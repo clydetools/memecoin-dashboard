@@ -74830,5 +74830,13 @@
   "vtc": {
     "mint": "3tjPCXfx3KrgMY53yo7pa67D2QQZMbLTRaqQckJmpump",
     "first_seen": "2026-11-18T22:52:34.190457+00:00"
+  },
+  "bunc": {
+    "mint": "3fBNwC7h5HLyFn4M2BuKN9MuRBA7NJTxrs54Qfh3CKrJ",
+    "first_seen": "2026-11-19T03:58:01.172646+00:00"
+  },
+  "fndr": {
+    "mint": "64Uf4fkAWepSjBF8QKWdftHjtgKb2FG6gZsgmx6Fpump",
+    "first_seen": "2026-11-19T03:58:02.645620+00:00"
   }
 }
