@@ -74902,5 +74902,13 @@
   "iagent": {
     "mint": "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump",
     "first_seen": "2026-11-20T02:04:45.996265+00:00"
+  },
+  "ogta": {
+    "mint": "7bCiddGLe5aM8HE2pigT9jsqkmC1HSPxyXN6GkHEpump",
+    "first_seen": "2026-11-20T18:23:01.825137+00:00"
+  },
+  "peebrain": {
+    "mint": "Hjz8kvdWiiwyMtAC7qxj2VDqB37zeJV6G8D5ni9Bpump",
+    "first_seen": "2026-11-20T18:23:02.361396+00:00"
   }
 }
