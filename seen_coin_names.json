@@ -74938,5 +74938,33 @@
   "claudspir": {
     "mint": "5nmpD8p9XdSTp5n3aSis1GiSoNQiDfFT8NBcKB6fpump",
     "first_seen": "2026-11-21T06:57:59.593657+00:00"
+  },
+  "superz": {
+    "mint": "4yhx8sRfGVZjxBHKmVNFSA7Tx7KggqPs3h2orAV5SiDL",
+    "first_seen": "2026-11-21T15:09:40.683996+00:00"
+  },
+  "piu": {
+    "mint": "3Ad5QBAnxoawUvZTAdpMDauASB7qp9qE1E1Z8wqQpump",
+    "first_seen": "2026-11-21T15:09:41.653692+00:00"
+  },
+  "chego": {
+    "mint": "5YagsPh4z21PkXjyAqLcaUfx9hUg143ERJaokQArpump",
+    "first_seen": "2026-11-21T15:09:45.880780+00:00"
+  },
+  "bananaut": {
+    "mint": "HroUDSwYjXywFVnc91LF4DGW5J9ZWbHevRYDtu2tKnPL",
+    "first_seen": "2026-11-21T15:09:46.697771+00:00"
+  },
+  "zan": {
+    "mint": "x3KpLFQqZHo7vxETVZBNLuN2v7hRpqidkZy4b39FvLV",
+    "first_seen": "2026-11-21T15:09:46.918586+00:00"
+  },
+  "stellar": {
+    "mint": "XLMDQxbNqPqMgpxjZmqpw5WrB76A9YjKvrGUv2uAe9J",
+    "first_seen": "2026-11-21T15:09:48.451515+00:00"
+  },
+  "xv": {
+    "mint": "BjnxH6a3D6HQz1LRPsGX5TZmW3GwstpexSNrK2utpump",
+    "first_seen": "2026-11-21T15:09:48.828934+00:00"
   }
 }
