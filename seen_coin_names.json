@@ -74966,5 +74966,13 @@
   "xv": {
     "mint": "BjnxH6a3D6HQz1LRPsGX5TZmW3GwstpexSNrK2utpump",
     "first_seen": "2026-11-21T15:09:48.828934+00:00"
+  },
+  "clawdia": {
+    "mint": "BjvD62CeknCCn94ciFN5aHPoNvSmcXvVHr8XonBpump",
+    "first_seen": "2026-11-21T20:54:08.216522+00:00"
+  },
+  "jorkin": {
+    "mint": "D65xTTY7wdniaV8XgeArS9vgcr5zjfJmNsGndgSPdh8Z",
+    "first_seen": "2026-11-21T20:54:08.350075+00:00"
   }
 }
