@@ -75066,5 +75066,37 @@
   "shiit": {
     "mint": "412ECWXN3jGbd1kn8ck7eeupWttkmrFkNm9JqfAzpump",
     "first_seen": "2026-11-22T21:19:22.320924+00:00"
+  },
+  "pumpmas": {
+    "mint": "5Gc4sDQtA3snYEYcbo5EWUwaecr2aodqpuVNztaCHNrV",
+    "first_seen": "2026-11-23T01:50:30.224962+00:00"
+  },
+  "greenmas": {
+    "mint": "BJF9yqHRJ4mk5exc1TyH4ZaqoSumKS3atBx5tmippump",
+    "first_seen": "2026-11-23T01:50:30.809790+00:00"
+  },
+  "shinubi": {
+    "mint": "Hp3QLouwxGGwdPW9Hu5BUX7dW4ojTa67Jyn51Hcjpump",
+    "first_seen": "2026-11-23T01:50:31.323993+00:00"
+  },
+  "bunkercoin": {
+    "mint": "CrHae7MuZPe5dU6ToaS47LhUmdB6ThCp1VUu3C6upump",
+    "first_seen": "2026-11-23T01:50:31.798923+00:00"
+  },
+  "driver": {
+    "mint": "HsGyRVUifzZsLDGvojUzmNLdJfL7oWAKtLp84gZEPyZK",
+    "first_seen": "2026-11-23T01:50:36.293819+00:00"
+  },
+  "terky": {
+    "mint": "BxQrGFy4sknkivk5RkuWmg33ozxdAvnrxmyRZdvuaPHe",
+    "first_seen": "2026-11-23T01:50:36.370261+00:00"
+  },
+  "fsdv15": {
+    "mint": "3BcJ4SSCfbxDMrWcUDucyCWxMjmy4M2ECCtvxu86pump",
+    "first_seen": "2026-11-23T01:50:38.480343+00:00"
+  },
+  "minelius": {
+    "mint": "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump",
+    "first_seen": "2026-11-23T01:50:38.866089+00:00"
   }
 }
