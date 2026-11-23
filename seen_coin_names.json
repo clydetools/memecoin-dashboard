@@ -75098,5 +75098,21 @@
   "minelius": {
     "mint": "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump",
     "first_seen": "2026-11-23T01:50:38.866089+00:00"
+  },
+  "pumpmeme": {
+    "mint": "93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump",
+    "first_seen": "2026-11-23T09:53:10.121792+00:00"
+  },
+  "loafing": {
+    "mint": "FHiMLpA7qSfAa1QWT9QEAe1SondRwgpmR2skjMAfpump",
+    "first_seen": "2026-11-23T09:53:10.605305+00:00"
+  },
+  "ucash": {
+    "mint": "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump",
+    "first_seen": "2026-11-23T09:53:10.708952+00:00"
+  },
+  "teslaai": {
+    "mint": "GoaJDZMRPggTHqLSdWD4A3m38rn71iyEfyJ7Z64LSYFi",
+    "first_seen": "2026-11-23T09:53:10.867516+00:00"
   }
 }
