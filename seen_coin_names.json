@@ -75114,5 +75114,29 @@
   "teslaai": {
     "mint": "GoaJDZMRPggTHqLSdWD4A3m38rn71iyEfyJ7Z64LSYFi",
     "first_seen": "2026-11-23T09:53:10.867516+00:00"
+  },
+  "shinu": {
+    "mint": "3cvfKdWSVKjwxWzytuUQsUiLFSaRarXcVKcBFXnVwvTp",
+    "first_seen": "2026-11-23T21:53:37.106835+00:00"
+  },
+  "halfa": {
+    "mint": "D6e8HVrF9VaHy3ucNK5762aWL3grCMc1gtpRmrtSpump",
+    "first_seen": "2026-11-23T21:53:38.058310+00:00"
+  },
+  "insideher": {
+    "mint": "7eJUMoEEn3oXN64QmUVWJVkCo6a2E92tFpY1syBXRAkV",
+    "first_seen": "2026-11-23T21:53:38.589118+00:00"
+  },
+  "clipinu": {
+    "mint": "FztWN8TPyZfy47NkPKoUA5WEzvU1arQHBrjnHHDRpump",
+    "first_seen": "2026-11-23T21:53:43.805863+00:00"
+  },
+  "motes": {
+    "mint": "9o7AWEtvSSZTHHjam9fcj2xQLgDgL8V3be6zcM66unx4",
+    "first_seen": "2026-11-23T21:53:43.921492+00:00"
+  },
+  "scinu": {
+    "mint": "GHWEB3FsfqDbNBt9QxVU7kXkUh1cX7kFk5NVDkgApump",
+    "first_seen": "2026-11-23T21:53:47.136784+00:00"
   }
 }
