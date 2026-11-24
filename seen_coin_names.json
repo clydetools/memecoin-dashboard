@@ -75154,5 +75154,21 @@
   "donjensen": {
     "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump",
     "first_seen": "2026-11-24T05:44:16.935903+00:00"
+  },
+  "sae": {
+    "mint": "A9uywV9ji3YTB2UbJ2wqZsVJR7yiuoJsSYjbbci8pump",
+    "first_seen": "2026-11-24T16:30:52.290882+00:00"
+  },
+  "crowd": {
+    "mint": "H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump",
+    "first_seen": "2026-11-24T16:30:56.873555+00:00"
+  },
+  "btk": {
+    "mint": "6qbzFuMVK2ipmAYrHKbECYX9pDE645SvJHnMEFHky1N3",
+    "first_seen": "2026-11-24T16:30:57.063106+00:00"
+  },
+  "superelon": {
+    "mint": "6U5VRUfNcRyHzKSvn6QjhGxNX3fuoXd3J49qFeDXz5ii",
+    "first_seen": "2026-11-24T16:30:57.774203+00:00"
   }
 }
