@@ -75170,5 +75170,37 @@
   "superelon": {
     "mint": "6U5VRUfNcRyHzKSvn6QjhGxNX3fuoXd3J49qFeDXz5ii",
     "first_seen": "2026-11-24T16:30:57.774203+00:00"
+  },
+  "hosss": {
+    "mint": "2GitwLAXBk39yAtVkcG5GRqbfDjD43Q2f56a1Fpspump",
+    "first_seen": "2026-11-25T01:00:39.589317+00:00"
+  },
+  "lucuma": {
+    "mint": "FYRRDWBgnQUvxYGhotNDKp2SRxRzeBDJKBJzs5R9pump",
+    "first_seen": "2026-11-25T01:00:39.947516+00:00"
+  },
+  "kym": {
+    "mint": "Bo7E8aUMFThYFGsrpALGRjzwTmYjUwKH4qZMw9UkQL42",
+    "first_seen": "2026-11-25T01:00:44.055388+00:00"
+  },
+  "4memes": {
+    "mint": "5nCUGbSTEUannEC5PakA6q9yWnaKazmnVyjypiSspump",
+    "first_seen": "2026-11-25T01:00:44.704436+00:00"
+  },
+  "koop": {
+    "mint": "3DNNZ17Uin8HbVy8hX4CsLLWPJACV1dursziP754yd4L",
+    "first_seen": "2026-11-25T01:00:45.037109+00:00"
+  },
+  "dongcoin": {
+    "mint": "22pWfwrAU69ZSnhAPqw7KzSGda9hkdBRedW6tnospump",
+    "first_seen": "2026-11-25T01:00:45.102160+00:00"
+  },
+  "pumpcar": {
+    "mint": "4M1tpKSat8qWnJk6pskUBciw4PBvXt4gNMc36NV8pump",
+    "first_seen": "2026-11-25T01:00:45.985087+00:00"
+  },
+  "holders": {
+    "mint": "55RwtHpoNB81SgfiNvogeZTMfik2SfMGa5FaxKcXpump",
+    "first_seen": "2026-11-25T01:00:47.040043+00:00"
   }
 }
