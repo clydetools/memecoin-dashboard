@@ -75202,5 +75202,33 @@
   "holders": {
     "mint": "55RwtHpoNB81SgfiNvogeZTMfik2SfMGa5FaxKcXpump",
     "first_seen": "2026-11-25T01:00:47.040043+00:00"
+  },
+  "ty": {
+    "mint": "8jgNsy9Yk6FfYHkG8SwsxGYNxuEtvLhaWvNWrWoWpump",
+    "first_seen": "2026-11-25T09:44:28.276476+00:00"
+  },
+  "heliora": {
+    "mint": "BZYmaJ6C1YksxKvcviNeddaeBdX4UdDcaQoqy1EQuu2Z",
+    "first_seen": "2026-11-25T09:44:32.585763+00:00"
+  },
+  "atx": {
+    "mint": "D8kKQSi3MhCeXwNHX8gPiJPa4UFaRPsNfcXMAdVFpump",
+    "first_seen": "2026-11-25T09:44:32.647241+00:00"
+  },
+  "nampm": {
+    "mint": "9uiGDHy53MyaLxxdEF2JXt4ASNeUytxh7rie79DWpump",
+    "first_seen": "2026-11-25T09:44:33.174944+00:00"
+  },
+  "teslarobo": {
+    "mint": "BvRt3fUGc4WBoXCmeZq7XT2Upq6Ztn1LrLPeH16QZC2n",
+    "first_seen": "2026-11-25T09:44:33.921146+00:00"
+  },
+  "jaojiu": {
+    "mint": "2UyrvgCRXiEwiKRVk96gs6B4myrBHZAfcLyMVLE8vSCy",
+    "first_seen": "2026-11-25T09:44:34.664755+00:00"
+  },
+  "jimmies": {
+    "mint": "GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump",
+    "first_seen": "2026-11-25T09:44:36.623688+00:00"
   }
 }
