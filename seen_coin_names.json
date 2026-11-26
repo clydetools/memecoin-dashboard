@@ -75278,5 +75278,37 @@
   "norfeath": {
     "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump",
     "first_seen": "2026-11-26T02:26:12.623382+00:00"
+  },
+  "krampus": {
+    "mint": "7d59Di3wANhXsaiaKAYnyREBTcCa5vah2c6Nxw5Dpump",
+    "first_seen": "2026-11-26T11:17:32.127347+00:00"
+  },
+  "oppai": {
+    "mint": "CL4fW9DV1E6zmjdJMN3zNDdM5zjm4Db7omrwvsoaTH6Z",
+    "first_seen": "2026-11-26T11:17:32.720841+00:00"
+  },
+  "yaranaika": {
+    "mint": "3w8F76EvH8VBiuyuuwt2EHf2PeJxbcPwL5fz28PpwJKw",
+    "first_seen": "2026-11-26T11:17:37.155775+00:00"
+  },
+  "elonmas": {
+    "mint": "Cqkn1aGHGRjUFycFnmeMfZsrDWTTREox9uc4dt2gn8Z4",
+    "first_seen": "2026-11-26T11:17:37.221482+00:00"
+  },
+  "clunker": {
+    "mint": "AjTm6kT7Xq961y1s9bcziBiET9ptDZfN7e4xwpTJz1of",
+    "first_seen": "2026-11-26T11:17:37.273672+00:00"
+  },
+  "konnichiwa": {
+    "mint": "13NK5qvp4bwTuSTv1NBXbJE6Pkm29xudUgCsZMA2w7bD",
+    "first_seen": "2026-11-26T11:17:37.350749+00:00"
+  },
+  "rsa": {
+    "mint": "9qgrw8KpBAG6aQMbfWbdMWG9PEdLH8fc8coxkXW2tr7Q",
+    "first_seen": "2026-11-26T11:17:37.429405+00:00"
+  },
+  "sleighx": {
+    "mint": "AxPEou2ppLFNeJU9fCemg9wfqDjaVsKdevcQgYDopump",
+    "first_seen": "2026-11-26T11:17:40.128807+00:00"
   }
 }
