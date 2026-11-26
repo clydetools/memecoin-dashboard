@@ -75254,5 +75254,29 @@
   "sol2": {
     "mint": "FF5V2c6MTrboTxh8ep8sNgmXsgji2wn6FfH7Cxvkpump",
     "first_seen": "2026-11-25T19:37:43.269865+00:00"
+  },
+  "tigerfrog": {
+    "mint": "AnLvYSZ8PCXyABZ3paeXXPwPM36oT5U68rjociZcb6Yr",
+    "first_seen": "2026-11-26T02:26:05.539800+00:00"
+  },
+  "layerzero": {
+    "mint": "9yPtrc769cGCYxpKSCQYWkAJcXAAENxfpfL7qCV3pump",
+    "first_seen": "2026-11-26T02:26:06.330876+00:00"
+  },
+  "deerhog": {
+    "mint": "8NpDdTQcJftzXCT5MRUfF5RSarcS8YSUzXhjdcHKSqqL",
+    "first_seen": "2026-11-26T02:26:06.807440+00:00"
+  },
+  "grodia": {
+    "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump",
+    "first_seen": "2026-11-26T02:26:11.790207+00:00"
+  },
+  "4chanpump": {
+    "mint": "BHEQy64Hu2BQKrfJSKYwu1xY3HaYiCpGXmdJ8ePFCpkw",
+    "first_seen": "2026-11-26T02:26:12.394891+00:00"
+  },
+  "norfeath": {
+    "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump",
+    "first_seen": "2026-11-26T02:26:12.623382+00:00"
   }
 }
