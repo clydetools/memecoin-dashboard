@@ -75410,5 +75410,25 @@
   "zoth": {
     "mint": "2QXbXCXinZtrsEYzG6fEmAPX4fpndiv82oJu59o8pEcu",
     "first_seen": "2026-11-27T11:44:23.852123+00:00"
+  },
+  "blackfriday": {
+    "mint": "2BaJdoERoSRfbbcbknA9bup34yWcNxfL7oRZ3VKopump",
+    "first_seen": "2026-11-27T20:20:55.612315+00:00"
+  },
+  "deathwish": {
+    "mint": "mPEHfWHMkifHLGbrc2RtKrzazEkMdrU5wLU9xWgpump",
+    "first_seen": "2026-11-27T20:20:56.296938+00:00"
+  },
+  "cmdty": {
+    "mint": "35YqSuyJXWuMpbXpAhVVttbD7NMzj2vqUfwmMJZs1Wfs",
+    "first_seen": "2026-11-27T20:21:02.534617+00:00"
+  },
+  "fullball": {
+    "mint": "GdDpHWwrRLDHR2soP75sEtqzDzY1rkATuVszAHv5pump",
+    "first_seen": "2026-11-27T20:21:03.015550+00:00"
+  },
+  "winston": {
+    "mint": "7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump",
+    "first_seen": "2026-11-27T20:21:03.335025+00:00"
   }
 }
