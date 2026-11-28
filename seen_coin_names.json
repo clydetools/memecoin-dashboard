@@ -75430,5 +75430,33 @@
   "winston": {
     "mint": "7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump",
     "first_seen": "2026-11-27T20:21:03.335025+00:00"
+  },
+  "elon67test": {
+    "mint": "5k2Hpm7FvKkJyjgnr8EmfyB4begzeCztXrxgkiL8pump",
+    "first_seen": "2026-11-28T02:49:25.548692+00:00"
+  },
+  "zhaki": {
+    "mint": "2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump",
+    "first_seen": "2026-11-28T02:49:29.784420+00:00"
+  },
+  "semigenius": {
+    "mint": "LtGUcLS7N8Hhcn5kKVwzRH6ZZrJAiUw46Z4nPkJ1jZ4",
+    "first_seen": "2026-11-28T02:49:29.880525+00:00"
+  },
+  "hypeball": {
+    "mint": "2Q3CBa1BmG85rANDvno1mk6XGwuuwE5wsmhYdw9hKBoH",
+    "first_seen": "2026-11-28T02:49:30.019684+00:00"
+  },
+  "moonboy": {
+    "mint": "14tt4K7Ama85o4jioxQNQcqzpn76VWLEYczT53zuPDWW",
+    "first_seen": "2026-11-28T02:49:31.153943+00:00"
+  },
+  "bitgoin": {
+    "mint": "6XGHv8KvqJg5Kekr8zydwmpHrJhWSARJZKJNTHJ97UyQ",
+    "first_seen": "2026-11-28T02:49:32.288344+00:00"
+  },
+  "memeball": {
+    "mint": "9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump",
+    "first_seen": "2026-11-28T02:49:33.642758+00:00"
   }
 }
